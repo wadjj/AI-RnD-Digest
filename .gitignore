@@ -1,0 +1,6 @@
+.DS_Store
+RSSHub-shallow/
+node_modules/
+npm-debug.log*
+.env
+.env.*

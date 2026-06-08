@@ -1,0 +1,62 @@
+name: Generate Feeds
+
+on:
+  schedule:
+    - cron: '17 22 * * *'
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: What to fetch
+        required: false
+        default: all
+        type: choice
+        options:
+          - all
+          - tweets-only
+          - blogs-only
+          - podcasts-only
+      ignore_state:
+        description: Preview without updating state
+        required: false
+        default: false
+        type: boolean
+
+concurrency:
+  group: ai-trend-push-generate-feed
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate feeds
+        env:
+          FOLO_TOKEN: ${{ secrets.FOLO_TOKEN }}
+          FOLO_LIST_ID: ${{ vars.FOLO_LIST_ID }}
+          AITRENDPUSH_IGNORE_STATE: ${{ inputs.ignore_state && '1' || '0' }}
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.mode }}" != "all" ]; then
+            npm run generate -- --${{ inputs.mode }}
+          else
+            npm run generate
+          fi
+
+      - name: Commit and push feeds
+        if: ${{ !(github.event_name == 'workflow_dispatch' && inputs.ignore_state) }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add feed-x.json feed-podcasts.json feed-blogs.json state-feed.json
+          git diff --cached --quiet || git commit -m "chore: update feeds [skip ci]"
+          git push

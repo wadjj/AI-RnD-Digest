@@ -1,0 +1,21 @@
+{
+  "seenTweets": {
+    "https://twitter.com/bcherny/status/2063792263067754658": 1780913875732,
+    "https://twitter.com/gdb/status/2063786462647079408": 1780913875732,
+    "https://twitter.com/thsottiaux/status/2063748242681307611": 1780913875732,
+    "https://twitter.com/YiTayML/status/2063587270251401288": 1780913875732
+  },
+  "seenVideos": {},
+  "seenArticles": {
+    "https://stratechery.com/2026/google-buys-compute-from-spacex-broadcoms-outlook-apples-ai-politics/": 1780913875744,
+    "https://stratechery.com/2026/power-shifts/": 1780913875744,
+    "https://simonwillison.net/2026/Jun/7/datasette-agent-edit/#atom-everything": 1780913875745,
+    "https://simonwillison.net/2026/Jun/6/micropython-wasm/#atom-everything": 1780913875745,
+    "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything": 1780913875745,
+    "https://www.rundown.ai/articles/google-turns-search-into-creator-hubs": 1780913875745,
+    "https://simonwillison.net/2026/Jun/5/openai-help-lockdown-mode/#atom-everything": 1780913966532,
+    "https://simonwillison.net/2026/Jun/5/andreas-kling/#atom-everything": 1780913966532
+  },
+  "lastRunKey": "2026-06-08",
+  "lastRunAt": "2026-06-08T10:19:26.533Z"
+}

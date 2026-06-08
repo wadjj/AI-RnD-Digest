@@ -1,0 +1,15 @@
+{
+  "name": "ai-rnd-digest",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate": "node scripts/generate-feed.js",
+    "generate:force": "node scripts/generate-feed.js --force",
+    "generate:preview": "node scripts/generate-feed.js --ignore-state",
+    "prepare": "node scripts/prepare-digest.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
