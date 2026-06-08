@@ -7,7 +7,8 @@
     "generate": "node scripts/generate-feed.js",
     "generate:force": "node scripts/generate-feed.js --force",
     "generate:preview": "node scripts/generate-feed.js --ignore-state",
-    "prepare": "node scripts/prepare-digest.js"
+    "prepare": "node scripts/prepare-digest.js",
+    "sync:folo-token": "node scripts/sync-folo-token.js"
   },
   "engines": {
     "node": ">=20"

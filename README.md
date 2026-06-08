@@ -18,6 +18,8 @@ npm run generate
 npm run generate:force
 npm run generate:preview
 npm run prepare
+npm run sync:folo-token -- --dry-run
+npm run sync:folo-token
 ```
 
 `npm run generate` calls `npx --yes folocli@latest` and requires either a synced local
@@ -31,6 +33,44 @@ run key in `state-feed.json`; if another machine runs after that, it exits witho
 overwriting the already generated feeds.
 
 `npm run prepare` emits the single JSON blob an agent needs to remix the digest.
+
+## Syncing the Folo Token to GitHub
+
+Folo CLI stores a session token at `~/.folo/config.json`. GitHub Actions needs the
+same value in the repository secret `FOLO_TOKEN`.
+
+Check the token and GitHub access without writing:
+
+```bash
+npm run sync:folo-token -- --dry-run
+```
+
+Write the secret after an explicit confirmation prompt:
+
+```bash
+npm run sync:folo-token
+```
+
+Automation-friendly command for Keyboard Maestro, launchd, or cron:
+
+```bash
+cd /Users/jaywang/Documents/CodexProjects/AITrendPush
+npm run sync:folo-token -- --yes --min-valid-days 7
+```
+
+The script never prints the token. It reads the local Folo session, checks its
+expiration with Folo, verifies `gh` can access `wadjj/AI-RnD-Digest`, then calls
+`gh secret set FOLO_TOKEN`.
+
+Current Folo CLI sessions appear to expire after roughly 30 days. The sync script
+does not renew the Folo session; it only copies the currently valid local session
+into GitHub. If the script exits because the token is near expiry, refresh locally
+by running:
+
+```bash
+npx --yes folocli@latest login
+npm run sync:folo-token
+```
 
 ## Generated Files
 
