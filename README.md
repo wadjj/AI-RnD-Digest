@@ -62,17 +62,29 @@ The script never prints the token. It reads the local Folo session, checks its
 expiration with Folo, verifies `gh` can access `wadjj/AI-RnD-Digest`, then calls
 `gh secret set FOLO_TOKEN`.
 
-When `--skip-if-remote-valid` is set, the script first checks non-sensitive GitHub
-metadata variables:
+When `--skip-if-remote-valid` is set, the script first checks the non-sensitive GitHub
+metadata variable:
 
-- `FOLO_TOKEN_EXPIRES_AT`
-- `FOLO_TOKEN_SYNCED_AT`
-- `FOLO_TOKEN_SYNCED_BY`
+- `FOLO_TOKEN_METADATA`
 
 If the GitHub secret exists and that metadata says the remote token is still valid
 for at least `--min-valid-days`, the script exits without reading local Folo token,
 without writing the secret, and without sending Pushover. This is the recommended
 mode when multiple computers run the same fallback automation.
+
+`FOLO_TOKEN_METADATA` is a JSON string stored in a GitHub repo variable. It records
+the metadata snapshot for the secret without exposing the token:
+
+```json
+{
+  "version": 1,
+  "secretName": "FOLO_TOKEN",
+  "expiresAt": "2026-07-08T05:41:02.212Z",
+  "syncedAt": "2026-06-09T12:30:00.000Z",
+  "syncedBy": "Jay-MacBook-Pro",
+  "source": "scripts/sync-folo-token.js"
+}
+```
 
 ### Pushover emergency alert
 

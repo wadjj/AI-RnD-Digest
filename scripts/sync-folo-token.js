@@ -18,9 +18,8 @@ const DEFAULT_REPO = "wadjj/AI-RnD-Digest";
 const DEFAULT_SECRET = "FOLO_TOKEN";
 const FOLO_CONFIG_PATH = join(homedir(), ".folo", "config.json");
 const PUSHOVER_API_URL = "https://api.pushover.net/1/messages.json";
-const EXPIRES_AT_VARIABLE = "FOLO_TOKEN_EXPIRES_AT";
-const SYNCED_AT_VARIABLE = "FOLO_TOKEN_SYNCED_AT";
-const SYNCED_BY_VARIABLE = "FOLO_TOKEN_SYNCED_BY";
+const METADATA_VARIABLE = "FOLO_TOKEN_METADATA";
+const METADATA_VERSION = 1;
 
 function parseArgs(argv) {
   const options = {
@@ -294,6 +293,41 @@ async function listGitHubSecrets(repo) {
   return new Map(secrets.map((item) => [item.name, item]));
 }
 
+function parseRemoteTokenMetadata(value) {
+  if (!value) {
+    return {
+      metadata: null,
+      problem: `${METADATA_VARIABLE} is missing.`,
+    };
+  }
+
+  let metadata;
+  try {
+    metadata = JSON.parse(value);
+  } catch (error) {
+    return {
+      metadata: null,
+      problem: `${METADATA_VARIABLE} is not valid JSON: ${error.message}`,
+    };
+  }
+
+  if (!metadata || typeof metadata !== "object" || Array.isArray(metadata)) {
+    return {
+      metadata: null,
+      problem: `${METADATA_VARIABLE} must be a JSON object.`,
+    };
+  }
+
+  if (metadata.version !== METADATA_VERSION) {
+    return {
+      metadata: null,
+      problem: `${METADATA_VARIABLE} has unsupported version: ${metadata.version || "missing"}.`,
+    };
+  }
+
+  return { metadata, problem: null };
+}
+
 async function getRemoteTokenStatus({ repo, secret, minValidDays }) {
   const [variables, secrets] = await Promise.all([
     listGitHubVariables(repo),
@@ -301,19 +335,32 @@ async function getRemoteTokenStatus({ repo, secret, minValidDays }) {
   ]);
 
   const secretInfo = secrets.get(secret) || null;
-  const expiresAt = variables.get(EXPIRES_AT_VARIABLE)?.value || null;
-  const syncedAt = variables.get(SYNCED_AT_VARIABLE)?.value || null;
-  const syncedBy = variables.get(SYNCED_BY_VARIABLE)?.value || null;
-  const problem = secretInfo
-    ? validDaysProblem({ expiresAt, minValidDays })
-    : `GitHub secret ${secret} does not exist.`;
+  const { metadata, problem: metadataProblem } = parseRemoteTokenMetadata(
+    variables.get(METADATA_VARIABLE)?.value || null,
+  );
+
+  let problem = null;
+  if (!secretInfo) {
+    problem = `GitHub secret ${secret} does not exist.`;
+  } else if (metadataProblem) {
+    problem = metadataProblem;
+  } else if (metadata.secretName !== secret) {
+    problem = `${METADATA_VARIABLE} is for ${metadata.secretName || "unknown"}, not ${secret}.`;
+  } else if (!metadata.expiresAt) {
+    problem = `${METADATA_VARIABLE}.expiresAt is missing.`;
+  } else if (remainingDays(metadata.expiresAt) === null) {
+    problem = `${METADATA_VARIABLE}.expiresAt is unreadable: ${metadata.expiresAt}`;
+  } else {
+    problem = validDaysProblem({ expiresAt: metadata.expiresAt, minValidDays });
+  }
 
   return {
     hasSecret: Boolean(secretInfo),
-    expiresAt,
-    syncedAt,
-    syncedBy,
-    problem: expiresAt ? problem : problem || `${EXPIRES_AT_VARIABLE} is missing.`,
+    metadata,
+    expiresAt: metadata?.expiresAt || null,
+    syncedAt: metadata?.syncedAt || null,
+    syncedBy: metadata?.syncedBy || null,
+    problem,
   };
 }
 
@@ -323,13 +370,24 @@ async function setGitHubVariable({ repo, name, value }) {
   });
 }
 
-async function writeRemoteTokenMetadata({ repo, expiresAt }) {
-  const now = new Date().toISOString();
-  const host = hostname();
-  await setGitHubVariable({ repo, name: EXPIRES_AT_VARIABLE, value: expiresAt || "" });
-  await setGitHubVariable({ repo, name: SYNCED_AT_VARIABLE, value: now });
-  await setGitHubVariable({ repo, name: SYNCED_BY_VARIABLE, value: host });
-  console.log(`GitHub token metadata updated: expiresAt=${expiresAt || "unknown"}, syncedBy=${host}`);
+async function writeRemoteTokenMetadata({ repo, secret, expiresAt }) {
+  const metadata = {
+    version: METADATA_VERSION,
+    secretName: secret,
+    expiresAt: expiresAt || null,
+    syncedAt: new Date().toISOString(),
+    syncedBy: hostname(),
+    source: "scripts/sync-folo-token.js",
+  };
+
+  await setGitHubVariable({
+    repo,
+    name: METADATA_VARIABLE,
+    value: JSON.stringify(metadata),
+  });
+  console.log(
+    `GitHub token metadata updated: ${METADATA_VARIABLE} expiresAt=${metadata.expiresAt || "unknown"}, syncedBy=${metadata.syncedBy}`,
+  );
 }
 
 async function confirmWrite({ repo, secret, expiresAt }) {
@@ -470,6 +528,7 @@ async function main() {
   console.log(`GitHub secret ${options.secret} updated for ${options.repo}.`);
   await writeRemoteTokenMetadata({
     repo: options.repo,
+    secret: options.secret,
     expiresAt,
   });
 }
