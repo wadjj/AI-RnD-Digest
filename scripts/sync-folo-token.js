@@ -7,7 +7,7 @@
 import { execFile, spawn } from "child_process";
 import { existsSync } from "fs";
 import { readFile } from "fs/promises";
-import { homedir } from "os";
+import { homedir, hostname } from "os";
 import { join } from "path";
 import { createInterface } from "readline/promises";
 import { promisify } from "util";
@@ -18,6 +18,9 @@ const DEFAULT_REPO = "wadjj/AI-RnD-Digest";
 const DEFAULT_SECRET = "FOLO_TOKEN";
 const FOLO_CONFIG_PATH = join(homedir(), ".folo", "config.json");
 const PUSHOVER_API_URL = "https://api.pushover.net/1/messages.json";
+const EXPIRES_AT_VARIABLE = "FOLO_TOKEN_EXPIRES_AT";
+const SYNCED_AT_VARIABLE = "FOLO_TOKEN_SYNCED_AT";
+const SYNCED_BY_VARIABLE = "FOLO_TOKEN_SYNCED_BY";
 
 function parseArgs(argv) {
   const options = {
@@ -29,6 +32,8 @@ function parseArgs(argv) {
     pushoverOnLoginNeeded: process.env.PUSHOVER_ON_LOGIN_NEEDED === "1",
     pushoverRetry: Number(process.env.PUSHOVER_RETRY || 60),
     pushoverExpire: Number(process.env.PUSHOVER_EXPIRE || 3600),
+    skipIfRemoteValid: process.env.SKIP_IF_REMOTE_VALID === "1",
+    force: false,
     yes: false,
     dryRun: false,
   };
@@ -43,6 +48,8 @@ function parseArgs(argv) {
     else if (arg === "--pushover-on-login-needed") options.pushoverOnLoginNeeded = true;
     else if (arg === "--pushover-retry") options.pushoverRetry = Number(argv[++index]);
     else if (arg === "--pushover-expire") options.pushoverExpire = Number(argv[++index]);
+    else if (arg === "--skip-if-remote-valid") options.skipIfRemoteValid = true;
+    else if (arg === "--force") options.force = true;
     else if (arg === "--yes" || arg === "-y") options.yes = true;
     else if (arg === "--dry-run") options.dryRun = true;
     else if (arg === "--help" || arg === "-h") {
@@ -70,6 +77,9 @@ Options:
                           Send an emergency Pushover alert before launching login
   --pushover-retry <sec>  Emergency retry interval, minimum 30 (default: 60)
   --pushover-expire <sec> Emergency retry duration (default: 3600)
+  --skip-if-remote-valid  Skip local work when GitHub secret metadata says the
+                          remote token is still valid for --min-valid-days
+  --force                 Ignore remote metadata and write the GitHub secret
   --dry-run               Validate local token and GitHub CLI without writing
   --yes, -y               Skip interactive confirmation
 `);
@@ -169,6 +179,11 @@ function validDaysProblem({ expiresAt, minValidDays }) {
   return null;
 }
 
+function formatRemainingDays(expiresAt) {
+  const days = remainingDays(expiresAt);
+  return days === null ? "unknown" : days.toFixed(1);
+}
+
 async function getValidFoloSession(folo, minValidDays) {
   const session = await fetchFoloSession(folo);
   const expiresAt = session.expiresAt || session.expires || null;
@@ -259,6 +274,64 @@ async function checkGitHubAccess(repo) {
   await execFileAsync("gh", ["repo", "view", repo, "--json", "nameWithOwner"], { timeout: 30000 });
 }
 
+async function listGitHubVariables(repo) {
+  const { stdout } = await execFileAsync(
+    "gh",
+    ["variable", "list", "--repo", repo, "--json", "name,value,updatedAt"],
+    { timeout: 30000, maxBuffer: 1024 * 1024 },
+  );
+  const variables = JSON.parse(stdout);
+  return new Map(variables.map((item) => [item.name, item]));
+}
+
+async function listGitHubSecrets(repo) {
+  const { stdout } = await execFileAsync(
+    "gh",
+    ["secret", "list", "--repo", repo, "--json", "name,updatedAt"],
+    { timeout: 30000, maxBuffer: 1024 * 1024 },
+  );
+  const secrets = JSON.parse(stdout);
+  return new Map(secrets.map((item) => [item.name, item]));
+}
+
+async function getRemoteTokenStatus({ repo, secret, minValidDays }) {
+  const [variables, secrets] = await Promise.all([
+    listGitHubVariables(repo),
+    listGitHubSecrets(repo),
+  ]);
+
+  const secretInfo = secrets.get(secret) || null;
+  const expiresAt = variables.get(EXPIRES_AT_VARIABLE)?.value || null;
+  const syncedAt = variables.get(SYNCED_AT_VARIABLE)?.value || null;
+  const syncedBy = variables.get(SYNCED_BY_VARIABLE)?.value || null;
+  const problem = secretInfo
+    ? validDaysProblem({ expiresAt, minValidDays })
+    : `GitHub secret ${secret} does not exist.`;
+
+  return {
+    hasSecret: Boolean(secretInfo),
+    expiresAt,
+    syncedAt,
+    syncedBy,
+    problem: expiresAt ? problem : problem || `${EXPIRES_AT_VARIABLE} is missing.`,
+  };
+}
+
+async function setGitHubVariable({ repo, name, value }) {
+  await execFileAsync("gh", ["variable", "set", name, "--repo", repo, "--body", value], {
+    timeout: 30000,
+  });
+}
+
+async function writeRemoteTokenMetadata({ repo, expiresAt }) {
+  const now = new Date().toISOString();
+  const host = hostname();
+  await setGitHubVariable({ repo, name: EXPIRES_AT_VARIABLE, value: expiresAt || "" });
+  await setGitHubVariable({ repo, name: SYNCED_AT_VARIABLE, value: now });
+  await setGitHubVariable({ repo, name: SYNCED_BY_VARIABLE, value: host });
+  console.log(`GitHub token metadata updated: expiresAt=${expiresAt || "unknown"}, syncedBy=${host}`);
+}
+
 async function confirmWrite({ repo, secret, expiresAt }) {
   const rl = createInterface({
     input: process.stdin,
@@ -304,6 +377,33 @@ async function main() {
   validateLoginTimeout(options.loginTimeout);
   validatePushoverOptions(options);
 
+  await checkGitHubAccess(options.repo);
+
+  if (options.skipIfRemoteValid && !options.force) {
+    const remote = await getRemoteTokenStatus({
+      repo: options.repo,
+      secret: options.secret,
+      minValidDays: options.minValidDays,
+    });
+
+    if (remote.hasSecret && remote.expiresAt && !remote.problem) {
+      console.log(
+        [
+          `GitHub secret ${options.secret} is already recorded as valid.`,
+          `Expires at: ${remote.expiresAt} (${formatRemainingDays(remote.expiresAt)} days remaining)`,
+          `Last synced at: ${remote.syncedAt || "unknown"}`,
+          `Last synced by: ${remote.syncedBy || "unknown"}`,
+          "Skipping local Folo token sync.",
+        ].join("\n"),
+      );
+      return;
+    }
+
+    console.log(
+      `Remote GitHub token sync is needed: ${remote.problem || "metadata missing or not valid enough"}`,
+    );
+  }
+
   let folo = await tryLoadFoloConfig();
   let session;
   let loginReason = null;
@@ -341,8 +441,6 @@ async function main() {
     session = await getValidFoloSession(folo, options.minValidDays);
   }
 
-  await checkGitHubAccess(options.repo);
-
   const expiresAt = session.expiresAt || session.expires || null;
   console.log(`Folo token is valid. Expires at: ${expiresAt || "unknown"}`);
   console.log(`GitHub repo is accessible: ${options.repo}`);
@@ -370,6 +468,10 @@ async function main() {
     token: folo.token,
   });
   console.log(`GitHub secret ${options.secret} updated for ${options.repo}.`);
+  await writeRemoteTokenMetadata({
+    repo: options.repo,
+    expiresAt,
+  });
 }
 
 main().catch((error) => {
