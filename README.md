@@ -11,6 +11,22 @@ one incremental archive every day, and subscribers install a skill that reads th
 - Public subscriptions in the list: 38
 - Private inbox sources are not included.
 
+## Quick Start
+
+1. Install the packaged skill in your agent.
+2. Say `set up AI R&D Digest` or invoke `/follow-airnd`.
+3. The agent walks you through setup conversationally.
+
+The agent will ask:
+
+- How many days each digest should cover. This also sets the delivery interval:
+  a 2-day digest is delivered every 2 days. Default: 2 days.
+- What time of day to deliver. Default: 09:00 in the agent/platform default timezone.
+- What language you prefer: Chinese, English, or bilingual. Default: Chinese.
+
+No Folo, X/Twitter, RSSHub, podcast transcript, or source API keys are needed for
+subscribers. The source archive is generated centrally.
+
 ## Local Commands
 
 ```bash
@@ -165,12 +181,15 @@ Reader configuration lives at `~/.ai-trend-push/config.json`:
 
 ```json
 {
+  "platform": "openclaw",
   "language": "zh",
   "frequencyDays": 2,
+  "deliveryTime": "09:00",
   "delivery": { "method": "stdout" },
   "onboardingComplete": true
 }
 ```
 
-`frequencyDays` is clamped to `1-7`. The default is `2`, so a new reader receives a
-two-day digest unless they choose another window.
+`frequencyDays` is clamped to `1-7`. It controls both the digest window and the
+delivery interval. The default is `2`, so a new reader receives a two-day digest
+every two days unless they choose another window.

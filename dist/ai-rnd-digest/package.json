@@ -1,0 +1,12 @@
+{
+  "name": "ai-rnd-digest-skill",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "prepare-digest": "node scripts/prepare-digest.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

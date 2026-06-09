@@ -164,6 +164,8 @@ test("remote mode defaults to a two-day archive window and dedupes merged items"
 
   assert.equal(output.status, "ok");
   assert.equal(output.config.frequencyDays, 2);
+  assert.equal(output.config.deliveryTime, "09:00");
+  assert.deepEqual(output.config.schedule, { intervalDays: 2, time: "09:00", timezone: "default" });
   assert.deepEqual(output.digestWindow.runKeys, ["2026-06-08", "2026-06-09"]);
   assert.equal(output.digestWindow.days, 2);
   assert.equal(output.stats.totalTweets, 3);
@@ -173,10 +175,12 @@ test("remote mode defaults to a two-day archive window and dedupes merged items"
   assert.deepEqual(output.x[0].tweets.map((tweet) => tweet.id), ["tweet-1", "tweet-2"]);
 });
 
-test("remote mode uses the configured one-day archive window", () => {
-  const output = runPrepare({ userConfig: { language: "zh", frequencyDays: 1, delivery: { method: "stdout" } } });
+test("remote mode uses the configured one-day archive window and delivery time", () => {
+  const output = runPrepare({ userConfig: { language: "zh", frequencyDays: 1, deliveryTime: "08:30", delivery: { method: "stdout" } } });
 
   assert.equal(output.config.frequencyDays, 1);
+  assert.equal(output.config.deliveryTime, "08:30");
+  assert.deepEqual(output.config.schedule, { intervalDays: 1, time: "08:30", timezone: "default" });
   assert.deepEqual(output.digestWindow.runKeys, ["2026-06-09"]);
   assert.equal(output.stats.totalTweets, 2);
   assert.equal(output.stats.blogPosts, 1);
