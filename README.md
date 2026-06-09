@@ -55,17 +55,20 @@ Automation-friendly command for Keyboard Maestro, launchd, or cron:
 
 ```bash
 cd /Users/jaywang/Documents/CodexProjects/AITrendPush
-npm run sync:folo-token -- --yes --min-valid-days 7
+npm run sync:folo-token -- --yes --min-valid-days 7 --renew-if-needed
 ```
 
 The script never prints the token. It reads the local Folo session, checks its
 expiration with Folo, verifies `gh` can access `wadjj/AI-RnD-Digest`, then calls
 `gh secret set FOLO_TOKEN`.
 
-Current Folo CLI sessions appear to expire after roughly 30 days. The sync script
-does not renew the Folo session; it only copies the currently valid local session
-into GitHub. If the script exits because the token is near expiry, refresh locally
-by running:
+Current Folo CLI sessions appear to expire after roughly 30 days. With
+`--renew-if-needed`, the script runs `npx --yes folocli@latest login` when the
+local session is missing, invalid, or below `--min-valid-days`, then syncs the new
+token into GitHub. This can still require browser/user interaction because Folo CLI
+does not expose a non-interactive refresh token.
+
+Manual equivalent:
 
 ```bash
 npx --yes folocli@latest login

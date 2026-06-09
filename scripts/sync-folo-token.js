@@ -23,6 +23,8 @@ function parseArgs(argv) {
     repo: DEFAULT_REPO,
     secret: DEFAULT_SECRET,
     minValidDays: 0,
+    renewIfNeeded: false,
+    loginTimeout: 180,
     yes: false,
     dryRun: false,
   };
@@ -32,6 +34,8 @@ function parseArgs(argv) {
     if (arg === "--repo") options.repo = argv[++index];
     else if (arg === "--secret") options.secret = argv[++index];
     else if (arg === "--min-valid-days") options.minValidDays = Number(argv[++index]);
+    else if (arg === "--renew-if-needed") options.renewIfNeeded = true;
+    else if (arg === "--login-timeout") options.loginTimeout = Number(argv[++index]);
     else if (arg === "--yes" || arg === "-y") options.yes = true;
     else if (arg === "--dry-run") options.dryRun = true;
     else if (arg === "--help" || arg === "-h") {
@@ -52,6 +56,9 @@ Options:
   --repo <owner/name>     GitHub repository (default: ${DEFAULT_REPO})
   --secret <name>         GitHub secret name (default: ${DEFAULT_SECRET})
   --min-valid-days <n>    Fail if the Folo session expires sooner than n days
+  --renew-if-needed       Run "folocli login" before syncing when token is missing,
+                          invalid, or below --min-valid-days
+  --login-timeout <sec>   Browser login timeout in seconds (default: 180)
   --dry-run               Validate local token and GitHub CLI without writing
   --yes, -y               Skip interactive confirmation
 `);
@@ -75,20 +82,34 @@ function validateMinValidDays(value) {
   }
 }
 
-async function loadFoloConfig() {
+function validateLoginTimeout(value) {
+  if (!Number.isFinite(value) || value <= 0) {
+    throw new Error("--login-timeout must be a positive number.");
+  }
+}
+
+async function tryLoadFoloConfig() {
   if (!existsSync(FOLO_CONFIG_PATH)) {
-    throw new Error(`Missing Folo config: ${FOLO_CONFIG_PATH}. Run "npx --yes folocli@latest login" first.`);
+    return null;
   }
 
   const config = JSON.parse(await readFile(FOLO_CONFIG_PATH, "utf-8"));
   if (!config.token || typeof config.token !== "string") {
-    throw new Error(`No token found in ${FOLO_CONFIG_PATH}. Run "npx --yes folocli@latest login" first.`);
+    return null;
   }
 
   return {
     apiUrl: config.apiUrl || "https://api.folo.is",
     token: config.token,
   };
+}
+
+async function loadFoloConfig() {
+  const config = await tryLoadFoloConfig();
+  if (!config) {
+    throw new Error(`Missing Folo token in ${FOLO_CONFIG_PATH}. Run "npx --yes folocli@latest login" first.`);
+  }
+  return config;
 }
 
 async function fetchFoloSession({ apiUrl, token }) {
@@ -109,6 +130,49 @@ async function fetchFoloSession({ apiUrl, token }) {
     throw new Error("Folo token check did not return a valid session.");
   }
   return data.session;
+}
+
+function remainingDays(expiresAt) {
+  if (!expiresAt) return null;
+  const remainingMs = new Date(expiresAt).getTime() - Date.now();
+  if (!Number.isFinite(remainingMs)) return null;
+  return remainingMs / 86400000;
+}
+
+function validDaysProblem({ expiresAt, minValidDays }) {
+  if (!expiresAt || minValidDays <= 0) return null;
+  const days = remainingDays(expiresAt);
+  if (days === null) return `Folo token has an unreadable expiresAt value: ${expiresAt}`;
+  if (days < minValidDays) {
+    return `Folo token expires too soon (${days.toFixed(1)} days remaining, minimum ${minValidDays}).`;
+  }
+  return null;
+}
+
+async function getValidFoloSession(folo, minValidDays) {
+  const session = await fetchFoloSession(folo);
+  const expiresAt = session.expiresAt || session.expires || null;
+  const problem = validDaysProblem({ expiresAt, minValidDays });
+  if (problem) throw new Error(problem);
+  return session;
+}
+
+async function runFoloLogin(timeoutSeconds) {
+  await new Promise((resolve, reject) => {
+    const child = spawn(
+      "npx",
+      ["--yes", "folocli@latest", "login", "--timeout", String(timeoutSeconds)],
+      {
+        stdio: "inherit",
+      },
+    );
+
+    child.on("error", reject);
+    child.on("close", (code) => {
+      if (code === 0) resolve();
+      else reject(new Error(`folocli login exited with code ${code}`));
+    });
+  });
 }
 
 async function checkGitHubAccess(repo) {
@@ -158,23 +222,39 @@ async function main() {
   validateRepo(options.repo);
   validateSecretName(options.secret);
   validateMinValidDays(options.minValidDays);
+  validateLoginTimeout(options.loginTimeout);
 
-  const folo = await loadFoloConfig();
-  const session = await fetchFoloSession(folo);
-  await checkGitHubAccess(options.repo);
+  let folo = await tryLoadFoloConfig();
+  let session;
+  let loginReason = null;
 
-  const expiresAt = session.expiresAt || session.expires || null;
-  if (expiresAt && options.minValidDays > 0) {
-    const remainingMs = new Date(expiresAt).getTime() - Date.now();
-    const minMs = options.minValidDays * 24 * 60 * 60 * 1000;
-    if (!Number.isFinite(remainingMs) || remainingMs < minMs) {
-      const days = Number.isFinite(remainingMs) ? (remainingMs / 86400000).toFixed(1) : "unknown";
-      throw new Error(
-        `Folo token expires too soon (${days} days remaining, minimum ${options.minValidDays}). Run "npx --yes folocli@latest login" and then retry.`,
-      );
+  if (!folo) {
+    loginReason = `Missing Folo token in ${FOLO_CONFIG_PATH}.`;
+  } else {
+    try {
+      session = await getValidFoloSession(folo, options.minValidDays);
+    } catch (error) {
+      loginReason = error.message;
     }
   }
 
+  if (loginReason) {
+    if (!options.renewIfNeeded) {
+      throw new Error(`${loginReason} Run "npx --yes folocli@latest login" first, or rerun this script with --renew-if-needed.`);
+    }
+    if (options.dryRun) {
+      throw new Error(`${loginReason} Dry run will not launch login; rerun without --dry-run to renew.`);
+    }
+
+    console.log(`${loginReason} Starting Folo login...`);
+    await runFoloLogin(options.loginTimeout);
+    folo = await loadFoloConfig();
+    session = await getValidFoloSession(folo, options.minValidDays);
+  }
+
+  await checkGitHubAccess(options.repo);
+
+  const expiresAt = session.expiresAt || session.expires || null;
   console.log(`Folo token is valid. Expires at: ${expiresAt || "unknown"}`);
   console.log(`GitHub repo is accessible: ${options.repo}`);
   console.log(`Secret target: ${options.secret}`);
