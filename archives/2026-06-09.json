@@ -1,0 +1,105 @@
+{
+  "generatedAt": "2026-06-08T18:39:04.887Z",
+  "runKey": "2026-06-09",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Yi Tay",
+      "handle": "YiTayML",
+      "bio": "research scientist @googledeepmind ✨♊, model co-lead/captain of gemini deepthink imo gold medal 🥇, opinions are my own.",
+      "tweets": [
+        {
+          "id": "https://twitter.com/YiTayML/status/2064014980735963509",
+          "text": "Badminton battle with Zichen @zzlccc this morning. 😆\n\nWe have an AGI badminton club in GDM Singapore. 🫡 Night time RL-ing Gemini, morning time training ourselves. 🔥\n\nNgl, finding a sport to enjoy and keep healthy has been one of the best choices of my life. 😀",
+          "createdAt": "2026-06-08T16:01:33.702Z",
+          "url": "https://x.com/YiTayML/status/2064014980735963509",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Anthony Morris ツ",
+      "handle": "amorriscode",
+      "bio": "claude code @anthropicAI | ex @stripe → https://t.co/AjndW0qdf0",
+      "tweets": [
+        {
+          "id": "https://twitter.com/amorriscode/status/2063965991676305494",
+          "text": "RT Bryce, the CUDA Colonel\nOpus is the best model for complex autoresearch; Claude Code is best harness.\n\nGPT-5.5/Codex are decent.\n\nDeepSeek v4 Pro/Claude Code is passable.\n\nEverything else has failed me.\n---\n Boris Cherny: Seeing a number of benchmarks showing Opus is the best model for long-running work.\n\nFive tips for running Opus autonomously for hours/days:\n\n1. Use auto mode for permissions, so Claude doesn’t ask for approval\n2. Use dynamic workflows, to have Claude orchestrate",
+          "createdAt": "2026-06-08T04:18:35.104Z",
+          "url": "https://x.com/amorriscode/status/2063965991676305494",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Import AI ",
+      "title": "Import AI 460: Reward hacking society, RSI data from Anthropic; and RL-based quadcopter racing",
+      "url": "https://jack-clark.net/2026/06/08/import-ai-460-reward-hacking-society-rsi-data-from-anthropic-and-rl-based-quadcopter-racing/",
+      "publishedAt": "2026-06-08T12:31:32.510Z",
+      "author": "Jack Clark",
+      "description": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to…",
+      "content": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe.\n\n Subscribe now\n\n Society can be reward-hacked, just like cyber environments:\n …Imagine an army of credit card point optimizers gaming the system… forever…\n Research from Kings College London, Fudan University, and The Alan Turing Institute have built a benchmark, SocioHack, which tests out how well AI systems can learn to ‘beat the system’ in a variety of real world scenarios, ranging from maximizing credit card points to inflating grades in school. The authors call this “societal hacking” and define it as when “an RL-trained model discovers strategies that remain formally compliant, yet undermine the intended purpose of those systems”. You and I and everyone else would just call this “gaming the system”.\n\n What it is: SocioHack contains “72 sandbox societal environments designed to simulate institutional reward structures without direct real-world deployment. SocioHack comprises three complementary subsets: Historical, Synthetic, and Fictional.”\n\n Historical – 32 environments: Derived from real-world regulations where loopholes were previously discovered and later patched, such as SEC Rule 10b5-1 and the Texas two-step bankruptcy structure. “For each regulation, we remove historical patches and reconstruct pre-amendment rules as simulated environments for RL, while the removed patches serve as ground-truth patches during evaluation,” they write. “RL enables LLMs to rediscover historically patched strategies with 61.25% recall and 90.85% precision without direct loophole-exploiting instructions”.\n Some examples here include seeing how well systems can secure ocean floor mining rights, maximizing alcohol sales while operating within food service regulations, and trying to maximize the rewards earned from credit cards.\n\n Synthetic – 20 environments: Synthetically generated regulatory vulnerabilities, bootstrapped from a human-authored sample environment.\n Examples include maximizing school district revenues, improve university department research performance during a given period, and gaming social media algorithms for a high reward.\n\n Fictional – 20 environments: Transforms synthetic environments into fictional ones inspired by role-playing games. “A proprietary LLM rewrites environment backgrounds into invented worlds while preserving regulatory structure and loophole logic”.\n Examples: Ensuring a “restoration sanctum” [basically a hospital] earns appropriate rewards, getting a good amount of resources for a regional guild [basically a local government] in the world of Aethermoor, and trying to maximize the number of acquired rare artifacts by bidding in a virtual world called Nexoria.\n\n It works, kind of: In tests, various AI systems trained with RL tend to do well on this benchmark, obtaining high scores. This is totally unsurprising – all of these tasks are basically capability evals with some dash of grey morality layered on top of them.\n\n Why this matters : “When societal institutions are encoded as reward-bearing rule systems, reward hacking becomes hacking the rules society runs on, since a model rewarded inside a rule system learns to search the gap between technical compliance and institutional intent,” the authors write. As we now have AI systems which are not only good at quantitative tasks but are also good at qualitative ones and can interact with the various systems of bureaucracy of society, we should expect the advances of AI to lead to a kind of “institutional DDoS” as various existing policy processes get hacked and exploited by automated machines.\n Read more: Large Language Models Hack Rewards, and Society (arXiv) .\n\n ***\n\n Preliminary signs of the outer loop of recursive self improvement at Anthropic:\n …8x increases in lines of code merged in 2026 relative to 2024…\n I think of recursive self-improvement via two definitions – there’s a maximalist version where an AI system is smart enough to autonomously design its own successor (and as I’ve written, I estimate there’s a 60% chance this happens by the end of 2028), and there’s a more prosaic version where we begin to see a compounding speedup of the productivity of the AI labs themselves. I spent the last few months at Anthropic compiling together some evidence which supports the idea that prosaic RSI has started at Anthropic – specifically, we observe an 8x increase in the amount of code merged into our codebase in 2026 versus years 2021-2024. This trend started in 2025 but accelerated significantly in 2026. There are also early indications that as we make models more capable they are getting better at doing some of the harder tasks which our engineers and researchers work on.\n Is any of this conclusive? No. Is it suggestive that aspects of recursive self-improvement are happening at the level of a lab? Yes. The biggest blob of evidence we are yet to get is whether AI systems are sufficiently creative to be able to come up with the kinds of paradigm-shifting ideas that vault the field forward – we don’t see that yet.\n\n Why this matters – RSI might be the most important technical trend in the world: We wrote this post because we expect that thinking about, talking about, and working on the implications of RSI is something of existential importance to the world. The best way to start this work is by transparently communicating that we think some basic, preliminary forms of RSI have started, and we cannot rule out a maximalist version of RSI. The implications of both are profound – I cannot reconcile today’s economy or society with a world where this technology continues to grow more powerful, and I expect neither can you, dear readers.\n Read more: When AI builds itself (The Anthropic Institute) .\n\n ***\n\n RL-trained drone-racers outperform expert human pilot:\n …Superintelligence feels different when you see it in the physical world…\n Researchers with the University of Zurich and Google DeepMind have demonstrated how to train drones to race against one another and outperform skilled human pilots. This research is interesting because it both highlights how powerful real world reinforcement learning-based AI systems are getting, and it also has some fairly chilling implications for the future of war given that the human here loses to the drones.\n\n What they did: “Using high-speed quadrotor racing as a high-stakes testbed, we train agents to navigate complex aerodynamic interactions and strategic maneuvering with a variable number of racers,” they write. “Our agents outperform a champion-level human pilot in multi-player races at speeds exceeding 22 m/s, while simultaneously reducing collision rates by 50 % compared to state-of-the-art single-agent baselines. Crucially, training with diverse artificial agents enables zero-shot generalization to safer human interaction.”\n\n Self-play: As usual, just training the AI agents in simulation via PPO (with one unusual choice of using the “Perceiver” encoder to help with modeling other players) yields surprisingly rich behaviors: “Through competitive self-play, anticipatory behaviors emerge without explicit programming: agents learn to block opponents, yield when overtaking is unsafe, and account for the aerodynamic wake of nearby vehicles, discovering the physics of multi-agent interaction through experience rather than from equations”.\n Surprisingly cheap: The AI systems were trained for “5,500 iterations, totaling 200 million environment interactions, requiring approximately 27 hours of wall-clock time on a single NVIDIA RTX 4090 GPU”.\n\n Real world test: They tested out their systems in a real-world test, where the system generalized well and effectively beat the human player. “Physical deployment of our multi-agent framework is validated through racing experiments spanning time trials, AI-only races, and mixed human-AI competitions against Marvin Schaepper, five-time Swiss national drone racing champion,” they write.\n Human weakness via rage : One notable phenomenon was that the human took riskier actions as they tried to catch up with the systems: “the human pilot, typically trailing the autonomous agents, attempted increasingly aggressive maneuvers to close the gap, often resulting in gate collisions or loss of control,” they write. After the race, the pilot reflected on what made the machines so good, and they said a significant thing was “the agents’ ability to maintain extremely tight formations, noting that such close-proximity flight would be difficult for human pilots to sustain. In addition, he reported that densely packed groups increased cognitive workload, making it challenging to anticipate and execute overtaking maneuvers when several opponents were flying in close proximity”.\n “The benefits of interaction-aware training become apparent under multi-agent competition,” they write. “In one-versus-one races, our policy maintained 100% race completion across five trials, while the human pilot averaged only 53.33%. This performance gap suggests that competitive pressure induces riskier behavior in human pilots, a pattern absent in our learned policies”.\n\n Specifics on how they did it: The RL systems were trained and evaluated in simulation “using Flightmare integrated with the Agilicious framework”. They implemented a simulation of propeller downwash by developing a particle-based simulation “that provides a computationally tractable approximation of these effects”. Their overall multi-agent RL implementation “builds on Stable-Baselines3, extended to support multi-agent training with league-based self-play and independent learning configurations.” They use domain randomization (basically changing up the vehicle dynamics and initial conditions in the simulation) to train policies that can successfully work in the real world.\n They didn’t do any special training for the real world, so the policies were using their in-simulation data. The quadrotors were all “identical racing platforms based on the Agilicious framework, with a mass of 220 ± 3 g and a thrust-to-weight ratio of 6.5 and 3-inch propeller diameter”. The human pilot was given a couple of hours of practice flights before recorded trials.\n\n One big caveat – not running locally: None of this is running locally, rather it’s running on a decent computer and piloting the drones via the network. This is an important caveat because when drones show up in the real world in conflict scenarios they typically do so in environments with significant amounts of electronic warfare (although one does wonder about whether we’ll see drones piloted via remote RL policies via fibreoptic wire, just as humans fly them today).\n\n Watch the videos for an eerie feeling: I’d strongly urge readers to check out the videos on the page for a sense of the differences between how the machines fly and how the humans fly. The main thing I’d emphasize here is the eerie smoothness and coherence of the drones, almost like watching the (human-piloted) blue angels but in drone-form. The human, by comparison, seems a lot jerkier and more erratic. There’s something uncanny and a little disquieting about this.\n\n Why this matters – grasping what a smart mind can do in 3D space: Today, our main experience of AI systems is as tools or agents that work with us in digital space to do digital or communicative tasks, ranging from writing code to talking to us. What I find remarkable about this research is it lets us viscerally see what well-optimized intelligences can do when they show up in the real, physical world. Ask yourself what the future of conflict looks like as intelligences like those piloting these drones get miniaturized and jump from network-linked computers to onboard devices.\n Read more: Superhuman Safe and Agile Racing through Multi-Agent Reinforcement Learning (arXiv) .\n Watch videos of the humans and AI-piloted drones here (official project website, University o..."
+    },
+    {
+      "source": "blog",
+      "name": "The Rundown AI",
+      "title": "Washington wants a piece of OpenAI - Rundown AI",
+      "url": "https://www.rundown.ai/articles/washington-wants-a-piece-of-openai",
+      "publishedAt": "2026-06-08T09:02:18.981Z",
+      "author": "",
+      "description": "Washington and OpenAI are reportedly discussing a deal that would hand the government an equity stake in the lab, with shares routed into a…",
+      "content": "Washington and OpenAI are reportedly discussing a deal that would hand the government an equity stake in the lab, with shares routed into a public fund built to give average Americans a cut of a tech revolution many aren’t feeling included in."
+    },
+    {
+      "source": "blog",
+      "name": "Tomasz Tunguz",
+      "title": "The Substitution Wave in AI",
+      "url": "https://www.tomtunguz.com/inflation-deflation-ai/",
+      "publishedAt": "2026-06-07T00:00:00.330Z",
+      "author": "",
+      "description": "Three forces are reshaping the AI cost structure : Foundation labs are moving up the stack into applications,1 2\nFrontier model prices keep…",
+      "content": "Three forces are reshaping the AI cost structure :\n\n Foundation labs are moving up the stack into applications, 1 2\n\n Frontier model prices keep rising for the smartest models, 3\n\n Open-source models have crossed the good enough threshold for most use cases. 4 5\n\n The natural response from AI buyers is substitution.\n\n Coinbase 6 :\n\n At Coinbase we’re working hot on routing prompts to cheaper models where appropriate, & in some cases have been able to keep costs roughly flat, while token usage continues to grow exponentially.\n\n Lindy 7 :\n\n Pulled the trigger today & switched 100% of Lindy traffic to DeepSeek v4, churning from Anthropic models. Saves us millions of $ & we’re actually seeing an increase in performance on many core use cases. Transformative for the business.\n\n Harvey 8 :\n\n On a 100-task slice of our Legal Agent Benchmark (LAB), SFT moved Kimi 2.6’s all-pass rate from 11% to 15%, beating Opus’ 14%. But the cost gap was even more striking : $84 vs $954 across the same 100 tasks, or ~11x cheaper.\n\n Cursor went further. They post-trained Kimi K2.5 into their own production model, Composer. 9\n\n Composer 2.5 is exceptionally intelligent & up to 10x more efficient than similarly capable models.\n\n Coinbase’s quote shows where the savings go : costs flat, tokens exponential. Buyers don’t pocket the discount — they spend it on more intelligence.\n\n Closed models are getting more expensive at the frontier; open models are getting cheaper at parity. The choice is which slope you want under your unit economics.\n\n---\n\n https://x.com/Law360/status/2062263047578673481   ↩︎\n\n https://theoryvc.com/blog-posts/are-foundation-models-and-application-companies-friends-or-foes   ↩︎\n\n https://tomtunguz.com/ai-model-inflation/   ↩︎\n\n https://tomtunguz.com/using-local-ai-to-work-faster/   ↩︎\n\n https://tomtunguz.com/the-thriving-ecosystem-of-open-models/   ↩︎\n\n https://x.com/brian_armstrong   ↩︎\n\n https://x.com/Altimor/status/2062389885437366342   ↩︎\n\n https://x.com/harvey/status/2062218656420167785   ↩︎\n\n https://x.com/cursor_ai/status/2056415414977187904   ↩︎"
+    },
+    {
+      "source": "blog",
+      "name": "Sebastian Raschka, PhD",
+      "title": "LLM Research Papers: The 2026 List (January to May)",
+      "url": "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+      "publishedAt": "2026-06-06T11:16:22.443Z",
+      "author": "",
+      "description": "A curated roundup of notable LLM research papers that came out this year",
+      "content": "A curated roundup of notable LLM research papers that came out this year"
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 2,
+    "totalTweets": 2,
+    "blogPosts": 4,
+    "podcastEpisodes": 0
+  }
+}
