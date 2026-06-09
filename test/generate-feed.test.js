@@ -12,8 +12,9 @@ import {
 import { tmpdir } from "node:os";
 import { join } from "node:path";
 import test from "node:test";
+import { fileURLToPath } from "node:url";
 
-const SCRIPT_PATH = new URL("../scripts/generate-feed.js", import.meta.url).pathname;
+const SCRIPT_PATH = fileURLToPath(new URL("../scripts/generate-feed.js", import.meta.url));
 
 function writeJSON(path, data) {
   mkdirSync(join(path, ".."), { recursive: true });
