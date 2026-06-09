@@ -9,8 +9,8 @@ import { homedir } from "os";
 import { join } from "path";
 
 const SCRIPT_DIR = decodeURIComponent(new URL(".", import.meta.url).pathname);
-const ROOT_DIR = join(SCRIPT_DIR, "..");
-const USER_DIR = join(homedir(), ".ai-trend-push");
+const ROOT_DIR = process.env.AITRENDPUSH_ROOT_DIR || join(SCRIPT_DIR, "..");
+const USER_DIR = process.env.AITRENDPUSH_USER_DIR || join(homedir(), ".ai-trend-push");
 const CONFIG_PATH = join(USER_DIR, "config.json");
 const PROJECT_CONFIG_PATH = join(ROOT_DIR, "config", "default-sources.json");
 
@@ -51,25 +51,132 @@ async function fetchText(url) {
   }
 }
 
-async function loadFeed(name, remoteUrl, errors) {
+function normalizeFrequencyDays(value, projectConfig, errors) {
+  const min = Number(projectConfig.digest?.minFrequencyDays ?? 1);
+  const max = Number(projectConfig.digest?.maxFrequencyDays ?? 7);
+  const fallback = Number(projectConfig.digest?.defaultFrequencyDays ?? 2);
+  const parsed = Number(value ?? fallback);
+  const raw = Number.isFinite(parsed) ? Math.trunc(parsed) : fallback;
+  const normalized = Math.min(Math.max(raw, min), max);
+
+  if (!Number.isFinite(parsed) || parsed !== normalized) {
+    errors.push(`frequencyDays was clamped to ${normalized}; supported range is ${min}-${max}.`);
+  }
+
+  return normalized;
+}
+
+async function loadFeedIndex(projectConfig, errors) {
   const useRemote = process.env.AITRENDPUSH_USE_REMOTE === "1";
   if (useRemote) {
+    const remoteUrl = projectConfig.remote?.feedIndexUrl;
     if (!remoteUrl) {
-      errors.push(`Missing remote feed URL: ${name}`);
+      errors.push("Missing remote feed index URL.");
       return null;
     }
-
     const remote = await fetchJSON(remoteUrl);
     if (remote) return remote;
-    errors.push(`Could not fetch remote feed: ${remoteUrl}`);
+    errors.push(`Could not fetch remote feed index: ${remoteUrl}`);
     return null;
   }
 
-  const localPath = join(ROOT_DIR, name);
-  const local = await readJSON(localPath);
+  const local = await readJSON(join(ROOT_DIR, "feed-index.json"));
   if (local) return local;
-  errors.push(`Could not load local feed: ${name}`);
+  errors.push("Could not load local feed index: feed-index.json");
   return null;
+}
+
+function selectArchiveEntries(index, days) {
+  return [...(index?.archives || [])]
+    .filter((entry) => entry?.runKey)
+    .sort((a, b) => b.runKey.localeCompare(a.runKey))
+    .slice(0, days)
+    .sort((a, b) => a.runKey.localeCompare(b.runKey));
+}
+
+function remoteArchiveUrl(entry, projectConfig) {
+  if (entry.url) return entry.url;
+  const base = projectConfig.remote?.archivesBaseUrl;
+  return base && entry.runKey ? `${base.replace(/\/$/, "")}/${entry.runKey}.json` : null;
+}
+
+async function loadArchive(entry, projectConfig, errors) {
+  const useRemote = process.env.AITRENDPUSH_USE_REMOTE === "1";
+  if (useRemote) {
+    const url = remoteArchiveUrl(entry, projectConfig);
+    if (!url) {
+      errors.push(`Missing remote archive URL for ${entry.runKey}`);
+      return null;
+    }
+    const archive = await fetchJSON(url);
+    if (archive) return archive;
+    errors.push(`Could not fetch remote archive: ${url}`);
+    return null;
+  }
+
+  const relativePath = entry.path || join("archives", `${entry.runKey}.json`);
+  const archive = await readJSON(join(ROOT_DIR, relativePath));
+  if (archive) return archive;
+  errors.push(`Could not load local archive: ${relativePath}`);
+  return null;
+}
+
+function itemKey(item) {
+  return item?.id || item?.url || item?.guid || item?.title || null;
+}
+
+function mergeXAccounts(archives) {
+  const groups = new Map();
+
+  for (const archive of archives) {
+    for (const account of archive.x || []) {
+      const groupKey = [account.source || "x", account.handle || "", account.name || ""].join("|");
+      if (!groups.has(groupKey)) {
+        groups.set(groupKey, { ...account, tweets: [], _seen: new Set() });
+      }
+      const group = groups.get(groupKey);
+      group.bio = group.bio || account.bio || "";
+      group.handle = group.handle || account.handle || "";
+      group.name = group.name || account.name || "Unknown";
+
+      for (const tweet of account.tweets || []) {
+        const key = itemKey(tweet);
+        if (!key || group._seen.has(key)) continue;
+        group._seen.add(key);
+        group.tweets.push(tweet);
+      }
+    }
+  }
+
+  return [...groups.values()]
+    .map(({ _seen, ...account }) => account)
+    .filter((account) => account.tweets.length > 0);
+}
+
+function mergeUniqueItems(archives, field) {
+  const seen = new Set();
+  const merged = [];
+
+  for (const archive of archives) {
+    for (const item of archive[field] || []) {
+      const key = itemKey(item);
+      if (!key || seen.has(key)) continue;
+      seen.add(key);
+      merged.push(item);
+    }
+  }
+
+  return merged;
+}
+
+function buildStats({ x, blogs, podcasts }, feedGeneratedAt) {
+  return {
+    podcastEpisodes: podcasts.length,
+    xBuilders: x.length,
+    totalTweets: x.reduce((sum, account) => sum + account.tweets.length, 0),
+    blogPosts: blogs.length,
+    feedGeneratedAt,
+  };
 }
 
 async function loadPrompts(projectConfig, errors) {
@@ -109,58 +216,61 @@ async function main() {
   const errors = [];
   const projectConfig = await readJSON(PROJECT_CONFIG_PATH, {});
   const userConfig = await readJSON(CONFIG_PATH, {});
+  const frequencyDays = normalizeFrequencyDays(userConfig.frequencyDays, projectConfig, errors);
   const config = {
     language: userConfig.language || "zh",
-    frequency: userConfig.frequency || "daily",
+    frequencyDays,
     delivery: userConfig.delivery || { method: "stdout" },
   };
 
-  const [feedX, feedPodcasts, feedBlogs] = await Promise.all([
-    loadFeed("feed-x.json", projectConfig.remote?.feedXUrl, errors),
-    loadFeed("feed-podcasts.json", projectConfig.remote?.feedPodcastsUrl, errors),
-    loadFeed("feed-blogs.json", projectConfig.remote?.feedBlogsUrl, errors),
-  ]);
-  const remoteMode = process.env.AITRENDPUSH_USE_REMOTE === "1";
-  const remoteFeedsUnavailable = remoteMode && (!feedX || !feedPodcasts || !feedBlogs);
-
-  for (const [label, feed] of [
-    ["Tweet", feedX],
-    ["Podcast", feedPodcasts],
-    ["Blog", feedBlogs],
-  ]) {
-    if (feed?.errors?.length) {
-      errors.push(...feed.errors.map((error) => `${label} feed problem: ${error}`));
+  const feedIndex = await loadFeedIndex(projectConfig, errors);
+  const selectedArchiveEntries = selectArchiveEntries(feedIndex, frequencyDays);
+  if (feedIndex && selectedArchiveEntries.length === 0) {
+    errors.push("Feed index did not contain any archives.");
+  }
+  const archives = await Promise.all(
+    selectedArchiveEntries.map((entry) => loadArchive(entry, projectConfig, errors)),
+  );
+  const missingArchive = archives.some((archive) => !archive);
+  const usableArchives = missingArchive ? [] : archives.filter(Boolean);
+  for (const archive of usableArchives) {
+    if (archive?.errors?.length) {
+      errors.push(...archive.errors.map((error) => `Archive ${archive.runKey || "unknown"} problem: ${error}`));
     }
   }
 
   const prompts = await loadPrompts(projectConfig, errors);
+  const contentUnavailable = !feedIndex || selectedArchiveEntries.length === 0 || missingArchive;
+  const x = contentUnavailable ? [] : mergeXAccounts(usableArchives);
+  const blogs = contentUnavailable ? [] : mergeUniqueItems(usableArchives, "blogs");
+  const podcasts = contentUnavailable ? [] : mergeUniqueItems(usableArchives, "podcasts");
+  const feedGeneratedAt = contentUnavailable
+    ? null
+    : feedIndex.generatedAt || usableArchives.at(-1)?.generatedAt || null;
+  const runKeys = contentUnavailable ? [] : selectedArchiveEntries.map((entry) => entry.runKey);
 
   const output = {
-    status: remoteFeedsUnavailable ? "error" : "ok",
-    message: remoteFeedsUnavailable
-      ? "Remote feeds are unavailable; no digest was generated to avoid stale news."
+    status: contentUnavailable ? "error" : "ok",
+    message: contentUnavailable
+      ? "Remote feed archives are unavailable; no digest was generated to avoid stale news."
       : undefined,
     generatedAt: new Date().toISOString(),
     config,
     source: {
       provider: "folo",
-      listId: projectConfig.folo?.listId || process.env.FOLO_LIST_ID || null,
-      listTitle: projectConfig.folo?.title || null,
+      listId: feedIndex?.source?.listId || projectConfig.folo?.listId || process.env.FOLO_LIST_ID || null,
+      listTitle: feedIndex?.source?.listTitle || projectConfig.folo?.title || null,
     },
-    podcasts: remoteFeedsUnavailable ? [] : feedPodcasts?.podcasts || [],
-    x: remoteFeedsUnavailable ? [] : feedX?.x || [],
-    blogs: remoteFeedsUnavailable ? [] : feedBlogs?.blogs || [],
-    stats: {
-      podcastEpisodes: remoteFeedsUnavailable ? 0 : feedPodcasts?.podcasts?.length || 0,
-      xBuilders: remoteFeedsUnavailable ? 0 : feedX?.x?.length || 0,
-      totalTweets: remoteFeedsUnavailable
-        ? 0
-        : (feedX?.x || []).reduce((sum, account) => sum + account.tweets.length, 0),
-      blogPosts: remoteFeedsUnavailable ? 0 : feedBlogs?.blogs?.length || 0,
-      feedGeneratedAt: remoteFeedsUnavailable
-        ? null
-        : feedX?.generatedAt || feedPodcasts?.generatedAt || feedBlogs?.generatedAt || null,
+    digestWindow: {
+      days: frequencyDays,
+      runKeys,
+      startRunKey: runKeys[0] || null,
+      endRunKey: runKeys.at(-1) || null,
     },
+    podcasts,
+    x,
+    blogs,
+    stats: buildStats({ x, blogs, podcasts }, feedGeneratedAt),
     prompts,
     errors: errors.length > 0 ? errors : undefined,
   };

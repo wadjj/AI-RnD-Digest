@@ -1,8 +1,8 @@
 # AI R&D Digest
 
 AI R&D Digest is a Folo-backed clone of the Follow Builders pattern: a maintainer generates
-central JSON feeds every day, and subscribers install a skill that reads those public feeds
-and asks their agent to produce the digest.
+one incremental archive every day, and subscribers install a skill that reads the latest
+1-7 daily archives and asks their agent to produce the digest.
 
 ## Current Source Boundary
 
@@ -30,7 +30,8 @@ Use it for repeated local testing.
 
 `npm run generate:force` allows a same-day rerun. Normal generation records a daily
 run key in `state-feed.json`; if another machine runs after that, it exits without
-overwriting the already generated feeds.
+rewriting the already generated archive. A forced rerun merges into the same daily
+archive by item ID or URL, so existing items are not dropped.
 
 `npm run prepare` emits the single JSON blob an agent needs to remix the digest.
 
@@ -126,10 +127,14 @@ npm run sync:folo-token
 
 ## Generated Files
 
-- `feed-x.json`: recent X/RSSHub social posts grouped by builder
-- `feed-blogs.json`: recent blog/RSS posts
-- `feed-podcasts.json`: podcast placeholder, currently empty unless the Folo list contains audio sources
+- `archives/YYYY-MM-DD.json`: one daily incremental archive with X, blog, and podcast sections
+- `feed-index.json`: the latest retained archive list and per-archive stats
 - `state-feed.json`: shared dedupe state
+
+Generation is incremental. The daily job uses short source lookbacks as a miss-recovery
+window, but only items not present in `state-feed.json` enter the day's archive.
+Reader frequency does not change source fetching; it only chooses how many daily
+archives to merge.
 
 ## Computer-Agnostic Generation
 
@@ -137,26 +142,35 @@ The canonical setup should be GitHub Actions:
 
 1. Set repository secret `FOLO_TOKEN`.
 2. Optionally set repository variable `FOLO_LIST_ID`; otherwise the checked-in config is used.
-3. Let `.github/workflows/generate-feed.yml` run daily and commit feed updates.
+3. Let `.github/workflows/generate-feed.yml` run daily and commit archive updates.
 
 Two-computer failover works by running the same repo and script on both machines:
 
 1. Each machine pulls the repo before generation.
 2. Each machine runs `npm run generate`.
-3. Each machine commits and pushes only if feed files changed.
-4. If the second machine pulls after the first one pushed, `state-feed.json` already contains today's run key, so it exits without touching the feed files.
+3. Each machine commits and pushes only if archive files changed.
+4. If the second machine pulls after the first one pushed, `state-feed.json` already contains today's run key, so it exits without touching the archive files.
 5. If both race from the same state, Git push on one machine wins; the loser should pull and rerun once.
 
 GitHub Actions is still preferred because workflow `concurrency` serializes scheduled runs.
 
 ## Subscriber Skill Flow
 
-Subscribers use `SKILL.md`. The skill runs `scripts/prepare-digest.js`, reads feeds and
-prompts, and remixes content strictly from JSON. Subscribers do not need Folo, Twitter,
-RSSHub, or transcript API credentials.
+Subscribers use `SKILL.md`. The skill runs `scripts/prepare-digest.js`, reads
+`feed-index.json`, fetches the latest `frequencyDays` archives, and remixes content
+strictly from JSON. Subscribers do not need Folo, Twitter, RSSHub, or transcript API
+credentials.
 
-Reader installs should include `SKILL.md`, `scripts/prepare-digest.js`,
-`config/default-sources.json`, and `prompts/`. The skill command sets
-`AITRENDPUSH_USE_REMOTE=1`, so subscriber runs require the centrally published GitHub
-raw feeds. If those remote feeds are unavailable, the script reports an error instead
-of producing a digest from stale checked-in feed snapshots.
+Reader configuration lives at `~/.ai-trend-push/config.json`:
+
+```json
+{
+  "language": "zh",
+  "frequencyDays": 2,
+  "delivery": { "method": "stdout" },
+  "onboardingComplete": true
+}
+```
+
+`frequencyDays` is clamped to `1-7`. The default is `2`, so a new reader receives a
+two-day digest unless they choose another window.

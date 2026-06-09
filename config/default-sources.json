@@ -1,6 +1,6 @@
 {
   "name": "AI R&D Digest Sources",
-  "description": "Folo list used as the canonical source boundary for AI R&D Digest daily digests.",
+  "description": "Folo list used as the canonical source boundary for AI R&D Digest daily archives.",
   "folo": {
     "listId": "1146999533868023808",
     "title": "AITrendPush Sources",
@@ -8,6 +8,14 @@
   },
   "schedule": {
     "timeZone": "Asia/Shanghai"
+  },
+  "digest": {
+    "minFrequencyDays": 1,
+    "defaultFrequencyDays": 2,
+    "maxFrequencyDays": 7
+  },
+  "retention": {
+    "archiveDays": 7
   },
   "lookbackHours": {
     "x": 24,
@@ -23,9 +31,8 @@
     "maxContentChars": 12000
   },
   "remote": {
-    "feedXUrl": "https://raw.githubusercontent.com/wadjj/AI-RnD-Digest/main/feed-x.json",
-    "feedPodcastsUrl": "https://raw.githubusercontent.com/wadjj/AI-RnD-Digest/main/feed-podcasts.json",
-    "feedBlogsUrl": "https://raw.githubusercontent.com/wadjj/AI-RnD-Digest/main/feed-blogs.json",
+    "feedIndexUrl": "https://raw.githubusercontent.com/wadjj/AI-RnD-Digest/main/feed-index.json",
+    "archivesBaseUrl": "https://raw.githubusercontent.com/wadjj/AI-RnD-Digest/main/archives",
     "promptsBaseUrl": "https://raw.githubusercontent.com/wadjj/AI-RnD-Digest/main/prompts"
   }
 }

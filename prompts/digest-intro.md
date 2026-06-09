@@ -4,19 +4,21 @@ You are assembling the final digest from individual source summaries.
 
 ## Format
 
-Start with this header, replacing [Date] with today's date:
+Start with this header, replacing [Date or Date Range] with the selected
+`digestWindow`. Use one date for a one-day digest, or a compact date range for
+multi-day digests:
 
-AI R&D Digest - [Date]
+AI R&D Digest - [Date or Date Range]
 
 Then organize content in this order:
 
-1. X / TWITTER section - list each builder with new posts
-2. OFFICIAL BLOGS section - list each blog post from AI company blogs, product teams, researchers, and technical writers
-3. PODCASTS section - list each podcast with new episodes
+1. X / TWITTER section - list each builder with posts in the selected archive window
+2. OFFICIAL BLOGS section - list each blog post from AI company blogs, product teams, researchers, and technical writers in the selected archive window
+3. PODCASTS section - list each podcast with episodes in the selected archive window
 
 ## Rules
 
-- Only include sources that have new content.
+- Only include sources that have content in the selected archive window.
 - Skip any source with nothing new.
 - Under each source, paste the individual summary you generated.
 

@@ -1,22 +1,24 @@
 #!/usr/bin/env node
 
 // AITrendPush central feed generator.
-// Fetches a Folo list, normalizes entries into Follow Builders-compatible
-// feed-x.json, feed-blogs.json, feed-podcasts.json, and maintains state-feed.json.
+// Fetches a Folo list, writes one daily incremental archive, updates feed-index.json,
+// and maintains state-feed.json.
 
 import { execFile } from "child_process";
 import { existsSync } from "fs";
-import { mkdir, readFile, writeFile } from "fs/promises";
-import { homedir } from "os";
-import { dirname, join } from "path";
+import { mkdir, readFile, readdir, rm, writeFile } from "fs/promises";
+import { join } from "path";
 import { promisify } from "util";
 
 const execFileAsync = promisify(execFile);
 
 const SCRIPT_DIR = decodeURIComponent(new URL(".", import.meta.url).pathname);
-const ROOT_DIR = join(SCRIPT_DIR, "..");
-const CONFIG_PATH = join(ROOT_DIR, "config", "default-sources.json");
-const STATE_PATH = join(ROOT_DIR, "state-feed.json");
+const ROOT_DIR = process.env.AITRENDPUSH_ROOT_DIR || join(SCRIPT_DIR, "..");
+const CONFIG_PATH =
+  process.env.AITRENDPUSH_CONFIG_PATH || join(ROOT_DIR, "config", "default-sources.json");
+const STATE_PATH = process.env.AITRENDPUSH_STATE_PATH || join(ROOT_DIR, "state-feed.json");
+const ARCHIVES_DIR = join(ROOT_DIR, "archives");
+const INDEX_PATH = join(ROOT_DIR, "feed-index.json");
 const DEFAULT_STATE = {
   seenTweets: {},
   seenVideos: {},
@@ -49,6 +51,152 @@ async function saveState(state) {
     }
   }
   await writeFile(STATE_PATH, JSON.stringify(state, null, 2));
+}
+
+function archiveRetentionDays(config) {
+  const value = Number(config.retention?.archiveDays ?? config.digest?.maxFrequencyDays ?? 7);
+  if (!Number.isFinite(value) || value < 1) return 7;
+  return Math.min(Math.trunc(value), 7);
+}
+
+function archivePath(runKey) {
+  return join(ARCHIVES_DIR, `${runKey}.json`);
+}
+
+function recomputeStats({ x = [], blogs = [], podcasts = [] }) {
+  return {
+    xBuilders: x.length,
+    totalTweets: x.reduce((sum, account) => sum + (account.tweets?.length || 0), 0),
+    blogPosts: blogs.length,
+    podcastEpisodes: podcasts.length,
+  };
+}
+
+function itemKey(item) {
+  return item?.id || item?.url || item?.guid || item?.title || null;
+}
+
+function mergeXAccounts(existing = [], incoming = []) {
+  const groups = new Map();
+
+  for (const account of [...existing, ...incoming]) {
+    const groupKey = [account.source || "x", account.handle || "", account.name || ""].join("|");
+    if (!groups.has(groupKey)) {
+      groups.set(groupKey, { ...account, tweets: [], _seen: new Set() });
+    }
+    const group = groups.get(groupKey);
+    group.bio = group.bio || account.bio || "";
+    group.handle = group.handle || account.handle || "";
+    group.name = group.name || account.name || "Unknown";
+
+    for (const tweet of account.tweets || []) {
+      const key = itemKey(tweet);
+      if (!key || group._seen.has(key)) continue;
+      group._seen.add(key);
+      group.tweets.push(tweet);
+    }
+  }
+
+  return [...groups.values()]
+    .map(({ _seen, ...account }) => account)
+    .filter((account) => account.tweets.length > 0);
+}
+
+function mergeUniqueItems(existing = [], incoming = []) {
+  const seen = new Set();
+  const merged = [];
+
+  for (const item of [...existing, ...incoming]) {
+    const key = itemKey(item);
+    if (!key || seen.has(key)) continue;
+    seen.add(key);
+    merged.push(item);
+  }
+
+  return merged;
+}
+
+function mergeArchives(existing, incoming) {
+  if (!existing) return { ...incoming, stats: recomputeStats(incoming) };
+  const merged = {
+    ...incoming,
+    generatedAt: incoming.generatedAt,
+    runKey: incoming.runKey,
+    source: incoming.source || existing.source,
+    x: mergeXAccounts(existing.x || [], incoming.x || []),
+    blogs: mergeUniqueItems(existing.blogs || [], incoming.blogs || []),
+    podcasts: mergeUniqueItems(existing.podcasts || [], incoming.podcasts || []),
+    errors: [...(existing.errors || []), ...(incoming.errors || [])].length
+      ? [...(existing.errors || []), ...(incoming.errors || [])]
+      : undefined,
+  };
+  merged.stats = recomputeStats(merged);
+  return merged;
+}
+
+async function loadArchive(runKey) {
+  return readJSON(archivePath(runKey), null);
+}
+
+async function writeArchive(runKey, archive) {
+  await mkdir(ARCHIVES_DIR, { recursive: true });
+  await writeFile(archivePath(runKey), JSON.stringify(archive, null, 2));
+}
+
+async function listArchiveRunKeys() {
+  if (!existsSync(ARCHIVES_DIR)) return [];
+  const files = await readdir(ARCHIVES_DIR);
+  return files
+    .map((file) => file.match(/^(\d{4}-\d{2}-\d{2})\.json$/)?.[1])
+    .filter(Boolean)
+    .sort()
+    .reverse();
+}
+
+async function pruneArchives(config) {
+  const retentionDays = archiveRetentionDays(config);
+  const runKeys = await listArchiveRunKeys();
+  const keep = runKeys.slice(0, retentionDays);
+  const remove = runKeys.slice(retentionDays);
+
+  await Promise.all(remove.map((runKey) => rm(archivePath(runKey), { force: true })));
+  return keep;
+}
+
+function archiveUrl(config, runKey) {
+  const base = config.remote?.archivesBaseUrl;
+  return base ? `${base.replace(/\/$/, "")}/${runKey}.json` : undefined;
+}
+
+async function writeFeedIndex(config, generatedAt) {
+  const retentionDays = archiveRetentionDays(config);
+  const runKeys = await pruneArchives(config);
+  const archives = [];
+
+  for (const runKey of runKeys) {
+    const archive = await loadArchive(runKey);
+    if (!archive) continue;
+    archives.push({
+      runKey,
+      generatedAt: archive.generatedAt || null,
+      path: `archives/${runKey}.json`,
+      url: archiveUrl(config, runKey),
+      stats: archive.stats || recomputeStats(archive),
+    });
+  }
+
+  const index = {
+    generatedAt,
+    retentionDays,
+    source: {
+      provider: "folo",
+      listId: process.env.FOLO_LIST_ID || config.folo?.listId || null,
+      listTitle: config.folo?.title || null,
+    },
+    archives,
+  };
+  await writeFile(INDEX_PATH, JSON.stringify(index, null, 2));
+  return index;
 }
 
 function dailyRunKey(date, timeZone) {
@@ -409,12 +557,6 @@ function buildPodcastFeed(config) {
   };
 }
 
-async function writeFeed(filename, data) {
-  const path = join(ROOT_DIR, filename);
-  await mkdir(dirname(path), { recursive: true });
-  await writeFile(path, JSON.stringify(data, null, 2));
-}
-
 async function main() {
   const args = process.argv.slice(2);
   const tweetsOnly = args.includes("--tweets-only");
@@ -444,7 +586,7 @@ async function main() {
       state.lastRunAt = new Date().toISOString();
       await saveState(state);
     }
-    console.error(`Already generated for ${runKey} (${timeZone}); leaving feed files unchanged`);
+    console.error(`Already generated for ${runKey} (${timeZone}); leaving archive files unchanged`);
     return;
   }
 
@@ -475,7 +617,7 @@ async function main() {
     state.lastRunKey = runKey;
     state.lastRunAt = new Date().toISOString();
     await saveState(state);
-    console.error(`No new selected entries and state already has ${runKey} items; leaving feed files unchanged`);
+    console.error(`No new selected entries and state already has ${runKey} items; leaving archive files unchanged`);
     return;
   }
 
@@ -484,39 +626,40 @@ async function main() {
   const hydratedItems = await hydrateEntries(config, uniqueItems, errors);
   const hydratedById = new Map(hydratedItems.map((item) => [item.entry.id, item]));
 
-  if (runTweets) {
-    const xContent = buildXFeed(xGroups, hydratedById, config, state, ignoreState);
-    const totalTweets = xContent.reduce((sum, account) => sum + account.tweets.length, 0);
-    await writeFeed("feed-x.json", {
-      generatedAt: new Date().toISOString(),
-      lookbackHours: config.lookbackHours?.x || 24,
-      source: "folo",
+  const generatedAt = new Date().toISOString();
+  const xContent = runTweets ? buildXFeed(xGroups, hydratedById, config, state, ignoreState) : [];
+  const blogs = runBlogs ? buildBlogFeed(blogGroups, hydratedById, config, state, ignoreState) : [];
+  const podcasts = runPodcasts ? buildPodcastFeed(config).podcasts : [];
+  const incomingArchive = {
+    generatedAt,
+    runKey,
+    source: {
+      provider: "folo",
       listId: process.env.FOLO_LIST_ID || config.folo.listId,
-      x: xContent,
-      stats: { xBuilders: xContent.length, totalTweets },
-      errors: errors.length ? errors : undefined,
-    });
-    console.error(`  feed-x.json: ${xContent.length} builders, ${totalTweets} posts`);
-  }
+      listTitle: config.folo?.title || null,
+    },
+    lookbackHours: {
+      x: runTweets ? config.lookbackHours?.x || 24 : undefined,
+      blogs: runBlogs ? config.lookbackHours?.blogs || 72 : undefined,
+      podcasts: runPodcasts ? config.lookbackHours?.podcasts || 336 : undefined,
+    },
+    x: xContent,
+    blogs,
+    podcasts,
+    errors: errors.length ? errors : undefined,
+  };
+  incomingArchive.stats = recomputeStats(incomingArchive);
 
-  if (runBlogs) {
-    const blogs = buildBlogFeed(blogGroups, hydratedById, config, state, ignoreState);
-    await writeFeed("feed-blogs.json", {
-      generatedAt: new Date().toISOString(),
-      lookbackHours: config.lookbackHours?.blogs || 72,
-      source: "folo",
-      listId: process.env.FOLO_LIST_ID || config.folo.listId,
-      blogs,
-      stats: { blogPosts: blogs.length },
-      errors: errors.length ? errors : undefined,
-    });
-    console.error(`  feed-blogs.json: ${blogs.length} posts`);
-  }
+  const existingArchive = await loadArchive(runKey);
+  const archive = mergeArchives(existingArchive, incomingArchive);
+  await writeArchive(runKey, archive);
+  const index = await writeFeedIndex(config, generatedAt);
 
-  if (runPodcasts) {
-    await writeFeed("feed-podcasts.json", buildPodcastFeed(config));
-    console.error("  feed-podcasts.json: 0 episodes");
-  }
+  console.error(
+    `  archives/${runKey}.json: ${archive.stats.xBuilders} builders, ` +
+      `${archive.stats.totalTweets} posts, ${archive.stats.blogPosts} blog posts`,
+  );
+  console.error(`  feed-index.json: ${index.archives.length} archives retained`);
 
   if (!ignoreState) {
     state.lastRunKey = runKey;

@@ -1,8 +1,58 @@
 {
-  "generatedAt": "2026-06-08T18:39:04.886Z",
-  "lookbackHours": 72,
-  "source": "folo",
-  "listId": "1146999533868023808",
+  "generatedAt": "2026-06-08T18:39:04.887Z",
+  "runKey": "2026-06-09",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Yi Tay",
+      "handle": "YiTayML",
+      "bio": "research scientist @googledeepmind ✨♊, model co-lead/captain of gemini deepthink imo gold medal 🥇, opinions are my own.",
+      "tweets": [
+        {
+          "id": "https://twitter.com/YiTayML/status/2064014980735963509",
+          "text": "Badminton battle with Zichen @zzlccc this morning. 😆\n\nWe have an AGI badminton club in GDM Singapore. 🫡 Night time RL-ing Gemini, morning time training ourselves. 🔥\n\nNgl, finding a sport to enjoy and keep healthy has been one of the best choices of my life. 😀",
+          "createdAt": "2026-06-08T16:01:33.702Z",
+          "url": "https://x.com/YiTayML/status/2064014980735963509",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Anthony Morris ツ",
+      "handle": "amorriscode",
+      "bio": "claude code @anthropicAI | ex @stripe → https://t.co/AjndW0qdf0",
+      "tweets": [
+        {
+          "id": "https://twitter.com/amorriscode/status/2063965991676305494",
+          "text": "RT Bryce, the CUDA Colonel\nOpus is the best model for complex autoresearch; Claude Code is best harness.\n\nGPT-5.5/Codex are decent.\n\nDeepSeek v4 Pro/Claude Code is passable.\n\nEverything else has failed me.\n---\n Boris Cherny: Seeing a number of benchmarks showing Opus is the best model for long-running work.\n\nFive tips for running Opus autonomously for hours/days:\n\n1. Use auto mode for permissions, so Claude doesn’t ask for approval\n2. Use dynamic workflows, to have Claude orchestrate",
+          "createdAt": "2026-06-08T04:18:35.104Z",
+          "url": "https://x.com/amorriscode/status/2063965991676305494",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    }
+  ],
   "blogs": [
     {
       "source": "blog",
@@ -45,7 +95,11 @@
       "content": "A curated roundup of notable LLM research papers that came out this year"
     }
   ],
+  "podcasts": [],
   "stats": {
-    "blogPosts": 4
+    "xBuilders": 2,
+    "totalTweets": 2,
+    "blogPosts": 4,
+    "podcastEpisodes": 0
   }
 }
