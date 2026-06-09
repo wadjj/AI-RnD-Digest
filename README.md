@@ -55,12 +55,37 @@ Automation-friendly command for Keyboard Maestro, launchd, or cron:
 
 ```bash
 cd /Users/jaywang/Documents/CodexProjects/AITrendPush
-npm run sync:folo-token -- --yes --min-valid-days 7 --renew-if-needed
+npm run sync:folo-token -- --yes --min-valid-days 7 --renew-if-needed --pushover-on-login-needed
 ```
 
 The script never prints the token. It reads the local Folo session, checks its
 expiration with Folo, verifies `gh` can access `wadjj/AI-RnD-Digest`, then calls
 `gh secret set FOLO_TOKEN`.
+
+### Pushover emergency alert
+
+When `--pushover-on-login-needed` is set, the script sends an emergency Pushover
+message before launching `folocli login`, but only when manual login is actually
+needed. Normal token syncs do not send alerts.
+
+Configure these environment variables in Keyboard Maestro:
+
+```bash
+export PUSHOVER_APP_TOKEN="your-pushover-app-token"
+export PUSHOVER_USER_KEY="your-pushover-user-key"
+```
+
+Optional:
+
+```bash
+export PUSHOVER_DEVICE="iphone"
+export PUSHOVER_SOUND="siren"
+export PUSHOVER_RETRY="60"
+export PUSHOVER_EXPIRE="3600"
+```
+
+Pushover emergency priority requires `priority=2` plus `retry` and `expire`.
+The script defaults to retrying every 60 seconds for 1 hour.
 
 Current Folo CLI sessions appear to expire after roughly 30 days. With
 `--renew-if-needed`, the script runs `npx --yes folocli@latest login` when the

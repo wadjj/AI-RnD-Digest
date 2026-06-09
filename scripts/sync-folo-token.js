@@ -17,6 +17,7 @@ const execFileAsync = promisify(execFile);
 const DEFAULT_REPO = "wadjj/AI-RnD-Digest";
 const DEFAULT_SECRET = "FOLO_TOKEN";
 const FOLO_CONFIG_PATH = join(homedir(), ".folo", "config.json");
+const PUSHOVER_API_URL = "https://api.pushover.net/1/messages.json";
 
 function parseArgs(argv) {
   const options = {
@@ -25,6 +26,9 @@ function parseArgs(argv) {
     minValidDays: 0,
     renewIfNeeded: false,
     loginTimeout: 180,
+    pushoverOnLoginNeeded: process.env.PUSHOVER_ON_LOGIN_NEEDED === "1",
+    pushoverRetry: Number(process.env.PUSHOVER_RETRY || 60),
+    pushoverExpire: Number(process.env.PUSHOVER_EXPIRE || 3600),
     yes: false,
     dryRun: false,
   };
@@ -36,6 +40,9 @@ function parseArgs(argv) {
     else if (arg === "--min-valid-days") options.minValidDays = Number(argv[++index]);
     else if (arg === "--renew-if-needed") options.renewIfNeeded = true;
     else if (arg === "--login-timeout") options.loginTimeout = Number(argv[++index]);
+    else if (arg === "--pushover-on-login-needed") options.pushoverOnLoginNeeded = true;
+    else if (arg === "--pushover-retry") options.pushoverRetry = Number(argv[++index]);
+    else if (arg === "--pushover-expire") options.pushoverExpire = Number(argv[++index]);
     else if (arg === "--yes" || arg === "-y") options.yes = true;
     else if (arg === "--dry-run") options.dryRun = true;
     else if (arg === "--help" || arg === "-h") {
@@ -59,6 +66,10 @@ Options:
   --renew-if-needed       Run "folocli login" before syncing when token is missing,
                           invalid, or below --min-valid-days
   --login-timeout <sec>   Browser login timeout in seconds (default: 180)
+  --pushover-on-login-needed
+                          Send an emergency Pushover alert before launching login
+  --pushover-retry <sec>  Emergency retry interval, minimum 30 (default: 60)
+  --pushover-expire <sec> Emergency retry duration (default: 3600)
   --dry-run               Validate local token and GitHub CLI without writing
   --yes, -y               Skip interactive confirmation
 `);
@@ -85,6 +96,15 @@ function validateMinValidDays(value) {
 function validateLoginTimeout(value) {
   if (!Number.isFinite(value) || value <= 0) {
     throw new Error("--login-timeout must be a positive number.");
+  }
+}
+
+function validatePushoverOptions(options) {
+  if (!Number.isFinite(options.pushoverRetry) || options.pushoverRetry < 30) {
+    throw new Error("--pushover-retry must be at least 30 seconds for Pushover emergency messages.");
+  }
+  if (!Number.isFinite(options.pushoverExpire) || options.pushoverExpire <= 0) {
+    throw new Error("--pushover-expire must be a positive number.");
   }
 }
 
@@ -175,6 +195,65 @@ async function runFoloLogin(timeoutSeconds) {
   });
 }
 
+function getPushoverConfig() {
+  const appToken = process.env.PUSHOVER_APP_TOKEN || process.env.PUSHOVER_TOKEN || "";
+  const userKey = process.env.PUSHOVER_USER_KEY || process.env.PUSHOVER_USER || "";
+  if (!appToken || !userKey) return null;
+  return {
+    appToken,
+    userKey,
+    device: process.env.PUSHOVER_DEVICE || "",
+    sound: process.env.PUSHOVER_SOUND || "",
+  };
+}
+
+async function sendPushoverEmergency({ reason, repo, minValidDays, retry, expire }) {
+  const config = getPushoverConfig();
+  if (!config) {
+    console.error(
+      "Pushover alert skipped: set PUSHOVER_APP_TOKEN and PUSHOVER_USER_KEY to enable it.",
+    );
+    return;
+  }
+
+  const message = [
+    "AI R&D Digest needs Folo login before GitHub token sync can continue.",
+    "",
+    `Reason: ${reason}`,
+    `Repo: ${repo}`,
+    `Minimum valid days: ${minValidDays}`,
+    `Machine: ${process.env.HOSTNAME || "unknown"}`,
+  ].join("\n");
+
+  const body = new URLSearchParams({
+    token: config.appToken,
+    user: config.userKey,
+    title: "AI R&D Digest: Folo login needed",
+    message,
+    priority: "2",
+    retry: String(retry),
+    expire: String(expire),
+    url: "https://github.com/wadjj/AI-RnD-Digest/actions",
+    url_title: "Open AI R&D Digest Actions",
+  });
+
+  if (config.device) body.set("device", config.device);
+  if (config.sound) body.set("sound", config.sound);
+
+  const response = await fetch(PUSHOVER_API_URL, {
+    method: "POST",
+    body,
+  });
+
+  const data = await response.json().catch(() => null);
+  if (!response.ok || data?.status !== 1) {
+    const error = data?.errors ? JSON.stringify(data.errors) : response.statusText;
+    throw new Error(`Pushover emergency alert failed: ${error}`);
+  }
+
+  console.log(`Pushover emergency alert sent. Receipt: ${data.receipt || "none"}`);
+}
+
 async function checkGitHubAccess(repo) {
   await execFileAsync("gh", ["auth", "status"], { timeout: 30000 });
   await execFileAsync("gh", ["repo", "view", repo, "--json", "nameWithOwner"], { timeout: 30000 });
@@ -223,6 +302,7 @@ async function main() {
   validateSecretName(options.secret);
   validateMinValidDays(options.minValidDays);
   validateLoginTimeout(options.loginTimeout);
+  validatePushoverOptions(options);
 
   let folo = await tryLoadFoloConfig();
   let session;
@@ -247,6 +327,15 @@ async function main() {
     }
 
     console.log(`${loginReason} Starting Folo login...`);
+    if (options.pushoverOnLoginNeeded) {
+      await sendPushoverEmergency({
+        reason: loginReason,
+        repo: options.repo,
+        minValidDays: options.minValidDays,
+        retry: options.pushoverRetry,
+        expire: options.pushoverExpire,
+      });
+    }
     await runFoloLogin(options.loginTimeout);
     folo = await loadFoloConfig();
     session = await getValidFoloSession(folo, options.minValidDays);
