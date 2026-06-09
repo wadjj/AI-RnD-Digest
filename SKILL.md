@@ -35,10 +35,12 @@ for Folo, Twitter, RSSHub, or podcast transcript API keys.
 
 When the user invokes `/ai` or asks for the digest:
 
-1. Run the prepare script from the skill directory:
+1. Run the prepare script from the skill directory. Use the centrally published
+   feeds by default so the digest stays fresh even if the installed skill files
+   are older than the repository:
 
 ```bash
-cd ${CLAUDE_SKILL_DIR}/scripts && node prepare-digest.js 2>/dev/null
+cd ${CLAUDE_SKILL_DIR}/scripts && AITRENDPUSH_USE_REMOTE=1 node prepare-digest.js 2>/dev/null
 ```
 
 2. The script outputs one JSON blob with:
@@ -49,14 +51,17 @@ cd ${CLAUDE_SKILL_DIR}/scripts && node prepare-digest.js 2>/dev/null
 - `podcasts` - podcast episodes, if any
 - `prompts` - exact remix instructions
 - `stats` - content counts
-- `errors` - non-fatal feed problems
+- `errors` - feed or prompt loading problems
 
-3. If all content counts are zero, say there are no new updates and stop.
+3. If `status` is `error`, tell the user the central feed is temporarily unavailable
+   and stop. Do not use bundled or remembered old feed data to produce a digest.
 
-4. Remix content only from the JSON. Do not browse the web, visit URLs, call APIs, or
+4. If all content counts are zero, say there are no new updates and stop.
+
+5. Remix content only from the JSON. Do not browse the web, visit URLs, call APIs, or
 invent missing context.
 
-5. Follow the prompts embedded in the JSON:
+6. Follow the prompts embedded in the JSON:
 
 - `prompts.digest_intro`
 - `prompts.summarize_tweets`
@@ -64,15 +69,15 @@ invent missing context.
 - `prompts.summarize_podcast`
 - `prompts.translate`
 
-6. Apply `config.language` exactly:
+7. Apply `config.language` exactly:
 
 - `en`: English only
 - `zh`: Chinese only
 - `bilingual`: English and Chinese interleaved paragraph by paragraph
 
-7. Every included item must have its source URL. No URL means do not include it.
+8. Every included item must have its source URL. No URL means do not include it.
 
-8. If `config.delivery.method` is `stdout`, output the digest directly. For other
+9. If `config.delivery.method` is `stdout`, output the digest directly. For other
 delivery methods, deliver according to the user's local delivery setup and show the
 digest as fallback if delivery fails.
 
