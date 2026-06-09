@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T18:39:04.887Z",
+  "generatedAt": "2026-06-09T20:23:22.098Z",
   "retentionDays": 7,
   "source": {
     "provider": "folo",
@@ -7,6 +7,18 @@
     "listTitle": "AITrendPush Sources"
   },
   "archives": [
+    {
+      "runKey": "2026-06-10",
+      "generatedAt": "2026-06-09T20:23:22.098Z",
+      "path": "archives/2026-06-10.json",
+      "url": "https://raw.githubusercontent.com/wadjj/AI-RnD-Digest/main/archives/2026-06-10.json",
+      "stats": {
+        "xBuilders": 10,
+        "totalTweets": 22,
+        "blogPosts": 6,
+        "podcastEpisodes": 0
+      }
+    },
     {
       "runKey": "2026-06-09",
       "generatedAt": "2026-06-08T18:39:04.887Z",
