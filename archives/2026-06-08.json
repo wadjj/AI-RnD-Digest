@@ -1,8 +1,98 @@
 {
-  "generatedAt": "2026-06-08T10:20:16.789Z",
-  "lookbackHours": 72,
-  "source": "folo",
-  "listId": "1146999533868023808",
+  "generatedAt": "2026-06-08T10:20:16.790Z",
+  "runKey": "2026-06-08",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Boris Cherny",
+      "handle": "bcherny",
+      "bio": "Claude Code @anthropicai",
+      "tweets": [
+        {
+          "id": "https://twitter.com/bcherny/status/2063792263067754658",
+          "text": "Seeing a number of benchmarks showing Opus is the best model for long-running work.\n\nFive tips for running Opus autonomously for hours/days:\n\n1. Use auto mode for permissions, so Claude doesn’t ask for approval\n2. Use dynamic workflows, to have Claude orchestrate hundreds/thousands of agents to get a task done\n3. Use /goal or /loop, to nudge Claude to keep going until it’s done\n4. Use Claude Code in the cloud, so you can close your laptop (easiest way is the desktop or mobile app)\n5. Make sure Claude has a way to self-verify its work end to end: Claude in Chrome browser extension for web, iOS/Android sim MCP for mobile, a way to start the full web server or service for backend work\n---\n Rishi Desai: Can coding agents stay coherent over a 1 billion token budget?\n\nCan they build Slack from scratch?\nRewrite a JAX codebase in PyTorch?\nBuild a C compiler in Rust?\n\nEnter SWE-Marathon: a benchmark for autonomous long-horizon software work.",
+          "createdAt": "2026-06-08T01:16:33.389Z",
+          "url": "https://x.com/bcherny/status/2063792263067754658",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/rishi_desai2/status/2062930906818769356\nRishi Desai: Can coding agents stay coherent over a 1 billion token budget?\n\nCan they build Slack from scratch?\nRewrite a JAX codebase in PyTorch?\nBuild a C compiler in Rust?\n\nEnter SWE-Marathon: a benchmark for autonomous long-horizon software work."
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Greg Brockman",
+      "handle": "gdb",
+      "bio": "President & Co-Founder @OpenAI",
+      "tweets": [
+        {
+          "id": "https://twitter.com/gdb/status/2063786462647079408",
+          "text": "interesting\n---\n Ben Holmes: How do you use coding agents right now?",
+          "createdAt": "2026-06-08T00:53:30.394Z",
+          "url": "https://x.com/gdb/status/2063786462647079408",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/BHolmesDev/status/2063285534168887437\nBen Holmes: How do you use coding agents right now?"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Codex @OpenAI",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2063748242681307611",
+          "text": "I have a new kind of big button that I can press for Codex. Over the next 100 days, we will select one person per day who does impressive or incredibly useful work with Codex and give them 10X usage limits for a month to see what they can do with it.\n\nFirst one tomorrow.",
+          "createdAt": "2026-06-07T22:21:38.377Z",
+          "url": "https://x.com/thsottiaux/status/2063748242681307611",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Yi Tay",
+      "handle": "YiTayML",
+      "bio": "research scientist @googledeepmind ✨♊, model co-lead/captain of gemini deepthink imo gold medal 🥇, opinions are my own.",
+      "tweets": [
+        {
+          "id": "https://twitter.com/YiTayML/status/2063587270251401288",
+          "text": "What fish hates AI? 🐟🐟\n\nUnagi....\n\nBecause UN-AGI. 😂\n\nCredit to @qx_dong for this joke lol.",
+          "createdAt": "2026-06-07T11:41:59.016Z",
+          "url": "https://x.com/YiTayML/status/2063587270251401288",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    }
+  ],
   "blogs": [
     {
       "source": "blog",
@@ -65,7 +155,11 @@
       "content": "Google is handing creators and publishers a claimable Search profile that turns the top result for their name into a self-curated hub of their work and links. The move answers Google’s AI Overviews, which have been eating into the traffic creators used to get from search. The catch is you need 100K followers to qualify — and Google’s sign-off on your changes."
     }
   ],
+  "podcasts": [],
   "stats": {
-    "blogPosts": 6
+    "xBuilders": 4,
+    "totalTweets": 4,
+    "blogPosts": 6,
+    "podcastEpisodes": 0
   }
 }

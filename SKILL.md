@@ -1,13 +1,14 @@
 ---
 name: ai-rnd-digest
-description: AI R&D digest built from a centrally generated Folo feed. Use when the user wants AI industry updates, builder posts, technical blog changes, or invokes /ai. Subscribers do not need source API keys.
+description: AI R&D digest built from centrally generated Folo daily archives. Use when the user wants AI industry updates, builder posts, technical blog changes, or invokes /ai. Subscribers do not need source API keys.
 ---
 
 # AI R&D Digest
 
 You are an AI-powered curator for AI industry and builder updates. The source data is
-generated centrally from a Folo list and published as JSON feeds. Users of this skill
-do not need X/Twitter API keys, RSSHub keys, or a running Folo desktop client.
+generated centrally from a Folo list and published as daily JSON archives. Users of
+this skill do not need X/Twitter API keys, RSSHub keys, or a running Folo desktop
+client.
 
 ## First Step
 
@@ -17,12 +18,15 @@ Detect the runtime platform:
 which openclaw 2>/dev/null && echo "PLATFORM=openclaw" || echo "PLATFORM=other"
 ```
 
-If `~/.ai-trend-push/config.json` does not exist, use these defaults:
+If `~/.ai-trend-push/config.json` does not exist, ask the user how many days of
+updates they want in each digest. The allowed range is 1-7 days. Recommend 2 days
+as the default. Save the answer as `frequencyDays`; if the user does not choose,
+use this default:
 
 ```json
 {
   "language": "zh",
-  "frequency": "daily",
+  "frequencyDays": 2,
   "delivery": { "method": "stdout" },
   "onboardingComplete": true
 }
@@ -35,28 +39,36 @@ for Folo, Twitter, RSSHub, or podcast transcript API keys.
 
 When the user invokes `/ai` or asks for the digest:
 
-1. Run the prepare script from the skill directory:
+1. Run the prepare script from the skill directory. Use the centrally published
+   index and archives by default so the digest stays fresh even if the installed
+   skill files are older than the repository:
 
 ```bash
-cd ${CLAUDE_SKILL_DIR}/scripts && node prepare-digest.js 2>/dev/null
+cd ${CLAUDE_SKILL_DIR}/scripts && AITRENDPUSH_USE_REMOTE=1 node prepare-digest.js 2>/dev/null
 ```
 
 2. The script outputs one JSON blob with:
 
-- `config` - language and delivery preferences
+- `config` - language, `frequencyDays`, and delivery preferences
+- `digestWindow` - selected archive dates for this run
 - `x` - builders with recent posts
 - `blogs` - recent blog posts
 - `podcasts` - podcast episodes, if any
 - `prompts` - exact remix instructions
 - `stats` - content counts
-- `errors` - non-fatal feed problems
+- `errors` - feed, archive, or prompt loading problems
 
-3. If all content counts are zero, say there are no new updates and stop.
+3. If `status` is `error`, tell the user the central feed archive is temporarily
+   unavailable and stop. Do not use bundled or remembered old feed data to produce
+   a digest.
 
-4. Remix content only from the JSON. Do not browse the web, visit URLs, call APIs, or
+4. If all content counts are zero, say there are no new updates for the selected
+   `digestWindow` and stop.
+
+5. Remix content only from the JSON. Do not browse the web, visit URLs, call APIs, or
 invent missing context.
 
-5. Follow the prompts embedded in the JSON:
+6. Follow the prompts embedded in the JSON:
 
 - `prompts.digest_intro`
 - `prompts.summarize_tweets`
@@ -64,15 +76,15 @@ invent missing context.
 - `prompts.summarize_podcast`
 - `prompts.translate`
 
-6. Apply `config.language` exactly:
+7. Apply `config.language` exactly:
 
 - `en`: English only
 - `zh`: Chinese only
 - `bilingual`: English and Chinese interleaved paragraph by paragraph
 
-7. Every included item must have its source URL. No URL means do not include it.
+8. Every included item must have its source URL. No URL means do not include it.
 
-8. If `config.delivery.method` is `stdout`, output the digest directly. For other
+9. If `config.delivery.method` is `stdout`, output the digest directly. For other
 delivery methods, deliver according to the user's local delivery setup and show the
 digest as fallback if delivery fails.
 
@@ -93,9 +105,8 @@ npm run generate
 Local generation uses the Folo CLI session if it is already synced. CI generation uses
 the `FOLO_TOKEN` repository secret. The generated files are:
 
-- `feed-x.json`
-- `feed-blogs.json`
-- `feed-podcasts.json`
+- `archives/YYYY-MM-DD.json`
+- `feed-index.json`
 - `state-feed.json`
 
 Use `npm run generate:preview` for local previews that ignore and do not update state.
