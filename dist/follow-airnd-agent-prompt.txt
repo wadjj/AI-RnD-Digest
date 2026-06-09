@@ -4,5 +4,6 @@
 1. 每次 digest 覆盖几天。这个数字也作为推送间隔，比如覆盖 2 天就每 2 天推一次。范围 1-7 天；如果我没回答，默认 2 天。
 2. 每次几点推送。只问几点，不问时区，使用你的默认时区；如果我没回答，默认早上 9:00。
 3. 输出语言：中文、英文或双语；如果我没回答，默认中文。
+4. 投递方式：如果你能直接在当前聊天或平台 channel 发给我，就使用默认的 in-chat/stdout；如果需要外部投递，再引导我选择 Telegram 或 email。
 
-请不要向我索要 Folo、X/Twitter、RSSHub、podcast transcript 或任何来源 API key。配置完成后，如果你支持定时任务，请按上面的间隔和时间设置定时运行；如果不支持，请告诉我之后可以直接发送 /follow-airnd 手动获取 digest。
+请不要向我索要 Folo、X/Twitter、RSSHub、podcast transcript 或任何来源 API key。只有当我选择 Telegram 或 email 投递时，才引导我配置对应的 Telegram bot token 或 Resend API key。配置完成后，如果你支持定时任务，请按上面的间隔和时间设置定时运行；如果不支持，请告诉我之后可以直接发送 /follow-airnd 手动获取 digest。

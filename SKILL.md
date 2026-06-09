@@ -30,6 +30,9 @@ Ask only these preferences:
 2. What time of day to deliver. Ask for the clock time only and use the
    agent/platform default timezone. If the user does not answer, use `09:00`.
 3. Language: `zh`, `en`, or `bilingual`. If the user does not answer, use `zh`.
+4. Delivery method. For OpenClaw or another persistent agent with built-in channels,
+   use `stdout` and let the platform deliver the message. For other agents, offer
+   `stdout`, `telegram`, or `email`; default to `stdout`.
 
 Save the answer as:
 
@@ -45,6 +48,14 @@ Save the answer as:
 ```
 
 Do not ask users for Folo, Twitter, RSSHub, or podcast transcript API keys.
+If they choose Telegram or email, ask only for delivery credentials:
+
+- Telegram: guide them to create a bot with BotFather, send the bot one message,
+  then save `TELEGRAM_BOT_TOKEN` in `~/.ai-trend-push/.env` and `delivery.chatId`
+  in `~/.ai-trend-push/config.json`.
+- Email: ask for the destination address, save it as `delivery.email`, and save
+  `RESEND_API_KEY` in `~/.ai-trend-push/.env`. If they have a verified sender,
+  save it as `delivery.fromEmail` or `RESEND_FROM_EMAIL`.
 
 If the platform supports scheduling, create a recurring job that runs every
 `frequencyDays` days at `deliveryTime` using the agent/platform default timezone.
@@ -101,9 +112,14 @@ invent missing context.
 
 8. Every included item must have its source URL. No URL means do not include it.
 
-9. If `config.delivery.method` is `stdout`, output the digest directly. For other
-delivery methods, deliver according to the user's local delivery setup and show the
-digest as fallback if delivery fails.
+9. If `config.delivery.method` is `stdout`, output the digest directly. For
+`telegram` or `email`, write the final digest to a temp file and run:
+
+```bash
+cd ${CLAUDE_SKILL_DIR}/scripts && node deliver.js --file /tmp/ai-rnd-digest.txt 2>/dev/null
+```
+
+If delivery fails, show the digest as fallback and report the delivery error.
 
 ## Source Changes
 
