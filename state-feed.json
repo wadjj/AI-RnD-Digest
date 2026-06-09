@@ -3,7 +3,9 @@
     "https://twitter.com/bcherny/status/2063792263067754658": 1780913875732,
     "https://twitter.com/gdb/status/2063786462647079408": 1780913875732,
     "https://twitter.com/thsottiaux/status/2063748242681307611": 1780913875732,
-    "https://twitter.com/YiTayML/status/2063587270251401288": 1780913875732
+    "https://twitter.com/YiTayML/status/2063587270251401288": 1780913875732,
+    "https://twitter.com/YiTayML/status/2064014980735963509": 1780943944883,
+    "https://twitter.com/amorriscode/status/2063965991676305494": 1780943944883
   },
   "seenVideos": {},
   "seenArticles": {
@@ -14,8 +16,12 @@
     "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything": 1780913875745,
     "https://www.rundown.ai/articles/google-turns-search-into-creator-hubs": 1780913875745,
     "https://simonwillison.net/2026/Jun/5/openai-help-lockdown-mode/#atom-everything": 1780913966532,
-    "https://simonwillison.net/2026/Jun/5/andreas-kling/#atom-everything": 1780913966532
+    "https://simonwillison.net/2026/Jun/5/andreas-kling/#atom-everything": 1780913966532,
+    "https://jack-clark.net/2026/06/08/import-ai-460-reward-hacking-society-rsi-data-from-anthropic-and-rl-based-quadcopter-racing/": 1780943944885,
+    "https://www.rundown.ai/articles/washington-wants-a-piece-of-openai": 1780943944885,
+    "https://www.tomtunguz.com/inflation-deflation-ai/": 1780943944885,
+    "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1": 1780943944886
   },
-  "lastRunKey": "2026-06-08",
-  "lastRunAt": "2026-06-08T10:19:26.533Z"
+  "lastRunKey": "2026-06-09",
+  "lastRunAt": "2026-06-08T18:39:04.887Z"
 }

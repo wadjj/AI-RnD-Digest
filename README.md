@@ -154,3 +154,9 @@ GitHub Actions is still preferred because workflow `concurrency` serializes sche
 Subscribers use `SKILL.md`. The skill runs `scripts/prepare-digest.js`, reads feeds and
 prompts, and remixes content strictly from JSON. Subscribers do not need Folo, Twitter,
 RSSHub, or transcript API credentials.
+
+Reader installs should include `SKILL.md`, `scripts/prepare-digest.js`,
+`config/default-sources.json`, and `prompts/`. The skill command sets
+`AITRENDPUSH_USE_REMOTE=1`, so subscriber runs require the centrally published GitHub
+raw feeds. If those remote feeds are unavailable, the script reports an error instead
+of producing a digest from stale checked-in feed snapshots.

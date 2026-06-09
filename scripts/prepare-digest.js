@@ -32,23 +32,37 @@ async function readJSON(path, fallback = null) {
 }
 
 async function fetchJSON(url) {
-  const res = await fetch(url);
-  if (!res.ok) return null;
-  return res.json();
+  try {
+    const res = await fetch(url);
+    if (!res.ok) return null;
+    return await res.json();
+  } catch {
+    return null;
+  }
 }
 
 async function fetchText(url) {
-  const res = await fetch(url);
-  if (!res.ok) return null;
-  return res.text();
+  try {
+    const res = await fetch(url);
+    if (!res.ok) return null;
+    return await res.text();
+  } catch {
+    return null;
+  }
 }
 
 async function loadFeed(name, remoteUrl, errors) {
   const useRemote = process.env.AITRENDPUSH_USE_REMOTE === "1";
-  if (useRemote && remoteUrl) {
+  if (useRemote) {
+    if (!remoteUrl) {
+      errors.push(`Missing remote feed URL: ${name}`);
+      return null;
+    }
+
     const remote = await fetchJSON(remoteUrl);
     if (remote) return remote;
     errors.push(`Could not fetch remote feed: ${remoteUrl}`);
+    return null;
   }
 
   const localPath = join(ROOT_DIR, name);
@@ -106,6 +120,8 @@ async function main() {
     loadFeed("feed-podcasts.json", projectConfig.remote?.feedPodcastsUrl, errors),
     loadFeed("feed-blogs.json", projectConfig.remote?.feedBlogsUrl, errors),
   ]);
+  const remoteMode = process.env.AITRENDPUSH_USE_REMOTE === "1";
+  const remoteFeedsUnavailable = remoteMode && (!feedX || !feedPodcasts || !feedBlogs);
 
   for (const [label, feed] of [
     ["Tweet", feedX],
@@ -120,7 +136,10 @@ async function main() {
   const prompts = await loadPrompts(projectConfig, errors);
 
   const output = {
-    status: "ok",
+    status: remoteFeedsUnavailable ? "error" : "ok",
+    message: remoteFeedsUnavailable
+      ? "Remote feeds are unavailable; no digest was generated to avoid stale news."
+      : undefined,
     generatedAt: new Date().toISOString(),
     config,
     source: {
@@ -128,15 +147,19 @@ async function main() {
       listId: projectConfig.folo?.listId || process.env.FOLO_LIST_ID || null,
       listTitle: projectConfig.folo?.title || null,
     },
-    podcasts: feedPodcasts?.podcasts || [],
-    x: feedX?.x || [],
-    blogs: feedBlogs?.blogs || [],
+    podcasts: remoteFeedsUnavailable ? [] : feedPodcasts?.podcasts || [],
+    x: remoteFeedsUnavailable ? [] : feedX?.x || [],
+    blogs: remoteFeedsUnavailable ? [] : feedBlogs?.blogs || [],
     stats: {
-      podcastEpisodes: feedPodcasts?.podcasts?.length || 0,
-      xBuilders: feedX?.x?.length || 0,
-      totalTweets: (feedX?.x || []).reduce((sum, account) => sum + account.tweets.length, 0),
-      blogPosts: feedBlogs?.blogs?.length || 0,
-      feedGeneratedAt: feedX?.generatedAt || feedPodcasts?.generatedAt || feedBlogs?.generatedAt || null,
+      podcastEpisodes: remoteFeedsUnavailable ? 0 : feedPodcasts?.podcasts?.length || 0,
+      xBuilders: remoteFeedsUnavailable ? 0 : feedX?.x?.length || 0,
+      totalTweets: remoteFeedsUnavailable
+        ? 0
+        : (feedX?.x || []).reduce((sum, account) => sum + account.tweets.length, 0),
+      blogPosts: remoteFeedsUnavailable ? 0 : feedBlogs?.blogs?.length || 0,
+      feedGeneratedAt: remoteFeedsUnavailable
+        ? null
+        : feedX?.generatedAt || feedPodcasts?.generatedAt || feedBlogs?.generatedAt || null,
     },
     prompts,
     errors: errors.length > 0 ? errors : undefined,
