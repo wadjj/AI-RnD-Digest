@@ -27,7 +27,17 @@
     "https://twitter.com/amorriscode/status/2064143227700314328": 1781036602100,
     "https://twitter.com/amorriscode/status/2064137133980586260": 1781036602100,
     "https://twitter.com/gdb/status/2064093657888960998": 1781036602100,
-    "https://twitter.com/merettm/status/2064092423740174582": 1781036602100
+    "https://twitter.com/merettm/status/2064092423740174582": 1781036602100,
+    "https://twitter.com/_sholtodouglas/status/2064800307364733059": 1781135551054,
+    "https://twitter.com/bcherny/status/2064832132334407970": 1781135551054,
+    "https://twitter.com/emollick/status/2064769268013584767": 1781135551054,
+    "https://twitter.com/emollick/status/2064764123439599696": 1781135551054,
+    "https://twitter.com/emollick/status/2064749092509532393": 1781135551054,
+    "https://twitter.com/demishassabis/status/2064807183053689290": 1781135551054,
+    "https://twitter.com/petergostev/status/2064592228920512667": 1781135551054,
+    "https://twitter.com/thsottiaux/status/2064572276180484475": 1781135551055,
+    "https://twitter.com/trq212/status/2064521202622960058": 1781135551055,
+    "https://twitter.com/JeffDean/status/2064497666638430542": 1781135551055
   },
   "seenVideos": {},
   "seenArticles": {
@@ -48,8 +58,14 @@
     "https://www.rundown.ai/articles/apple-ios-upgrade-is-less-flash-more-fix": 1781036602100,
     "https://www.rundown.ai/articles/apple-siri-ai-overhaul-is-here-sort-of": 1781036602100,
     "https://www.rundown.ai/articles/amazon-robot-army-gets-chatty": 1781036602100,
-    "https://stratechery.com/2026/the-iphones-last-stand/": 1781036602100
+    "https://stratechery.com/2026/the-iphones-last-stand/": 1781036602100,
+    "https://simonwillison.net/2026/Jun/10/diffusiongemma/#atom-everything": 1781135551055,
+    "https://simonwillison.net/2026/Jun/10/jeremy-howard/#atom-everything": 1781135551055,
+    "https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/#atom-everything": 1781135551055,
+    "https://stratechery.com/2026/fable-5-anthropic-alignment-ai-tiers/": 1781135551055,
+    "https://www.rundown.ai/articles/anthropic-hands-the-public-mythos-class-ai": 1781135551055,
+    "https://www.tomtunguz.com/upper-bound-corporate-ai/": 1781135551055
   },
-  "lastRunKey": "2026-06-10",
-  "lastRunAt": "2026-06-09T20:23:22.104Z"
+  "lastRunKey": "2026-06-11",
+  "lastRunAt": "2026-06-10T23:52:31.059Z"
 }
