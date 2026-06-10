@@ -4,7 +4,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "prepare-digest": "node scripts/prepare-digest.js"
+    "prepare-digest": "node scripts/prepare-digest.js",
+    "deliver": "node scripts/deliver.js"
   },
   "engines": {
     "node": ">=20"

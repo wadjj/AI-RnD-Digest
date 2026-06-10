@@ -23,6 +23,8 @@ The agent will ask:
   a 2-day digest is delivered every 2 days. Default: 2 days.
 - What time of day to deliver. Default: 09:00 in the agent/platform default timezone.
 - What language you prefer: Chinese, English, or bilingual. Default: Chinese.
+- How to deliver it. OpenClaw and similar persistent agents can use in-chat
+  delivery; other agents can use in-chat, Telegram, or email.
 
 No Folo, X/Twitter, RSSHub, podcast transcript, or source API keys are needed for
 subscribers. The source archive is generated centrally.
@@ -34,6 +36,7 @@ npm run generate
 npm run generate:force
 npm run generate:preview
 npm run prepare
+npm run deliver
 npm run sync:folo-token -- --dry-run
 npm run sync:folo-token
 ```
@@ -50,6 +53,10 @@ rewriting the already generated archive. A forced rerun merges into the same dai
 archive by item ID or URL, so existing items are not dropped.
 
 `npm run prepare` emits the single JSON blob an agent needs to remix the digest.
+
+`npm run deliver` sends a final digest text according to `~/.ai-trend-push/config.json`.
+It supports stdout, Telegram, and Resend email. Telegram/email credentials live in
+`~/.ai-trend-push/.env`.
 
 ## Syncing the Folo Token to GitHub
 
