@@ -27,6 +27,17 @@ const DEFAULT_STATE = {
   lastRunAt: null,
 };
 
+function nowMs() {
+  if (!process.env.AITRENDPUSH_NOW) return Date.now();
+  const ts = Date.parse(process.env.AITRENDPUSH_NOW);
+  if (!Number.isFinite(ts)) throw new Error(`Invalid AITRENDPUSH_NOW: ${process.env.AITRENDPUSH_NOW}`);
+  return ts;
+}
+
+function nowDate() {
+  return new Date(nowMs());
+}
+
 async function readJSON(path, fallback = null) {
   if (!existsSync(path)) return fallback;
   return JSON.parse(await readFile(path, "utf-8"));
@@ -44,7 +55,7 @@ async function loadState() {
 }
 
 async function saveState(state) {
-  const cutoff = Date.now() - 14 * 24 * 60 * 60 * 1000;
+  const cutoff = nowMs() - 14 * 24 * 60 * 60 * 1000;
   for (const bucket of ["seenTweets", "seenVideos", "seenArticles"]) {
     for (const [id, ts] of Object.entries(state[bucket] || {})) {
       if (ts < cutoff) delete state[bucket][id];
@@ -404,7 +415,7 @@ async function fetchTimeline(config, activeLookbackHours, errors) {
 
   const pageSize = config.limits?.timelinePageSize || 50;
   const maxPages = config.limits?.maxTimelinePages || 6;
-  const cutoff = Date.now() - activeLookbackHours * 60 * 60 * 1000;
+  const cutoff = nowMs() - activeLookbackHours * 60 * 60 * 1000;
   const all = [];
   let cursor = null;
 
@@ -429,7 +440,7 @@ async function fetchTimeline(config, activeLookbackHours, errors) {
 }
 
 function selectXEntries(items, config, state, ignoreState) {
-  const cutoff = Date.now() - (config.lookbackHours?.x || 24) * 60 * 60 * 1000;
+  const cutoff = nowMs() - (config.lookbackHours?.x || 24) * 60 * 60 * 1000;
   const maxPerBuilder = config.limits?.maxTweetsPerBuilder || 3;
   const groups = new Map();
 
@@ -457,7 +468,7 @@ function selectXEntries(items, config, state, ignoreState) {
 }
 
 function selectBlogEntries(items, config, state, ignoreState) {
-  const cutoff = Date.now() - (config.lookbackHours?.blogs || 72) * 60 * 60 * 1000;
+  const cutoff = nowMs() - (config.lookbackHours?.blogs || 72) * 60 * 60 * 1000;
   const maxPerBlog = config.limits?.maxArticlesPerBlog || 3;
   const groups = new Map();
 
@@ -503,7 +514,7 @@ function buildXFeed(groups, hydratedById, config, state, ignoreState) {
         quotedTweetId: null,
         quotedContext: quoteContext(entry, maxChars),
       });
-      if (!ignoreState && key) state.seenTweets[key] = Date.now();
+      if (!ignoreState && key) state.seenTweets[key] = nowMs();
     }
     if (tweets.length > 0) {
       x.push({
@@ -542,7 +553,7 @@ function buildBlogFeed(groups, hydratedById, config, state, ignoreState) {
         description: htmlToText(entry.description || entry.summary || ""),
         content,
       });
-      if (!ignoreState && key) state.seenArticles[key] = Date.now();
+      if (!ignoreState && key) state.seenArticles[key] = nowMs();
     }
   }
   return blogs;
@@ -550,7 +561,7 @@ function buildBlogFeed(groups, hydratedById, config, state, ignoreState) {
 
 function buildPodcastFeed(config) {
   return {
-    generatedAt: new Date().toISOString(),
+    generatedAt: nowDate().toISOString(),
     lookbackHours: config.lookbackHours?.podcasts || 336,
     podcasts: [],
     stats: { podcastEpisodes: 0 },
@@ -574,7 +585,7 @@ async function main() {
 
   const state = ignoreState ? structuredClone(DEFAULT_STATE) : await loadState();
   const timeZone = process.env.AITRENDPUSH_TIMEZONE || config.schedule?.timeZone || "Asia/Shanghai";
-  const runKey = process.env.AITRENDPUSH_RUN_KEY || dailyRunKey(new Date(), timeZone);
+  const runKey = process.env.AITRENDPUSH_RUN_KEY || dailyRunKey(nowDate(), timeZone);
 
   if (
     !ignoreState &&
@@ -583,7 +594,7 @@ async function main() {
   ) {
     if (state.lastRunKey !== runKey) {
       state.lastRunKey = runKey;
-      state.lastRunAt = new Date().toISOString();
+      state.lastRunAt = nowDate().toISOString();
       await saveState(state);
     }
     console.error(`Already generated for ${runKey} (${timeZone}); leaving archive files unchanged`);
@@ -615,7 +626,7 @@ async function main() {
     stateHasSeenItemsForRunKey(state, runKey, timeZone)
   ) {
     state.lastRunKey = runKey;
-    state.lastRunAt = new Date().toISOString();
+    state.lastRunAt = nowDate().toISOString();
     await saveState(state);
     console.error(`No new selected entries and state already has ${runKey} items; leaving archive files unchanged`);
     return;
@@ -626,7 +637,7 @@ async function main() {
   const hydratedItems = await hydrateEntries(config, uniqueItems, errors);
   const hydratedById = new Map(hydratedItems.map((item) => [item.entry.id, item]));
 
-  const generatedAt = new Date().toISOString();
+  const generatedAt = nowDate().toISOString();
   const xContent = runTweets ? buildXFeed(xGroups, hydratedById, config, state, ignoreState) : [];
   const blogs = runBlogs ? buildBlogFeed(blogGroups, hydratedById, config, state, ignoreState) : [];
   const podcasts = runPodcasts ? buildPodcastFeed(config).podcasts : [];
@@ -663,7 +674,7 @@ async function main() {
 
   if (!ignoreState) {
     state.lastRunKey = runKey;
-    state.lastRunAt = new Date().toISOString();
+    state.lastRunAt = nowDate().toISOString();
     await saveState(state);
     console.error("  state-feed.json updated");
   } else {

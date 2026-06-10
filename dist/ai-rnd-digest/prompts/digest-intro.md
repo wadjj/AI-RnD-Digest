@@ -22,6 +22,19 @@ Then organize content in this order:
 - Skip any source with nothing new.
 - Under each source, paste the individual summary you generated.
 
+### Output formatting contract
+
+- Each person or content item must start with its own bold label line.
+- For X / Twitter builders, use `**Full Name**` or `**Full Name, role/company**` when the role/company is available from the JSON bio. If the role/company is not clear, use the person's name only.
+- For blog posts and podcasts, use a bold line with the source/title, and include the author, speaker, or role/company only when available.
+- Put the summary body below the bold label, separated by a newline.
+- After each builder summary, blog post, or podcast item, add a blank line, then a `Sources:` block.
+- In the `Sources:` block, every original source URL must be a separate bullet point.
+- Show the raw URL text directly, for example `- https://example.com/post`.
+- Do not hide URLs behind Markdown link labels such as `[Original](url)`, `[Source](url)`, `[原文](url)`, `Original`, `Source`, or `原文`.
+- Do not append source links immediately after the summary sentence. There must be a blank line before `Sources:`.
+- If one summary merges multiple posts, articles, or episodes, include every source URL as its own bullet.
+
 ### Tweet author formatting
 
 - Use the author's full name and role/company if the JSON bio makes it clear.
@@ -47,6 +60,7 @@ Then organize content in this order:
 - Blog posts: the direct article URL.
 - Podcasts: the episode URL.
 - Tweets: the direct tweet URL.
+- Source links must follow the `Sources:` block format above.
 - If you do not have a link for something, do not include it.
 
 ### No fabrication

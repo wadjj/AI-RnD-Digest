@@ -112,7 +112,13 @@ invent missing context.
 
 8. Every included item must have its source URL. No URL means do not include it.
 
-9. If `config.delivery.method` is `stdout`, output the digest directly. For
+9. The final digest must follow the output formatting contract in
+`prompts.digest_intro`: each person or item starts on its own bold label line,
+source URLs appear as raw `- https://...` bullets in a `Sources:` block, and URLs
+must not be hidden behind Markdown link labels such as `[Original](url)` or
+`[原文](url)`.
+
+10. If `config.delivery.method` is `stdout`, output the digest directly. For
 `telegram` or `email`, write the final digest to a temp file and run:
 
 ```bash
