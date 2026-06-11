@@ -3,6 +3,7 @@ import test from "node:test";
 
 import {
   assertNoPrivateRssLeaks,
+  fetchPrivateRssBlogs,
   parsePrivateRssBlogs,
 } from "../scripts/private-rss.js";
 
@@ -77,4 +78,74 @@ test("private RSS leak guard rejects persisted access tokens and feed tokens", (
     () => assertNoPrivateRssLeaks({ blogs: [{ content: "SECRET_TOKEN_123456789" }] }, feeds),
     /private RSS token/,
   );
+});
+
+test("private RSS leak guard can ignore access_token text outside private RSS output", () => {
+  const feeds = [{
+    id: "stratechery-paid",
+    name: "Stratechery",
+    type: "blog",
+    url: PRIVATE_FEED_URL,
+  }];
+
+  assert.doesNotThrow(() => assertNoPrivateRssLeaks(
+    { blogs: [{ content: "OAuth examples often include access_token=abc123." }] },
+    feeds,
+    { checkAccessToken: false },
+  ));
+});
+
+test("private RSS fetch errors redact feed URLs and tokens", async () => {
+  const errors = [];
+  const privateToken = "SECRET_TOKEN_123456789";
+  const feed = {
+    id: "stratechery-paid",
+    name: "Stratechery",
+    type: "blog",
+    url: `https://stratechery.passport.online/feed/rss/${privateToken}`,
+  };
+
+  const result = await fetchPrivateRssBlogs({
+    feeds: [feed],
+    fetchImpl: async () => {
+      throw new Error(`Failed to parse URL from ${feed.url}?access_token=${privateToken}`);
+    },
+    errors,
+  });
+
+  assert.deepEqual(result.blogs, []);
+  assert.equal(errors.length, 1);
+  assert.equal(errors[0].includes(privateToken), false);
+  assert.equal(errors[0].includes(feed.url), false);
+  assert.equal(errors[0].includes("access_token="), false);
+});
+
+test("private RSS parser supports Atom link href and id fallback", () => {
+  const atom = `<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Private Atom</title>
+  <entry>
+    <title>Atom Update</title>
+    <id>https://example.com/atom-update/?access_token=PRIVATE_ARTICLE_TOKEN</id>
+    <link rel="alternate" href="https://example.com/atom-update/?access_token=PRIVATE_ARTICLE_TOKEN" />
+    <updated>2026-06-10T10:00:00Z</updated>
+    <author><name>Ada</name></author>
+    <summary>Short summary</summary>
+  </entry>
+</feed>`;
+
+  const blogs = parsePrivateRssBlogs(atom, {
+    id: "atom-paid",
+    name: "Private Atom",
+    type: "blog",
+    url: PRIVATE_FEED_URL,
+    urlStrategy: "link",
+    stripQuery: true,
+  }, {
+    nowMs: Date.parse("2026-06-11T00:00:00.000Z"),
+  });
+
+  assert.equal(blogs.length, 1);
+  assert.equal(blogs[0].url, "https://example.com/atom-update/");
+  assert.equal(blogs[0].author, "Ada");
 });

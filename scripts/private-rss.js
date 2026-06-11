@@ -27,34 +27,13 @@ function arrayOf(value) {
 function textValue(value) {
   if (value === null || value === undefined) return "";
   if (typeof value === "string" || typeof value === "number") return String(value).trim();
-  if (typeof value === "object") return textValue(value["#text"] ?? value._text ?? value.text);
+  if (typeof value === "object") return textValue(value["#text"] ?? value._text ?? value.text ?? value.name);
   return "";
-}
-
-function decodeEntities(text) {
-  if (!text) return "";
-  const named = {
-    amp: "&",
-    lt: "<",
-    gt: ">",
-    quot: "\"",
-    apos: "'",
-    nbsp: " ",
-  };
-  return String(text).replace(/&(#x?[0-9a-fA-F]+|[a-zA-Z]+);/g, (match, entity) => {
-    if (entity[0] === "#") {
-      const isHex = entity[1]?.toLowerCase() === "x";
-      const raw = isHex ? entity.slice(2) : entity.slice(1);
-      const code = Number.parseInt(raw, isHex ? 16 : 10);
-      return Number.isFinite(code) ? String.fromCodePoint(code) : match;
-    }
-    return named[entity] ?? match;
-  });
 }
 
 function htmlToText(value) {
   if (!value) return "";
-  return decodeEntities(String(value))
+  return String(value)
     .replace(/<br\s*\/?>/gi, "\n")
     .replace(/<hr[^>]*>/gi, "\n---\n")
     .replace(/<\/(p|div|li|h[1-6]|blockquote)>/gi, "\n")
@@ -108,7 +87,7 @@ function redactSensitiveText(text, feed) {
     output = output.split(needle).join("[redacted-private-rss]");
     output = output.split(encodeURIComponent(needle)).join("[redacted-private-rss]");
   }
-  output = output.replace(/access_token=[^"'&\s<>]+/gi, "access_token=[redacted]");
+  output = output.replace(/access_token=[^"'&\s<>]+/gi, "[redacted-private-rss-query]");
   return output;
 }
 
@@ -131,8 +110,20 @@ function sanitizePublicUrl(rawUrl, { stripQuery = true } = {}) {
 }
 
 function guidUrl(item) {
-  const guid = item?.guid;
+  const guid = item?.guid || item?.id;
   return textValue(guid);
+}
+
+function itemLinkUrl(item) {
+  const links = arrayOf(item?.link);
+  const link = links.find((candidate) => {
+    const rel = textValue(candidate?.["@rel"] ?? candidate?.rel);
+    return !rel || rel === "alternate";
+  }) || links[0];
+  if (link && typeof link === "object") {
+    return textValue(link["@href"] ?? link.href ?? link["#text"] ?? link._text ?? link.text);
+  }
+  return textValue(link);
 }
 
 function itemUrl(item, feed) {
@@ -142,11 +133,11 @@ function itemUrl(item, feed) {
     return sanitizePublicUrl(guidUrl(item), { stripQuery });
   }
   if (strategy === "link") {
-    return sanitizePublicUrl(item?.link, { stripQuery });
+    return sanitizePublicUrl(itemLinkUrl(item), { stripQuery });
   }
   return (
     sanitizePublicUrl(guidUrl(item), { stripQuery }) ||
-    sanitizePublicUrl(item?.link, { stripQuery })
+    sanitizePublicUrl(itemLinkUrl(item), { stripQuery })
   );
 }
 
@@ -227,9 +218,9 @@ export function parsePrivateRssBlogs(xml, feed, {
   return blogs;
 }
 
-export function assertNoPrivateRssLeaks(payload, feeds) {
+export function assertNoPrivateRssLeaks(payload, feeds, { checkAccessToken = true } = {}) {
   const serialized = JSON.stringify(payload);
-  if (/access_token=/i.test(serialized)) {
+  if (checkAccessToken && /access_token=/i.test(serialized)) {
     throw new Error("Private RSS output contains access_token.");
   }
   for (const feed of feeds || []) {
@@ -242,6 +233,7 @@ export function assertNoPrivateRssLeaks(payload, feeds) {
 }
 
 export async function fetchPrivateRssBlogs({
+  feeds,
   rawConfig,
   fetchImpl = fetch,
   nowMs = Date.now(),
@@ -251,10 +243,10 @@ export async function fetchPrivateRssBlogs({
   ignoreState = false,
   errors = [],
 } = {}) {
-  const feeds = parsePrivateRssConfig(rawConfig);
+  const privateFeeds = feeds || parsePrivateRssConfig(rawConfig);
   const blogs = [];
 
-  for (const feed of feeds) {
+  for (const feed of privateFeeds) {
     try {
       const response = await fetchImpl(feed.url);
       if (!response.ok) {
@@ -269,10 +261,10 @@ export async function fetchPrivateRssBlogs({
         if (!ignoreState && state?.seenArticles) state.seenArticles[key] = nowMs;
       }
     } catch (err) {
-      errors.push(`Private RSS feed ${feed.id} failed: ${err.message}`);
+      errors.push(`Private RSS feed ${feed.id} failed: ${redactSensitiveText(err.message, feed)}`);
     }
   }
 
-  assertNoPrivateRssLeaks(blogs, feeds);
-  return { blogs, feeds };
+  assertNoPrivateRssLeaks(blogs, privateFeeds);
+  return { blogs, feeds: privateFeeds };
 }

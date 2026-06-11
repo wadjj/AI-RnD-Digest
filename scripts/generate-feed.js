@@ -588,7 +588,13 @@ async function main() {
   const config = await readJSON(CONFIG_PATH);
   if (!config) throw new Error(`Missing config: ${CONFIG_PATH}`);
   const privateRssRawConfig = process.env.AITRENDPUSH_PRIVATE_RSS_FEEDS || "";
-  const privateRssFeeds = parsePrivateRssConfig(privateRssRawConfig);
+  const errors = [];
+  let privateRssFeeds = [];
+  try {
+    privateRssFeeds = parsePrivateRssConfig(privateRssRawConfig);
+  } catch (err) {
+    errors.push(`Private RSS config invalid: ${err.message}`);
+  }
 
   const state = ignoreState ? structuredClone(DEFAULT_STATE) : await loadState();
   const timeZone = process.env.AITRENDPUSH_TIMEZONE || config.schedule?.timeZone || "Asia/Shanghai";
@@ -608,7 +614,6 @@ async function main() {
     return;
   }
 
-  const errors = [];
   const activeLookbacks = [];
   if (runTweets) activeLookbacks.push(config.lookbackHours?.x || 24);
   if (runBlogs) activeLookbacks.push(config.lookbackHours?.blogs || 72);
@@ -627,7 +632,7 @@ async function main() {
   ];
   const { blogs: privateBlogs } = runBlogs
     ? await fetchPrivateRssBlogs({
-      rawConfig: privateRssRawConfig,
+      feeds: privateRssFeeds,
       nowMs: nowMs(),
       lookbackHours: config.lookbackHours?.blogs || 72,
       maxContentChars: config.limits?.maxContentChars || 12000,
@@ -678,12 +683,12 @@ async function main() {
     podcasts,
     errors: errors.length ? errors : undefined,
   };
-  assertNoPrivateRssLeaks(incomingArchive, privateRssFeeds);
+  assertNoPrivateRssLeaks(incomingArchive, privateRssFeeds, { checkAccessToken: false });
   incomingArchive.stats = recomputeStats(incomingArchive);
 
   const existingArchive = await loadArchive(runKey);
   const archive = mergeArchives(existingArchive, incomingArchive);
-  assertNoPrivateRssLeaks(archive, privateRssFeeds);
+  assertNoPrivateRssLeaks(archive, privateRssFeeds, { checkAccessToken: false });
   await writeArchive(runKey, archive);
   const index = await writeFeedIndex(config, generatedAt);
 

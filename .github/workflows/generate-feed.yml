@@ -39,9 +39,13 @@ jobs:
       - uses: actions/setup-node@v6
         with:
           node-version: '24'
+          cache: npm
 
       - name: Sync latest main
         run: git pull --ff-only origin main
+
+      - name: Install dependencies
+        run: npm ci
 
       - name: Generate feeds
         env:

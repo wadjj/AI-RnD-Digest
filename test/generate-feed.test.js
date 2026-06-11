@@ -318,6 +318,54 @@ test("generate merges private RSS blogs without persisting paid RSS secrets", ()
   }
 });
 
+test("generate records invalid private RSS config without failing other feeds", () => {
+  const root = makeRoot();
+  try {
+    const result = runGenerate(root, {
+      entries: [tweet("tweet-1"), blog("blog-1")],
+      env: {
+        AITRENDPUSH_PRIVATE_RSS_FEEDS: "[",
+      },
+    });
+
+    assert.equal(result.status, 0, result.stderr);
+    const archive = readJSON(join(root, "archives", "2026-06-09.json"));
+    assert.equal(archive.stats.totalTweets, 1);
+    assert.equal(archive.stats.blogPosts, 1);
+    assert.equal(archive.errors.length, 1);
+    assert.match(archive.errors[0], /Private RSS config invalid/);
+  } finally {
+    rmSync(root, { recursive: true, force: true });
+  }
+});
+
+test("generate allows normal Folo content that mentions access_token", () => {
+  const root = makeRoot();
+  try {
+    const blogWithTokenExample = blog("blog-token-example");
+    blogWithTokenExample.entries.content = "Example OAuth callback includes access_token=abc123 in docs.";
+
+    const result = runGenerate(root, {
+      entries: [blogWithTokenExample],
+      env: {
+        AITRENDPUSH_PRIVATE_RSS_FEEDS: JSON.stringify([{
+          id: "private-paid",
+          name: "Private Paid",
+          type: "blog",
+          url: "https://private.example/feed/rss/SECRET_TOKEN_123456789",
+        }]),
+      },
+    });
+
+    assert.equal(result.status, 0, result.stderr);
+    const archive = readJSON(join(root, "archives", "2026-06-09.json"));
+    assert.equal(archive.stats.blogPosts, 1);
+    assert.match(archive.blogs[0].content, /access_token=abc123/);
+  } finally {
+    rmSync(root, { recursive: true, force: true });
+  }
+});
+
 function archive(runKey, { x, blogs, podcasts }) {
   return {
     generatedAt: `${runKey}T23:00:00.000Z`,
