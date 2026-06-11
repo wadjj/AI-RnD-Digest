@@ -9,6 +9,11 @@ import { existsSync } from "fs";
 import { mkdir, readFile, readdir, rm, writeFile } from "fs/promises";
 import { join } from "path";
 import { promisify } from "util";
+import {
+  assertNoPrivateRssLeaks,
+  fetchPrivateRssBlogs,
+  parsePrivateRssConfig,
+} from "./private-rss.js";
 
 const execFileAsync = promisify(execFile);
 
@@ -582,6 +587,14 @@ async function main() {
 
   const config = await readJSON(CONFIG_PATH);
   if (!config) throw new Error(`Missing config: ${CONFIG_PATH}`);
+  const privateRssRawConfig = process.env.AITRENDPUSH_PRIVATE_RSS_FEEDS || "";
+  const errors = [];
+  let privateRssFeeds = [];
+  try {
+    privateRssFeeds = parsePrivateRssConfig(privateRssRawConfig);
+  } catch (err) {
+    errors.push(`Private RSS config invalid: ${err.message}`);
+  }
 
   const state = ignoreState ? structuredClone(DEFAULT_STATE) : await loadState();
   const timeZone = process.env.AITRENDPUSH_TIMEZONE || config.schedule?.timeZone || "Asia/Shanghai";
@@ -601,7 +614,6 @@ async function main() {
     return;
   }
 
-  const errors = [];
   const activeLookbacks = [];
   if (runTweets) activeLookbacks.push(config.lookbackHours?.x || 24);
   if (runBlogs) activeLookbacks.push(config.lookbackHours?.blogs || 72);
@@ -618,11 +630,23 @@ async function main() {
     ...xGroups.flatMap((group) => group.items),
     ...blogGroups.flatMap((group) => group.items),
   ];
+  const { blogs: privateBlogs } = runBlogs
+    ? await fetchPrivateRssBlogs({
+      feeds: privateRssFeeds,
+      nowMs: nowMs(),
+      lookbackHours: config.lookbackHours?.blogs || 72,
+      maxContentChars: config.limits?.maxContentChars || 12000,
+      state,
+      ignoreState,
+      errors,
+    })
+    : { blogs: [] };
 
   if (
     !ignoreState &&
     !force &&
     selectedItems.length === 0 &&
+    privateBlogs.length === 0 &&
     stateHasSeenItemsForRunKey(state, runKey, timeZone)
   ) {
     state.lastRunKey = runKey;
@@ -639,7 +663,7 @@ async function main() {
 
   const generatedAt = nowDate().toISOString();
   const xContent = runTweets ? buildXFeed(xGroups, hydratedById, config, state, ignoreState) : [];
-  const blogs = runBlogs ? buildBlogFeed(blogGroups, hydratedById, config, state, ignoreState) : [];
+  const blogs = runBlogs ? [...buildBlogFeed(blogGroups, hydratedById, config, state, ignoreState), ...privateBlogs] : [];
   const podcasts = runPodcasts ? buildPodcastFeed(config).podcasts : [];
   const incomingArchive = {
     generatedAt,
@@ -659,10 +683,12 @@ async function main() {
     podcasts,
     errors: errors.length ? errors : undefined,
   };
+  assertNoPrivateRssLeaks(incomingArchive, privateRssFeeds, { checkAccessToken: false });
   incomingArchive.stats = recomputeStats(incomingArchive);
 
   const existingArchive = await loadArchive(runKey);
   const archive = mergeArchives(existingArchive, incomingArchive);
+  assertNoPrivateRssLeaks(archive, privateRssFeeds, { checkAccessToken: false });
   await writeArchive(runKey, archive);
   const index = await writeFeedIndex(config, generatedAt);
 

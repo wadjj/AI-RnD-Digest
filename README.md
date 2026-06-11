@@ -126,7 +126,30 @@ Repository setup:
 
 1. Set repository secret `FOLO_TOKEN`.
 2. Optionally set repository variable `FOLO_LIST_ID`; otherwise the checked-in config is used.
-3. Let `.github/workflows/generate-feed.yml` run daily and commit archive updates.
+3. Optionally set repository secret `AITRENDPUSH_PRIVATE_RSS_FEEDS` for private paid RSS feeds.
+4. Let `.github/workflows/generate-feed.yml` run daily and commit archive updates.
+
+`AITRENDPUSH_PRIVATE_RSS_FEEDS` is a JSON array. Keep it in repository secrets,
+not repository variables:
+
+```json
+[
+  {
+    "id": "stratechery-paid",
+    "name": "Stratechery",
+    "type": "blog",
+    "url": "https://example.com/private/rss",
+    "urlStrategy": "guid",
+    "contentMode": "plainText",
+    "stripQuery": true
+  }
+]
+```
+
+Private RSS URLs are fetch-only inputs. The generator writes only sanitized blog
+items to `archives/YYYY-MM-DD.json`, uses canonical item URLs for state, and
+fails before persisting output if an `access_token` or configured private token
+appears in generated JSON.
 
 Local generation is available for manual runs or fallback automation:
 
