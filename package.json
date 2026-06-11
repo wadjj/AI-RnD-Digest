@@ -8,6 +8,7 @@
     "generate:force": "node scripts/generate-feed.js --force",
     "generate:preview": "node scripts/generate-feed.js --ignore-state",
     "prepare": "node scripts/prepare-digest.js",
+    "package:skill": "node scripts/package-skill.js",
     "deliver": "node scripts/deliver.js",
     "sync:folo-token": "node scripts/sync-folo-token.js",
     "test": "node --test"

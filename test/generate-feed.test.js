@@ -123,6 +123,7 @@ function runGenerate(root, { entries = [tweet("tweet-1"), blog("blog-1")], args 
       ...process.env,
       AITRENDPUSH_ROOT_DIR: root,
       AITRENDPUSH_RUN_KEY: "2026-06-09",
+      AITRENDPUSH_NOW: "2026-06-09T23:00:00.000Z",
       AITRENDPUSH_TIMEZONE: "UTC",
       FAKE_FOLO_ENTRIES: JSON.stringify(entries),
       PATH: `${binDir}:${process.env.PATH}`,
@@ -233,7 +234,7 @@ test("force rerun merges into the existing daily archive without dropping old it
       podcasts: [],
     }));
     writeJSON(join(root, "state-feed.json"), {
-      seenTweets: { "tweet-old": Date.now() },
+      seenTweets: { "tweet-old": Date.parse("2026-06-09T20:00:00.000Z") },
       seenVideos: {},
       seenArticles: {},
       lastRunKey: "2026-06-09",
