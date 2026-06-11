@@ -49,11 +49,16 @@ Private inbox items are not part of the public subscriber archive.
 
 ## Output Format
 
-Final digests are optimized for phone reading and visible source attribution. Each
-person or content item starts with a bold label, followed by the summary body, then
-raw source URLs as bullets:
+Final digests are optimized for phone reading and visible source attribution. The
+digest starts with one H1 title, keeps H2 section headers, and each person or
+content item starts with a bold label followed by the summary body and raw source
+URLs as bullets:
 
 ```md
+# AI R&D Digest - 2026-06-11
+
+## X / TWITTER
+
 **Full Name, role/company**
 
 Summary text.

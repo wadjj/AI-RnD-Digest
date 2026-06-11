@@ -117,10 +117,13 @@ invent missing context.
 8. Every included item must have its source URL. No URL means do not include it.
 
 9. The final digest must follow the output formatting contract in
-`prompts.digest_intro`: each person or item starts on its own bold label line,
-source URLs appear as raw `- https://...` bullets in a `Sources:` block, and URLs
-must not be hidden behind Markdown link labels such as `[Original](url)` or
-`[原文](url)`.
+`prompts.digest_intro`: the digest body starts with the single H1 digest title,
+such as `# AI R&D Digest - 2026-06-11`, followed by the required H2 section
+headers such as `## X / TWITTER`, `## OFFICIAL BLOGS`, and `## PODCASTS` when
+those sections have content. Each person or item starts on its own bold label
+line, source URLs appear as raw `- https://...` bullets in a `Sources:` block,
+and URLs must not be hidden behind Markdown link labels such as `[Original](url)`
+or `[原文](url)`.
 
 10. Delivery integrity contract:
 
