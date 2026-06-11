@@ -15,7 +15,11 @@ keys. The source archive is generated centrally and published as JSON.
 
 ## Quick Start for Subscribers
 
-Copy this to your agent: `Install the AI R&D Digest skill from https://raw.githubusercontent.com/wadjj/AI-RnD-Digest/main/dist/ai-rnd-digest.skill, then run /follow-airnd to set it up.`
+You can send either of these directly to your agent:
+
+English: `Install the AI R&D Digest skill from https://raw.githubusercontent.com/wadjj/AI-RnD-Digest/main/dist/ai-rnd-digest.skill , then run /follow-airnd to set it up.`
+
+中文：`请安装 AI R&D Digest skill： https://raw.githubusercontent.com/wadjj/AI-RnD-Digest/main/dist/ai-rnd-digest.skill ，然后运行 /follow-airnd 完成设置。`
 
 1. Install the skill from `https://raw.githubusercontent.com/wadjj/AI-RnD-Digest/main/dist/ai-rnd-digest.skill`.
 2. Say `set up AI R&D Digest` or invoke `/follow-airnd`.
