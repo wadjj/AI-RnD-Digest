@@ -31,9 +31,30 @@ function textValue(value) {
   return "";
 }
 
+function decodeEntities(text) {
+  if (!text) return "";
+  const named = {
+    amp: "&",
+    lt: "<",
+    gt: ">",
+    quot: "\"",
+    apos: "'",
+    nbsp: " ",
+  };
+  return String(text).replace(/&(#x?[0-9a-fA-F]+|[a-zA-Z]+);/g, (match, entity) => {
+    if (entity[0] === "#") {
+      const isHex = entity[1]?.toLowerCase() === "x";
+      const raw = isHex ? entity.slice(2) : entity.slice(1);
+      const code = Number.parseInt(raw, isHex ? 16 : 10);
+      return Number.isFinite(code) ? String.fromCodePoint(code) : match;
+    }
+    return named[entity] ?? match;
+  });
+}
+
 function htmlToText(value) {
   if (!value) return "";
-  return String(value)
+  const stripped = String(value)
     .replace(/<br\s*\/?>/gi, "\n")
     .replace(/<hr[^>]*>/gi, "\n---\n")
     .replace(/<\/(p|div|li|h[1-6]|blockquote)>/gi, "\n")
@@ -41,9 +62,11 @@ function htmlToText(value) {
     .replace(/<style[\s\S]*?<\/style>/gi, "")
     .replace(/<[^>]+>/g, " ")
     .replace(/[ \t]+\n/g, "\n")
+    .replace(/\n[ \t]+/g, "\n")
     .replace(/\n{3,}/g, "\n\n")
     .replace(/[ \t]{2,}/g, " ")
     .trim();
+  return decodeEntities(stripped);
 }
 
 function trimText(text, maxChars) {
@@ -142,13 +165,13 @@ function itemUrl(item, feed) {
 }
 
 function itemContent(item, feed, maxContentChars) {
-  const raw = item?.["content:encoded"] || item?.content || item?.description || "";
+  const raw = item?.["content:encoded"] || item?.content || item?.summary || item?.description || "";
   const redacted = redactSensitiveText(textValue(raw), feed);
   return trimText(htmlToText(redacted), maxContentChars);
 }
 
 function itemDescription(item, feed) {
-  const redacted = redactSensitiveText(textValue(item?.description || ""), feed);
+  const redacted = redactSensitiveText(textValue(item?.description || item?.summary || ""), feed);
   return htmlToText(redacted);
 }
 

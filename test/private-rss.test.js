@@ -148,4 +148,39 @@ test("private RSS parser supports Atom link href and id fallback", () => {
   assert.equal(blogs.length, 1);
   assert.equal(blogs[0].url, "https://example.com/atom-update/");
   assert.equal(blogs[0].author, "Ada");
+  assert.equal(blogs[0].content, "Short summary");
+  assert.equal(blogs[0].description, "Short summary");
+});
+
+test("private RSS text decodes entities after stripping markup", () => {
+  const xml = `<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <item>
+      <title>Entity Update</title>
+      <link>https://example.com/entity-update/</link>
+      <description>AT&amp;amp;T and escaped tag &amp;lt;b&amp;gt;</description>
+      <content:encoded><![CDATA[
+        <p>AT&amp;T &#8217;quoted&#8217;</p>
+        <p>Escaped display tag: &lt;b&gt;</p>
+      ]]></content:encoded>
+      <pubDate>Wed, 10 Jun 2026 10:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>`;
+
+  const blogs = parsePrivateRssBlogs(xml, {
+    id: "entity-paid",
+    name: "Entity Paid",
+    type: "blog",
+    url: PRIVATE_FEED_URL,
+    urlStrategy: "link",
+    stripQuery: true,
+  }, {
+    nowMs: Date.parse("2026-06-11T00:00:00.000Z"),
+  });
+
+  assert.equal(blogs.length, 1);
+  assert.equal(blogs[0].content, "AT&T ’quoted’\n\nEscaped display tag: <b>");
+  assert.equal(blogs[0].description, "AT&T and escaped tag <b>");
 });
