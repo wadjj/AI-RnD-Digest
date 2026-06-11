@@ -65,6 +65,7 @@ npm run generate
 npm run generate:force
 npm run generate:preview
 npm run prepare
+npm run package:skill
 npm run deliver
 npm run sync:folo-token -- --dry-run
 npm test
@@ -76,6 +77,8 @@ Command summary:
 - `npm run generate:preview` ignores existing state and does not update `state-feed.json`.
 - `npm run generate:force` allows a same-day rerun and merges into the existing archive.
 - `npm run prepare` emits the JSON blob an agent needs to remix the digest.
+- `npm run package:skill` rebuilds `dist/ai-rnd-digest/` and `dist/ai-rnd-digest.skill`
+  from the top-level skill, prompts, scripts, and config.
 - `npm run deliver` sends final digest text according to subscriber delivery config.
 - `npm run sync:folo-token` syncs a local Folo CLI session token to GitHub Actions.
 
@@ -86,6 +89,9 @@ Command summary:
 - `state-feed.json`: shared dedupe state
 - `dist/ai-rnd-digest.skill`: packaged subscriber skill
 - `dist/ai-rnd-digest/`: unpacked packaged skill contents
+
+Run `npm run package:skill` after changing `SKILL.md`, `prompts/`,
+`scripts/prepare-digest.js`, `scripts/deliver.js`, or `config/default-sources.json`.
 
 Generation is incremental. The daily job uses short source lookbacks as a miss-recovery
 window, but only items not already present in `state-feed.json` enter the day's archive.
