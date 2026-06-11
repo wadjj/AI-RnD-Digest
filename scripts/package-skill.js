@@ -104,7 +104,7 @@ function centralHeader(entry, nameBuffer, offset) {
   out.writeUInt16LE(0, 32);
   out.writeUInt16LE(0, 34);
   out.writeUInt16LE(0, 36);
-  out.writeUInt32LE(entry.directory ? 0x00100000 : 0, 38);
+  out.writeUInt32LE(entry.externalAttributes, 38);
   out.writeUInt32LE(offset, 42);
   return out;
 }
@@ -157,6 +157,7 @@ async function writeZip() {
       crc: item.directory ? 0 : crc32(source),
       compressedSize: data.length,
       uncompressedSize: source.length,
+      externalAttributes: ((item.directory ? 0o40755 : 0o100644) << 16) >>> 0,
     };
     const local = Buffer.concat([localHeader(entry, nameBuffer), nameBuffer, data]);
     const central = Buffer.concat([centralHeader(entry, nameBuffer, offset), nameBuffer]);
