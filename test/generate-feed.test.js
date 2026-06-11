@@ -234,7 +234,7 @@ test("force rerun merges into the existing daily archive without dropping old it
       podcasts: [],
     }));
     writeJSON(join(root, "state-feed.json"), {
-      seenTweets: { "tweet-old": Date.now() },
+      seenTweets: { "tweet-old": Date.parse("2026-06-09T20:00:00.000Z") },
       seenVideos: {},
       seenArticles: {},
       lastRunKey: "2026-06-09",
