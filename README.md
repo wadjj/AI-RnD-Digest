@@ -26,7 +26,8 @@ Defaults:
 - Digest window and delivery interval: 2 days
 - Delivery time: 09:00 in the agent/platform default timezone
 - Language: Chinese
-- Delivery method: in-chat/stdout unless the agent supports another channel
+- Delivery method: in-chat/stdout unless the user explicitly selects a supported
+  external channel
 
 For external delivery channels, the final digest should be generated once, written
 to `/tmp/ai-rnd-digest.txt`, then delivered by reading that exact file. Delivery

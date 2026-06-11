@@ -32,9 +32,11 @@ Ask only these preferences:
 3. Language: `zh`, `en`, or `bilingual`. If the user does not answer, use `zh`.
 4. Delivery method. For OpenClaw or another persistent agent with built-in channels,
    use `stdout` and let the platform deliver the message. For other agents, offer
-   `stdout`, `telegram`, or `email`; default to `stdout`. If the user explicitly
-   asks for an agent-provided delivery channel such as Pushplus, use that channel
-   only when it is available, and save it as `delivery.method`.
+   `stdout`, `telegram`, or `email`; default to `stdout`. Do not proactively
+   recommend Pushplus or other agent-provided MCP channels, because most users do
+   not have them configured. If the user explicitly asks for a custom
+   agent-provided delivery channel such as Pushplus, use that channel only when it
+   is available, and save it as `delivery.method`.
 
 Save the answer as:
 
