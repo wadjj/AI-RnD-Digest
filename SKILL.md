@@ -32,7 +32,9 @@ Ask only these preferences:
 3. Language: `zh`, `en`, or `bilingual`. If the user does not answer, use `zh`.
 4. Delivery method. For OpenClaw or another persistent agent with built-in channels,
    use `stdout` and let the platform deliver the message. For other agents, offer
-   `stdout`, `telegram`, or `email`; default to `stdout`.
+   `stdout`, `telegram`, or `email`; default to `stdout`. If the user explicitly
+   asks for an agent-provided delivery channel such as Pushplus, use that channel
+   only when it is available, and save it as `delivery.method`.
 
 Save the answer as:
 
@@ -60,8 +62,8 @@ If they choose Telegram or email, ask only for delivery credentials:
 If the platform supports scheduling, create a recurring job that runs every
 `frequencyDays` days at `deliveryTime` using the agent/platform default timezone.
 The scheduled message should ask the agent to run the AI R&D Digest skill with
-`/follow-airnd`. If scheduling is unavailable, tell the user they can run
-`/follow-airnd` on demand.
+`/follow-airnd` and must preserve the delivery integrity contract below. If
+scheduling is unavailable, tell the user they can run `/follow-airnd` on demand.
 
 ## Digest Run
 
@@ -118,12 +120,29 @@ source URLs appear as raw `- https://...` bullets in a `Sources:` block, and URL
 must not be hidden behind Markdown link labels such as `[Original](url)` or
 `[原文](url)`.
 
-10. If `config.delivery.method` is `stdout`, output the digest directly. For
-`telegram` or `email`, write the final digest to a temp file and run:
+10. Delivery integrity contract:
+
+- The final digest is an immutable artifact once assembled.
+- For any delivery method other than direct `stdout`, write the complete final
+  digest to `/tmp/ai-rnd-digest.txt` before delivery.
+- After writing the file, read that file back or pass that exact file to the
+  delivery helper. The file contents are the only payload that may be delivered.
+- Do not retype, regenerate, summarize, compress, shorten, omit links, or otherwise
+  edit the digest during delivery.
+- If a delivery channel has a length limit, split the exact file contents into
+  multiple complete chunks or fall back by showing the digest to the user. Do not
+  send a shortened version unless the user explicitly asks for compression.
+
+11. If `config.delivery.method` is `stdout`, output the digest directly. For
+`telegram` or `email`, write the final digest to `/tmp/ai-rnd-digest.txt` and run:
 
 ```bash
 cd ${CLAUDE_SKILL_DIR}/scripts && node deliver.js --file /tmp/ai-rnd-digest.txt 2>/dev/null
 ```
+
+For `pushplus`, `Pushplus`, or another agent-provided MCP/channel delivery method,
+read `/tmp/ai-rnd-digest.txt` and pass its exact contents to the channel tool.
+Use only metadata fields such as title, topic, or template outside the message body.
 
 If delivery fails, show the digest as fallback and report the delivery error.
 

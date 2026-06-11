@@ -4,6 +4,6 @@
 1. 每次 digest 覆盖几天。这个数字也作为推送间隔，比如覆盖 2 天就每 2 天推一次。范围 1-7 天；如果我没回答，默认 2 天。
 2. 每次几点推送。只问几点，不问时区，使用你的默认时区；如果我没回答，默认早上 9:00。
 3. 输出语言：中文、英文或双语；如果我没回答，默认中文。
-4. 投递方式：如果你能直接在当前聊天或平台 channel 发给我，就使用默认的 in-chat/stdout；如果需要外部投递，再引导我选择 Telegram 或 email。
+4. 投递方式：如果你能直接在当前聊天或平台 channel 发给我，就使用默认的 in-chat/stdout；如果需要外部投递，再引导我选择 Telegram 或 email；如果我明确要求 Pushplus 且当前 agent 已有可用的 Pushplus 工具，也可以使用 Pushplus。
 
-请不要向我索要 Folo、X/Twitter、RSSHub、podcast transcript 或任何来源 API key。只有当我选择 Telegram 或 email 投递时，才引导我配置对应的 Telegram bot token 或 Resend API key。配置完成后，如果你支持定时任务，请按上面的间隔和时间设置定时运行；如果不支持，请告诉我之后可以直接发送 /follow-airnd 手动获取 digest。
+请不要向我索要 Folo、X/Twitter、RSSHub、podcast transcript 或任何来源 API key。只有当我选择 Telegram 或 email 投递时，才引导我配置对应的 Telegram bot token 或 Resend API key。配置完成后，如果你支持定时任务，请按上面的间隔和时间设置定时运行；定时任务的 prompt 必须要求运行 AI R&D Digest skill，并保持完整性约束：先生成完整 digest，写入 /tmp/ai-rnd-digest.txt，投递时读取这个文件原文发送，不要在投递环节重写、压缩、精简或删减链接。若投递渠道有长度限制，应分段发送原文或回退展示 digest，除非我明确要求压缩。若不支持定时任务，请告诉我之后可以直接发送 /follow-airnd 手动获取 digest。

@@ -28,6 +28,11 @@ Defaults:
 - Language: Chinese
 - Delivery method: in-chat/stdout unless the agent supports another channel
 
+For external delivery channels, the final digest should be generated once, written
+to `/tmp/ai-rnd-digest.txt`, then delivered by reading that exact file. Delivery
+must not retype, shorten, compress, or regenerate the digest unless the user
+explicitly asks for a compressed version.
+
 After setup, run `/follow-airnd` whenever you want the latest digest.
 
 ## What the Digest Contains
@@ -82,6 +87,8 @@ Command summary:
 - `npm run package:skill` rebuilds `dist/ai-rnd-digest/` and `dist/ai-rnd-digest.skill`
   from the top-level skill, prompts, scripts, and config.
 - `npm run deliver` sends final digest text according to subscriber delivery config.
+  Digest runs should pass `--file /tmp/ai-rnd-digest.txt` so the delivered content
+  is identical to the generated artifact.
 - `npm run sync:folo-token` syncs a local Folo CLI session token to GitHub Actions.
 
 ## Generated Files
