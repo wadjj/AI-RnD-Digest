@@ -37,7 +37,17 @@
     "https://twitter.com/petergostev/status/2064592228920512667": 1781135551054,
     "https://twitter.com/thsottiaux/status/2064572276180484475": 1781135551055,
     "https://twitter.com/trq212/status/2064521202622960058": 1781135551055,
-    "https://twitter.com/JeffDean/status/2064497666638430542": 1781135551055
+    "https://twitter.com/JeffDean/status/2064497666638430542": 1781135551055,
+    "https://twitter.com/thsottiaux/status/2065193272952422852": 1781222199337,
+    "https://twitter.com/thsottiaux/status/2064911328087810308": 1781222199337,
+    "https://twitter.com/thsottiaux/status/2064900105032135010": 1781222199338,
+    "https://twitter.com/gdb/status/2065155654286020628": 1781222199338,
+    "https://twitter.com/gdb/status/2064899797593792687": 1781222199338,
+    "https://twitter.com/polynoamial/status/2065125807585149136": 1781222199338,
+    "https://twitter.com/emollick/status/2065115360148197630": 1781222199338,
+    "https://twitter.com/emollick/status/2064920957098041817": 1781222199338,
+    "https://twitter.com/bcherny/status/2064885111477219664": 1781222199338,
+    "https://twitter.com/bcherny/status/2064974739626394053": 1781222199338
   },
   "seenVideos": {},
   "seenArticles": {
@@ -64,8 +74,13 @@
     "https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/#atom-everything": 1781135551055,
     "https://stratechery.com/2026/fable-5-anthropic-alignment-ai-tiers/": 1781135551055,
     "https://www.rundown.ai/articles/anthropic-hands-the-public-mythos-class-ai": 1781135551055,
-    "https://www.tomtunguz.com/upper-bound-corporate-ai/": 1781135551055
+    "https://www.tomtunguz.com/upper-bound-corporate-ai/": 1781135551055,
+    "https://stratechery.com/2026/an-interview-with-ben-bajarin-about-apple-ai-and-compute/": 1781222199338,
+    "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything": 1781222199338,
+    "https://simonwillison.net/2026/Jun/11/datasette/#atom-everything": 1781222199338,
+    "https://simonwillison.net/2026/Jun/11/asyncinject/#atom-everything": 1781222199338,
+    "https://www.rundown.ai/articles/anthropic-writes-washington-an-ai-regulation-playbook": 1781222199338
   },
-  "lastRunKey": "2026-06-11",
-  "lastRunAt": "2026-06-10T23:52:31.059Z"
+  "lastRunKey": "2026-06-12",
+  "lastRunAt": "2026-06-11T23:56:39.343Z"
 }
