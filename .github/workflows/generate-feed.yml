@@ -47,6 +47,7 @@ jobs:
         env:
           FOLO_TOKEN: ${{ secrets.FOLO_TOKEN }}
           FOLO_LIST_ID: ${{ vars.FOLO_LIST_ID }}
+          AITRENDPUSH_PRIVATE_RSS_FEEDS: ${{ secrets.AITRENDPUSH_PRIVATE_RSS_FEEDS }}
           AITRENDPUSH_IGNORE_STATE: ${{ inputs.ignore_state && '1' || '0' }}
         run: |
           if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.mode }}" != "all" ]; then

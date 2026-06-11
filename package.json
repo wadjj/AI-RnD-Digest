@@ -15,5 +15,8 @@
   },
   "engines": {
     "node": ">=20"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^5.8.0"
   }
 }

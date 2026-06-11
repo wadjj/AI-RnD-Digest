@@ -114,7 +114,7 @@ function blog(id, url = `https://blog.example/${id}`) {
   };
 }
 
-function runGenerate(root, { entries = [tweet("tweet-1"), blog("blog-1")], args = [] } = {}) {
+function runGenerate(root, { entries = [tweet("tweet-1"), blog("blog-1")], args = [], env = {} } = {}) {
   const binDir = installFakeNpx(root, entries);
   return spawnSync(process.execPath, [SCRIPT_PATH, ...args], {
     cwd: root,
@@ -127,6 +127,7 @@ function runGenerate(root, { entries = [tweet("tweet-1"), blog("blog-1")], args 
       AITRENDPUSH_TIMEZONE: "UTC",
       FAKE_FOLO_ENTRIES: JSON.stringify(entries),
       PATH: `${binDir}:${process.env.PATH}`,
+      ...env,
     },
   });
 }
@@ -247,6 +248,71 @@ test("force rerun merges into the existing daily archive without dropping old it
     const mergedArchive = readJSON(join(root, "archives", "2026-06-09.json"));
     assert.deepEqual(mergedArchive.x[0].tweets.map((item) => item.id), ["tweet-old", "tweet-new"]);
     assert.equal(mergedArchive.stats.totalTweets, 2);
+  } finally {
+    rmSync(root, { recursive: true, force: true });
+  }
+});
+
+test("generate merges private RSS blogs without persisting paid RSS secrets", () => {
+  const root = makeRoot();
+  try {
+    const privateToken = "SECRET_TOKEN_123456789";
+    const privateFeedUrl = `https://stratechery.passport.online/feed/rss/${privateToken}`;
+    const rss = `<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Stratechery</title>
+    <atom:link href="${privateFeedUrl}" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Paid Update</title>
+      <link>https://stratechery.com/2026/paid-update/?access_token=PRIVATE_ARTICLE_TOKEN</link>
+      <description>Short description</description>
+      <content:encoded><![CDATA[
+        <p>Paid body.</p>
+        <p><a href="https://stratechery.passport.online/feed/podcast/${privateToken}">Podcast</a></p>
+      ]]></content:encoded>
+      <author>Ben Thompson</author>
+      <guid isPermaLink="true">https://stratechery.com/2026/paid-update/</guid>
+      <pubDate>Wed, 10 Jun 2026 10:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>`;
+    const privateFeeds = [{
+      id: "stratechery-paid",
+      name: "Stratechery",
+      type: "blog",
+      url: `data:application/rss+xml,${encodeURIComponent(rss)}`,
+      sensitiveNeedles: [privateToken],
+      urlStrategy: "guid",
+      contentMode: "plainText",
+      stripQuery: true,
+    }];
+
+    const result = runGenerate(root, {
+      entries: [tweet("tweet-1")],
+      env: {
+        AITRENDPUSH_PRIVATE_RSS_FEEDS: JSON.stringify(privateFeeds),
+      },
+    });
+
+    assert.equal(result.status, 0, result.stderr);
+    const archive = readJSON(join(root, "archives", "2026-06-09.json"));
+    assert.equal(archive.stats.blogPosts, 1);
+    assert.equal(archive.blogs[0].name, "Stratechery");
+    assert.equal(archive.blogs[0].url, "https://stratechery.com/2026/paid-update/");
+
+    const state = readJSON(join(root, "state-feed.json"));
+    assert.equal(Boolean(state.seenArticles["https://stratechery.com/2026/paid-update/"]), true);
+
+    const persisted = [
+      readFileSync(join(root, "archives", "2026-06-09.json"), "utf8"),
+      readFileSync(join(root, "state-feed.json"), "utf8"),
+      readFileSync(join(root, "feed-index.json"), "utf8"),
+      result.stdout,
+      result.stderr,
+    ].join("\n");
+    assert.equal(persisted.includes("access_token"), false);
+    assert.equal(persisted.includes(privateToken), false);
   } finally {
     rmSync(root, { recursive: true, force: true });
   }
