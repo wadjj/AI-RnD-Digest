@@ -47,7 +47,15 @@
     "https://twitter.com/emollick/status/2065115360148197630": 1781222199338,
     "https://twitter.com/emollick/status/2064920957098041817": 1781222199338,
     "https://twitter.com/bcherny/status/2064885111477219664": 1781222199338,
-    "https://twitter.com/bcherny/status/2064974739626394053": 1781222199338
+    "https://twitter.com/bcherny/status/2064974739626394053": 1781222199338,
+    "https://twitter.com/emollick/status/2065537691270213950": 1781308504659,
+    "https://twitter.com/emollick/status/2065513498763800850": 1781308504659,
+    "https://twitter.com/emollick/status/2065444925483692192": 1781308504659,
+    "https://twitter.com/karpathy/status/2065490793092337691": 1781308504660,
+    "https://twitter.com/JeffDean/status/2065471716734996823": 1781308504660,
+    "https://twitter.com/JeffDean/status/2065467587207819761": 1781308504660,
+    "https://twitter.com/thsottiaux/status/2065468501750649006": 1781308504660,
+    "https://twitter.com/petergostev/status/2065422494744318274": 1781308504660
   },
   "seenVideos": {},
   "seenArticles": {
@@ -79,8 +87,16 @@
     "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything": 1781222199338,
     "https://simonwillison.net/2026/Jun/11/datasette/#atom-everything": 1781222199338,
     "https://simonwillison.net/2026/Jun/11/asyncinject/#atom-everything": 1781222199338,
-    "https://www.rundown.ai/articles/anthropic-writes-washington-an-ai-regulation-playbook": 1781222199338
+    "https://www.rundown.ai/articles/anthropic-writes-washington-an-ai-regulation-playbook": 1781222199338,
+    "https://simonwillison.net/2026/Jun/12/andrew-singleton/#atom-everything": 1781308504660,
+    "https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything": 1781308504660,
+    "https://simonwillison.net/2026/Jun/10/datasette-agent/#atom-everything": 1781308504660,
+    "https://stratechery.com/2026/hey-siri-tell-me-a-fable/": 1781308504660,
+    "https://www.rundown.ai/articles/spacex-posts-biggest-ipo-in-history": 1781308504660,
+    "https://www.rundown.ai/articles/jeff-bezos-41b-artificial-general-engineer": 1781308504660,
+    "https://www.rundown.ai/articles/europe-humanoid-moonshot-lands-1-4b": 1781308504660,
+    "https://www.tomtunguz.com/personal-cost-of-capital/": 1781308504660
   },
-  "lastRunKey": "2026-06-12",
-  "lastRunAt": "2026-06-11T23:56:39.343Z"
+  "lastRunKey": "2026-06-13",
+  "lastRunAt": "2026-06-12T23:55:04.664Z"
 }
