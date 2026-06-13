@@ -55,7 +55,13 @@
     "https://twitter.com/JeffDean/status/2065471716734996823": 1781308504660,
     "https://twitter.com/JeffDean/status/2065467587207819761": 1781308504660,
     "https://twitter.com/thsottiaux/status/2065468501750649006": 1781308504660,
-    "https://twitter.com/petergostev/status/2065422494744318274": 1781308504660
+    "https://twitter.com/petergostev/status/2065422494744318274": 1781308504660,
+    "https://twitter.com/emollick/status/2065781497638826399": 1781393686240,
+    "https://twitter.com/petergostev/status/2065713107356283124": 1781393686240,
+    "https://twitter.com/JeffDean/status/2065649717573505188": 1781393686241,
+    "https://twitter.com/trq212/status/2065622301127963125": 1781393686241,
+    "https://twitter.com/trq212/status/2065599462027022695": 1781393686241,
+    "https://twitter.com/trq212/status/2065598570955522343": 1781393686241
   },
   "seenVideos": {},
   "seenArticles": {
@@ -95,8 +101,10 @@
     "https://www.rundown.ai/articles/spacex-posts-biggest-ipo-in-history": 1781308504660,
     "https://www.rundown.ai/articles/jeff-bezos-41b-artificial-general-engineer": 1781308504660,
     "https://www.rundown.ai/articles/europe-humanoid-moonshot-lands-1-4b": 1781308504660,
-    "https://www.tomtunguz.com/personal-cost-of-capital/": 1781308504660
+    "https://www.tomtunguz.com/personal-cost-of-capital/": 1781308504660,
+    "https://simonwillison.net/2026/Jun/13/us-government-directive-to-suspend-access/#atom-everything": 1781393686241,
+    "https://simonwillison.net/2026/Jun/12/openai-webrtc/#atom-everything": 1781393686241
   },
-  "lastRunKey": "2026-06-13",
-  "lastRunAt": "2026-06-12T23:55:04.664Z"
+  "lastRunKey": "2026-06-14",
+  "lastRunAt": "2026-06-13T23:34:46.251Z"
 }
