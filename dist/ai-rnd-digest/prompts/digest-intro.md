@@ -48,6 +48,8 @@ that section has content:
 
 - Use the blog name as a section header.
 - Under each blog, list each new post with its title and summary.
+- If an individual blog summary is exactly `No notable blog post`, do not include that item in the final digest.
+- If a blog source has no remaining notable posts after exclusions, skip that source.
 - Include the author name if available.
 - Include the direct link to the original article.
 
