@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T23:34:46.240Z",
+  "generatedAt": "2026-06-14T23:39:22.002Z",
   "retentionDays": 7,
   "source": {
     "provider": "folo",
@@ -7,6 +7,18 @@
     "listTitle": "AITrendPush Sources"
   },
   "archives": [
+    {
+      "runKey": "2026-06-15",
+      "generatedAt": "2026-06-14T23:39:22.002Z",
+      "path": "archives/2026-06-15.json",
+      "url": "https://raw.githubusercontent.com/wadjj/AI-RnD-Digest/main/archives/2026-06-15.json",
+      "stats": {
+        "xBuilders": 2,
+        "totalTweets": 2,
+        "blogPosts": 3,
+        "podcastEpisodes": 0
+      }
+    },
     {
       "runKey": "2026-06-14",
       "generatedAt": "2026-06-13T23:34:46.240Z",
@@ -76,18 +88,6 @@
         "xBuilders": 2,
         "totalTweets": 2,
         "blogPosts": 4,
-        "podcastEpisodes": 0
-      }
-    },
-    {
-      "runKey": "2026-06-08",
-      "generatedAt": "2026-06-08T10:20:16.790Z",
-      "path": "archives/2026-06-08.json",
-      "url": "https://raw.githubusercontent.com/wadjj/AI-RnD-Digest/main/archives/2026-06-08.json",
-      "stats": {
-        "xBuilders": 4,
-        "totalTweets": 4,
-        "blogPosts": 6,
         "podcastEpisodes": 0
       }
     }

@@ -61,7 +61,9 @@
     "https://twitter.com/JeffDean/status/2065649717573505188": 1781393686241,
     "https://twitter.com/trq212/status/2065622301127963125": 1781393686241,
     "https://twitter.com/trq212/status/2065599462027022695": 1781393686241,
-    "https://twitter.com/trq212/status/2065598570955522343": 1781393686241
+    "https://twitter.com/trq212/status/2065598570955522343": 1781393686241,
+    "https://twitter.com/emollick/status/2066162715031224664": 1781480362003,
+    "https://twitter.com/thsottiaux/status/2066022651760721931": 1781480362003
   },
   "seenVideos": {},
   "seenArticles": {
@@ -103,8 +105,11 @@
     "https://www.rundown.ai/articles/europe-humanoid-moonshot-lands-1-4b": 1781308504660,
     "https://www.tomtunguz.com/personal-cost-of-capital/": 1781308504660,
     "https://simonwillison.net/2026/Jun/13/us-government-directive-to-suspend-access/#atom-everything": 1781393686241,
-    "https://simonwillison.net/2026/Jun/12/openai-webrtc/#atom-everything": 1781393686241
+    "https://simonwillison.net/2026/Jun/12/openai-webrtc/#atom-everything": 1781393686241,
+    "https://simonwillison.net/2026/Jun/13/publishing-wasm-wheels/#atom-everything": 1781480362004,
+    "https://simonwillison.net/2026/Jun/13/luau-wasm/#atom-everything": 1781480362004,
+    "https://simonwillison.net/2026/Jun/13/sqlite-column-provenance/#atom-everything": 1781480362004
   },
-  "lastRunKey": "2026-06-14",
-  "lastRunAt": "2026-06-13T23:34:46.251Z"
+  "lastRunKey": "2026-06-15",
+  "lastRunAt": "2026-06-14T23:39:22.009Z"
 }
