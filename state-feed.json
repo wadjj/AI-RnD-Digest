@@ -63,7 +63,13 @@
     "https://twitter.com/trq212/status/2065599462027022695": 1781393686241,
     "https://twitter.com/trq212/status/2065598570955522343": 1781393686241,
     "https://twitter.com/emollick/status/2066162715031224664": 1781480362003,
-    "https://twitter.com/thsottiaux/status/2066022651760721931": 1781480362003
+    "https://twitter.com/thsottiaux/status/2066022651760721931": 1781480362003,
+    "https://twitter.com/JeffDean/status/2066590668663951573": 1781568220478,
+    "https://twitter.com/JeffDean/status/2066589995209728399": 1781568220478,
+    "https://twitter.com/emollick/status/2066563652681892133": 1781568220478,
+    "https://twitter.com/emollick/status/2066543254644928885": 1781568220478,
+    "https://twitter.com/emollick/status/2066534666257973523": 1781568220478,
+    "https://twitter.com/petergostev/status/2066508116879987130": 1781568220479
   },
   "seenVideos": {},
   "seenArticles": {
@@ -108,8 +114,16 @@
     "https://simonwillison.net/2026/Jun/12/openai-webrtc/#atom-everything": 1781393686241,
     "https://simonwillison.net/2026/Jun/13/publishing-wasm-wheels/#atom-everything": 1781480362004,
     "https://simonwillison.net/2026/Jun/13/luau-wasm/#atom-everything": 1781480362004,
-    "https://simonwillison.net/2026/Jun/13/sqlite-column-provenance/#atom-everything": 1781480362004
+    "https://simonwillison.net/2026/Jun/13/sqlite-column-provenance/#atom-everything": 1781480362004,
+    "https://stratechery.com/2026/anthropics-safety-superpower/": 1781568220479,
+    "https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything": 1781568220479,
+    "https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics/#atom-everything": 1781568220479,
+    "https://simonwillison.net/2026/Jun/15/julia-evans/#atom-everything": 1781568220479,
+    "https://www.rundown.ai/articles/ubtech-s-ultra-realistic-robot-girlfriend-is-here": 1781568220479,
+    "https://www.rundown.ai/articles/anthropic-pulls-mythos-fable-after-u-s-order": 1781568220479,
+    "https://jack-clark.net/2026/06/15/import-ai-461-alignment-is-not-on-track-frontiercode-and-synthetic-research-interns/": 1781568220479,
+    "https://www.tomtunguz.com/golden-age-of-applications/": 1781568220479
   },
-  "lastRunKey": "2026-06-15",
-  "lastRunAt": "2026-06-14T23:39:22.009Z"
+  "lastRunKey": "2026-06-16",
+  "lastRunAt": "2026-06-16T00:03:40.486Z"
 }
