@@ -76,7 +76,20 @@ When the user invokes `/follow-airnd` after setup, or asks for the digest:
    skill files are older than the repository:
 
 ```bash
-cd ${CLAUDE_SKILL_DIR}/scripts && AITRENDPUSH_USE_REMOTE=1 node prepare-digest.js 2>/dev/null
+SKILL_DIR="${CLAUDE_SKILL_DIR:-}"
+if [ -z "$SKILL_DIR" ] || [ ! -f "$SKILL_DIR/scripts/prepare-digest.js" ]; then
+  for candidate in "$PWD" "$PWD/.." "$HOME/.agents/skills/ai-rnd-digest" "$HOME/.codex/skills/ai-rnd-digest" "$HOME/.claude/skills/ai-rnd-digest"; do
+    if [ -f "$candidate/scripts/prepare-digest.js" ]; then
+      SKILL_DIR="$(cd "$candidate" && pwd)"
+      break
+    fi
+  done
+fi
+if [ -z "$SKILL_DIR" ] || [ ! -f "$SKILL_DIR/scripts/prepare-digest.js" ]; then
+  echo '{"status":"error","message":"Could not locate AI R&D Digest skill directory."}'
+else
+  cd "$SKILL_DIR" && AITRENDPUSH_USE_REMOTE=1 node scripts/prepare-digest.js 2>/dev/null
+fi
 ```
 
 2. The script outputs one JSON blob with:
@@ -142,7 +155,20 @@ or `[原文](url)`.
 `telegram` or `email`, write the final digest to `/tmp/ai-rnd-digest.txt` and run:
 
 ```bash
-cd ${CLAUDE_SKILL_DIR}/scripts && node deliver.js --file /tmp/ai-rnd-digest.txt 2>/dev/null
+SKILL_DIR="${CLAUDE_SKILL_DIR:-}"
+if [ -z "$SKILL_DIR" ] || [ ! -f "$SKILL_DIR/scripts/deliver.js" ]; then
+  for candidate in "$PWD" "$PWD/.." "$HOME/.agents/skills/ai-rnd-digest" "$HOME/.codex/skills/ai-rnd-digest" "$HOME/.claude/skills/ai-rnd-digest"; do
+    if [ -f "$candidate/scripts/deliver.js" ]; then
+      SKILL_DIR="$(cd "$candidate" && pwd)"
+      break
+    fi
+  done
+fi
+if [ -z "$SKILL_DIR" ] || [ ! -f "$SKILL_DIR/scripts/deliver.js" ]; then
+  echo "Could not locate AI R&D Digest delivery helper." >&2
+else
+  cd "$SKILL_DIR" && node scripts/deliver.js --file /tmp/ai-rnd-digest.txt 2>/dev/null
+fi
 ```
 
 For `pushplus`, `Pushplus`, or another agent-provided MCP/channel delivery method,

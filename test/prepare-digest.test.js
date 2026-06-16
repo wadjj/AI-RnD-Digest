@@ -204,6 +204,7 @@ test("remote mode reports archive fetch failures instead of using bundled stale 
   assert.equal(output.stats.totalTweets, 0);
   assert.equal(output.stats.blogPosts, 0);
   assert.ok(output.errors.some((error) => error.includes("Could not fetch remote archive")));
+  assert.ok(output.errors.some((error) => error.includes("simulated network down")));
 });
 
 test("remote mode reports index fetch failures instead of using bundled stale feeds", () => {
@@ -217,4 +218,5 @@ test("remote mode reports index fetch failures instead of using bundled stale fe
   assert.equal(output.stats.totalTweets, 0);
   assert.equal(output.stats.blogPosts, 0);
   assert.ok(output.errors.some((error) => error.includes("Could not fetch remote feed index")));
+  assert.ok(output.errors.some((error) => error.includes("simulated network down")));
 });
