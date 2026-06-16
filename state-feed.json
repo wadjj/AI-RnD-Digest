@@ -69,7 +69,20 @@
     "https://twitter.com/emollick/status/2066563652681892133": 1781568220478,
     "https://twitter.com/emollick/status/2066543254644928885": 1781568220478,
     "https://twitter.com/emollick/status/2066534666257973523": 1781568220478,
-    "https://twitter.com/petergostev/status/2066508116879987130": 1781568220479
+    "https://twitter.com/petergostev/status/2066508116879987130": 1781568220479,
+    "https://twitter.com/trq212/status/2067021344341098670": 1781653819187,
+    "https://twitter.com/thsottiaux/status/2066956441173323943": 1781653819187,
+    "https://twitter.com/thsottiaux/status/2066865154902380796": 1781653819187,
+    "https://twitter.com/emollick/status/2066947279173361811": 1781653819187,
+    "https://twitter.com/emollick/status/2066938020763169111": 1781653819187,
+    "https://twitter.com/_sholtodouglas/status/2066918590775976322": 1781653819187,
+    "https://twitter.com/_sholtodouglas/status/2066895538747019767": 1781653819187,
+    "https://twitter.com/YiTayML/status/2066907518161617031": 1781653819187,
+    "https://twitter.com/petergostev/status/2066885593972293898": 1781653819187,
+    "https://twitter.com/petergostev/status/2066869410099257350": 1781653819187,
+    "https://twitter.com/markchen90/status/2067006647743242551": 1781653819187,
+    "https://twitter.com/gdb/status/2066768795503595718": 1781653819187,
+    "https://twitter.com/JeffDean/status/2066726460426158381": 1781653819187
   },
   "seenVideos": {},
   "seenArticles": {
@@ -122,8 +135,14 @@
     "https://www.rundown.ai/articles/ubtech-s-ultra-realistic-robot-girlfriend-is-here": 1781568220479,
     "https://www.rundown.ai/articles/anthropic-pulls-mythos-fable-after-u-s-order": 1781568220479,
     "https://jack-clark.net/2026/06/15/import-ai-461-alignment-is-not-on-track-frontiercode-and-synthetic-research-interns/": 1781568220479,
-    "https://www.tomtunguz.com/golden-age-of-applications/": 1781568220479
+    "https://www.tomtunguz.com/golden-age-of-applications/": 1781568220479,
+    "https://stratechery.com/2026/fox-buys-roku-the-problem-with-foxs-smart-strategy-streaming-that-works/": 1781653819188,
+    "https://simonwillison.net/2026/Jun/16/georgi-gerganov/#atom-everything": 1781653819187,
+    "https://simonwillison.net/2026/Jun/16/fable-5-export-controls/#atom-everything": 1781653819188,
+    "https://simonwillison.net/2026/Jun/16/matteo-wong-the-atlantic/#atom-everything": 1781653819188,
+    "https://www.rundown.ai/articles/xbox-s-studio-crisis-gets-bigger": 1781653819188,
+    "https://www.rundown.ai/articles/why-100-security-experts-say-the-fable-5-ban-backfires": 1781653819188
   },
-  "lastRunKey": "2026-06-16",
-  "lastRunAt": "2026-06-16T00:03:40.486Z"
+  "lastRunKey": "2026-06-17",
+  "lastRunAt": "2026-06-16T23:50:19.193Z"
 }
