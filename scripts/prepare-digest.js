@@ -34,10 +34,19 @@ async function readJSON(path, fallback = null) {
 async function fetchJSON(url) {
   try {
     const res = await fetch(url);
-    if (!res.ok) return null;
-    return await res.json();
-  } catch {
-    return null;
+    if (!res.ok) {
+      return {
+        ok: false,
+        error: `HTTP ${res.status}${res.statusText ? ` ${res.statusText}` : ""}`,
+      };
+    }
+    try {
+      return { ok: true, data: await res.json() };
+    } catch (err) {
+      return { ok: false, error: `Invalid JSON: ${err.message}` };
+    }
+  } catch (err) {
+    return { ok: false, error: err.message };
   }
 }
 
@@ -75,8 +84,8 @@ async function loadFeedIndex(projectConfig, errors) {
       return null;
     }
     const remote = await fetchJSON(remoteUrl);
-    if (remote) return remote;
-    errors.push(`Could not fetch remote feed index: ${remoteUrl}`);
+    if (remote.ok) return remote.data;
+    errors.push(`Could not fetch remote feed index: ${remoteUrl} (${remote.error})`);
     return null;
   }
 
@@ -109,8 +118,8 @@ async function loadArchive(entry, projectConfig, errors) {
       return null;
     }
     const archive = await fetchJSON(url);
-    if (archive) return archive;
-    errors.push(`Could not fetch remote archive: ${url}`);
+    if (archive.ok) return archive.data;
+    errors.push(`Could not fetch remote archive: ${url} (${archive.error})`);
     return null;
   }
 
