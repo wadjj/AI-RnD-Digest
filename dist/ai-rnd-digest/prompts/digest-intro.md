@@ -21,6 +21,7 @@ that section has content:
 
 - Only include sources that have content in the selected archive window.
 - Skip any source with nothing new.
+- Skip empty sections silently. Do not write placeholder text such as "No podcast episodes", "No podcasts this time", "本次没有 podcast", or any other note explaining that a section has no content.
 - Under each source, paste the individual summary you generated.
 - Preserve Markdown heading levels: one H1 digest title, then H2 section headers.
   Do not flatten section headers into bold text or plain text.
