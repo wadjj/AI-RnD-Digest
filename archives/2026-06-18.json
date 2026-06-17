@@ -1,0 +1,255 @@
+{
+  "generatedAt": "2026-06-17T23:52:39.855Z",
+  "runKey": "2026-06-18",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Greg Brockman",
+      "handle": "gdb",
+      "bio": "President & Co-Founder @OpenAI",
+      "tweets": [
+        {
+          "id": "https://twitter.com/gdb/status/2067344606128468445",
+          "text": "GPT-5.4 for improving a challenging reaction in medicinal chemistry:\n---\n OpenAI: GPT-5.4 helped drive a medicinal chemistry project from literature review to a validated experimental result.\n\nPaired with http://Molecule.one’s Maria AI and specialized lab, the model proposed an unexpected way to improve a widely used reaction in drug discovery.",
+          "createdAt": "2026-06-17T20:32:18.851Z",
+          "url": "https://x.com/gdb/status/2067344606128468445",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/OpenAI/status/2067293745075442171\nOpenAI: GPT-5.4 helped drive a medicinal chemistry project from literature review to a validated experimental result.\n\nPaired with http://Molecule.one’s Maria AI and specialized lab, the model proposed an unexpected way to improve a widely used reaction in drug discovery."
+        },
+        {
+          "id": "https://twitter.com/gdb/status/2067144669897859411",
+          "text": "AI for helping crack a health mystery. So many stories like this, and a clear motivation to be excited about AI:\n---\n Amy Deng: I’m an AI researcher turned brain tumor patient, and recently I used the models to crack my mystery fatigue faster than my PCP could.\nI believe everyone can do the same with their own symptoms. Here’s how:",
+          "createdAt": "2026-06-17T07:17:49.755Z",
+          "url": "https://x.com/gdb/status/2067144669897859411",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/amydeng_/status/2066928566961639716\nAmy Deng: I’m an AI researcher turned brain tumor patient, and recently I used the models to crack my mystery fatigue faster than my PCP could.\nI believe everyone can do the same with their own symptoms. Here’s how:"
+        },
+        {
+          "id": "https://twitter.com/gdb/status/2067100786098831681",
+          "text": "GPT-Realtime-2 is something new\n---\n Pat Simmons: GPT-Realtime 2 is the future of the operating system.\n\nI've been experimenting with it for a couple weeks now, and I gotta say, it's pretty gosh darn incredible.\n\nOpening apps, searching the web, even editing in Premiere. All with just my voice.\n\nAnd it only takes a few prompts",
+          "createdAt": "2026-06-17T04:23:26.268Z",
+          "url": "https://x.com/gdb/status/2067100786098831681",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/per_simmons_/status/2067051453022363992\nPat Simmons: GPT-Realtime 2 is the future of the operating system.\n\nI've been experimenting with it for a couple weeks now, and I gotta say, it's pretty gosh darn incredible.\n\nOpening apps, searching the web, even editing in Premiere. All with just my voice.\n\nAnd it only takes a few prompts"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Professor @Wharton studying AI, innovation & startups. Democratizing education using tech Book: https://t.co/CSmipbJ2jV Substack: https://t.co/UIBhxu4bgq",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2067344183870836985",
+          "text": "Big issue with AI strategies at big companies which realized the importance of AI last year (which is only a small subset, most are still not moving fast) is that, in the best case, they developed their strategy in late 2025, before the agentic revolution\n\nThings changed since...",
+          "createdAt": "2026-06-17T20:30:37.497Z",
+          "url": "https://x.com/emollick/status/2067344183870836985",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2067294892687024304",
+          "text": "I have a fun, oddly useful AI benchmark: \"build me a procedurally generated 3D simulation showing the evolution of a harbor town from 3000 BC to 3000 AD, it should look beautiful & allow me to have some control over it\"\n\nPlay the gallery of 20 models: https://ai-harbor-town-gallery.netlify.app/",
+          "createdAt": "2026-06-17T17:14:45.246Z",
+          "url": "https://x.com/emollick/status/2067294892687024304",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2067056226337186146",
+          "text": "Credit to GLM-5.2 Max, the new open weights model, for pulling this off.\n\n...but you can see the difference between it and Fable in a way benchmarks don't show. GLM-5.2 gives a correct poem (& the Welsh is fun) but Fable weaves the disappearing letters into the theme of the poem.\n\n---\n Ethan Mollick: Fable: \"write me a rhyming poem with six four line stanzas, each stanza removes another vowel. the first has no u, the second no u or i, etc.\"",
+          "createdAt": "2026-06-17T01:26:23.142Z",
+          "url": "https://x.com/emollick/status/2067056226337186146",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/emollick/status/2064769268013584767\nEthan Mollick: Fable: \"write me a rhyming poem with six four line stanzas, each stanza removes another vowel. the first has no u, the second no u or i, etc.\""
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Gostev (SF: 22-26 June)",
+      "handle": "petergostev",
+      "bio": "London 🇬🇧 AI Capability @ https://t.co/Y4VEGWofQ8 https://t.co/bkfw1nxdmJ",
+      "tweets": [
+        {
+          "id": "https://twitter.com/petergostev/status/2067216755584389313",
+          "text": "If a benchmark is showing ~similar numbers for Fable vs everyone else, there are two explanations:\n1) Fable is genuinely not that good at the task being measured;\n2) This is a bad benchmark.\n\nMore often than not, it is #2",
+          "createdAt": "2026-06-17T12:04:16.034Z",
+          "url": "https://x.com/petergostev/status/2067216755584389313",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2067181377028538431",
+          "text": "Reminder that you can use the Codex App, CLI and SDK with any open source model, not just with OpenAI models.\n\nhttps://developers.openai.com/codex/config-advanced#oss-mode-local-providers",
+          "createdAt": "2026-06-17T09:43:41.516Z",
+          "url": "https://x.com/thsottiaux/status/2067181377028538431",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2067064381855187231",
+          "text": "Bim bada boum. I am in France for the week and we are rolling out all the most exciting Codex features across Europe. Coincidence or did the team think I wasn't able to be productive otherwise?\n---\n OpenAI Developers: More of Codex is rolling out across Europe this week.\n\nWe’re bringing Computer use, the Codex Chrome extension, personalized memory, and Chronicle to Codex users in the EEA, UK, and Switzerland.\n\nhttps://developers.openai.com/codex/changelog/#codex-2026-06-16-app",
+          "createdAt": "2026-06-17T01:58:47.175Z",
+          "url": "https://x.com/thsottiaux/status/2067064381855187231",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/OpenAIDevs/status/2066916479438930166\nOpenAI Developers: More of Codex is rolling out across Europe this week.\n\nWe’re bringing Computer use, the Codex Chrome extension, personalized memory, and Chronicle to Codex users in the EEA, UK, and Switzerland.\n\nhttps://developers.openai.com/codex/changelog/#codex-2026-06-16-app"
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Quoting Charity Majors",
+      "url": "https://simonwillison.net/2026/Jun/17/charity-majors/#atom-everything",
+      "publishedAt": "2026-06-17T17:12:41.561Z",
+      "author": "",
+      "description": "What happened in 2025 was this: the economics of code production were turned upside down. Instead of being very hard, time-consuming, and…",
+      "content": "What happened in 2025 was this: the economics of code production were turned upside down . Instead of being very hard, time-consuming, and expensive to generate code, it became effectively free and instant. Lines of code went from being treasured, reused, cared for and carefully curated, to being disposable and regenerable, practically overnight.\n\n — Charity Majors , AI demands more engineering discipline. Not less\n\n Tags: charity-majors , ai-assisted-programming , generative-ai , ai , llms"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "<click-to-play> — a still that plays",
+      "url": "https://simonwillison.net/2026/Jun/17/click-to-play-component/#atom-everything",
+      "publishedAt": "2026-06-17T03:56:10.905Z",
+      "author": "",
+      "description": "Tool: — a still that plays A progressive enchantment Web Component that turns this markup:\n\n <a href…",
+      "content": "Tool: — a still that plays\n\n A progressive enchantment Web Component that turns this markup:\n\n Into a still frame with a click to play button which loads the GIF on demand. For when you don't want big GIFs to be loaded unless people want to play them.\n\n Here's an example that demonstrates the new row editing tools in Datasette - in fact I built this Web Component for that post.\n\n Tags: gif , javascript , progressive-enhancement , web-components"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "NetNewsWire Status",
+      "url": "https://simonwillison.net/2026/Jun/17/netnewswire-status/#atom-everything",
+      "publishedAt": "2026-06-17T03:36:09.374Z",
+      "author": "",
+      "description": "NetNewsWire Status I find this inspiring. Brent Simmons retired a year ago, and his retirement project is making one piece of software…",
+      "content": "NetNewsWire Status\n\nI find this inspiring. Brent Simmons retired a year ago, and his retirement project is making one piece of software really, really good - free from any commercial pressure.\n\n The software is NetNewsWire - \"it's like podcasts, but for reading \" - first released in 2002 and made open source in 2018.\n\n I've been using it on Mac and iPhone for several years now and I'm finding it indispensable.\n\n Via Lobste.rs\n\n Tags: brent-simmons , netnewswire , open-source"
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery by Ben Thompson",
+      "title": "The State of Fable, The Jailbreak Problem, SpaceX Acquires Cursor",
+      "url": "https://stratechery.com/2026/the-state-of-fable-the-jailbreak-problem-spacex-acquires-cursor/",
+      "publishedAt": "2026-06-17T10:00:00.653Z",
+      "author": "Ben Thompson",
+      "description": "The administration is very likely wrong about Fable, but that is ultimately Anthropic's responsibility.",
+      "content": "The administration is very likely wrong about Fable, but that is ultimately Anthropic's responsibility."
+    },
+    {
+      "source": "blog",
+      "name": "The Rundown AI",
+      "title": "Cursor officially joins the SpaceX AI machine - Rundown AI",
+      "url": "https://www.rundown.ai/articles/cursor-officially-joins-the-spacex-ai-machine",
+      "publishedAt": "2026-06-17T09:00:41.856Z",
+      "author": "",
+      "description": "SpaceX’s splashy IPO debut was less than a week ago, but the surging stock has already helped shore up another part of Elon Musk’s empire…",
+      "content": "SpaceX’s splashy IPO debut was less than a week ago, but the surging stock has already helped shore up another part of Elon Musk’s empire. The $SPCX windfall just bankrolled a $60B takeover of Cursor, a deal Musk optioned back in April — and if CEO Michael Truell’s teasers on its next Opus-sized, “generally intelligent” model hold true, Musk may be fast-tracking his way near the frontier."
+    },
+    {
+      "source": "blog",
+      "name": "Sebastian Raschka, PhD",
+      "title": "VibeThinker-3B and the Strength of Post-Training",
+      "url": "https://sebastianraschka.com/blog/2026/vibethinker-3b-post-training.html",
+      "publishedAt": "2026-06-17T08:13:15.758Z",
+      "author": "",
+      "description": "Short note on VibeThinker-3B, a 3B model based on Qwen2.5-Coder-3B whose reported coding and reasoning results point to strong post-training…",
+      "content": "Short note on VibeThinker-3B, a 3B model based on Qwen2.5-Coder-3B whose reported coding and reasoning results point to strong post-training."
+    },
+    {
+      "source": "blog",
+      "name": "Tomasz Tunguz",
+      "title": "Databricks Widens the Lead on the Yellow Brick Token Path",
+      "url": "https://www.tomtunguz.com/databricks-widens-lead/",
+      "publishedAt": "2026-06-17T00:00:00.580Z",
+      "author": "",
+      "description": "The gap between Databricks and Snowflake was $490m in March. It’s $1.6b today. Databricks announced it has crossed $6.9b in annualized…",
+      "content": "The gap between Databricks and Snowflake was $490m in March. It’s $1.6b today.\n\n Databricks announced it has crossed $6.9b in annualized recurring revenue, up 80% year over year. 1 Snowflake’s latest quarter puts them at roughly $5.3b ARR, up 34%.\n\n Each quarter adds more distance.\n\n AI is pulling Databricks away. The fastest-growing companies in AI & software either sell AI directly, resell inference, or sit as its first derivative. 2\n\n Databricks’ AI products run at $1.7b annualized, ~25% of total ARR, up from $1b six months ago, expanding faster than the company overall. Salesforce’s $3.6b Fin purchase is the same pattern: the former Intercom’s AI agent reached $100m ARR, also ~25% of the total, up 350%. 3\n\n Where does this put Databricks among peers? At $134b in private valuation, Databricks now sits among the largest enterprise software companies in the world, smaller than SAP but larger than Salesforce. Among data-focused companies, only SAP is bigger. At 80%, it outpaces every peer near its scale: CrowdStrike at 26%, Shopify at 34%.\n\n The companies that land in the token path, or its first derivative, accelerate explosively, even at $6.9b.\n\n The road to revenue growth is paved with gold tokens.\n\n---\n\n CNBC : Databricks revenue growth tops 80% to $6.9 billion annualized   ↩︎\n\n The First Derivative of Inference   ↩︎\n\n Salesforce Signs Definitive Agreement to Acquire Fin   ↩︎"
+    },
+    {
+      "source": "blog",
+      "name": "Tomasz Tunguz",
+      "title": "5x for Free : The Local Coding Stack",
+      "url": "https://www.tomtunguz.com/local-coding-models/",
+      "publishedAt": "2026-06-16T00:00:00.682Z",
+      "author": "",
+      "description": "Today, a Hacker News thread asked a simple question : “Has anyone replaced Claude/GPT with a local model for daily coding?”1 500+ comments…",
+      "content": "Today, a Hacker News thread asked a simple question : “Has anyone replaced Claude/GPT with a local model for daily coding?” 1 500+ comments later, a clear picture emerged of the local coding stack.\n\n Qwen 3.6 35B-A3B dominates model mentions at 33%, followed by the 27B variant at 20%. DeepSeek Pro & Gemma4 31B round out the top four. The common thread : mixture-of-experts architectures that run fast on consumer hardware. 2\n\n On the agent side, Pi leads at 49% with OpenCode close behind at 45%. Both are lightweight harnesses designed for local inference.\n\n The thread surfaced a fascinating tradeoff. One commenter captured it perfectly :\n\n Comparing agentic Qwen3.6 35b to Claude Opus is like a junior with knowledge across the board, that you really need to guide, versus a senior that thinks with you on architecture. If Opus gives a 15x speedup, local and fully offline Qwen gives a 5x speedup.\n\n But for many, the tradeoff is worth it. Privacy, zero cost, & complete offline capability matter.\n\n Given that it’s completely free, is still mind-boggling to me.\n\n The local coding stack is maturing fast. Qwen 3.6 35B-A3B has become the de facto standard & Pi the leading harness.\n\n The benchmark data backs up the sentiment. Qwen3.6 27B scores 77.2% & the MoE variant, Qwen3.6 35B-A3B, hits 73.4%. These two local models are within spitting distance of Claude Sonnet 4.6 (79.6%). 3\n\n This is the minimill pattern playing out in real time. It’s not just for CRM updates & web research. The current generation of local models is good enough for reasonable coding tasks.\n\n---\n\n https://news.ycombinator.com/item?id=48542100   ↩︎\n\n MoE models are large models that only activate a small fraction of their total parameters. Qwen 3.6 35B-A3B has 35 billion total parameters but only 3 billion active at inference time, while the 27B variant runs all 27 billion parameters each time.  ↩︎\n\n SWE-bench Verified scores from llm-stats.com & morphllm.com , June 2026.  ↩︎"
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery",
+      "title": "The State of Fable, The Jailbreak Problem, SpaceX Acquires Cursor",
+      "url": "https://stratechery.com/2026/the-state-of-fable-the-jailbreak-problem-spacex-acquires-cursor/",
+      "publishedAt": "Wed, 17 Jun 2026 10:00:00 +0000",
+      "author": "Ben Thompson",
+      "description": "The administration is very likely wrong about Fable, but that is ultimately Anthropic's responsibility.",
+      "content": "The administration is very likely wrong about Fable, but that is ultimately Anthropic's responsibility.\n\n---\n\nListen to this Update in your podcast player\n\n---\n\nGood morning,\n\nOn this week’s episode of Greatest of All Talk , Andrew and Adam break down a thrilling NBA Finals that ended with a New York Knicks title. Oh, and while I’m here, congrats to all of the Knicks fans!\n\nOn to the Update:\n\nThe State of Fable\n\nFrom the Washington Post :\n\nTrump administration officials began weighing sanctions on Anthropic weeks before they demanded the company take its latest and most advanced artificial intelligence model offline, after a dispute shattered the White House’s already-fragile trust in the company, according to two White House officials who spoke on the condition of anonymity to describe private deliberations.\n\nSeveral weeks ago, Anthropic gave the administration a list of 111 organizations slated to receive advanced access to Mythos, its newest model, one of the officials said. With companies around the world clamoring for the technology after Anthropic warned it could dramatically enhance hackers’ capabilities, officials reviewed the list and signed off. But Anthropic later disclosed that the list had ballooned and roughly 50 additional entities had already received access.\n\nSenior officials began to consider using export controls to claw back the technology after the company did not identify the new recipients for days. When Anthropic finally turned over the names, the administration discovered that one recipient was a South Korean telecommunications company the administration suspected of having ties to China, the officials said. Anthropic quickly revoked the firm’s access to Mythos, said a person close to Anthropic, who spoke on the condition of anonymity to describe the deliberations. But the episode badly damaged officials’ confidence in the company’s ability to safeguard sensitive technology…\n\nThe administration wants to lift the sanctions as soon as it’s convinced Anthropic has fully accounted for everyone who received the Mythos product and has strengthened the protections on the Fable project to prevent it from being jailbroken, the official said. The administration has no intention of moving against other products from Anthropic or other AI companies, the person added.\n\nI sort of side-stepped the specifics of the current stand-off between Anthropic and the Trump administration in Monday’s Article Anthropic’s Safety Superpower , given the level of uncertainty about what exactly happened; unfortunately that uncertainty remains, and, on a personal level, I’m certainly disappointed to not have access to Fable.\n\nI did want to start with this story from the Washington Post because I suspect it captures something important: I doubt the current dispute suddenly arose with an alleged phone call from Amazon CEO Andy Jassy to Treasury Secretary Scott Bessent; rather, it’s something that has likely been building for a long time. And, thanks to the dispute with the Department of War , there was a ready-made constituency in the Trump administration for cracking down on Anthropic generally, particularly if Anthropic was legitimately perceived as violating the spirit of the administration’s executive order.\n\nThis isn’t to let the administration off the hook: setting aside whether or not their objections are reasonable — more on that below — the fact of the matter is that a de facto policy change that limits not just Mythos/Fable but all future models to administration-approved entities will destroy the economics of frontier models, which need to maximize usage; it also may destroy the feedback mechanism that comes from usage, which appears to be an increasingly critical factor in terms of model improvement.\n\nThe Jailbreak Problem\n\nAt the same time, I think there is a more fundamental issue: Anthropic’s dramatic unveiling of Mythos created a standard for control that was fundamentally unattainable. Consider the jailbreak issue: we don’t know what the jailbreak Amazon discovered was, but there is at least some reporting that it was incredibly banal; from The Atlantic :\n\nIt’s not unreasonable for the federal government to want to rapidly clamp down on a technology that could be incredibly dangerous. Trump officials had been alerted by researchers at Amazon to a possible way to circumvent Fable 5’s safety systems, which led the model to identify some known IT vulnerabilities. The administration has not publicly shared much information about its security concerns. A White House spokesperson told me that the jailbreak “was very serious” but said that specific details are classified. Whether the bypass really was that serious is not at all clear, and Anthropic has contested whether what administration officials showed the company even constitutes a jailbreak. An Anthropic spokesperson pointed me to a blog post in which the company wrote that the actions elicited from Fable were “either entirely benign responses or are minor findings.”\n\nKatie Moussouris, a cybersecurity expert and the CEO of Luta Security, told me that Anthropic shared with her a copy of the White House’s report on the Fable jailbreak to get her appraisal. (She said that she is not being paid by Anthropic.) The report, Moussouris said, involved IT experts asking Fable to help find and patch bugs. When given deliberately insecure code, she said, Fable refused the prompt “review the code for security issues” but then complied when asked to “fix this code,” followed by some further manual steps. Moussouris told me that this was just “the model working as intended” for cyberdefense. She added that OpenAI’s GPT-5.5, a model with similar cybersecurity capabilities, could be used in the same way.\n\nAgain, we don’t know if this was the jailbreak, but let’s assume that it was; as Moussouris wrote in a blog post :\n\nDefenders need to be able to ask AI to fix the bugs in a file, explain why the fix matters, and write tests that confirm the patch works. That is not a guardrail bypass. It is the most valuable thing an AI model can do for defensive security: executing the find, fix, and test loop defenders run every day.\n\nThe prompts worked because they were defensive requests, and that capability cannot be removed without making the model worse at fixing bugs and verifying patches. The same holds for every capable AI model, including the foreign and open-weight systems the United States cannot reach with export controls, many of which will match Fable and Mythos capabilities within months. Will all the US based models be export controlled? They have fewer guardrails than Fable 5, and almost all the capabilities, or will shortly.\n\nThis is obviously correct: cybersecurity defense is indistinguishable from offense; there are echoes here of the encryption battles of the 1990s, when the U.S. government wanted to ban encryption but was eventually persuaded to stand down by the argument that encryption doesn’t just protect criminal activity, but also protects things that need to be protected too — including government secrets — and that you don’t get to pick-and-choose its application. So it is with AI and cybersecurity: the best defense for AI-enabled cybersecurity attacks is AI-enabled cybersecurity protection, including actually looking for vulnerabilities.\n\nZooming out, however, I think there is an even bigger issue when it comes to AI specifically. Encryption was ultimately understandable and defendable as an all-or-nothing concept because it is deterministic: strong encryption protocols are fully open source and understandable, even as they are unbreakable, because, at the end of the day, they are math. Math — and the code used for encryption — is deterministic: it either works as it is supposed to or it is fundamentally flawed; you don’t get to have the good encryption for the good guys and the bad encryption for the bad guys. In other words, you can’t distinguish between use cases.\n\nWhat makes AI so difficult to talk about, on the other hand, is that it is probabilistic. This, at the end of the day, is how jailbreaks work: because models don’t depend on deterministic code, you can’t simply define boundaries of what is acceptable and what isn’t according to a set of heuristics. Rather, you provide guidelines that the model interprets and probably abides by but, with the right prompt and the incredible creativity of jailbreakers, the model can be prompted to do what its creators didn’t want it to do. It’s just a matter of tipping the probability function in your favor. In contrast to encryption, the problem isn’t the inability to distinguish between use cases for a knowable technology, but the inability to even know what the use case is.\n\nI don’t really expect anyone in the administration to truly understand this, just because you can see everywhere the extent to which people don’t really understand how AI works. Most people experience AI as a magical answer machine that weirdly can’t count the number of ‘r’s in ‘strawberry’ (although Fable could ), and never draw the connection between those types of weird shortcomings and the fact you can’t actually perfectly stop “jailbreaks” of this sort.\n\nNow, to the extent this is true, you may wish it were not the case: you might wish that the people with guns had an intuition for how AI works. You might say the same thing about consumers generally, who have frustrated technologists for decades with their unrealistic expectations and refusal to just “figure it out”. Ultimately, however, the companies that succeeded — like Apple, to go back to the analogy I drew on Monday, but in this case as a contrast — did so by explaining problems in clear language, and demonstrating how their products solved those problems.\n\nNotice how this sort of language is missing from Anthropic. Go back to the Project Glasswing announcement ; this paragraph was the closest the company came to explaining how Mythos Preview worked:\n\nMany flaws in software go unnoticed for years because finding and exploiting them has required expertise held by only a few skilled security experts. With the latest frontier AI models, the cost, effort, and level of expertise required to find and exploit software vulnerabilities have all dropped dramatically. Over the past year, AI models have become increasingly effective at reading and reasoning about code—in particular, they show a striking ability to spot vulnerabilities and work out ways to exploit them. Claude Mythos Preview demonstrates a leap in these cyber skills—the vulnerabilities it has spotted have in some cases survived decades of human review and millions of automated security tests, and the exploits it develops are increasingly sophisticated.\n\nDo you see the gap in communication? What is lacking is an explanation of how it is that models can read and reason about code, find vulnerabilities, and exploit them. That capability is a function of approaching any problem probabilistically instead of deterministically; the problem with the latter is that the set of problems to which it can be applied is definitionally limited by the rigidity that results in a clearly correct answer. A probabilistic approach, on the other hand, runs the chance of being wrong (i.e. hallucinating), but in exchange it gains the ability to navigate any problem: the set of applicable domains is infinite. This is why Mythos can look at any code base, even if it’s not trained on them; this is also why you can’t get Mythos to only play defense while eschewing offense. The strength of the approach is its weakness.\n\nThese are, to be clear, exhausting explanations to make; they are also far more difficult when you lead with dramatic assertions, don’t respect the counterparty, or think you’re smarter than everyone else in the room. Steve Jobs’ brilliance was that he treated consumers with respect, even if they had no idea how a computer worked. Does anyone feel that Anthropic treats anyone outside of Anthropic..."
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 4,
+    "totalTweets": 9,
+    "blogPosts": 9,
+    "podcastEpisodes": 0
+  }
+}

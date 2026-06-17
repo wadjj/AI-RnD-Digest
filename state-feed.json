@@ -82,7 +82,16 @@
     "https://twitter.com/petergostev/status/2066869410099257350": 1781653819187,
     "https://twitter.com/markchen90/status/2067006647743242551": 1781653819187,
     "https://twitter.com/gdb/status/2066768795503595718": 1781653819187,
-    "https://twitter.com/JeffDean/status/2066726460426158381": 1781653819187
+    "https://twitter.com/JeffDean/status/2066726460426158381": 1781653819187,
+    "https://twitter.com/gdb/status/2067344606128468445": 1781740359855,
+    "https://twitter.com/gdb/status/2067144669897859411": 1781740359855,
+    "https://twitter.com/gdb/status/2067100786098831681": 1781740359855,
+    "https://twitter.com/emollick/status/2067344183870836985": 1781740359856,
+    "https://twitter.com/emollick/status/2067294892687024304": 1781740359856,
+    "https://twitter.com/emollick/status/2067056226337186146": 1781740359856,
+    "https://twitter.com/petergostev/status/2067216755584389313": 1781740359856,
+    "https://twitter.com/thsottiaux/status/2067181377028538431": 1781740359856,
+    "https://twitter.com/thsottiaux/status/2067064381855187231": 1781740359856
   },
   "seenVideos": {},
   "seenArticles": {
@@ -141,8 +150,16 @@
     "https://simonwillison.net/2026/Jun/16/fable-5-export-controls/#atom-everything": 1781653819188,
     "https://simonwillison.net/2026/Jun/16/matteo-wong-the-atlantic/#atom-everything": 1781653819188,
     "https://www.rundown.ai/articles/xbox-s-studio-crisis-gets-bigger": 1781653819188,
-    "https://www.rundown.ai/articles/why-100-security-experts-say-the-fable-5-ban-backfires": 1781653819188
+    "https://www.rundown.ai/articles/why-100-security-experts-say-the-fable-5-ban-backfires": 1781653819188,
+    "https://stratechery.com/2026/the-state-of-fable-the-jailbreak-problem-spacex-acquires-cursor/": 1781740359856,
+    "https://simonwillison.net/2026/Jun/17/charity-majors/#atom-everything": 1781740359856,
+    "https://simonwillison.net/2026/Jun/17/click-to-play-component/#atom-everything": 1781740359856,
+    "https://simonwillison.net/2026/Jun/17/netnewswire-status/#atom-everything": 1781740359856,
+    "https://www.rundown.ai/articles/cursor-officially-joins-the-spacex-ai-machine": 1781740359856,
+    "https://sebastianraschka.com/blog/2026/vibethinker-3b-post-training.html": 1781740359856,
+    "https://www.tomtunguz.com/databricks-widens-lead/": 1781740359856,
+    "https://www.tomtunguz.com/local-coding-models/": 1781740359856
   },
-  "lastRunKey": "2026-06-17",
-  "lastRunAt": "2026-06-16T23:50:19.193Z"
+  "lastRunKey": "2026-06-18",
+  "lastRunAt": "2026-06-17T23:52:39.862Z"
 }
