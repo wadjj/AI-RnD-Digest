@@ -91,7 +91,21 @@
     "https://twitter.com/emollick/status/2067056226337186146": 1781740359856,
     "https://twitter.com/petergostev/status/2067216755584389313": 1781740359856,
     "https://twitter.com/thsottiaux/status/2067181377028538431": 1781740359856,
-    "https://twitter.com/thsottiaux/status/2067064381855187231": 1781740359856
+    "https://twitter.com/thsottiaux/status/2067064381855187231": 1781740359856,
+    "https://twitter.com/gdb/status/2067700691062464887": 1781827278646,
+    "https://twitter.com/gdb/status/2067675030335668270": 1781827278646,
+    "https://twitter.com/gdb/status/2067473704200863774": 1781827278647,
+    "https://twitter.com/bcherny/status/2067700226669060207": 1781827278647,
+    "https://twitter.com/trq212/status/2067682475611242546": 1781827278647,
+    "https://twitter.com/_catwu/status/2067674836726694200": 1781827278647,
+    "https://twitter.com/_sholtodouglas/status/2067643188094042131": 1781827278647,
+    "https://twitter.com/_sholtodouglas/status/2067473495920140363": 1781827278647,
+    "https://twitter.com/_sholtodouglas/status/2067467213544792424": 1781827278647,
+    "https://twitter.com/petergostev/status/2067564047432651160": 1781827278647,
+    "https://twitter.com/markchen90/status/2067402457500758375": 1781827278647,
+    "https://twitter.com/polynoamial/status/2067402274662744465": 1781827278647,
+    "https://twitter.com/NoamShazeer/status/2067400851438932297": 1781827278647,
+    "https://twitter.com/thsottiaux/status/2067399435009622521": 1781827278647
   },
   "seenVideos": {},
   "seenArticles": {
@@ -158,8 +172,16 @@
     "https://www.rundown.ai/articles/cursor-officially-joins-the-spacex-ai-machine": 1781740359856,
     "https://sebastianraschka.com/blog/2026/vibethinker-3b-post-training.html": 1781740359856,
     "https://www.tomtunguz.com/databricks-widens-lead/": 1781740359856,
-    "https://www.tomtunguz.com/local-coding-models/": 1781740359856
+    "https://www.tomtunguz.com/local-coding-models/": 1781740359856,
+    "https://stratechery.com/": 1781827271385,
+    "https://www.rundown.ai/articles/meet-eno-the-anti-humanoid-robot": 1781827278648,
+    "https://www.rundown.ai/articles/inside-the-deadlock-keeping-mythos-offline": 1781827278648,
+    "https://stratechery.com/2026/an-interview-with-michael-morton-about-e-commerce-in-the-age-of-ai/": 1781827278648,
+    "https://sebastianraschka.com/blog/2026/glm-5-2-indexshare.html": 1781827278648,
+    "https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything": 1781827278648,
+    "https://simonwillison.net/2026/Jun/16/datasette/#atom-everything": 1781827278648,
+    "https://simonwillison.net/2026/Jun/16/datasette-tailscale/#atom-everything": 1781827278648
   },
-  "lastRunKey": "2026-06-18",
-  "lastRunAt": "2026-06-17T23:52:39.862Z"
+  "lastRunKey": "2026-06-19",
+  "lastRunAt": "2026-06-19T00:01:18.654Z"
 }
