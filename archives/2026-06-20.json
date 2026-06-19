@@ -1,0 +1,265 @@
+{
+  "generatedAt": "2026-06-19T23:17:23.138Z",
+  "runKey": "2026-06-20",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Boris Cherny",
+      "handle": "bcherny",
+      "bio": "Claude Code @anthropicai",
+      "tweets": [
+        {
+          "id": "https://twitter.com/bcherny/status/2068064304503660962",
+          "text": "Cool way to use Claude Code: deciphering Linear A, a 3500 year old written language from Crete\n\nhttps://aiclambake.com/clamtakes/linear-a/\n\nHope this holds up in peer review! 🤞",
+          "createdAt": "2026-06-19T20:12:07.086Z",
+          "url": "https://x.com/bcherny/status/2068064304503660962",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Greg Brockman",
+      "handle": "gdb",
+      "bio": "President & Co-Founder @OpenAI",
+      "tweets": [
+        {
+          "id": "https://twitter.com/gdb/status/2068016345451831480",
+          "text": "OpenAI for helping families facing rare genetic diseases. This was done with o3 which is over a year old, amazing to think what will be possible with today’s models.\n---\n OpenAI Newsroom: For families facing rare genetic diseases, answers can be hard to find.\n\n@HallieJackson spoke live with @_perloj and Dr. Catherine Brownstein about the new NEJM AI paper and our work with Boston Children’s Hospital, where experts used o3 Deep Research to help diagnose rare",
+          "createdAt": "2026-06-19T17:01:33.814Z",
+          "url": "https://x.com/gdb/status/2068016345451831480",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/OpenAINewsroom/status/2068008435548037553\nOpenAI Newsroom: For families facing rare genetic diseases, answers can be hard to find.\n\n@HallieJackson spoke live with @_perloj and Dr. Catherine Brownstein about the new NEJM AI paper and our work with Boston Children’s Hospital, where experts used o3 Deep Research to help diagnose rare"
+        },
+        {
+          "id": "https://twitter.com/gdb/status/2067884985596703079",
+          "text": "Codex app is very good\n---\n Q: codex desktop app @OpenAI is crazy\n\ni have a session with nearly 300 subagents running more than a day\nthanks to @justsisyphus lazycodex\n\nand it is just smooth as hell\nno bad experience",
+          "createdAt": "2026-06-19T08:19:34.113Z",
+          "url": "https://x.com/gdb/status/2067884985596703079",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/q_yeon_gyu_kim/status/2067865572139053297\nQ: codex desktop app @OpenAI is crazy\n\ni have a session with nearly 300 subagents running more than a day\nthanks to @justsisyphus lazycodex\n\nand it is just smooth as hell\nno bad experience"
+        },
+        {
+          "id": "https://twitter.com/gdb/status/2067843106469515603",
+          "text": "Launching credit usage analytics and updated spend controls for enterprises, available in our global admin console:\n\n---\n angel: nothing gets admins more excited than enterprise spend controls and we’re happy to deliver!\n\nadmins can now manage spend controls for codex and that on the workspace, group, and user level; users can also view their credit consumption and request additional credits.\n\nhappy",
+          "createdAt": "2026-06-19T05:33:09.789Z",
+          "url": "https://x.com/gdb/status/2067843106469515603",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/angelbrodin/status/2067713145012187216\nangel: nothing gets admins more excited than enterprise spend controls and we’re happy to deliver!\n\nadmins can now manage spend controls for codex and that on the workspace, group, and user level; users can also view their credit consumption and request additional credits.\n\nhappy"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Demis Hassabis",
+      "handle": "demishassabis",
+      "bio": "Nobel Laureate. Co-Founder & CEO @GoogleDeepMind - working on AGI. Solving disease @IsomorphicLabs. Trying to understand the fundamental nature of reality.",
+      "tweets": [
+        {
+          "id": "https://twitter.com/demishassabis/status/2068002732250640603",
+          "text": "Thanks John for an extraordinary partnership and wonderful collaboration over the past 9 years! What we achieved with AlphaFold changed the world, and showed the field what was possible with AI for science and medicine, lighting the way for how AI can benefit humanity.\n---\n John Jumper: A bit of news: After nearly 9 years, I have decided to leave Google DeepMind and join Anthropic (after taking some time to recharge). I am incredibly grateful for my time at GDM. @demishassabis took a real chance letting me lead the AlphaFold team just six months after finishing",
+          "createdAt": "2026-06-19T16:07:27.159Z",
+          "url": "https://x.com/demishassabis/status/2068002732250640603",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/JohnJumperSci/status/2068001285173834106\nJohn Jumper: A bit of news: After nearly 9 years, I have decided to leave Google DeepMind and join Anthropic (after taking some time to recharge). I am incredibly grateful for my time at GDM. @demishassabis took a real chance letting me lead the AlphaFold team just six months after finishing"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Gostev (SF: 22-26 June)",
+      "handle": "petergostev",
+      "bio": "London 🇬🇧 AI Capability @ https://t.co/Y4VEGWofQ8 https://t.co/bkfw1nxdmJ",
+      "tweets": [
+        {
+          "id": "https://twitter.com/petergostev/status/2067974996484309327",
+          "text": "A periodic reminder to clear out your agents.md & claude.md - if you are anything like me, it is probably full of unhelpful hacks and tricks from months ago that are confusing the latest models",
+          "createdAt": "2026-06-19T14:17:14.608Z",
+          "url": "https://x.com/petergostev/status/2067974996484309327",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/petergostev/status/2067752081943847371",
+          "text": "RT Alex Volkov\nThursdAI - Jun 18 is live!\n\nThe US government BANNED the best AI model on Earth (Fable 5)... so open source took over this week.\n\n🚫 Fable 5 yanked\n🥇 GLM-5.2 tops open source\n⚡ Kimi K2.7 Code (1T MoE)\n🚀 SpaceX buys Cursor for $60B\n🧠 Noam Shazeer → OpenAI\n🐝 @wandb HiveMind launch\n🩻 Midjourney builds an MRI killer?\n\nBig open source week, check out the full show notes and links in the comment",
+          "createdAt": "2026-06-18T23:24:30.910Z",
+          "url": "https://x.com/petergostev/status/2067752081943847371",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Professor @Wharton studying AI, innovation & startups. Democratizing education using tech Book: https://t.co/CSmipbJ2jV Substack: https://t.co/UIBhxu4bgq",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2067803678002594021",
+          "text": "There are papers that show training AI on \"evil\" data results in general misalignment, so it is nice to know the opposite is true and that beneficial RL data in one field leads to more aligned models across a range of tasks.\n---\n Karan Singhal: New research on beneficial RL: models trained on a small amount of beneficial trait data improve on a wide range of alignment and benefits evaluations, even if trained only on health domain data.\n\nWe hope it’s a step towards more broadly and persistently beneficial models. 🧵",
+          "createdAt": "2026-06-19T02:56:29.946Z",
+          "url": "https://x.com/emollick/status/2067803678002594021",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/thekaransinghal/status/2067726273934418119\nKaran Singhal: New research on beneficial RL: models trained on a small amount of beneficial trait data improve on a wide range of alignment and benefits evaluations, even if trained only on health domain data.\n\nWe hope it’s a step towards more broadly and persistently beneficial models. 🧵"
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2067767909770805685",
+          "text": "One of the key moments of the LLM era, ali g with GPT-3.5 and the decision by Microsoft to not take down Bing/Sydney/GPT-4 after the @kevinroose New York Times article.\n---\n roon: imo it is crazy that openai, years into the heated AGI race, released o1 and described in quite a bit of detail the principles of scaling RL over CoT. I wonder how much value was dispersed to the public that day",
+          "createdAt": "2026-06-19T00:34:21.611Z",
+          "url": "https://x.com/emollick/status/2067767909770805685",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/tszzl/status/2067760588315652123\nroon: imo it is crazy that openai, years into the heated AGI race, released o1 and described in quite a bit of detail the principles of scaling RL over CoT. I wonder how much value was dispersed to the public that day"
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2067757196188774660",
+          "text": "I have given AA a hard time about its previous agentic evaluation but this looks like a good and impressive benchmark for real world knowledge work that is unsaturated and had private hold out tests.\n\nThis is one to watch - I didn’t see a human comparison score though?\n---\n Artificial Analysis: Announcing AA-Briefcase, the benchmark for the next era of agentic knowledge work\n\nAA-Briefcase is our new benchmark for testing models on long-horizon knowledge work tasks in complex projects built by industry experts. Models are evaluated on multi-week projects, each with many",
+          "createdAt": "2026-06-18T23:51:47.693Z",
+          "url": "https://x.com/emollick/status/2067757196188774660",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/ArtificialAnlys/status/2067744637155226101\nArtificial Analysis: Announcing AA-Briefcase, the benchmark for the next era of agentic knowledge work\n\nAA-Briefcase is our new benchmark for testing models on long-horizon knowledge work tasks in complex projects built by industry experts. Models are evaluated on multi-week projects, each with many"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Anthony Morris ツ",
+      "handle": "amorriscode",
+      "bio": "claude code @anthropicAI | ex @stripe → https://t.co/AjndW0qdf0",
+      "tweets": [
+        {
+          "id": "https://twitter.com/amorriscode/status/2067803174250094625",
+          "text": "RT ClaudeDevs\nEarlier today, ~3% of Claude Code Max and Pro users hit a bug that showed an incorrect weekly usage limit, and in some cases blocked them from sending messages.\n\nThis is fixed, and we're resetting 5-hour and weekly limits for everyone affected. Apologies for the disruption.",
+          "createdAt": "2026-06-19T02:50:28.129Z",
+          "url": "https://x.com/amorriscode/status/2067803174250094625",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2067783964077547520",
+          "text": "What do you use",
+          "createdAt": "2026-06-19T01:38:09.400Z",
+          "url": "https://x.com/thsottiaux/status/2067783964077547520",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Stratechery by Ben Thompson",
+      "title": "2026.25: The Stuff of Myth(os)",
+      "url": "https://stratechery.com/2026/the-stuff-of-mythos/",
+      "publishedAt": "2026-06-19T17:00:00.201Z",
+      "author": "Ben Thompson",
+      "description": "(Photo by Ronald Cortes/Getty Images) Welcome back to This Week in Stratechery!\n\nAs a reminder, each week, every Friday, we’re sending…",
+      "content": "(Photo by Ronald Cortes/Getty Images)\n\n Welcome back to This Week in Stratechery!\n\n As a reminder, each week, every Friday, we’re sending out this overview of content in the Stratechery bundle; highlighted links are free for everyone . Additionally, you have complete control over what we send to you. If you don’t want to receive This Week in Stratechery emails (there is no podcast), please uncheck the box in your delivery settings .\n\n On that note, here were a few of our favorites this week.\n\n Anthropic Again. Well, Fable was fun well it lasted: last Friday the Trump administration slapped export controls on the model, limiting access to U.S. citizens, leaving Anthropic no choice in the short term but to make the model unavailable. We still don’t entirely know what happened, although Occam’s Razor suggests that people still don’t really understand how AI works . Ultimately, however, the power and problem of Anthropic is the same: the company’s safety superpower is that every action it takes looks, from the outside, to be self-serving, even as the company becomes ever more convinced its motivations are pure. — Ben Thompson\n\n E-Commerce in the Age of AI. The semi-regular e-commerce summits between Ben and Michael Morton are generally an auto-rec for me, and this week’s Stratechery Interview was no exception . Morton covers the sector for Moffett Nathanson, and the conventional wisdom about the future of that space in the AI era seems to shift every six months. This week, Morton and Ben talked Shopify and its durability, OpenAI getting its butt kicked with the ChatGPT checkout experiment, milkmen in the 1960s, and a bit of Uber and Waymo at the end. Come for an information dense update on a variety of fronts, and stay for a good vibe throughout. — AS\n\n The Finals Were a Perfect 10.  The Knicks are NBA Champions for the first time in 53 years, the NBA just had its highest-ratings for an NBA Finals in 28 years, and from start to finish, the show was fantastic for casual and hardcore fans alike. We had a great time reliving all of it on this week’s Greatest of All Talk , and on Sharp Text this week , I wrote about Wemby alienating fans on and off the court, an accounting of everything I got wrong about this Knicks team, and a refreshing reminder that as maddening as pro basketball can be, certain NBA formulas will work until the end of time.  — AS\n\n---\n\n Stratechery Articles and Updates\n\n Anthropic’s Safety Superpower — Anthropic’s belief in its own commitment to safety gives the company license to aggressively favor its business and even challenge the U.S. government.\n\n Fox Buys Roku, The Problem With Fox’s Smart Strategy, Streaming That Works — The market hates Fox’s acquisition of Roku, but the company is trading extraction from rights holders for leverage as a renter.\n\n The State of Fable, The Jailbreak Problem, SpaceX Acquires Cursor — The administration is very likely wrong about Fable, but that is ultimately Anthropic’s responsibility.\n\n An Interview with Michael Morton About E-Commerce in the Age of AI — An interview with Michael Morton about e-commerce and AI, including the challenges of unfalsifiable bear cases, distribution versus referal models, grocery, and autonomous vehicles.\n\n Sharp Text by Andrew Sharp\n\n Aura and the Lack Thereof — Looking back at the NBA Finals where Victor Wembanyama became a villain, the Knicks became legends, and the NBA mattered again.\n\n Dithering with Ben Thompson and Daring Fireball’s John Gruber\n\n Anthropic’s PR\n\n Prices and Specs\n\n Asianometry with Jon Yu\n\n Sri Lanka’s Organic Fertilizer Debacle\n\n The “Miracle” Rice\n\n Greatest of All Talk\n\n The Knicks Are NBA Champions, The Most Enjoyable Title Winners Since 2010, Wemby Crashes Back to Earth\n\n Sharp Tech with Andrew Sharp and Ben Thompson\n\n The Anthropic Saga Continues, Fox and the Future of Streaming, Q&A on ChatGPT, Agentic Shopping, Autonomous Driving\n\n This week’s Stratechery video is on The iPhone’s Last Stand ."
+    },
+    {
+      "source": "blog",
+      "name": "The Rundown AI",
+      "title": "Step into Midjourney's spa for a body scan - Rundown AI",
+      "url": "https://www.rundown.ai/articles/step-into-midjourney-s-spa-for-a-body-scan",
+      "publishedAt": "2026-06-19T09:00:49.491Z",
+      "author": "",
+      "description": "Midjourney has spent years turning text prompts into surreal images. But its next big image project is a little more personal: the inside of…",
+      "content": "Midjourney has spent years turning text prompts into surreal images. But its next big image project is a little more personal: the inside of your body. The company just revealed a full-body scanner that lowers users through an ultrasound ring for fast body maps, and wraps the whole thing in a spa rollout — becoming easily the most surprising AI launch of the week."
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Datasette Apps: Host custom HTML applications inside Datasette",
+      "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything",
+      "publishedAt": "2026-06-18T23:58:38.390Z",
+      "author": "",
+      "description": "Today we launched a new plugin for Datasette, datasette-apps, with this launch announcement post on the Datasette project blog. That post…",
+      "content": "Today we launched a new plugin for Datasette, datasette-apps , with this launch announcement post on the Datasette project blog. That post has the what , but I'm going to expand on that a little bit here to provide the why .\n\n The TL;DR\n\n Datasette Apps are self-contained HTML+JavaScript applications that run in a tightly constrained sandbox hosted on your Datasette application. They can use JavaScript to run read-only SQL queries against data in Datasette, and can run write queries too if you configure them with some stored queries .\n\n Here's a very simple example and a more complex custom timeline example - the latter looks like this:\n\n Apps are allowed to run JavaScript and render HTML and CSS. They are limited in terms of access - the they run in prevents them from accessing cookies or localStorage and they also have an injected CSP header (thanks to this research ) which prevents them from making HTTP requests to outside hosts, preventing a malicious or buggy app from exfiltrating private data.\n\n Datasette Apps started out as my attempt at building a Claude Artifacts mechanism for Datasette Agent , but I quickly realised that the sandboxed pattern is interesting for way more than just adding custom apps in a chat interface and promoted it to its own top-level concept within the Datasette ecosystem.\n\n They're also a fun way to turn my multi-year experiment in vibe-coded HTML tools into a core feature of my main project!\n\n You can try out Datasette Apps by signing in with GitHub to the agent.datasette.io demo instance.\n\n Why build this?\n\n Since the very first release, Datasette has offered a flexible backend for creating custom HTML apps via its JSON API.\n\n One of my earliest Datasette projects was an internal search engine for documentation when I worked at Eventbrite - it worked by importing documents from different systems into SQLite on a cron and then serving them through a Datasette instance with a custom HTML+JavaScript search interface that directly queried the Datasette API.\n\n I had client-side JavaScript constructing SQL queries, which originally was intended as an engineering joke but turned out to be a really productive way of iterating on the app!\n\n That project, combined with my experience building my HTML tools collection and my experiments with Claude Artifacts , has convinced me that adding a Datasette-style backend to a self-contained HTML frontend is an astonishingly powerful combination.\n\n Imagine how much more useful Claude Artifacts could be if they had access to a persistent relational database. That's what I'm building with Datasette Apps!\n\n Neat ideas in Datasette Apps\n\n Here are a few of the ideas and patterns I've figured out building this which I think have staying power.\n\n +\n\n This is the magic combination that makes Datasette Apps feasible in the first place. I need to run untrusted HTML and JavaScript on a highly sensitive domain - an authenticated Datasette instance can contain all sorts of private data. The sandbox= attribute lets me run that untrusted code in a way that cannot interact with the parent application - it can't read the DOM, or access cookies, or steal secrets from localStorage . It can however use fetch() and friends to load content (or exfiltrate data) from other domains. But... it turns out if you start an HTML page with a header you can set additional policies that lock down access to other domains. I was worried that malicious JavaScript would be able to update or remove that header but it turns out that doesn't work - once set, the CSP policy is immutable for the content of that frame.\n\n Locked down APIs with postMessage() and MessageChannel()\n\n Having locked down those iframes to the point that they couldn't do anything interesting at all, the challenge was to open them back again such that they could run an allow-list of operations, starting with read-only SQL queries against specified databases.\n\n I built the first version of this with postMessage() , which allows a child iframe to send messages to the parent window. I created a simple protocol for requesting that the parent run a SQL query - the parent could then verify it was against an allow-listed database before executing it.\n\n One of the LLM tools, I think it was GPT-5.5, suggested that postMessage() on its own can be exploited if the iframe somehow loads additional code from an untrusted domain. I don't think that applies to Datasette Apps, but I also believe in defense in depth, so I had GPT-5.5 help me port to a MessageChannel() based transport instead.\n\n MessageChannel() has the advantage that if a page navigates to somewhere else the channel closes automatically, removing any chance of executing commands sent from an untrusted external page.\n\n Visible logs, for queries and errors\n\n If you navigate to the timeline demo and search for the string usercontent you'll pull in some search results that embed images from the user-images.githubusercontent.com domain. This domain is not in the CSP allow-list, so it trips an error.\n\n Those errors are captured and transmitted back to the parent frame, where they can be displayed in a useful error log. This is meant to make hacking on apps more productive by surfacing otherwise-invisible problems.\n\n I built an experiment demonstrating that you can even turn this into a one-click-to-allow mechanism for building the CSP allow-list based on what breaks, but I haven't integrated that idea into datasette-apps just yet.\n\n SQL queries are also visibly logged - scroll to the bottom of the timeline page to see that in action.\n\n Stored queries for write operations\n\n I want apps to be able to conditionally write to the database, but this is an even more dangerous proposition than SQL reads!\n\n My solution involves Datasette's stored queries feature, rebranded from \"canned queries\" and given a major upgrade in the recent Datasette 1.0a31 - work that was directly inspired by Datasette Apps.\n\n Users can create a stored write query that performs an insert or update, then allow-list that specific query for an app to use. Usage from code inside an app looks like this:\n\n const result = await datasette . storedQuery ( \"todos\" , \"add_todo\" , {\n title : \"Buy milk\" ,\n due_date : \"2026-06-20\" ,\n priority : \"high\" ,\n completed : false\n } ) ;\n\n I'm only just beginning to explore the possibilities this unlocks myself, but my goal is to support full read-write applications built safely as Datasette Apps.\n\n Copy and paste a prompt to build an app\n\n The Datasette Apps plugin has no dependency on LLMs at all, but these self-contained apps are the perfect shape to be written by a modern LLM.\n\n The create app form includes a copyable prompt at the end. This prompt has everything a model needs to know to build a new app, including the schema of any selected databases.\n\n This means you can click \"copy\", paste it into ChatGPT or Claude or Gemini, tell it what you need, and there's a good chance the model will spit out the code necessary to build the app.\n\n If you have Datasette Agent installed your AI assistant will also gain tools to both create new apps and edit existing ones, Claude Artifacts style.\n\n Built with so much AI assistance\n\n Datasette Apps started life back in April as datasette-agent-artifacts , a plugin I have since renamed to datasette-agent-edit keeping only its editing tools . I built that as one of the first plugins for Datasette Agent , to help get the plugin hooks into the right shape. That first prototype was mainly built using Claude Opus 4.6 in Claude Code.\n\n When I switched track to Datasette Apps I started with a plan constructed using Codex Desktop and GPT-5.5 xhigh, based on extensive dialog and feeding in both datasette-agent-artifacts and other prototypes I had built.\n\n Most of the work that followed stuck with Codex, but in the few short days that we had access to Claude Fable 5 I had it run a security evaluation of the product (an ability that would get it banned by the US government shortly afterwards) and it found a very real problem.\n\n I was allowing users to allow-list CSP hosts for their apps, but Fable pointed out the following attack:\n\n A less privileged user with create-app permission creates an app that queries SQLite for all available tables and selects and exfiltrates all of the data to a host they had allow-listed via CSP.\n\n They then trick an administrator user with access to private data into visiting their app.\n\n ... and the app can now run queries as that user and steal their private data!\n\n That's clearly unacceptable. I fixed it by restricting the ability to allow-list any domain to a new apps-set-csp permission, which is intended just for trusted staff. Site administrators can also configure Datasette with a list of allowed_csp_origins , which regular users can then select. This means you can do things like allow cdnjs.cloudflare.com and your users will be able to build apps that load extra JavaScript libraries from the cdnjs CDN.\n\n I've reviewed Datasette Apps extremely closely, especially the security-adjacent parts of it. The critical sandbox and CSP configuration are based on multiple AI-assisted prototypes and tests.\n\n It's looking good so far\n\n I'm really pleased with this initial release.\n\n Datasette is growing beyond its origins as an application for serving read-only data into a much richer ecosystem of tools for doing useful things with that data once it has been collected.\n\n Datasette's roots are in data journalism. I've always been interested in the question of what comes next after a journalist gets their hands on a giant dump of data about the world. Datasette supports exploring and publishing it. Datasette Agent adds interrogating it with AI assistance. Now Datasette Apps expands that to building custom interfaces and visualizations to help unlock the stories that are hidden within.\n\n Tags: iframes , javascript , projects , sandboxing , ai , datasette , generative-ai , llms , ai-assisted-programming , content-security-policy"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "datasette-acl 0.6a0",
+      "url": "https://simonwillison.net/2026/Jun/18/datasette-acl/#atom-everything",
+      "publishedAt": "2026-06-18T19:03:13.251Z",
+      "author": "",
+      "description": "Release: datasette-acl 0.6a0 This release expands datasette-acl from table-only permissions toward a general resource-sharing…",
+      "content": "Release: datasette-acl 0.6a0\n\n This release expands datasette-acl from table-only permissions toward a general resource-sharing system.\n\n Alex Garcia did most of the work for this release - we're fleshing out the plugin that will allow multi-user Datasette instances finely grained control over who can access which resources within Datasette.\n\n Tags: datasette , alex-garcia"
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 7,
+    "totalTweets": 12,
+    "blogPosts": 4,
+    "podcastEpisodes": 0
+  }
+}

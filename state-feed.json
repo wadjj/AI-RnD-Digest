@@ -105,7 +105,19 @@
     "https://twitter.com/markchen90/status/2067402457500758375": 1781827278647,
     "https://twitter.com/polynoamial/status/2067402274662744465": 1781827278647,
     "https://twitter.com/NoamShazeer/status/2067400851438932297": 1781827278647,
-    "https://twitter.com/thsottiaux/status/2067399435009622521": 1781827278647
+    "https://twitter.com/thsottiaux/status/2067399435009622521": 1781827278647,
+    "https://twitter.com/bcherny/status/2068064304503660962": 1781911043138,
+    "https://twitter.com/gdb/status/2068016345451831480": 1781911043139,
+    "https://twitter.com/gdb/status/2067884985596703079": 1781911043139,
+    "https://twitter.com/gdb/status/2067843106469515603": 1781911043139,
+    "https://twitter.com/demishassabis/status/2068002732250640603": 1781911043139,
+    "https://twitter.com/petergostev/status/2067974996484309327": 1781911043139,
+    "https://twitter.com/petergostev/status/2067752081943847371": 1781911043139,
+    "https://twitter.com/emollick/status/2067803678002594021": 1781911043139,
+    "https://twitter.com/emollick/status/2067767909770805685": 1781911043139,
+    "https://twitter.com/emollick/status/2067757196188774660": 1781911043139,
+    "https://twitter.com/amorriscode/status/2067803174250094625": 1781911043139,
+    "https://twitter.com/thsottiaux/status/2067783964077547520": 1781911043139
   },
   "seenVideos": {},
   "seenArticles": {
@@ -180,8 +192,12 @@
     "https://sebastianraschka.com/blog/2026/glm-5-2-indexshare.html": 1781827278648,
     "https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything": 1781827278648,
     "https://simonwillison.net/2026/Jun/16/datasette/#atom-everything": 1781827278648,
-    "https://simonwillison.net/2026/Jun/16/datasette-tailscale/#atom-everything": 1781827278648
+    "https://simonwillison.net/2026/Jun/16/datasette-tailscale/#atom-everything": 1781827278648,
+    "https://stratechery.com/2026/the-stuff-of-mythos/": 1781911043139,
+    "https://www.rundown.ai/articles/step-into-midjourney-s-spa-for-a-body-scan": 1781911043140,
+    "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything": 1781911043140,
+    "https://simonwillison.net/2026/Jun/18/datasette-acl/#atom-everything": 1781911043140
   },
-  "lastRunKey": "2026-06-19",
-  "lastRunAt": "2026-06-19T00:01:18.654Z"
+  "lastRunKey": "2026-06-20",
+  "lastRunAt": "2026-06-19T23:17:23.146Z"
 }
