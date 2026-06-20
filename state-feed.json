@@ -117,7 +117,15 @@
     "https://twitter.com/emollick/status/2067767909770805685": 1781911043139,
     "https://twitter.com/emollick/status/2067757196188774660": 1781911043139,
     "https://twitter.com/amorriscode/status/2067803174250094625": 1781911043139,
-    "https://twitter.com/thsottiaux/status/2067783964077547520": 1781911043139
+    "https://twitter.com/thsottiaux/status/2067783964077547520": 1781911043139,
+    "https://twitter.com/thsottiaux/status/2068443037907522002": 1781998663617,
+    "https://twitter.com/thsottiaux/status/2068144722460475527": 1781998663617,
+    "https://twitter.com/thsottiaux/status/2068120572673077274": 1781998663617,
+    "https://twitter.com/emollick/status/2068356975667130774": 1781998663617,
+    "https://twitter.com/emollick/status/2068351258948198634": 1781998663617,
+    "https://twitter.com/emollick/status/2068152054900502702": 1781998663617,
+    "https://twitter.com/petergostev/status/2068276068021133624": 1781998663617,
+    "https://twitter.com/amorriscode/status/2068131881737175172": 1781998663618
   },
   "seenVideos": {},
   "seenArticles": {
@@ -196,8 +204,9 @@
     "https://stratechery.com/2026/the-stuff-of-mythos/": 1781911043139,
     "https://www.rundown.ai/articles/step-into-midjourney-s-spa-for-a-body-scan": 1781911043140,
     "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything": 1781911043140,
-    "https://simonwillison.net/2026/Jun/18/datasette-acl/#atom-everything": 1781911043140
+    "https://simonwillison.net/2026/Jun/18/datasette-acl/#atom-everything": 1781911043140,
+    "https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything": 1781998663618
   },
-  "lastRunKey": "2026-06-20",
-  "lastRunAt": "2026-06-19T23:17:23.146Z"
+  "lastRunKey": "2026-06-21",
+  "lastRunAt": "2026-06-20T23:37:43.623Z"
 }
