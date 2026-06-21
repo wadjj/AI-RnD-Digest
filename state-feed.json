@@ -125,7 +125,10 @@
     "https://twitter.com/emollick/status/2068351258948198634": 1781998663617,
     "https://twitter.com/emollick/status/2068152054900502702": 1781998663617,
     "https://twitter.com/petergostev/status/2068276068021133624": 1781998663617,
-    "https://twitter.com/amorriscode/status/2068131881737175172": 1781998663618
+    "https://twitter.com/amorriscode/status/2068131881737175172": 1781998663618,
+    "https://twitter.com/gdb/status/2068761809318990054": 1782085628814,
+    "https://twitter.com/thsottiaux/status/2068736857312198928": 1782085628815,
+    "https://twitter.com/thsottiaux/status/2068568650924409260": 1782085628815
   },
   "seenVideos": {},
   "seenArticles": {
@@ -205,8 +208,9 @@
     "https://www.rundown.ai/articles/step-into-midjourney-s-spa-for-a-body-scan": 1781911043140,
     "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything": 1781911043140,
     "https://simonwillison.net/2026/Jun/18/datasette-acl/#atom-everything": 1781911043140,
-    "https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything": 1781998663618
+    "https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything": 1781998663618,
+    "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything": 1782085628815
   },
-  "lastRunKey": "2026-06-21",
-  "lastRunAt": "2026-06-20T23:37:43.623Z"
+  "lastRunKey": "2026-06-22",
+  "lastRunAt": "2026-06-21T23:47:08.820Z"
 }
