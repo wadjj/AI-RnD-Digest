@@ -1,11 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/bcherny/status/2063792263067754658": 1780913875732,
-    "https://twitter.com/gdb/status/2063786462647079408": 1780913875732,
-    "https://twitter.com/thsottiaux/status/2063748242681307611": 1780913875732,
-    "https://twitter.com/YiTayML/status/2063587270251401288": 1780913875732,
-    "https://twitter.com/YiTayML/status/2064014980735963509": 1780943944883,
-    "https://twitter.com/amorriscode/status/2063965991676305494": 1780943944883,
     "https://twitter.com/_sholtodouglas/status/2064436230989713498": 1781036602099,
     "https://twitter.com/_sholtodouglas/status/2064410359562219596": 1781036602099,
     "https://twitter.com/_sholtodouglas/status/2064394742067028377": 1781036602099,
@@ -128,22 +122,14 @@
     "https://twitter.com/amorriscode/status/2068131881737175172": 1781998663618,
     "https://twitter.com/gdb/status/2068761809318990054": 1782085628814,
     "https://twitter.com/thsottiaux/status/2068736857312198928": 1782085628815,
-    "https://twitter.com/thsottiaux/status/2068568650924409260": 1782085628815
+    "https://twitter.com/thsottiaux/status/2068568650924409260": 1782085628815,
+    "https://twitter.com/gdb/status/2069128701850386834": 1782171891938,
+    "https://twitter.com/demishassabis/status/2069155730360308150": 1782171891938,
+    "https://twitter.com/petergostev/status/2068978105679487289": 1782171891938,
+    "https://twitter.com/emollick/status/2068904192840782165": 1782171891938
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://stratechery.com/2026/google-buys-compute-from-spacex-broadcoms-outlook-apples-ai-politics/": 1780913875744,
-    "https://stratechery.com/2026/power-shifts/": 1780913875744,
-    "https://simonwillison.net/2026/Jun/7/datasette-agent-edit/#atom-everything": 1780913875745,
-    "https://simonwillison.net/2026/Jun/6/micropython-wasm/#atom-everything": 1780913875745,
-    "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything": 1780913875745,
-    "https://www.rundown.ai/articles/google-turns-search-into-creator-hubs": 1780913875745,
-    "https://simonwillison.net/2026/Jun/5/openai-help-lockdown-mode/#atom-everything": 1780913966532,
-    "https://simonwillison.net/2026/Jun/5/andreas-kling/#atom-everything": 1780913966532,
-    "https://jack-clark.net/2026/06/08/import-ai-460-reward-hacking-society-rsi-data-from-anthropic-and-rl-based-quadcopter-racing/": 1780943944885,
-    "https://www.rundown.ai/articles/washington-wants-a-piece-of-openai": 1780943944885,
-    "https://www.tomtunguz.com/inflation-deflation-ai/": 1780943944885,
-    "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1": 1780943944886,
     "https://simonwillison.net/2026/Jun/9/andrej-karpathy/#atom-everything": 1781036602100,
     "https://simonwillison.net/2026/Jun/8/wwdc/#atom-everything": 1781036602100,
     "https://www.rundown.ai/articles/apple-ios-upgrade-is-less-flash-more-fix": 1781036602100,
@@ -209,8 +195,15 @@
     "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything": 1781911043140,
     "https://simonwillison.net/2026/Jun/18/datasette-acl/#atom-everything": 1781911043140,
     "https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything": 1781998663618,
-    "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything": 1782085628815
+    "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything": 1782085628815,
+    "https://stratechery.com/2026/apple-price-increases-apple-intelligence-and-the-e-u/": 1782171891938,
+    "https://www.rundown.ai/articles/gm-replaces-1k-workers-with-50-robots": 1782171891938,
+    "https://www.rundown.ai/articles/google-s-nobel-winner-jumps-to-anthropic": 1782171891938,
+    "https://jack-clark.net/2026/06/22/import-ai-462-superpersuasion-self-sustaining-ai-paths-to-asi/": 1782171891938,
+    "https://www.tomtunguz.com/so-you-want-to-sell-inference/": 1782171891939,
+    "https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything": 1782171891939,
+    "https://simonwillison.net/2026/Jun/21/sqlite-utils/#atom-everything": 1782171891939
   },
-  "lastRunKey": "2026-06-22",
-  "lastRunAt": "2026-06-21T23:47:08.820Z"
+  "lastRunKey": "2026-06-23",
+  "lastRunAt": "2026-06-22T23:44:51.944Z"
 }
