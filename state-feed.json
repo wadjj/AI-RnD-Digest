@@ -114,7 +114,15 @@
     "https://twitter.com/emollick/status/2069285574737809655": 1782257551672,
     "https://twitter.com/petergostev/status/2069417399234035856": 1782257551672,
     "https://twitter.com/thsottiaux/status/2069267387464274366": 1782257551672,
-    "https://twitter.com/gdb/status/2069232102483378395": 1782257551672
+    "https://twitter.com/gdb/status/2069232102483378395": 1782257551672,
+    "https://twitter.com/emollick/status/2069857050016776227": 1782344160810,
+    "https://twitter.com/emollick/status/2069838427499962716": 1782344160810,
+    "https://twitter.com/emollick/status/2069803130649297164": 1782344160810,
+    "https://twitter.com/gdb/status/2069845493199597944": 1782344160810,
+    "https://twitter.com/thsottiaux/status/2069837606574289329": 1782344160810,
+    "https://twitter.com/thsottiaux/status/2069624530960838914": 1782344160810,
+    "https://twitter.com/thsottiaux/status/2069592160966733853": 1782344160810,
+    "https://twitter.com/petergostev/status/2069774431665390015": 1782344160810
   },
   "seenVideos": {},
   "seenArticles": {
@@ -191,8 +199,13 @@
     "https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything": 1782257551673,
     "https://www.rundown.ai/articles/meta-employee-tracking-hits-a-wall": 1782257551673,
     "https://www.rundown.ai/articles/sakana-fugu-takes-aim-at-the-frontier": 1782257551673,
-    "https://www.tomtunguz.com/crypto-is-the-quietest-part-of-the-vc-market/": 1782257551673
+    "https://www.tomtunguz.com/crypto-is-the-quietest-part-of-the-vc-market/": 1782257551673,
+    "https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything": 1782344160811,
+    "https://simonwillison.net/2026/Jun/23/datasette/#atom-everything": 1782344160811,
+    "https://stratechery.com/2026/my-vibe-coding-adventure-the-app-and-the-experience-ten-takeaways/": 1782344160811,
+    "https://www.rundown.ai/articles/meet-your-new-slack-coworker-claude": 1782344160811,
+    "https://www.tomtunguz.com/sunil-agrawal-office-hours/": 1782344160811
   },
-  "lastRunKey": "2026-06-24",
-  "lastRunAt": "2026-06-23T23:32:31.679Z"
+  "lastRunKey": "2026-06-25",
+  "lastRunAt": "2026-06-24T23:36:00.815Z"
 }
