@@ -1,0 +1,263 @@
+{
+  "generatedAt": "2026-06-25T23:47:31.865Z",
+  "runKey": "2026-06-26",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2070205520552886305",
+          "text": "Codex for everything at OpenAI\n\n---\n OpenAI: Work at OpenAI is being transformed by agents, in every department.\n\nAcross our entire company, people are using Codex to do work that is more complex, longer-running, and increasingly cross-functional.\n\nOur internal usage offers an early look at how agentic tools may reshape",
+          "createdAt": "2026-06-25T18:00:33.885Z",
+          "url": "https://x.com/thsottiaux/status/2070205520552886305",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/OpenAI/status/2070196105745518913\nOpenAI: Work at OpenAI is being transformed by agents, in every department.\n\nAcross our entire company, people are using Codex to do work that is more complex, longer-running, and increasingly cross-functional.\n\nOur internal usage offers an early look at how agentic tools may reshape"
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2070010718288843204",
+          "text": "At times our internal Slack is at least as fun as twitter.",
+          "createdAt": "2026-06-25T05:06:28.480Z",
+          "url": "https://x.com/thsottiaux/status/2070010718288843204",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Greg Brockman",
+      "handle": "gdb",
+      "bio": "President & Co-Founder @OpenAI",
+      "tweets": [
+        {
+          "id": "https://twitter.com/gdb/status/2070199649823297653",
+          "text": "Agents are being adopted very quickly and accelerating work. How this looks across OpenAI itself:\n\n---\n OpenAI: Work at OpenAI is being transformed by agents, in every department.\n\nAcross our entire company, people are using Codex to do work that is more complex, longer-running, and increasingly cross-functional.\n\nOur internal usage offers an early look at how agentic tools may reshape",
+          "createdAt": "2026-06-25T17:37:13.494Z",
+          "url": "https://x.com/gdb/status/2070199649823297653",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/OpenAI/status/2070196105745518913\nOpenAI: Work at OpenAI is being transformed by agents, in every department.\n\nAcross our entire company, people are using Codex to do work that is more complex, longer-running, and increasingly cross-functional.\n\nOur internal usage offers an early look at how agentic tools may reshape"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Professor @Wharton studying AI, innovation & startups. Democratizing education using tech Book: https://t.co/CSmipbJ2jV Substack: https://t.co/UIBhxu4bgq",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2070171580030656744",
+          "text": "This is a fascinating and important set of data which shows us where things are going, using OpenAI as a canary in the coal mine.\n\nThe chatbot era is over, and agentic systems are coming to tasks beyond engineering. And skills show promise as a way to standardize AI use in firms.\n\n---\n David Holtz: 🚨 New research alert! For the past few months, I've been a part-time visiting economics researcher at OpenAI. Excited to share the first public piece of work to come out of this, which uses data from Codex to document the ongoing and rapid shift to agentic AI.\n\nDetails below 👇",
+          "createdAt": "2026-06-25T15:45:41.249Z",
+          "url": "https://x.com/emollick/status/2070171580030656744",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/daveholtz/status/2070147554172657742\nDavid Holtz: 🚨 New research alert! For the past few months, I've been a part-time visiting economics researcher at OpenAI. Excited to share the first public piece of work to come out of this, which uses data from Codex to document the ongoing and rapid shift to agentic AI.\n\nDetails below 👇"
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2070020948326035771",
+          "text": "State of the art in AI image generation less than 5 years ago.\n---\n Ethan Mollick: This is a pretty terrific computational image generator for making AI-created trading cards (or, heaven forbid, NFTs)\n\nThe only prompt I gave was “potato” in holiday, dark fantasy, and mystical styles. Via @compstorylab https://app.wombo.art/",
+          "createdAt": "2026-06-25T05:47:07.417Z",
+          "url": "https://x.com/emollick/status/2070020948326035771",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/emollick/status/1467549349710376974\nEthan Mollick: This is a pretty terrific computational image generator for making AI-created trading cards (or, heaven forbid, NFTs)\n\nThe only prompt I gave was “potato” in holiday, dark fantasy, and mystical styles. Via @compstorylab https://app.wombo.art/"
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2070020417985581498",
+          "text": "Does X search just not work at all anymore? It used to sort-of work but now it doesn’t. Going to Grok for every search, even simple ones, is annoying.",
+          "createdAt": "2026-06-25T05:45:01.375Z",
+          "url": "https://x.com/emollick/status/2070020417985581498",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Gostev (SF: 22-26 June)",
+      "handle": "petergostev",
+      "bio": "London 🇬🇧 AI Capability @ https://t.co/Y4VEGWofQ8 https://t.co/bkfw1nxdmJ",
+      "tweets": [
+        {
+          "id": "https://twitter.com/petergostev/status/2070150002845106318",
+          "text": "Me trying to replace Fable with an ensemble of smaller models",
+          "createdAt": "2026-06-25T14:19:56.701Z",
+          "url": "https://x.com/petergostev/status/2070150002845106318",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/petergostev/status/2069935469882916894",
+          "text": "Did you know that Fable 5 has always been available on Google Cloud, but the catch is, without the intelligence of Fable, nobody can figure out how to get past the permission screens in Google Cloud",
+          "createdAt": "2026-06-25T00:07:28.052Z",
+          "url": "https://x.com/petergostev/status/2069935469882916894",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai. prev YC W20, mit media lab. towards machines of loving grace",
+      "tweets": [
+        {
+          "id": "https://twitter.com/trq212/status/2069974525727650112",
+          "text": "RT Peter Yang\nOk, I am interviewing the legend @trq212 on Friday. I'm planning to ask him to show me:\n\n→ His Claude Code setup and how he uses /goal and /loop and dynamic workflows\n\n→ How he does planning with HTML + artifacts\n\n→ His best practices for Claude Tag\n\nWhat else should we cover? Let us know in the replies.\n---\n Thariq: Claude Tag is an incredible new form factor for agents, so I think it's going to take some time to figure out the best practices, but these are some of my favorites 🧵",
+          "createdAt": "2026-06-25T01:31:00.091Z",
+          "url": "https://x.com/trq212/status/2069974525727650112",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "AI and Liability",
+      "url": "https://simonwillison.net/2026/Jun/25/ai-and-liability/#atom-everything",
+      "publishedAt": "2026-06-25T22:28:46.893Z",
+      "author": "",
+      "description": "AI and Liability Bruce Schneier on the recent German ruling that Google be held liable for errors introduced in their AI overviews:\n\nAI…",
+      "content": "AI and Liability\n\nBruce Schneier on the recent German ruling that Google be held liable for errors introduced in their AI overviews:\n\n AI agents are agents of the person or organization that deploys them—and should be treated by the law as such. If a company hired human writers to write its summaries, that company would be liable for inaccuracies in those summaries. [...]\n\n To allow businesses to hide behind the excuse of faulty AI in those same circumstances would be a massive handout to companies, and would introduce disastrous incentives for corporate misbehavior. Why hire human writers, lawyers or doctors when AIs are not only cheaper, but also absolve employers whenever they make a mistake?\n\n Tags: bruce-schneier , google , law , ai , generative-ai , llms , ai-ethics , hallucinations"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "datasette-export-database 0.3a2",
+      "url": "https://simonwillison.net/2026/Jun/25/datasette-export-database/#atom-everything",
+      "publishedAt": "2026-06-25T17:21:09.370Z",
+      "author": "",
+      "description": "Release: datasette-export-database 0.3a2 An embarrassingly tiny release. The pyproject.toml had pinned to datasette==1.0a27, inadver…",
+      "content": "Release: datasette-export-database 0.3a2\n\n An embarrassingly tiny release. The pyproject.toml had pinned to datasette==1.0a27 , inadvertently making this plugin incompatible with all other Datasette versions. It's now datasette>=1.0a27 instead.\n\n Tags: datasette"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "simonw/browser-compat-db",
+      "url": "https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything",
+      "publishedAt": "2026-06-24T23:59:03.351Z",
+      "author": "",
+      "description": "simonw/browser-compat-db Inspired by Mozilla's new MDN MCP service - source code here - I decided to try converting their comprehensive mdn…",
+      "content": "simonw/browser-compat-db\n\nInspired by Mozilla's new MDN MCP service - source code here - I decided to try converting their comprehensive mdn/browser-compat-data repository full of browser compatibility data into a SQLite database.\n\n This new GitHub repo includes a Claude Code for web (Opus 4.8) generated script for doing that using sqlite-utils .\n\n I wanted the resulting ~66MB SQLite database to be available via the GitHub CDN with open CORS headers. GitHub releases don't have those, but any file stored in a regular GitHub repository does - so I had Codex Desktop (GPT-5.5) build a GitHub Actions workflow that builds the database and then force-pushes it to a db \"orphan\" branch.\n\n You can download the resulting database from here , and since it's hosted with open CORS headers you can also explore it with Datasette Lite .\n\n Tags: github , mozilla , projects , github-actions , datasette-lite , ai-assisted-programming , model-context-protocol , mdn"
+    },
+    {
+      "source": "blog",
+      "name": "The Rundown AI",
+      "title": "Agility Robotics going public at $2.5B - Rundown AI",
+      "url": "https://www.rundown.ai/articles/agility-robotics-going-public-at-2-5b",
+      "publishedAt": "2026-06-25T14:30:15.762Z",
+      "author": "",
+      "description": "Salem, Oregon’s Agility Robotics is going public via SPAC at a $2.5B valuation — ticker $AGLT — beating better-funded rivals like Figure AI…",
+      "content": "Salem, Oregon’s Agility Robotics is going public via SPAC at a $2.5B valuation — ticker $AGLT — beating better-funded rivals like Figure AI to become the first pure-play humanoid company trading on U.S. markets, with its bipedal Digit robot already on Toyota and Schaeffler factory floors. Now investors get to decide just how real the humanoid hype actually is."
+    },
+    {
+      "source": "blog",
+      "name": "The Rundown AI",
+      "title": "OpenAI's spicy new custom AI chip - Rundown AI",
+      "url": "https://www.rundown.ai/articles/openai-spicy-new-custom-ai-chip",
+      "publishedAt": "2026-06-25T09:04:43.758Z",
+      "author": "",
+      "description": "OpenAI's custom AI chip \"Jalapeño\" delivers state-of-the-art performance, built with AI assistance. Plus: Use AI price tracking to save on…",
+      "content": "OpenAI's custom AI chip \"Jalapeño\" delivers state-of-the-art performance, built with AI assistance. Plus: Use AI price tracking to save on World Cup tickets."
+    },
+    {
+      "source": "blog",
+      "name": "Research Posts · Cursor",
+      "title": "奖励作弊正在淹没模型智能的进步",
+      "url": "https://cursor.com/cn/blog/reward-hacking-coding-benchmarks",
+      "publishedAt": "2026-06-25T12:00:00.984Z",
+      "author": "",
+      "description": "Jun 25, 2026 奖励作弊正在淹没模型智能的进步\n\nNaman Jain\n2 分钟\nNaman Jain·2 分钟",
+      "content": "Jun 25, 2026\n 奖励作弊正在淹没模型智能的进步\n\n Naman Jain\n 2 分钟\n Naman Jain · 2 分钟"
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery by Ben Thompson",
+      "title": "An Interview with Figma CEO Dylan Field About Design and AI",
+      "url": "https://stratechery.com/2026/an-interview-with-figma-ceo-dylan-field-about-design-and-ai/",
+      "publishedAt": "2026-06-25T10:00:00.831Z",
+      "author": "Ben Thompson",
+      "description": "Listen to this post: Good morning,\n\nThis week’s Stratechery interview is with Figma co-founder and CEO Dylan Field. Field…",
+      "content": "Listen to this post:\n\n Good morning,\n\n This week’s Stratechery interview is with Figma co-founder and CEO Dylan Field . Field was a Thiel Fellow who dropped out of Brown in 2012 to start Figma. Figma was born of a technical breakthrough that leveraged WebGL to deliver powerful graphical capabilities in the browser; the browser made Figma collaborative, what I call the operating system of design .\n\n Figma has had a fascinating road: the company accepted an acquisition offer from Adobe in 2022, but due to regulatory resistence the latter was forced to abandon the merger in late 2023. Figma instead IPO’d in 2025 , and after skyrocketing to a valuation of $56.3 billion, has since crashed to a market cap of less than $10 billion, less than half of Adobe’s offer, thanks in large part to a market narrative that the company is an AI loser.\n\n I talk to Field about all of this, including his background, Figma’s differentiation discovery process, and the nature of creativity versus design. We get into the AI question, which the market views as a headwind, but which Field sees as a tailwind. To that end, the occasion for this interview was Figma’s Config conference and Field’s keynote where he explained how Figma’s Canvas was the natural intersection between design and AI.\n\n As a reminder, all Stratechery content, including interviews, is available as a podcast; click the link at the top of this email to add Stratechery to your podcast player.\n\n On to the Interview:\n\n An Interview with Figma CEO Dylan Field About Design and AI\n\n This interview is lightly edited for clarity.\n\n Topics:\n\n Background | WebGL and the Foundation of Figma | Work in Figma | The Adobe Acquisition That Wasn’t | Art vs. Design | AI Headwinds | Code on the Canvas | Acquiring AI Natives | AI and Path Dependency\n\n Background\n\n Dylan Field, it feels like this interview has been in the works for years, but welcome to Stratechery.\n\n DF: Thank you, appreciate you having me, and big fan.\n\n Let’s start with your background. Where did you grow up, how did you become interested in technology? I always love these stories, especially the first time I talk to someone, and I think yours is a particularly interesting one. So give me the story.\n\n DF: I grew up in Penngrove, California, which is near Petaluma in Sonoma County — but not Sonoma, it’s critical to make sure people know where Penngrove is. My mom was an elementary school teacher, my dad a respiratory therapist, both not especially tech-savvy, but my mom early on realized that a computer would be useful for me to stop bugging them with questions and bug the computer instead. So I was lucky enough to get a — I think it was a Compaq Presario — when I was like five the family got one, and then I proceeded to really hog it.\n\n I’ve pretty much been interested in technology as far back as I can remember, I was very eager and excited to learn how to program, but didn’t necessarily have the ability to get my hands in a compiler for a while. It took until I got through some scholastic program, a BASIC compiler, to actually get properly started. I’ve also always had a, maybe not as much ability as I’d like, but a deep fascination with mathematics and just really everything in the world.\n\n And so this is just a fascination with the technology — like, how does this thing actually work, and how can I make it do what I want?\n\n DF: It was always more about product and design and about what technology will look like in the future and how to get there, rather than “I can really master the technology and have it under my control”, that was never really my vibe.\n\n What were the sorts of things you imagined you wanted to make as a kid, when you have this computer you want to figure out?\n\n DF: Walking around as a kid I was probably thinking less about the computer and more about, “Why can’t I teleport?”, or, on the flip side, going to SFO the first time and seeing they had these magical faucets where you put your hand in front and the water comes out and you didn’t have to touch anything — and I was a germaphobic kid — I’m like, “Why can’t the entire bathroom be automated?”, it’s just so obvious. Or, before I even learned how to properly read and write, “Why can’t I talk to the computer?”, stuff like that was more what I was excited by.\n\n Are you encouraged or discouraged by the progression of bathroom technology over the years?\n\n DF: Encouraged. Toto ‘s wonderful.\n\n Yes! It’s funny, because Toto is in the news because they make a certain sort of ceramic that’s used for AI stuff. I’m like, “Look, I’ve known about and been a Toto fan and supporter for many, many years”.\n\n DF: (laughing) I didn’t know that. Well, the other critical design invention here, which is very underappreciated, if you’re leaving a bathroom and you can use your foot to pull open the door, that is an underappreciated progression.\n\n Oh, there you go, that makes total sense, I can’t say I have that in my bathroom, but I do have a Toto Washlet toilet, they are well worth it — the only problem is you’ll be spoiled for life and won’t be able to live without it. So you end up at Brown — not what you’d think of as a technology school, it’s next door to RISD, which is a design school, so there’s an angle to where you ended up. What was the path to getting there, and the path to leaving as a Thiel Fellow ?\n\n DF: During high school I was probably a little overconfident, thought I could do anything and was beyond bright, and the world quickly proved me wrong, “Okay, there are people far smarter than you”. But due to that identity, I thought maybe MIT would be the place I want to go, then I toured MIT and it was a cloudy day, midterms, and I went, “No, this isn’t for me”, and looked at other spots.\n\n One person I’d talked with a lot was Danah Boyd — I met her through O’Reilly Media — and she was a really brilliant, thoughtful person, and she said, “You’ve really got to think about Brown”, and I kept randomly meeting Brown grads as I was doing this East Coast college tour, very randomly, and they’d all sit me down for an hour and tell me, “You’ve got to apply to Brown, and if you get in, you’ve got to go”. I ended up applying to Olin and Brown on the East Coast out of ten schools I visited, I was thorough, I didn’t get into Olin, which I thought was my first choice at the time. And then Brown, I was very surprised but thrilled to get in.\n\n What did you think you were going to study at that point?\n\n DF: Computer science and math, I did formally declare that as my concentration, but I didn’t get as far on the math side as I would have liked — did more CS classes, and also took advantage of Brown’s amazing open curriculum, where you can go very broad, I had some incredible classes in areas that are not technical at all.\n\n So where did the Thiel Fellowship come into the story?\n\n DF: It was the fall semester of my junior year. I was aware of the Thiel Fellowship — I’d seen it online, thought it was kind of a weird idea, but interesting. I got introduced to it by Elizabeth Stark , who now is, I believe, leading Lightning , she introduced me to one of the Thiel Fellows at the time, Dale. It was this weird one where he was 25 minutes late to a 30-minute meeting at Starbucks — we met for five minutes, but then he just kept texting me, “You’ve got to apply to the Thiel Fellowship”, very similar to the Brown story.\n\n I ended up applying after speaking with my now co-founder, Evan Wallace . Evan was the most brilliant person around — a year above me at Brown, my TA for multiple classes, and truly a genius, someone who’s also just fundamentally kind, humble, wonderful. I was like, “Man, I’ve done some internships now, there’s no one better to start a company with”, and if Evan were down for that instead of any number of jobs he can get when he graduates, I’d learn more from it than anything else — I can always go back to Brown, so I should at least explore it, and he surprisingly was down to explore it with me.\n\n So I applied to the Thiel Fellowship with a drones idea — which I think now is best being done by BRINC . Evan was just not down for that direction, he was down for WebGL and graphics, and I was psyched by that too, that’s the direction we headed.\n\n Tell me about the drones idea and the pivot to the WebGL angle, because it ties into the question I asked at the beginning — what were you pursuing? Was it the technology, or the end state? I think that’s an interesting through-line here.\n\n DF: I’ve always been excited about a lot of things — creation, creativity, design, even before I knew what to call design, which was most of my life at that point, I’d only recently learned what the word “design” meant, despite having done a lot of design.\n\n For me, I saw the act of starting a company was also about asking the question, “Why now?”, there are so many “Why now?” answers you can give, it can be societal change, cultural, technological, regulatory. But we were technologists at our core, so we made a big long list of all the technologies that were changing at the time and gradually crossed each one off, we came up with two finalists.\n\n One was drones, this is the end of 2011, the other one was WebGL. I think we would have totally failed at drones anyway, it’s extremely hard. You look at Zipline , BRINC — these are amazing companies, and you really have to chew glass to get through that, we wanted to do something where we felt we had a technological edge and insight others did not.\n\n WebGL and the Foundation of Figma\n\n And what was the technical edge and insight about WebGL? This is obviously the foundation of Figma — you can do incredible graphical things in the browser, which to that point had all been on dedicated desktop applications. What was the insight that made you think this might be possible, even if it was just barely possible?\n\n DF: To be clear, right after applying for the Thiel Fellowship with the drones idea, I ended up working at Flipboard as a design intern, using design programs all day long. We had this hammer with WebGL looking for a nail, we didn’t find the, “Let’s go build design environments and help designers”, for a while, it took a little bit.\n\n What was exciting was that Evan had done a lot of early work that proved out that WebGL was way more capable than anyone else was thinking at the time. Other folks then were going, “WebGL is this weird toy that Mozilla is making, it’s probably not as important as just using your local, non-browser tech”.\n\n Right, if you use an application that can actually leverage regular OpenGL and your GPU, why a browser?\n\n DF: Exactly. The only other company that seemed on to it at the time was Onshape , actually. We looked around and went, “These guys get it”, and pretty much no one else did yet, no one took it seriously.\n\n So due to Evan’s work, we started to really explore that and go, “How can we take tools that people expect to be desktop-bound and local, bring them to the browser, and do it collaboratively too?”. We were very inspired by Google Wave — rest in peace, it was a really cool product. I grew up in Google Docs, playing MMOs and stuff like that, so I think our frame of reference, even if we couldn’t articulate it then, was just different — obviously the browser enables all of that.\n\n You viewed the browser as a first-class operating environment in a way that probably older people did not.\n\n DF: Yeah, exactly. In the early days of Figma I’d say, “Just like Google Docs”, and a lot of people were like, “Yeah, well, I use Word — why would I use Google Docs?”, and I was like, “Well, I’ve only used Google Docs my entire life”. And then, “Well, I guess there was that time in middle school…”, and they’re going, “Wait, how young are you?”.\n\n Well, let’s talk about what Figma is. I’ve written about Figma in contrast to Sketch , which is more of a single-player experience — this idea that Adobe left this huge window open for actually designing apps. Mobile apps come along in particu..."
+    },
+    {
+      "source": "blog",
+      "name": "Tomasz Tunguz",
+      "title": "Full Sail on Asynchronous Inference",
+      "url": "https://www.tomtunguz.com/sail-inference-queue/",
+      "publishedAt": "2026-06-25T00:00:00.989Z",
+      "author": "",
+      "description": "Today all inference is real-time. A human types, a model responds, & the clock starts over. The infrastructure is built for someone waiting…",
+      "content": "Today all inference is real-time. A human types, a model responds, & the clock starts over. The infrastructure is built for someone waiting on the other end. Every millisecond of latency costs money because the serving stack optimizes for cold-start, not throughput.\n\n As we built internal AI systems at Theory, we embraced queueing. Parallelize ten agents on a single task, let them run for hours, & the productivity gains are enormous. It is the product of token-maxxing, 1 pushing every dollar of compute to do more work. But the cost was unsustainable.\n\nThat is when we met Neil Movva & Samir Menon of Sail Research. 2\n\n Neil Movva built one of the fastest LLM inference stacks at Together AI. Samir Menon ran LLMs inside hardware enclaves at Blyss. Both are systems engineers to the core. They were building the system we needed.\n\n As the inference market segments into real-time, near-real-time, & batch, async inference sits in the batch tier & carries a massive cost advantage. 3 The key is model selection & routing.\n\n Sail distributes requests across open models like DeepSeek, Qwen, Kimi, & GLM, picking the cheapest capable model for each task. GLM-5.1 on Sail costs 6x less per token than Anthropic’s Haiku. 4 Wait two minutes instead of two seconds for a code review, & the same token costs 6x less.\n\n Sail uses spot capacity when it is available & fails over to reliable compute when it is not. Fleet-aware orchestration keeps utilization high & cost low.\n\n Real-time stacks reserve capacity per request. Queued stacks pack requests into idle capacity. Different architecture, different economics.\n\n Sailboxes are cloud computers for the bursty rhythm of agents. A sailbox stays alive as long as the agent needs, holds state across the entire task, pauses when it waits on inference, & resumes in seconds when the response arrives. You pay for active time. No paying for idle.\n\n Sail has served trillions of tokens to customers in code review, deep research, & cybersecurity. 2\n\n Today we announced our Series A investment in Sail alongside Kleiner Perkins, Redpoint, & Sequoia.\n\n As agents grow from chat assistants into background workers scanning codebases overnight, enriching every CRM row, processing every document, the vast majority of tokens will flow through a queue. The future runs in the background. We are thrilled to partner with Neil, Samir, & the entire Sail team.\n\n If you’re building agents, get started here .\n\n---\n\n Token-maxxing   ↩︎\n\n Sail Research   ↩︎   ↩︎\n\n Darwinian Specialization in AI   ↩︎\n\n Sail Research : Cost Efficiency - Input tokens per dollar, comparing Sail’s GLM-5.1 to Anthropic Haiku 4.5 & OpenAI GPT-5.4-mini.  ↩︎"
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery",
+      "title": "An Interview with Figma CEO Dylan Field About Design and AI",
+      "url": "https://stratechery.com/2026/an-interview-with-figma-ceo-dylan-field-about-design-and-ai/",
+      "publishedAt": "Thu, 25 Jun 2026 10:00:00 +0000",
+      "author": "Ben Thompson",
+      "description": "An interview with Figma CEO Dylan Field about building Figma, and why he believes AI gives the company a tailwind.",
+      "content": "An interview with Figma CEO Dylan Field about building Figma, and why he believes AI gives the company a tailwind.\n\n---\n\nListen to this Update in your podcast player\n\n---\n\nGood morning,\n\nThis week’s Stratechery interview is with Figma co-founder and CEO Dylan Field . Field was a Thiel Fellow who dropped out of Brown in 2012 to start Figma. Figma was born of a technical breakthrough that leveraged WebGL to deliver powerful graphical capabilities in the browser; the browser made Figma collaborative, what I call the operating system of design .\n\nFigma has had a fascinating road: the company accepted an acquisition offer from Adobe in 2022, but due to regulatory resistence the latter was forced to abandon the merger in late 2023. Figma instead IPO’d in 2025 , and after skyrocketing to a valuation of $56.3 billion, has since crashed to a market cap of less than $10 billion, less than half of Adobe’s offer, thanks in large part to a market narrative that the company is an AI loser.\n\nI talk to Field about all of this, including his background, Figma’s differentiation discovery process, and the nature of creativity versus design. We get into the AI question, which the market views as a headwind, but which Field sees as a tailwind. To that end, the occasion for this interview was Figma’s Config conference and Field’s keynote where he explained how Figma’s Canvas was the natural intersection between design and AI.\n\nAs a reminder, all Stratechery content, including interviews, is available as a podcast; click the link at the top of this email to add Stratechery to your podcast player.\n\nOn to the Interview:\n\nAn Interview with Figma CEO Dylan Field About Design and AI\n\nThis interview is lightly edited for clarity.\n\nTopics:\n\nBackground | WebGL and the Foundation of Figma | Work in Figma | The Adobe Acquisition That Wasn’t | Art vs. Design | AI Headwinds | Code on the Canvas | Acquiring AI Natives | AI and Path Dependency\n\nBackground\n\nDylan Field, it feels like this interview has been in the works for years, but welcome to Stratechery.\n\nDF: Thank you, appreciate you having me, and big fan.\n\nLet’s start with your background. Where did you grow up, how did you become interested in technology? I always love these stories, especially the first time I talk to someone, and I think yours is a particularly interesting one. So give me the story.\n\nDF: I grew up in Penngrove, California, which is near Petaluma in Sonoma County — but not Sonoma, it’s critical to make sure people know where Penngrove is. My mom was an elementary school teacher, my dad a respiratory therapist, both not especially tech-savvy, but my mom early on realized that a computer would be useful for me to stop bugging them with questions and bug the computer instead. So I was lucky enough to get a — I think it was a Compaq Presario — when I was like five the family got one, and then I proceeded to really hog it.\n\nI’ve pretty much been interested in technology as far back as I can remember, I was very eager and excited to learn how to program, but didn’t necessarily have the ability to get my hands in a compiler for a while. It took until I got through some scholastic program, a BASIC compiler, to actually get properly started. I’ve also always had a, maybe not as much ability as I’d like, but a deep fascination with mathematics and just really everything in the world.\n\nAnd so this is just a fascination with the technology — like, how does this thing actually work, and how can I make it do what I want?\n\nDF: It was always more about product and design and about what technology will look like in the future and how to get there, rather than “I can really master the technology and have it under my control”, that was never really my vibe.\n\nWhat were the sorts of things you imagined you wanted to make as a kid, when you have this computer you want to figure out?\n\nDF: Walking around as a kid I was probably thinking less about the computer and more about, “Why can’t I teleport?”, or, on the flip side, going to SFO the first time and seeing they had these magical faucets where you put your hand in front and the water comes out and you didn’t have to touch anything — and I was a germaphobic kid — I’m like, “Why can’t the entire bathroom be automated?”, it’s just so obvious. Or, before I even learned how to properly read and write, “Why can’t I talk to the computer?”, stuff like that was more what I was excited by.\n\nAre you encouraged or discouraged by the progression of bathroom technology over the years?\n\nDF: Encouraged. Toto ‘s wonderful.\n\nYes! It’s funny, because Toto is in the news because they make a certain sort of ceramic that’s used for AI stuff. I’m like, “Look, I’ve known about and been a Toto fan and supporter for many, many years”.\n\nDF: (laughing) I didn’t know that. Well, the other critical design invention here, which is very underappreciated, if you’re leaving a bathroom and you can use your foot to pull open the door, that is an underappreciated progression.\n\nOh, there you go, that makes total sense, I can’t say I have that in my bathroom, but I do have a Toto Washlet toilet, they are well worth it — the only problem is you’ll be spoiled for life and won’t be able to live without it. So you end up at Brown — not what you’d think of as a technology school, it’s next door to RISD, which is a design school, so there’s an angle to where you ended up. What was the path to getting there, and the path to leaving as a Thiel Fellow ?\n\nDF: During high school I was probably a little overconfident, thought I could do anything and was beyond bright, and the world quickly proved me wrong, “Okay, there are people far smarter than you”. But due to that identity, I thought maybe MIT would be the place I want to go, then I toured MIT and it was a cloudy day, midterms, and I went, “No, this isn’t for me”, and looked at other spots.\n\nOne person I’d talked with a lot was Danah Boyd — I met her through O’Reilly Media — and she was a really brilliant, thoughtful person, and she said, “You’ve really got to think about Brown”, and I kept randomly meeting Brown grads as I was doing this East Coast college tour, very randomly, and they’d all sit me down for an hour and tell me, “You’ve got to apply to Brown, and if you get in, you’ve got to go”. I ended up applying to Olin and Brown on the East Coast out of ten schools I visited, I was thorough, I didn’t get into Olin, which I thought was my first choice at the time. And then Brown, I was very surprised but thrilled to get in.\n\nWhat did you think you were going to study at that point?\n\nDF: Computer science and math, I did formally declare that as my concentration, but I didn’t get as far on the math side as I would have liked — did more CS classes, and also took advantage of Brown’s amazing open curriculum, where you can go very broad, I had some incredible classes in areas that are not technical at all.\n\nSo where did the Thiel Fellowship come into the story?\n\nDF: It was the fall semester of my junior year. I was aware of the Thiel Fellowship — I’d seen it online, thought it was kind of a weird idea, but interesting. I got introduced to it by Elizabeth Stark , who now is, I believe, leading Lightning , she introduced me to one of the Thiel Fellows at the time, Dale. It was this weird one where he was 25 minutes late to a 30-minute meeting at Starbucks — we met for five minutes, but then he just kept texting me, “You’ve got to apply to the Thiel Fellowship”, very similar to the Brown story.\n\nI ended up applying after speaking with my now co-founder, Evan Wallace . Evan was the most brilliant person around — a year above me at Brown, my TA for multiple classes, and truly a genius, someone who’s also just fundamentally kind, humble, wonderful. I was like, “Man, I’ve done some internships now, there’s no one better to start a company with”, and if Evan were down for that instead of any number of jobs he can get when he graduates, I’d learn more from it than anything else — I can always go back to Brown, so I should at least explore it, and he surprisingly was down to explore it with me.\n\nSo I applied to the Thiel Fellowship with a drones idea — which I think now is best being done by BRINC . Evan was just not down for that direction, he was down for WebGL and graphics, and I was psyched by that too, that’s the direction we headed.\n\nTell me about the drones idea and the pivot to the WebGL angle, because it ties into the question I asked at the beginning — what were you pursuing? Was it the technology, or the end state? I think that’s an interesting through-line here.\n\nDF: I’ve always been excited about a lot of things — creation, creativity, design, even before I knew what to call design, which was most of my life at that point, I’d only recently learned what the word “design” meant, despite having done a lot of design.\n\nFor me, I saw the act of starting a company was also about asking the question, “Why now?”, there are so many “Why now?” answers you can give, it can be societal change, cultural, technological, regulatory. But we were technologists at our core, so we made a big long list of all the technologies that were changing at the time and gradually crossed each one off, we came up with two finalists.\n\nOne was drones, this is the end of 2011, the other one was WebGL. I think we would have totally failed at drones anyway, it’s extremely hard. You look at Zipline , BRINC — these are amazing companies, and you really have to chew glass to get through that, we wanted to do something where we felt we had a technological edge and insight others did not.\n\nWebGL and the Foundation of Figma\n\nAnd what was the technical edge and insight about WebGL? This is obviously the foundation of Figma — you can do incredible graphical things in the browser, which to that point had all been on dedicated desktop applications. What was the insight that made you think this might be possible, even if it was just barely possible?\n\nDF: To be clear, right after applying for the Thiel Fellowship with the drones idea, I ended up working at Flipboard as a design intern, using design programs all day long. We had this hammer with WebGL looking for a nail, we didn’t find the, “Let’s go build design environments and help designers”, for a while, it took a little bit.\n\nWhat was exciting was that Evan had done a lot of early work that proved out that WebGL was way more capable than anyone else was thinking at the time. Other folks then were going, “WebGL is this weird toy that Mozilla is making, it’s probably not as important as just using your local, non-browser tech”.\n\nRight, if you use an application that can actually leverage regular OpenGL and your GPU, why a browser?\n\nDF: Exactly. The only other company that seemed on to it at the time was Onshape , actually. We looked around and went, “These guys get it”, and pretty much no one else did yet, no one took it seriously.\n\nSo due to Evan’s work, we started to really explore that and go, “How can we take tools that people expect to be desktop-bound and local, bring them to the browser, and do it collaboratively too?”. We were very inspired by Google Wave — rest in peace, it was a really cool product. I grew up in Google Docs, playing MMOs and stuff like that, so I think our frame of reference, even if we couldn’t articulate it then, was just different — obviously the browser enables all of that.\n\nYou viewed the browser as a first-class operating environment in a way that probably older people did not.\n\nDF: Yeah, exactly. In the early days of Figma I’d say, “Just like Google Docs”, and a lot of people were like, “Yeah, well, I use Word — why would I use Google Docs?”, and I was like, “Well, I’ve only used Google Docs my entire life”. And then, “Well, I guess there was that time in middle school…”, and they’re going, “Wait, how young are you?”.\n\nWell, let’s talk about what Figma is. I’ve written about Figma in contrast to Sketch , which is more of a single-player experience — this id..."
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 5,
+    "totalTweets": 9,
+    "blogPosts": 9,
+    "podcastEpisodes": 0
+  }
+}

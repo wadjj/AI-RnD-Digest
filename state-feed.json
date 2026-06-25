@@ -1,15 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/_sholtodouglas/status/2064800307364733059": 1781135551054,
-    "https://twitter.com/bcherny/status/2064832132334407970": 1781135551054,
-    "https://twitter.com/emollick/status/2064769268013584767": 1781135551054,
-    "https://twitter.com/emollick/status/2064764123439599696": 1781135551054,
-    "https://twitter.com/emollick/status/2064749092509532393": 1781135551054,
-    "https://twitter.com/demishassabis/status/2064807183053689290": 1781135551054,
-    "https://twitter.com/petergostev/status/2064592228920512667": 1781135551054,
-    "https://twitter.com/thsottiaux/status/2064572276180484475": 1781135551055,
-    "https://twitter.com/trq212/status/2064521202622960058": 1781135551055,
-    "https://twitter.com/JeffDean/status/2064497666638430542": 1781135551055,
     "https://twitter.com/thsottiaux/status/2065193272952422852": 1781222199337,
     "https://twitter.com/thsottiaux/status/2064911328087810308": 1781222199337,
     "https://twitter.com/thsottiaux/status/2064900105032135010": 1781222199338,
@@ -122,16 +112,19 @@
     "https://twitter.com/thsottiaux/status/2069837606574289329": 1782344160810,
     "https://twitter.com/thsottiaux/status/2069624530960838914": 1782344160810,
     "https://twitter.com/thsottiaux/status/2069592160966733853": 1782344160810,
-    "https://twitter.com/petergostev/status/2069774431665390015": 1782344160810
+    "https://twitter.com/petergostev/status/2069774431665390015": 1782344160810,
+    "https://twitter.com/thsottiaux/status/2070205520552886305": 1782431251866,
+    "https://twitter.com/thsottiaux/status/2070010718288843204": 1782431251866,
+    "https://twitter.com/gdb/status/2070199649823297653": 1782431251866,
+    "https://twitter.com/emollick/status/2070171580030656744": 1782431251866,
+    "https://twitter.com/emollick/status/2070020948326035771": 1782431251866,
+    "https://twitter.com/emollick/status/2070020417985581498": 1782431251866,
+    "https://twitter.com/petergostev/status/2070150002845106318": 1782431251866,
+    "https://twitter.com/petergostev/status/2069935469882916894": 1782431251866,
+    "https://twitter.com/trq212/status/2069974525727650112": 1782431251866
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://simonwillison.net/2026/Jun/10/diffusiongemma/#atom-everything": 1781135551055,
-    "https://simonwillison.net/2026/Jun/10/jeremy-howard/#atom-everything": 1781135551055,
-    "https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/#atom-everything": 1781135551055,
-    "https://stratechery.com/2026/fable-5-anthropic-alignment-ai-tiers/": 1781135551055,
-    "https://www.rundown.ai/articles/anthropic-hands-the-public-mythos-class-ai": 1781135551055,
-    "https://www.tomtunguz.com/upper-bound-corporate-ai/": 1781135551055,
     "https://stratechery.com/2026/an-interview-with-ben-bajarin-about-apple-ai-and-compute/": 1781222199338,
     "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything": 1781222199338,
     "https://simonwillison.net/2026/Jun/11/datasette/#atom-everything": 1781222199338,
@@ -204,8 +197,16 @@
     "https://simonwillison.net/2026/Jun/23/datasette/#atom-everything": 1782344160811,
     "https://stratechery.com/2026/my-vibe-coding-adventure-the-app-and-the-experience-ten-takeaways/": 1782344160811,
     "https://www.rundown.ai/articles/meet-your-new-slack-coworker-claude": 1782344160811,
-    "https://www.tomtunguz.com/sunil-agrawal-office-hours/": 1782344160811
+    "https://www.tomtunguz.com/sunil-agrawal-office-hours/": 1782344160811,
+    "https://stratechery.com/2026/an-interview-with-figma-ceo-dylan-field-about-design-and-ai/": 1782431251868,
+    "https://simonwillison.net/2026/Jun/25/ai-and-liability/#atom-everything": 1782431251867,
+    "https://simonwillison.net/2026/Jun/25/datasette-export-database/#atom-everything": 1782431251867,
+    "https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything": 1782431251867,
+    "https://www.rundown.ai/articles/agility-robotics-going-public-at-2-5b": 1782431251867,
+    "https://www.rundown.ai/articles/openai-spicy-new-custom-ai-chip": 1782431251867,
+    "https://cursor.com/cn/blog/reward-hacking-coding-benchmarks": 1782431251867,
+    "https://www.tomtunguz.com/sail-inference-queue/": 1782431251868
   },
-  "lastRunKey": "2026-06-25",
-  "lastRunAt": "2026-06-24T23:36:00.815Z"
+  "lastRunKey": "2026-06-26",
+  "lastRunAt": "2026-06-25T23:47:31.910Z"
 }
