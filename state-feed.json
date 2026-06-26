@@ -1,15 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/thsottiaux/status/2065193272952422852": 1781222199337,
-    "https://twitter.com/thsottiaux/status/2064911328087810308": 1781222199337,
-    "https://twitter.com/thsottiaux/status/2064900105032135010": 1781222199338,
-    "https://twitter.com/gdb/status/2065155654286020628": 1781222199338,
-    "https://twitter.com/gdb/status/2064899797593792687": 1781222199338,
-    "https://twitter.com/polynoamial/status/2065125807585149136": 1781222199338,
-    "https://twitter.com/emollick/status/2065115360148197630": 1781222199338,
-    "https://twitter.com/emollick/status/2064920957098041817": 1781222199338,
-    "https://twitter.com/bcherny/status/2064885111477219664": 1781222199338,
-    "https://twitter.com/bcherny/status/2064974739626394053": 1781222199338,
     "https://twitter.com/emollick/status/2065537691270213950": 1781308504659,
     "https://twitter.com/emollick/status/2065513498763800850": 1781308504659,
     "https://twitter.com/emollick/status/2065444925483692192": 1781308504659,
@@ -121,15 +111,17 @@
     "https://twitter.com/emollick/status/2070020417985581498": 1782431251866,
     "https://twitter.com/petergostev/status/2070150002845106318": 1782431251866,
     "https://twitter.com/petergostev/status/2069935469882916894": 1782431251866,
-    "https://twitter.com/trq212/status/2069974525727650112": 1782431251866
+    "https://twitter.com/trq212/status/2069974525727650112": 1782431251866,
+    "https://twitter.com/OriolVinyalsML/status/2070576530195910865": 1782516990919,
+    "https://twitter.com/polynoamial/status/2070562080286240878": 1782516990919,
+    "https://twitter.com/thsottiaux/status/2070553131503776175": 1782516990919,
+    "https://twitter.com/thsottiaux/status/2070343597111812414": 1782516990919,
+    "https://twitter.com/emollick/status/2070545915341914397": 1782516990920,
+    "https://twitter.com/emollick/status/2070308786032578766": 1782516990920,
+    "https://twitter.com/petergostev/status/2070347763993211023": 1782516990920
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://stratechery.com/2026/an-interview-with-ben-bajarin-about-apple-ai-and-compute/": 1781222199338,
-    "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything": 1781222199338,
-    "https://simonwillison.net/2026/Jun/11/datasette/#atom-everything": 1781222199338,
-    "https://simonwillison.net/2026/Jun/11/asyncinject/#atom-everything": 1781222199338,
-    "https://www.rundown.ai/articles/anthropic-writes-washington-an-ai-regulation-playbook": 1781222199338,
     "https://simonwillison.net/2026/Jun/12/andrew-singleton/#atom-everything": 1781308504660,
     "https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything": 1781308504660,
     "https://simonwillison.net/2026/Jun/10/datasette-agent/#atom-everything": 1781308504660,
@@ -205,8 +197,15 @@
     "https://www.rundown.ai/articles/agility-robotics-going-public-at-2-5b": 1782431251867,
     "https://www.rundown.ai/articles/openai-spicy-new-custom-ai-chip": 1782431251867,
     "https://cursor.com/cn/blog/reward-hacking-coding-benchmarks": 1782431251867,
-    "https://www.tomtunguz.com/sail-inference-queue/": 1782431251868
+    "https://www.tomtunguz.com/sail-inference-queue/": 1782431251868,
+    "https://simonwillison.net/2026/Jun/26/dean-w-ball/#atom-everything": 1782516990920,
+    "https://simonwillison.net/2026/Jun/26/timothy-b-lee/#atom-everything": 1782516990920,
+    "https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything": 1782516990920,
+    "https://stratechery.com/2026/summer-vibes/": 1782516990920,
+    "https://www.rundown.ai/articles/apple-big-price-hike": 1782516990920,
+    "https://www.rundown.ai/articles/white-house-reins-in-openai-gpt-5-6": 1782516990920,
+    "https://www.tomtunguz.com/what-if-there-is-no-moat/": 1782516990920
   },
-  "lastRunKey": "2026-06-26",
-  "lastRunAt": "2026-06-25T23:47:31.910Z"
+  "lastRunKey": "2026-06-27",
+  "lastRunAt": "2026-06-26T23:36:30.925Z"
 }
