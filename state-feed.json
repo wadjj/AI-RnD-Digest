@@ -1,13 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/emollick/status/2065537691270213950": 1781308504659,
-    "https://twitter.com/emollick/status/2065513498763800850": 1781308504659,
-    "https://twitter.com/emollick/status/2065444925483692192": 1781308504659,
-    "https://twitter.com/karpathy/status/2065490793092337691": 1781308504660,
-    "https://twitter.com/JeffDean/status/2065471716734996823": 1781308504660,
-    "https://twitter.com/JeffDean/status/2065467587207819761": 1781308504660,
-    "https://twitter.com/thsottiaux/status/2065468501750649006": 1781308504660,
-    "https://twitter.com/petergostev/status/2065422494744318274": 1781308504660,
     "https://twitter.com/emollick/status/2065781497638826399": 1781393686240,
     "https://twitter.com/petergostev/status/2065713107356283124": 1781393686240,
     "https://twitter.com/JeffDean/status/2065649717573505188": 1781393686241,
@@ -118,18 +110,20 @@
     "https://twitter.com/thsottiaux/status/2070343597111812414": 1782516990919,
     "https://twitter.com/emollick/status/2070545915341914397": 1782516990920,
     "https://twitter.com/emollick/status/2070308786032578766": 1782516990920,
-    "https://twitter.com/petergostev/status/2070347763993211023": 1782516990920
+    "https://twitter.com/petergostev/status/2070347763993211023": 1782516990920,
+    "https://twitter.com/thsottiaux/status/2070985298486374876": 1782602340825,
+    "https://twitter.com/thsottiaux/status/2070653282440405046": 1782602340826,
+    "https://twitter.com/emollick/status/2070972259812946011": 1782602340826,
+    "https://twitter.com/emollick/status/2070909447015141606": 1782602340826,
+    "https://twitter.com/emollick/status/2070729413520396475": 1782602340826,
+    "https://twitter.com/amorriscode/status/2070927087435935870": 1782602340826,
+    "https://twitter.com/amorriscode/status/2070677048075624744": 1782602340826,
+    "https://twitter.com/petergostev/status/2070818320261992921": 1782602340826,
+    "https://twitter.com/petergostev/status/2070676300797243419": 1782602340826,
+    "https://twitter.com/petergostev/status/2070652546943951290": 1782602340826
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://simonwillison.net/2026/Jun/12/andrew-singleton/#atom-everything": 1781308504660,
-    "https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything": 1781308504660,
-    "https://simonwillison.net/2026/Jun/10/datasette-agent/#atom-everything": 1781308504660,
-    "https://stratechery.com/2026/hey-siri-tell-me-a-fable/": 1781308504660,
-    "https://www.rundown.ai/articles/spacex-posts-biggest-ipo-in-history": 1781308504660,
-    "https://www.rundown.ai/articles/jeff-bezos-41b-artificial-general-engineer": 1781308504660,
-    "https://www.rundown.ai/articles/europe-humanoid-moonshot-lands-1-4b": 1781308504660,
-    "https://www.tomtunguz.com/personal-cost-of-capital/": 1781308504660,
     "https://simonwillison.net/2026/Jun/13/us-government-directive-to-suspend-access/#atom-everything": 1781393686241,
     "https://simonwillison.net/2026/Jun/12/openai-webrtc/#atom-everything": 1781393686241,
     "https://simonwillison.net/2026/Jun/13/publishing-wasm-wheels/#atom-everything": 1781480362004,
@@ -204,8 +198,11 @@
     "https://stratechery.com/2026/summer-vibes/": 1782516990920,
     "https://www.rundown.ai/articles/apple-big-price-hike": 1782516990920,
     "https://www.rundown.ai/articles/white-house-reins-in-openai-gpt-5-6": 1782516990920,
-    "https://www.tomtunguz.com/what-if-there-is-no-moat/": 1782516990920
+    "https://www.tomtunguz.com/what-if-there-is-no-moat/": 1782516990920,
+    "https://magazine.sebastianraschka.com/p/using-local-coding-agents": 1782602340826,
+    "https://simonwillison.net/2026/Jun/26/incident-report/#atom-everything": 1782602340826,
+    "https://simonwillison.net/2026/Jun/26/openai/#atom-everything": 1782602340826
   },
-  "lastRunKey": "2026-06-27",
-  "lastRunAt": "2026-06-26T23:36:30.925Z"
+  "lastRunKey": "2026-06-28",
+  "lastRunAt": "2026-06-27T23:19:00.831Z"
 }
