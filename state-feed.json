@@ -1,7 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/emollick/status/2066162715031224664": 1781480362003,
-    "https://twitter.com/thsottiaux/status/2066022651760721931": 1781480362003,
     "https://twitter.com/JeffDean/status/2066590668663951573": 1781568220478,
     "https://twitter.com/JeffDean/status/2066589995209728399": 1781568220478,
     "https://twitter.com/emollick/status/2066563652681892133": 1781568220478,
@@ -122,13 +120,13 @@
     "https://twitter.com/petergostev/status/2071237444360437907": 1782689519801,
     "https://twitter.com/thsottiaux/status/2071089307062837744": 1782689519801,
     "https://twitter.com/thsottiaux/status/2071077932244570112": 1782689519801,
-    "https://twitter.com/thsottiaux/status/2071071289247244481": 1782689519801
+    "https://twitter.com/thsottiaux/status/2071071289247244481": 1782689519801,
+    "https://twitter.com/emollick/status/2071459383868117371": 1782775080813,
+    "https://twitter.com/gdb/status/2071453977091477911": 1782775080814,
+    "https://twitter.com/bcherny/status/2071379474277613732": 1782775080814
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://simonwillison.net/2026/Jun/13/publishing-wasm-wheels/#atom-everything": 1781480362004,
-    "https://simonwillison.net/2026/Jun/13/luau-wasm/#atom-everything": 1781480362004,
-    "https://simonwillison.net/2026/Jun/13/sqlite-column-provenance/#atom-everything": 1781480362004,
     "https://stratechery.com/2026/anthropics-safety-superpower/": 1781568220479,
     "https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything": 1781568220479,
     "https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics/#atom-everything": 1781568220479,
@@ -204,8 +202,13 @@
     "https://simonwillison.net/2026/Jun/26/openai/#atom-everything": 1782602340826,
     "https://simonwillison.net/2026/Jun/28/jon-udell/#atom-everything": 1782689519801,
     "https://simonwillison.net/2026/Jun/28/hack-your-summer/#atom-everything": 1782689519801,
-    "https://sebastianraschka.com/blog/2026/local-open-weight-llms-coding-harnesses.html": 1782689519801
+    "https://sebastianraschka.com/blog/2026/local-open-weight-llms-coding-harnesses.html": 1782689519801,
+    "https://simonwillison.net/2026/Jun/29/safari-tab-count/#atom-everything": 1782775080814,
+    "https://simonwillison.net/2026/Jun/29/ornith/#atom-everything": 1782775080814,
+    "https://jack-clark.net/2026/06/29/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/": 1782775080814,
+    "https://stratechery.com/2026/summer-break-week-of-june-29/": 1782775080814,
+    "https://www.tomtunguz.com/ai-spend-breakeven-2029/": 1782775080814
   },
-  "lastRunKey": "2026-06-29",
-  "lastRunAt": "2026-06-28T23:31:59.806Z"
+  "lastRunKey": "2026-06-30",
+  "lastRunAt": "2026-06-29T23:18:00.820Z"
 }

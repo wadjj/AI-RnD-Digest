@@ -1,0 +1,135 @@
+{
+  "generatedAt": "2026-06-29T23:18:00.812Z",
+  "runKey": "2026-06-30",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Professor @Wharton studying AI, innovation & startups. Democratizing education using tech Book: https://t.co/CSmipbJ2jV Substack: https://t.co/UIBhxu4bgq",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2071459383868117371",
+          "text": "Even though I made this graph, it is also kind of wrong. Fable is guardrailed Mythos. If we use the Mythos date\n\n---\n Ethan Mollick: I took the new AA-Briefcase scores from @ArtificialAnlys (basically having the AI do multi-week consulting gigs with a lot of complexity) and graphed the frontier curve for open and closed models:\n1) Surprise, rapid gains!\n2) The open weights gap is clear\nhttps://artificialanalysis.ai/evaluations/aa-briefcase",
+          "createdAt": "2026-06-29T05:02:57.823Z",
+          "url": "https://x.com/emollick/status/2071459383868117371",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/emollick/status/2071449550662127927\nEthan Mollick: I took the new AA-Briefcase scores from @ArtificialAnlys (basically having the AI do multi-week consulting gigs with a lot of complexity) and graphed the frontier curve for open and closed models:\n1) Surprise, rapid gains!\n2) The open weights gap is clear\nhttps://artificialanalysis.ai/evaluations/aa-briefcase"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Greg Brockman",
+      "handle": "gdb",
+      "bio": "President & Co-Founder @OpenAI",
+      "tweets": [
+        {
+          "id": "https://twitter.com/gdb/status/2071453977091477911",
+          "text": "Sol & Daybreak",
+          "createdAt": "2026-06-29T04:41:28.815Z",
+          "url": "https://x.com/gdb/status/2071453977091477911",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Boris Cherny",
+      "handle": "bcherny",
+      "bio": "Claude Code @anthropicai",
+      "tweets": [
+        {
+          "id": "https://twitter.com/bcherny/status/2071379474277613732",
+          "text": "As engineering, product, design, DS, etc. melt into a new kind of role, I was reflecting on what roles might look like in the future. For example, when I look at the Claude Code team I see what I think is five archetypes:\n\n1. Prototyper: comes up with brand new ideas; churns out many ideas, most of which don't ship\n2. Builder: quickly turns a prototype/idea into production-grade product/infra\n3. Sweeper: cleans up the UI, simplifies the code and system, unships, optimizes performance\n4. Grower: takes a product that has been built and iterates on it to improve Product-Market Fit\n5. Maintainer: owns a mature system to make it secure, reliable, fast, and efficient as it scales\n\nMany people span across 2 roles, and sometimes 3 roles. I also notice that these roles are not really tied to job function -- eg. across Anthropic, some designers match category 1, some 2, some 3; same for engineers, PM, DS.\n\nA healthy team needs a mix of these, depending on the product:\n\n- A product that is new and pre-PMF needs people that are strong at 1+2+3\n- A product that is growing and has found PMF needs 2+3+4 and some 5\n- A product that has strong PMF needs 3+4+5 and some 2\n\nMaybe product roles of the future will look more like this, and less like the domain-specific roles of today?",
+          "createdAt": "2026-06-28T23:45:25.046Z",
+          "url": "https://x.com/bcherny/status/2071379474277613732",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Count the number of Safari tabs",
+      "url": "https://simonwillison.net/2026/Jun/29/safari-tab-count/#atom-everything",
+      "publishedAt": "2026-06-29T18:36:18.090Z",
+      "author": "",
+      "description": "Tiniest TIL, using AppleScript to count the number of open browser tabs in Safari: osascript -e 'tell application \"Safari\" to count tabs of…",
+      "content": "Tiniest TIL, using AppleScript to count the number of open browser tabs in Safari:\n\n osascript -e 'tell application \"Safari\" to count tabs of every window'\n\n Tags: safari , til , applescript"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding",
+      "url": "https://simonwillison.net/2026/Jun/29/ornith/#atom-everything",
+      "publishedAt": "2026-06-29T16:17:59.740Z",
+      "author": "",
+      "description": "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding This is an interesting new open weights (MIT licensed) model, the first model release…",
+      "content": "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding\n\nThis is an interesting new open weights (MIT licensed) model, the first model release from DeepReinforce.\n\n [...] with variants including 9B Dense, 31B Dense, 35B MoE, and 397B MoE. Built on top of pretrained Gemma 4 and Qwen 3.5, it achieves state-of-the-art performance among open-source models of comparable size on coding benchmarks.\n\n As far as I can tell the licenses of those underlying models is compatible with being used in this way - Gemma 4 is Apache 2.0 licensed (and not bound by the janky additional Gemma Terms of Use that afflicted the previous Gemma models) and Qwen 3.5 is Apache 2.0 licensed as well.\n\n I've been running the model using LM Studio and the ornith-1.0-35b-Q4_K_M.gguf (20GB) GGUF, hooked up to Pi . Initial impressions are very good - it seems to be able to run the agent harness over many tool calls in a proficient way.\n\n Here's a terminal session where I asked it to \"find the code that decodes the actor cookie\" and then \"find the code that opens the insert dialog when thebutton is clicked\" against a Datasette checkout, which it handled with ease.\n\n I also had it draw this pelican , which came out at 103 tokens/second:\n\n It's a little bit mangled but the pelican is clearly a pelican.\n\n I couldn't find much information about DeepReinforce themselves. The earliest paper I could find from the was CUDA-L1: Improving CUDA Optimization via Contrastive Reinforcement Learning from June 2025.\n\n Tags: ai , generative-ai , local-llms , llms , qwen , pelican-riding-a-bicycle , gemma , llm-release , lm-studio"
+    },
+    {
+      "source": "blog",
+      "name": "Import AI ",
+      "title": "Import AI 463: Self-improving robots; a 10k Chinese GPU cluster; and an elegiac essay for the human era",
+      "url": "https://jack-clark.net/2026/06/29/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/",
+      "publishedAt": "2026-06-29T13:03:27.412Z",
+      "author": "Jack Clark",
+      "description": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to…",
+      "content": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe.\n\n Subscribe now\n\n NVIDIA sets up a crude self-improvement loop for real world robotics:\n …What if you could take the best ideas from AI agents and put them into the real world?…\n Researchers with NVIDIA have developed ENPIRE, software to get physical robotics to go through the same kind of autonomous experimentation and execution loop that AI agents go through. The research gives us a taste of what it might look like for a superintelligence to attempt to use robots to instantiate itself in the physical world – though as with all things in robotics, the current examples are suggestive at best.\n\n What ENPIRE is: The software is “a harness framework for coding agents that instantiates this physical feedback routine with four core modules: an Environment module (EN) for automatic reset and verification, a Policy Improvement module (PI) that launches policy refinement, a Rollout module (R) to evaluate policies with single or multiple physical robots operating in parallel, and an Evolution module (E) in which coding agents analyze logs, consult literature, improve training infrastructure and algorithm code to address failure modes”.\n ENPIRE works the same way that coding agents work – a scaffold supervises some physical robots which are asked to complete tasks. The robots try to complete the tasks and attempt different strategies for completing stuff, trying and failing and learning. The system both evaluates their success and also resets itself when they fail. “This closed-loop system transforms real-world robot learning into a controllable optimization procedure that agents can manage, thus minimizing human effort while allowing fair ablations across training recipes and agent variants.”\n Two of the key ingredients for making this work are an automatic evaluation system to help score “the outcome of each trial without human judgement”, as well as an automatic reset system which “returns the scene to a fresh initial state for the next trial”. (Both of these are tasks which have historically required lots of human effort, and it’s likely that more complicated tasks would also require human effort for evaluation and resets, so in some sense the complexity of tasks a system like this can attack is also defined by our ability to automatically evaluate and reset the system).\n\n Hardware details: “Each station comprises two YAM (Yet Another Manipulator) arms from I2RT in a fixed bimanual configuration, a set of cameras, and a single workstation that runs the FastAPI server, policy inference, and the station’s agent.” Each workstation is running a NVIDIA RTX 5090.\n\n It works well (on some simple tasks) : “Frontier coding agents can autonomously develop a policy to achieve a 99% success rate on challenging, dexterous manipulation tasks in the real world, such as PushT, organizing pins into a pin box, and using a cutter to cut a zip tie,” the authors write. An additional task they test out on is seeing how well the robot can insert GPUs into a motherboard.\n Some AI systems are better than others, but many AI systems are always better than fewer: GPT-5.5 within Codex and Opus 4.7 within Claude Code trade off with one another for best performance, while Kimi-2.6 lags. There are also compelling returns to scale for agents, with larger numbers of agents (e.g., 8) arriving at higher scoring solutions sooner than others – and sometimes multi-agent setups yield a higher absolute score than a single agent setup, likely due to exploring more of the potential solution space.\n\n Challenges remain for fleet instrumentation: “Coding agents do not fully utilize robot resources when they are reading logs, writing code, debugging, or waiting for the language-model backbone. As the number of robots scales, MRU decreases while GPU active utilization increases,” they write. In other words, there are some infrastructure challenges with adding multiple robot agents so things don’t naturally parallelize.\n Read more: ENPIRE: Agentic Robot Policy Self-Improvement in the Real World (NVIDIA research website) .\n Read more : ENPIRE: Agentic Robot Policy Self-Improvement in the Real World (arXiv) .\n\n ***\n\n Humans are really, really, really bad at anticipating how technologies are built and used:\n … A quick reminder that today’s hot takes about AI are likely to be wrong…\n Predicting the future of technology is extremely difficult and our track record of doing it effectively is very poor, points out Matthew Tokson, Associate Dean for Research, University of Utah S.J. Quinney College of Law, in a short SSRN paper. “Skeptics have often underestimated the likelihood of novel innovations and their potential ramifications for humanity. Others have been overly optimistic about the social effects of new technologies or the strategic benefits of racing to build dangerous new weapons”.\n\n Cautionary examples: Many of the world’s experts (e.g., Albert Einstein, Niels Bohr, Robert Oppenheimer) were skeptical that nuclear fission could be achieved in the years immediately prior to it being achieved. Nobel-Prize-winning economist Paul Krugman once said the impact of the internet would be no greater than that of the fax machine. Technologists thought the internet would ultimately be a technology that promoted democracy rather than strengthened autocracies. And despite mounting decades of evidence, many human scientists either rejected human-caused climate change or significantly underestimated its effects.\n\n Why this matters – basic lessons: The main lesson here is that people who are a) skeptical AI could bring great changes to the economy, or b) think the effects of AI are going to be universally good, are likely to be wrong. “History does not support complacency about the future impacts of AI”, he writes. “Throughout history, optimists have often been wrong about the social ramifications of new technologies or the strategic benefits of building new weapons. Skeptics have often underestimated the likelihood of novel innovations and their impacts on humanity.”\n Read more: Artificial Intelligence and the Lessons of History (SSRN) .\n\n ***\n\n Tencent details the software it uses for 10,000-GPU training runs:\n …ARGUS is a technosignature of broader sophistication…\n Tencent has released details on ARGUS, software it uses to generate telemetry and debug errors of large sets of chips.\n\n What it is: ARGUS is “a low-overhead, fine-grained, always-on tracing and real-time analysis system for large-scale training workloads”. The software is designed to help Tencent collect data on and debug problems that it encounters while training AI systems. It consists of three layers of software: “The Python layer for scheduling and data preparation, the framework layer for phase orchestration, and the GPU runtime layer for kernel execution,” Tencent writes.\n\n What Tencent used it for: “We deploy ARGUS on a production cluster of over 10,000 GPUs for more than six months, and demonstrate its practical effectiveness through five real-world case studies, diagnosing compute stragglers, communication link degradation, pipeline bubble amplification, JIT compilation blocking, and compute stragglers masked by communication symptoms”, the company writes. Some of the training runs Tencent mentions include a 4,096-GPU video language model training job (likely a “HunyuanVideo” model), a 512-GPU audio-model training job, and a 12,960-GPU MoE training job (likely a Hunyuan LLM).\n\n Why this matters – technical symptoms of broader sophistication: Things like ARGUS are a signature of complicated, large-scale infrastructures where it makes sense to write your own software. While there’s nothing particularly notable about ARGUS – you’d expect to find similar software at any self-respecting frontier AI developer – it’s more interesting for what it says about the maturity of Tencent’s training environment. “ARGUS has been deployed on a 10,000+ GPU production cluster for over six months, running stably alongside production training and playing a key role in rapid fail-slow detection and performance optimization.”\n Read more: ARGUS: Production-Scale Tracing and Performance Diagnosis for over 10,000-GPU Clusters (arXiv) .\n\n ***\n\n Is disempowerment inevitable?\n …How much choice will humans end up having if we succeed in building superintelligent machines?…\n Fernando Borretti, a tremendously good writer of modern scifi whose work you should read , has written a mournful critique of the whole AI endeavor called “No-One Escapes the Permanent Underclass”. The post is something of a requiem for the period when humanity chose its own destiny and confronts directly the possibility of machines that outsmart and disempower humanity.\n\n The logic of war as the cause of our eventual disempowerment: “Everyone who is made of flesh and blood, will be disempowered and replaced by machines,” they write. “Imagine a pyramid. At the base you have the AIs and robots doing all economic activity. At the top you have the state, which has the monopoly on violence. The state enforces, and therefore can alter the definition of, property rights. In the middle you have this hair-thin layer of people with shares in the companies that foomed and catabolized the whole economy: the permanent overclass.”\n “In an existential conflict, where the existence of the state is threatened, the state will do what states throughout history have done to the powerless rich: arrest them and expropriate their assets,” they write. “in a conflict, the advantage goes to the states where the humans remove themselves from the loop as much as possible, and more and more decisionmaking goes to the AI, for the same reason that a state with access to radio and communications satellites has an advantage in war over a state that relies on human messengers on bicycles.”\n\n How we lose control: “Eventually the humans in nominal control of the AIs are a ceremonial, vestigial organ. The AIs present us with a situation report, and a list of choices, and they know every word that’s going to come out of our mouths,” they write. “The advantage accrues to states that minimize human control. There is no honour among thieves, analogously, there is no solidarity between Leviathan and the natural man that built it.”\n “Even if alignment works perfectly (a big if), this doesn’t solve the problem of human autonomy: the machines that watch over us, and wait on us hand and foot, are omniscient, omnipotent masters, who can exterminate us at any time, and we can’t resist them, because we have abolished our control over the future.”\n\n Why this matters – is this inevitable? Is the ultimate attractor state of AI technology the disempowerment and functional demise of human advancement? That’s what this post is contending with.\n Read more: No-One Escapes the Permanent Underclass (Fernando Borretti, blog) .\n\n ***\n\n Making the law visible to AI systems with the Local Ordinance Corpus:\n …A unified view into local laws across the United States…\n Researchers with UC Berkeley have assembled the Local Ordinance Corpus for the United States (LOCUS), “a comprehensive corpus and county-harmonized access layer for U.S. municipal and county ordinance codes”.\n\n What it is: LOCUS contains ~2.2 million rows of data, where each row is a specific piece of information related to a specific local ordinance. “We release the corpus with coverage metadata to support reproducibility, downstream legal AI research, and the incremental expansion of machine-readable access to local law,” the authors write.\n The data is sorted by the specific function of the ordinance (e.g, a rule, an enforcement of a rule, context about a rule, or process about a rule), and the topics include buildings, businesses, zoning, nuisances, and ‘other’.\n “LOCUS-v1 is designed as an access layer, not as a final theory of local legal authority”, the..."
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery by Ben Thompson",
+      "title": "Summer Break: Week of June 29",
+      "url": "https://stratechery.com/2026/summer-break-week-of-june-29/",
+      "publishedAt": "2026-06-29T10:00:00.991Z",
+      "author": "Ben Thompson",
+      "description": "Stratechery is on summer break the week of June 29. There will be no Weekly Article or Updates. The next Update will be on Monday, July 6.…",
+      "content": "Stratechery is on summer break the week of June 29. There will be no Weekly Article or Updates. The next Update will be on Monday, July 6.\n\n Dithering ,  Sharp Tech , and  Sharp China  will also return the week of July 6.  Greatest of All Talk  and  Asianometry  will continue to publish.\n\n The full Stratechery posting schedule is  here ."
+    },
+    {
+      "source": "blog",
+      "name": "Tomasz Tunguz",
+      "title": "When AI Costs More Than the Engineer",
+      "url": "https://www.tomtunguz.com/ai-spend-breakeven-2029/",
+      "publishedAt": "2026-06-29T00:00:00.356Z",
+      "author": "",
+      "description": "Anthropic spends 2.3x its payroll on compute.1 With ~5,000 employees & roughly $10b in inference & training spend in 2026, that works out to…",
+      "content": "Anthropic spends 2.3x its payroll on compute. 1 With ~5,000 employees & roughly $10b in inference & training spend in 2026, that works out to about $2m of compute per employee per year against a likely all-in comp of $500k+. 2\n\n The rest of the software market trails. The top 1% of companies spend $89k per engineer per year on AI, 40% of a fully-loaded $224k senior engineer salary 3 . 4 The median spends $137. That is the gap : 2.3x at the frontier, 0.4x at the top of the market, near zero at the median.\n\n How close does the rest of the market get? Three scenarios bracket the answer.\n\n Bear (token deflation wins), Base (top-1% trajectory tapers), Bull (rest of market reaches Anthropic’s ratio by 2029). Each scenario maps to an annual AI bill per engineer. 5\n\n Year\n Bear\n Base\n Bull\n\n 2026\n $90k (40%)\n $90k (40%)\n $90k (40%)\n\n 2027\n $106k (45%)\n $164k (70%)\n $258k (110%)\n\n 2028\n $118k (48%)\n $259k (105%)\n $444k (180%)\n\n 2029\n $106k (41%)\n $363k (140%)\n $596k (230%)\n\n In the Bull case, the AI bill alone per engineer matches an entire median-SaaS employee’s revenue contribution. 6 Anthropic & OpenAI already generate $14m & $6.5m in revenue per employee, the highest in the Forbes Global 2000. 7\n\n The cost structure follows the revenue structure.\n\n Bull drivers : frontier model prices hold as training costs plateau & demand outruns supply. Agentic workflows consume tokens at orders-of-magnitude higher rates than chat, with Goldman Sachs projecting a 24-fold rise in token consumption by 2030. 8 If a rival ships features faster, the AI bill stops being optional.\n\n Bear counterweights : token prices have fallen 10x per year for three years. 9 Open-weight models close the quality gap at a fraction of the cost. 10 Companies that ration usage by role or workload bend the curve.\n\n One of these scenarios will land closer to truth in 2029. Which one are you modeling for 2027?\n\n---\n\n Goldman Sachs, The AI Economy in 2026 . At AI-native firms like Anthropic, compute spend runs ~2.3x staff costs, indicating a structural cost base where infrastructure dominates payroll. See also industry coverage : valueaddvc.com/ai-spending .  ↩︎\n\n Anthropic headcount ~5,000 per SaaStr (June 2026). Inference & training spend ~$10b in 2026 against ~$5b revenue, via Fortune AI capex coverage . $10b / 5,000 = $2m compute per employee. All-in comp at top AI labs runs $500k+ per Levels.fyi Anthropic data .  ↩︎\n\n Senior software engineer fully-loaded comp anchor at $224k/yr blends Levels.fyi Q1 2026 base salary data with the U.S. Bureau of Labor Statistics Employer Costs for Employee Compensation 2026 benefits loading. Top-tier firms ride higher.  ↩︎\n\n Ramp AI Index, June 2026. ramp.com/data/ai-index-june-2026 . Top-1% firms spend $7,449/employee/month ($89k/yr) on AI, growing 14.1% month-over-month; median firm spends $11.38/month ($137/yr); 680x spending gap between leaders & the median.  ↩︎\n\n Methodology. Senior engineer fully-loaded comp anchors at $224k/yr today & grows ~5%/yr (BLS wage trend). Each scenario’s % of salary path drives annual AI spend per engineer. Bear path (% of salary by year) : 40, 45, 48, 41. Base path : 40, 70, 105, 140. Bull path : 40, 110, 180, 230. Bear dollars rise through 2028 then dip in 2029 as the ratio falls faster than salary inflation.  ↩︎\n\n Public SaaS revenue-per-employee benchmarks from KeyBanc Capital Markets SaaS Survey & OPEXEngine 2025-26 cohorts. Median ~$250k; top-quartile $400k-600k depending on company stage & vertical.  ↩︎\n\n Epoch AI, Revenue Per Employee at AI Companies , 2026. epoch.ai/data-insights/revenue-per-employee-ai-companies . Anthropic ~$14m, OpenAI ~$6.5m per employee, the highest in the Forbes Global 2000.  ↩︎\n\n Goldman Sachs Research forecasts agentic AI workloads driving a 24x increase in token consumption by 2030 vs current chat-dominated usage patterns.  ↩︎\n\n OpenAI’s GPT-4 class input pricing fell from $30 per million tokens at launch (March 2023) to under $3 by 2026, roughly a 10x per year deflation rate on equivalent capability. Similar declines visible across Anthropic Claude & Google Gemini SKUs.  ↩︎\n\n DeepSeek-V3 & subsequent open-weight releases delivered frontier-comparable benchmarks at 1/10th to 1/30th the API cost of leading proprietary models, per Ramp’s June 2026 observation that top firms are “mixing frontier models with cheap open-source” to control costs.  ↩︎"
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 3,
+    "totalTweets": 3,
+    "blogPosts": 5,
+    "podcastEpisodes": 0
+  }
+}
