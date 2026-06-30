@@ -1,11 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/JeffDean/status/2066590668663951573": 1781568220478,
-    "https://twitter.com/JeffDean/status/2066589995209728399": 1781568220478,
-    "https://twitter.com/emollick/status/2066563652681892133": 1781568220478,
-    "https://twitter.com/emollick/status/2066543254644928885": 1781568220478,
-    "https://twitter.com/emollick/status/2066534666257973523": 1781568220478,
-    "https://twitter.com/petergostev/status/2066508116879987130": 1781568220479,
     "https://twitter.com/trq212/status/2067021344341098670": 1781653819187,
     "https://twitter.com/thsottiaux/status/2066956441173323943": 1781653819187,
     "https://twitter.com/thsottiaux/status/2066865154902380796": 1781653819187,
@@ -123,18 +117,20 @@
     "https://twitter.com/thsottiaux/status/2071071289247244481": 1782689519801,
     "https://twitter.com/emollick/status/2071459383868117371": 1782775080813,
     "https://twitter.com/gdb/status/2071453977091477911": 1782775080814,
-    "https://twitter.com/bcherny/status/2071379474277613732": 1782775080814
+    "https://twitter.com/bcherny/status/2071379474277613732": 1782775080814,
+    "https://twitter.com/petergostev/status/2072034568513732648": 1782862736722,
+    "https://twitter.com/petergostev/status/2071955441240731658": 1782862736722,
+    "https://twitter.com/amorriscode/status/2072002446336122933": 1782862736723,
+    "https://twitter.com/bcherny/status/2072000214634742243": 1782862736723,
+    "https://twitter.com/trq212/status/2071990682726826193": 1782862736723,
+    "https://twitter.com/trq212/status/2071787401475960892": 1782862736723,
+    "https://twitter.com/demishassabis/status/2072003507025006670": 1782862736723,
+    "https://twitter.com/karpathy/status/2072051876816945486": 1782862736723,
+    "https://twitter.com/emollick/status/2071941684737515595": 1782862736723,
+    "https://twitter.com/thsottiaux/status/2071740419030053227": 1782862736723
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://stratechery.com/2026/anthropics-safety-superpower/": 1781568220479,
-    "https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything": 1781568220479,
-    "https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics/#atom-everything": 1781568220479,
-    "https://simonwillison.net/2026/Jun/15/julia-evans/#atom-everything": 1781568220479,
-    "https://www.rundown.ai/articles/ubtech-s-ultra-realistic-robot-girlfriend-is-here": 1781568220479,
-    "https://www.rundown.ai/articles/anthropic-pulls-mythos-fable-after-u-s-order": 1781568220479,
-    "https://jack-clark.net/2026/06/15/import-ai-461-alignment-is-not-on-track-frontiercode-and-synthetic-research-interns/": 1781568220479,
-    "https://www.tomtunguz.com/golden-age-of-applications/": 1781568220479,
     "https://stratechery.com/2026/fox-buys-roku-the-problem-with-foxs-smart-strategy-streaming-that-works/": 1781653819188,
     "https://simonwillison.net/2026/Jun/16/georgi-gerganov/#atom-everything": 1781653819187,
     "https://simonwillison.net/2026/Jun/16/fable-5-export-controls/#atom-everything": 1781653819188,
@@ -207,8 +203,12 @@
     "https://simonwillison.net/2026/Jun/29/ornith/#atom-everything": 1782775080814,
     "https://jack-clark.net/2026/06/29/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/": 1782775080814,
     "https://stratechery.com/2026/summer-break-week-of-june-29/": 1782775080814,
-    "https://www.tomtunguz.com/ai-spend-breakeven-2029/": 1782775080814
+    "https://www.tomtunguz.com/ai-spend-breakeven-2029/": 1782775080814,
+    "https://simonwillison.net/2026/Jun/30/nano-banana-2-lite/#atom-everything": 1782862736723,
+    "https://simonwillison.net/2026/Jun/30/claude-sonnet-5/#atom-everything": 1782862736723,
+    "https://simonwillison.net/2026/Jun/30/the-ai-compass/#atom-everything": 1782862736723,
+    "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug": 1782862736723
   },
-  "lastRunKey": "2026-06-30",
-  "lastRunAt": "2026-06-29T23:18:00.820Z"
+  "lastRunKey": "2026-07-01",
+  "lastRunAt": "2026-06-30T23:38:56.729Z"
 }
