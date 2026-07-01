@@ -1,0 +1,341 @@
+{
+  "generatedAt": "2026-07-01T23:47:10.926Z",
+  "runKey": "2026-07-02",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai. prev YC W20, mit media lab. towards machines of loving grace",
+      "tweets": [
+        {
+          "id": "https://twitter.com/trq212/status/2072436109053936091",
+          "text": "RT ClaudeDevs\nNow that Fable 5 is ready to build (again), we've reset everyone's 5-hour and weekly rate limits.",
+          "createdAt": "2026-07-01T21:16:35.918Z",
+          "url": "https://x.com/trq212/status/2072436109053936091",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/trq212/status/2072426684469670222",
+          "text": "RT Claude\nFable 5 is back.",
+          "createdAt": "2026-07-01T19:31:06.324Z",
+          "url": "https://x.com/trq212/status/2072426684469670222",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/trq212/status/2072366310416425053",
+          "text": "HTML mentioned\n---\n Notion: New block in Notion: HTML.\n\nBuild interactive HTML right on your Notion page. Ask AI to turn your content into interactive explainers, prototypes, or diagrams.\n\nShare with your team to use and tinker together.",
+          "createdAt": "2026-07-01T17:06:45.181Z",
+          "url": "https://x.com/trq212/status/2072366310416425053",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/NotionHQ/status/2072354853821755822\nNotion: New block in Notion: HTML.\n\nBuild interactive HTML right on your Notion page. Ask AI to turn your content into interactive explainers, prototypes, or diagrams.\n\nShare with your team to use and tinker together."
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Professor @Wharton studying AI, innovation & startups. Democratizing education using tech Book: https://t.co/CSmipbJ2jV Substack: https://t.co/UIBhxu4bgq",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2072427825013879248",
+          "text": "Yes! Pre-classifying routers are going to result in a lot of bad work because routing is hard and tend to underestimate the value of intelligence on many problems. OpenAI learned this with GPT-5, now it seems routers are hot again.\n---\n Mikhail Parakhin: I have this struggle with my own teams, too: many think it is a great idea to save money/latency/sanity by running a pre-classifier: \"This task is simple, use a dumber model\". Except in order to do that reliably you need to solve the task first! The only way is the advisory model",
+          "createdAt": "2026-07-01T21:11:11.880Z",
+          "url": "https://x.com/emollick/status/2072427825013879248",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/MParakhin/status/2072275413116784961\nMikhail Parakhin: I have this struggle with my own teams, too: many think it is a great idea to save money/latency/sanity by running a pre-classifier: \"This task is simple, use a dumber model\". Except in order to do that reliably you need to solve the task first! The only way is the advisory model"
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2072406024158650744",
+          "text": "Just tweeting while waiting for my Fable runs to finish.",
+          "createdAt": "2026-07-01T19:44:34.889Z",
+          "url": "https://x.com/emollick/status/2072406024158650744",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2072404098268442889",
+          "text": "The discussion here on AI futures can be a little too credulous of company visions. People tend to push what they have. The three big AI labs will say bigger models are the future. Every other firm has only small models to sell, so they will tell you small models are the future.",
+          "createdAt": "2026-07-01T19:36:55.912Z",
+          "url": "https://x.com/emollick/status/2072404098268442889",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2072410623380468190",
+          "text": "It's happening\n---\n Romain Huet: Make your way to the OpenAI booth now if you’re at @aiDotEngineer! 🚨\n\nAt 1pm, you’ll get to see the Codex reset button in action.\n\nRumor has it it’s headed back into a top-secret underground vault after today. 🤫",
+          "createdAt": "2026-07-01T20:02:50.367Z",
+          "url": "https://x.com/thsottiaux/status/2072410623380468190",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/romainhuet/status/2072406923660648757\nRomain Huet: Make your way to the OpenAI booth now if you’re at @aiDotEngineer! 🚨\n\nAt 1pm, you’ll get to see the Codex reset button in action.\n\nRumor has it it’s headed back into a top-secret underground vault after today. 🤫"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Gostev",
+      "handle": "petergostev",
+      "bio": "London 🇬🇧 AI Capability @ https://t.co/Y4VEGWofQ8 https://t.co/bkfw1nxdmJ",
+      "tweets": [
+        {
+          "id": "https://twitter.com/petergostev/status/2072406040268956062",
+          "text": "RT Andy T\nRe First demo of the night at Codex Community Meetup #3!\n\n@petergostev used Codex to create Retro Desktop, turning his Mac into a old-school Windows desktop 💻",
+          "createdAt": "2026-07-01T19:30:57.252Z",
+          "url": "https://x.com/petergostev/status/2072406040268956062",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/petergostev/status/2072308378215350457",
+          "text": "You are telling me that I have 10 agents reporting to me and I don't deserve a promo??",
+          "createdAt": "2026-07-01T13:16:33.878Z",
+          "url": "https://x.com/petergostev/status/2072308378215350457",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/petergostev/status/2072192411363610876",
+          "text": "Fun fact, by the intro to this Sonnet 5 video, you can deduce precisely when I filmed it\n---\n Arena.ai: Check out first impressions of Claude Sonnet 5 in the Agent Arena on YouTube with @petergostev.\n\nScores coming soon.\n\nhttps://www.youtube.com/watch?v=hh2WLKa7uhg",
+          "createdAt": "2026-07-01T05:35:44.494Z",
+          "url": "https://x.com/petergostev/status/2072192411363610876",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/arena/status/2072167459805893053\nArena.ai: Check out first impressions of Claude Sonnet 5 in the Agent Arena on YouTube with @petergostev.\n\nScores coming soon.\n\nhttps://www.youtube.com/watch?v=hh2WLKa7uhg"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Greg Brockman",
+      "handle": "gdb",
+      "bio": "President & Co-Founder @OpenAI",
+      "tweets": [
+        {
+          "id": "https://twitter.com/gdb/status/2072191801122038207",
+          "text": "Introducing GeneBench-Pro — testing whether models can handle the kind of judgment-heavy analysis that real-world computational biology requires.\n\nProblems would take a human expert around 20-40 hours to complete.\n\nGPT-5.6 Sol is a big step forward.\n\n---\n OpenAI: We’re introducing GeneBench-Pro, a research-level benchmark for a harder kind of AI progress: how well agents can navigate messy biological data, choose the right analysis path, and make judgment calls that real computational research depends on.\nhttps://openai.com/index/introducing-genebench-pro/",
+          "createdAt": "2026-07-01T05:33:19.259Z",
+          "url": "https://x.com/gdb/status/2072191801122038207",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/OpenAI/status/2072004836674167294\nOpenAI: We’re introducing GeneBench-Pro, a research-level benchmark for a harder kind of AI progress: how well agents can navigate messy biological data, choose the right analysis path, and make judgment calls that real computational research depends on.\nhttps://openai.com/index/introducing-genebench-pro/"
+        },
+        {
+          "id": "https://twitter.com/gdb/status/2072186947515355283",
+          "text": "Codex has gotten very good\n---\n Corey Quinn: Okay I owe my @OpenAI friends an apology for sleeping on Codex. I was not aware how strong your game was. This is... really quite something.",
+          "createdAt": "2026-07-01T05:14:02.750Z",
+          "url": "https://x.com/gdb/status/2072186947515355283",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/QuinnyPig/status/2072132613196898714\nCorey Quinn: Okay I owe my @OpenAI friends an apology for sleeping on Codex. I was not aware how strong your game was. This is... really quite something."
+        },
+        {
+          "id": "https://twitter.com/gdb/status/2072113363543580690",
+          "text": "Personal finance now available for for ChatGPT Plus in the U.S.\n---\n ChatGPT: Questions about dollars. Answers that just make sense.\n\nPersonal finance in ChatGPT is now available to Plus users in the U.S.",
+          "createdAt": "2026-07-01T00:21:38.305Z",
+          "url": "https://x.com/gdb/status/2072113363543580690",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/ChatGPTapp/status/2072070383206096999\nChatGPT: Questions about dollars. Answers that just make sense.\n\nPersonal finance in ChatGPT is now available to Plus users in the U.S."
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Anthony Morris ツ",
+      "handle": "amorriscode",
+      "bio": "claude code @anthropicAI | ex @stripe → https://t.co/AjndW0qdf0",
+      "tweets": [
+        {
+          "id": "https://twitter.com/amorriscode/status/2072136117969883216",
+          "text": "hype\n---\n Anthropic: We’ve received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5.\n\nWe'll begin restoring access tomorrow, and will share an update soon.\n\nWe’re grateful to our users for their patience, and to everyone who worked with us on",
+          "createdAt": "2026-07-01T01:52:03.170Z",
+          "url": "https://x.com/amorriscode/status/2072136117969883216",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/AnthropicAI/status/2072106151890809341\nAnthropic: We’ve received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5.\n\nWe'll begin restoring access tomorrow, and will share an update soon.\n\nWe’re grateful to our users for their patience, and to everyone who worked with us on"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Boris Cherny",
+      "handle": "bcherny",
+      "bio": "Claude Code @anthropicai",
+      "tweets": [
+        {
+          "id": "https://twitter.com/bcherny/status/2072105851457019944",
+          "text": "Agree\n---\n “paula”: actually insane stuff happening here",
+          "createdAt": "2026-06-30T23:51:47.700Z",
+          "url": "https://x.com/bcherny/status/2072105851457019944",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/paularambles/status/2072024792056909935\n“paula”: actually insane stuff happening here"
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "The Rundown AI",
+      "title": "WhatsApp kicks off reservation race with 'usernames' - Rundown AI",
+      "url": "https://www.rundown.ai/articles/whatsapp-kicks-off-reservation-race-with-usernames",
+      "publishedAt": "2026-07-01T17:54:35.250Z",
+      "author": "",
+      "description": "WhatsApp launches username feature letting users chat without phone numbers—a privacy boost that could also fuel scams if safeguards fail…",
+      "content": "WhatsApp launches username feature letting users chat without phone numbers—a privacy boost that could also fuel scams if safeguards fail. Plus, China's new supercomputer claims the crown."
+    },
+    {
+      "source": "blog",
+      "name": "The Rundown AI",
+      "title": "OpenAI's most powerful AI is here — but not for everyone - Rundown AI",
+      "url": "https://www.rundown.ai/articles/openai-most-powerful-ai-is-here-but-not-for-everyone",
+      "publishedAt": "2026-07-01T17:53:55.669Z",
+      "author": "",
+      "description": "OpenAI's most powerful AI model GPT-5.6 is here with Mythos-like capabilities, but limited access sparks global competition. Plus: AI…",
+      "content": "OpenAI's most powerful AI model GPT-5.6 is here with Mythos-like capabilities, but limited access sparks global competition. Plus: AI-powered movie production breakthroughs."
+    },
+    {
+      "source": "blog",
+      "name": "The Rundown AI",
+      "title": "Meta's brain-reading AI leaves letters behind - Rundown AI",
+      "url": "https://www.rundown.ai/articles/meta-brain-reading-ai-leaves-letters-behind",
+      "publishedAt": "2026-07-01T17:53:48.937Z",
+      "author": "",
+      "description": "Meta's brain-reading AI advances to decode full sentences from brain scans, bringing hope to people with speech loss through non-invasive…",
+      "content": "Meta's brain-reading AI advances to decode full sentences from brain scans, bringing hope to people with speech loss through non-invasive neural technology."
+    },
+    {
+      "source": "blog",
+      "name": "Tomasz Tunguz",
+      "title": "Most AI Work Can Wait",
+      "url": "https://www.tomtunguz.com/ai-execution-routing/",
+      "publishedAt": "2026-07-01T00:00:00.178Z",
+      "author": "",
+      "description": "Most teams building agents pick the model first & the architecture second. That is backwards. The model choice is the last decision, not the…",
+      "content": "Most teams building agents pick the model first & the architecture second. That is backwards. The model choice is the last decision, not the first.\n\n What matters is the router, a small piece of code that decides which tier of model handles each request. Get the router right & 70-80% of traffic runs on local models that cost nothing per call, or on async models 1 that reduce AI spend by 90%+.\n\n Brian Armstrong made the same point last week about how Coinbase cut AI spend in half while token usage grew 2 , paraphrasing :\n\n How to keep AI spend flat while token usage grows exponentially : not with friction & spend alerts. With better defaults, routing, & caching. Engineers can choose any model they want, but defaults matter.\n\n The routing problem has three layers, and each does a distinct job :\n\n Skill classifier turns a raw user request into a concrete operation. It answers what the task is. Draft-a-reply, summarize-a-repo, run-a-migration. The classifier is intent recognition.\n\n Router decides which tier executes the classified operation. It answers which model runs it. The router does not read the prompt. It reads the classifier’s label plus a few features : complexity, context size, historical success rate.\n\n Model selector picks the cheapest model within a tier that meets a confidence threshold.\n\n Classifier & router are not the same. The classifier is a language problem ; the router is a scheduling problem. Conflating them buries the model choice inside the prompt & kills the ability to A/B different models against the same operation.\n\n Local compute is close to free. Async batch reasoning runs two orders of magnitude cheaper than real-time inference 1 . So the real question is narrower : what fraction of work needs real-time answers?\n\n Surprisingly little, once the system can queue work.\n\n Queueing is why this works. A draft reply, a repo summary, a diligence memo, a nightly evaluator run : none of these need to return in a second.\n\n We built the first version of this into our agent runtime. The router already scored tasks on complexity, context size, & local memory retrieval. Two feedback mechanisms now sit on top of the router, & they operate on different time scales :\n\n Synchronous failure-mode signals. A predictor annotates each incoming route with five features : missing repo context, long dependency chains, risky migrations, security-sensitive prompts, & high-consequence writes.\n\n Nightly closed-loop feedback. A batch evaluator scores yesterday’s traces overnight & updates the router’s weights, running on async inference on Sail to keep the evaluation cost near zero.\n\n The synchronous predictor catches known-hard tasks before they fail. The nightly loop discovers new failure modes the predictor missed.\n\n Once skill distillation flattens the operation set, 70-80% of agent traffic can run on local models 3 for most non-coding work.\n\n The implication : design your system around routing, not around models. Pick your models last.\n\n---\n\n Full Sail on Asynchronous Inference — the cost delta between real-time & async batch inference.  ↩︎   ↩︎\n\n Brian Armstrong on X — Coinbase cut AI spend nearly in half while token usage grew, via better defaults, routing, & caching.  ↩︎\n\n Skill Distillation , Teaching Local Models to Call Tools Like Claude , & The Minimill of AI .  ↩︎"
+    },
+    {
+      "source": "blog",
+      "name": "Tomasz Tunguz",
+      "title": "The CIO's Choices are Clear in 2026",
+      "url": "https://www.tomtunguz.com/cio-choices-clear-2026/",
+      "publishedAt": "2026-06-30T00:00:00.345Z",
+      "author": "",
+      "description": "The CIO’s priorities are clear. The public markets reveal them. Two of five public software sectors are up over the last year. The other…",
+      "content": "The CIO’s priorities are clear. The public markets reveal them.\n\n Two of five public software sectors are up over the last year. The other three are bleeding. The buying pattern is consistent : fund the AI stack, cut everything else. 1\n\n DigitalOcean leads the 1Y board at +430%, with Datadog, Palo Alto Networks, & Fortinet each clearing +50%. At the other end, Monday.com, HubSpot, & Atlassian have struggled.\n\n The sector cuts make the dispersion legible.\n\n Infrastructure & Dev Tools (13 names) leads at +68.5% 1Y, 21.4% revenue growth, 10.0x EV/Sales. DigitalOcean, JFrog, Datadog, MongoDB, Cloudflare, Snowflake, & Confluent sit here. The basket combines agent compute, the AI data stack, & developer tooling.\n\n Security (8 names) is the only other positive sector at +17.6% 1Y, with the highest multiple in the sample at 11.6x EV/Sales & the fastest growth at 24.1%. Palo Alto Networks, Fortinet, CrowdStrike, & Okta carry the basket. AI is expanding both the attack surface & the defense surface, & the market is paying up for the line item that holds the perimeter.\n\n AI & Mega-cap Platforms (9 names) is down -5.9% 1Y despite 21.5% growth. Apple, Microsoft, Nvidia, Meta, Oracle, & Palantir sit here. Growth & profitability are not enough.\n\n Communications & Collaboration (9 names) is down -6.6% 1Y on 8.2% growth & a 2.4x multiple. The one exception proves the rule. Twilio is up +62% because AI agents send messages, & every agent needs a phone number. Even inside a losing sector, the AI-adjacent name wins.\n\n Business Applications (48 names) is the carnage at -36.2% 1Y, 12.5% growth, 3.4x EV/Sales. Salesforce, Workday, & ServiceNow anchor the bucket. This is most of public SaaS, & it is the seat-priced layer most exposed to agent substitution.\n\n Growth does not separate the winners from the losers. Infrastructure, Security, & the mega-caps all grow around 21%. What separates them is category . The market pays premium multiples for sectors CIOs believe are necessary during AI, & punishes horizontal application software where AI threatens the seat-based model.\n\n Marc Benioff told the Logan Bartlett Show in September 2025 :\n\n I’ve reduced it from 9,000 heads to about 5,000, because I need less heads. 2\n\n Agentforce now handles half of Salesforce’s customer interactions. Every CIO running Service Cloud just heard that on the same podcast.\n\n The public market is pricing the same question I asked in So You Want to Sell Inference : is your product a payment processor or a software business? Twilio, DigitalOcean, Cloudflare, & MongoDB sit on the token path because AI agents send messages, run on compute, route through edges, & query data.\n\n---\n\n The export lacks a true YTD return field, so rankings rely on 1Y, 3M, & 1M returns. A YTD field could shift the order at the margin but not the pattern.  ↩︎\n\n Marc Benioff on The Logan Bartlett Show , September 2, 2025. Agentforce handles ~50% of Salesforce’s customer interactions; support costs are down 17%.  ↩︎"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Quoting Anthropic",
+      "url": "https://simonwillison.net/2026/Jun/30/anthropic/#atom-everything",
+      "publishedAt": "2026-06-30T23:58:15.781Z",
+      "author": "",
+      "description": "We’ve received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5. We'll begin restoring…",
+      "content": "We’ve received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5.\n\n We'll begin restoring access tomorrow, and will share an update soon.\n\n — Anthropic , on Twitter\n\n Tags: anthropic , claude , generative-ai , claude-mythos , ai , llms"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Have your agent record video demos of its work with shot-scraper video",
+      "url": "https://simonwillison.net/2026/Jun/30/shot-scraper-video/#atom-everything",
+      "publishedAt": "2026-06-30T16:54:26.820Z",
+      "author": "",
+      "description": "shot-scraper video is a new command introduced in today's shot-scraper 1.10 release which accepts a storyboard.yml file defining a routine…",
+      "content": "shot-scraper video is a new command introduced in today's shot-scraper 1.10 release which accepts a storyboard.yml file defining a routine to run against a web application and uses Playwright to record a video of that routine. I've written before about the importance of having coding agents produce demos of their work; this is my latest attempt at enabling them to do that.\n\n Here's an example video created using shot-scraper video , exercising a still in development feature adding the ability to create new tables in Datasette from pasted CSV, TSV or JSON data:\n\n That video was created by running this command :\n\n shot-scraper video datasette-bulk-insert-storyboard.yml \\\n --auth datasette-demo-auth.json --mp4\n\n (That --auth JSON file contains a cookie , as described here in the documentation.)\n\n Here's the datasette-bulk-insert-storyboard.yml file:\n\n output : /tmp/datasette-bulk-insert-demo.webm\n server :\n - uv\n - --directory\n - /Users/simon/Dropbox/dev/datasette\n - run\n - datasette\n - -p\n - 6419\n - --root\n - --secret\n - \" 1 \"\n - /tmp/demo.db\n url : http://127.0.0.1:6419/demo/tasks\n viewport :\n width : 1280\n height : 720\n cursor : true\n wait_for : ' button[data-table-action=\"insert-row\"] '\n javascript : |\n (() => {\n let clipboardText = \"\";\n Object.defineProperty(navigator, \"clipboard\", {\n configurable: true,\n get: () => ({\n writeText: async (text) => {\n clipboardText = String(text);\n },\n readText: async () => clipboardText,\n }),\n });\n })();\n scenes :\n - name : Bulk insert existing table rows\n do :\n - pause : 0.8\n - click : ' button[data-table-action=\"insert-row\"] '\n - wait_for : \" #row-edit-dialog[open] \"\n - pause : 0.5\n - click : \" .row-edit-bulk-insert \"\n - wait_for : \" .row-edit-bulk-textarea \"\n - pause : 0.5\n - click : \" .row-edit-copy-template \"\n - wait_for : \" text=Copied \"\n - pause : 0.8\n - fill :\n into : \" .row-edit-bulk-textarea \"\n text : |\n title,owner,status,priority,notes\n Prepare release video,Ana,doing,1,Recorded with shot-scraper\n Check pasted CSV import,Ben,review,3,Previewed before inserting\n Share the branch demo,Chen,queued,2,Bulk insert creates three rows\n - pause : 0.8\n - click : \" .row-edit-save \"\n - wait_for : \" text=Previewing 3 rows. \"\n - pause : 1.2\n - click : \" .row-edit-save \"\n - wait_for : \" text=3 rows inserted. \"\n - pause : 1.0\n - click : \" .row-edit-cancel \"\n - wait_for : \" text=Prepare release video \"\n - pause : 1.0\n - name : Create a table from pasted CSV\n open : http://127.0.0.1:6419/demo\n wait_for : ' details.actions-menu-links summary '\n do :\n - pause : 0.8\n - click : ' details.actions-menu-links summary '\n - click : ' button[data-database-action=\"create-table\"] '\n - wait_for : \" #table-create-dialog[open] \"\n - pause : 0.5\n - fill :\n into : \" .table-create-table-name \"\n text : \" launch_metrics \"\n - click : \" .table-create-from-data \"\n - wait_for : \" .table-create-data-textarea \"\n - pause : 0.5\n - fill :\n into : \" .table-create-data-textarea \"\n text : |\n metric_id,name,score,recorded_on\n m001,Activation rate,87.5,2026-06-29\n m002,Retention check,72.25,2026-06-30\n m003,CSV import health,95,2026-07-01\n - pause : 0.8\n - click : \" .table-create-save \"\n - wait_for : \" text=Previewing 3 rows. \"\n - pause : 1.2\n - click : \" .table-create-save \"\n - wait_for_url : \" **/demo/launch_metrics \"\n - wait_for : \" text=Activation rate \"\n - pause : 1.2\n\n The video command documentation includes simpler examples, but for the purpose of this post I thought I'd go with something more comprehensive.\n\n That demo YAML storyboard was constructed entirely by GPT-5.5 xhigh running in Codex Desktop, using the following prompt run inside my ~/dev/datasette checkout of this branch :\n\n Review the changes on this branch.\n\n cd to ~/dev/shot-scraper and run the command \"uv run shot-scraper video --help\"\n\n Now use that new video command to record a video demo of the new features from this branch, including running a \"uv run datasette -p 6419 --root --secret 1 /tmp/demo.db\" development server so you can record the video against a demo DB that you first create.\n\n Now that I've released the feature the prompt could say \" run uvx shot-scraper video --help \" instead and it should achieve the same result.\n\n I really like this pattern where the --help output for a command provides enough detail that a coding agent can use it - it works kind of like bundling a SKILL.md file directly inside the tool. I used the same pattern for showboat and rodney .\n\n How I built this\n\n shot-scraper video started as an experimental prototype. shot-scraper is built on top of Playwright , and the key feature it needed was for Playwright to be able to record video of browser sessions with enough control to create the desired demo.\n\n I first tried this a few years ago and found that the Playwright-produced videos included additional chrome that was useful for debugging a test failure but unwanted for a product demo.\n\n They fixed that a while ago, but there were still some minor blockers. In particular I was getting a few white frames at the start of the videos , since the recording mechanism kicked in before the first URL was loaded by the browser.\n\n Playwright 1.59 added a new screencast mechanism providing much more finely grained control over video recording. This was very nearly what I needed, but the resulting videos were fixed at 800px wide.\n\n I found a landed PR fixing that but it wasn't yet in a release. Then yesterday they shipped it in playwright-python 1.61.0 and I was finally unblocked to finish implementing the feature!\n\n The code itself was all written by GPT-5.5 xhigh in Codex Desktop. I had it write the documentation as well which gave me a very useful frame for reviewing the design - much of the iteration on the feature came from reviewing that documentation, spotting things that were redundant, inconsistent or confusing, and requesting (or dictating) a better design.\n\n The YAML format itself was mostly defined by the coding agent. I had it use Pydantic to both define and validate the format, partly to make the design easier to review.\n\n This is a great example of the kind of feature that I almost certainly wouldn't have taken on without coding agent support. I filed the original issue in February 2024, and had difficulty finding the necessary time to solve this in amongst all of my other projects.\n\n Tags: projects , python , yaml , ai , datasette , playwright , shot-scraper , generative-ai , llms , pydantic , coding-agents , agentic-engineering"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "shot-scraper 1.10",
+      "url": "https://simonwillison.net/2026/Jun/30/shot-scraper/#atom-everything",
+      "publishedAt": "2026-06-30T15:10:14.136Z",
+      "author": "",
+      "description": "Release: shot-scraper 1.10 The big new feature is shot-scraper video storyboard.yml, described in detail in Have your agent record…",
+      "content": "Release: shot-scraper 1.10\n\n The big new feature is shot-scraper video storyboard.yml , described in detail in Have your agent record video demos of its work with shot-scraper video .\n\n Tags: shot-scraper"
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 7,
+    "totalTweets": 15,
+    "blogPosts": 8,
+    "podcastEpisodes": 0
+  }
+}
