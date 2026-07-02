@@ -1,0 +1,229 @@
+{
+  "generatedAt": "2026-07-02T23:31:59.474Z",
+  "runKey": "2026-07-03",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Professor @Wharton studying AI, innovation & startups. Democratizing education using tech Book: https://t.co/CSmipbJ2jV Substack: https://t.co/UIBhxu4bgq",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2072778376494895139",
+          "text": "The talk about Mythos and cybersecurity was not, in fact, hype. (As anyone using Fable to do autonomous work has probably recognized)\n---\n Epoch AI: AI appears to be finding software vulnerabilities at scale.\n\nIn June 2026, 21 notable organizations disclosed ~1,500 high- and critical-severity CVEs, over 3.5× the previous monthly record set before Claude Mythos Preview's release.",
+          "createdAt": "2026-07-02T20:24:09.663Z",
+          "url": "https://x.com/emollick/status/2072778376494895139",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/EpochAIResearch/status/2072776792809918604\nEpoch AI: AI appears to be finding software vulnerabilities at scale.\n\nIn June 2026, 21 notable organizations disclosed ~1,500 high- and critical-severity CVEs, over 3.5× the previous monthly record set before Claude Mythos Preview's release."
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2072775581020692894",
+          "text": "AI implementation advice on my X feed is divided between those who \"feel the exponential\" and those whose (unconscious?) mental model of AI is that this is about as good as it is going to get, so it is time to build around the limitations & cost structures of today's capabilities",
+          "createdAt": "2026-07-02T20:13:03.372Z",
+          "url": "https://x.com/emollick/status/2072775581020692894",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2072727258352001341",
+          "text": "Continual learning is probably the biggest barrier to explosive AI adoption (& may have big implications for recursive self-improvement as well)\n\nAs long as you deal with amnesiac models that require humans to do the learning for them, adoption will be gated by human processes.\n---\n Epoch AI: Introducing EBR-bench, our new benchmark to measure on-the-fly learning.\n\nAI repeatedly plays a challenging board game called Earthborne Rangers and tries to learn from its mistakes. So far: no signs of improvement.",
+          "createdAt": "2026-07-02T17:01:02.707Z",
+          "url": "https://x.com/emollick/status/2072727258352001341",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/EpochAIResearch/status/2072714372175237255\nEpoch AI: Introducing EBR-bench, our new benchmark to measure on-the-fly learning.\n\nAI repeatedly plays a challenging board game called Earthborne Rangers and tries to learn from its mistakes. So far: no signs of improvement."
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "cat",
+      "handle": "_catwu",
+      "bio": "claude code + cowork @anthropicai, prev: @dagster, @scale_ai",
+      "tweets": [
+        {
+          "id": "https://twitter.com/_catwu/status/2072779317172683018",
+          "text": "RT Sid\nClaude Code artifacts are now available for pro and max subscribers! Ask Claude to create an artifact to walk you through a PR or architecture for your project, create data dashboards, mock up UIs and anything else that requires rich html.\n\nJust ask Claude to \"create an artifact\"\n\nWorks especially well with Fable because I can let it run for hours at a time and just ask for an artifact to catch me up and eli5\n\nTry it out and let us know what you think! Lots more coming soon :)\n---\n ClaudeDevs: Artifacts in Claude Code are now also available on Pro and Max plans.\n\nAsk for an artifact, Claude writes the code, publishes it live to claude.a‍i, and updates it in real time while it keeps working. Pages are private to your account and fully self-contained.",
+          "createdAt": "2026-07-02T20:09:07.676Z",
+          "url": "https://x.com/_catwu/status/2072779317172683018",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2072607914217320644",
+          "text": "Can't wait to see what people will do with GPT-5.6 Sol Ultra. Stash your hardest prompts somewhere.",
+          "createdAt": "2026-07-02T09:06:48.278Z",
+          "url": "https://x.com/thsottiaux/status/2072607914217320644",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai. prev YC W20, mit media lab. towards machines of loving grace",
+      "tweets": [
+        {
+          "id": "https://twitter.com/trq212/status/2072541903707660507",
+          "text": "RT Geoffrey Litt\nHot take: I think it's still important to understand the code that our agents write!\n\nIn this mega thread (based on my AIE talk today), I will explain why that's the case, and show some ideas for how to efficiently understand code. Alright, let's dive in. 1/",
+          "createdAt": "2026-07-02T03:26:24.983Z",
+          "url": "https://x.com/trq212/status/2072541903707660507",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Anthony Morris ツ",
+      "handle": "amorriscode",
+      "bio": "claude code @anthropicAI | ex @stripe → https://t.co/AjndW0qdf0",
+      "tweets": [
+        {
+          "id": "https://twitter.com/amorriscode/status/2072520635964895291",
+          "text": "running loops with claude tag is so fun it's been hard to step away at night. what have you been using it for?",
+          "createdAt": "2026-07-02T03:19:59.101Z",
+          "url": "https://x.com/amorriscode/status/2072520635964895291",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Greg Brockman",
+      "handle": "gdb",
+      "bio": "President & Co-Founder @OpenAI",
+      "tweets": [
+        {
+          "id": "https://twitter.com/gdb/status/2072468859047772664",
+          "text": "Codex for making a personalized daily digest:\n---\n Ryan Doyle: surprised more people aren't doing something like this\n\nCodex now creates a \"newspaper\" for me every morning\n\nUnread messages, calendar, surf report, news\n\nAnything I can do to stay off my phone until later in the day is a priority",
+          "createdAt": "2026-07-01T23:54:15.984Z",
+          "url": "https://x.com/gdb/status/2072468859047772664",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/doooyle/status/2072351019913171442\nRyan Doyle: surprised more people aren't doing something like this\n\nCodex now creates a \"newspaper\" for me every morning\n\nUnread messages, calendar, surf report, news\n\nAnything I can do to stay off my phone until later in the day is a priority"
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Using DSPy to evaluate and improve Datasette Agent's SQL system prompts",
+      "url": "https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything",
+      "publishedAt": "2026-07-02T18:25:00.853Z",
+      "author": "",
+      "description": "Research: Using DSPy to evaluate and improve Datasette Agent's SQL system prompts One of this morning's AIE keynotes covered dspy, w…",
+      "content": "Research: Using DSPy to evaluate and improve Datasette Agent's SQL system prompts\n\n One of this morning's AIE keynotes covered dspy , which reminded me I've been meaning to see if it could help me improve the system prompt used by Datasette Agent - so I fired off an asynchronous research task in Claude Code for web using Claude Fable 5:\n\n Pip install the latest Datasette alpha and datasette-agent and dspy - then figure out how to use dspy to evaluate and improve the main system prompts used by Datasette Agent for the feature where it can execute read only SQL queries to answer user questions about data.\n\n Fable chose to test using GPT 4.1 mini and nano, and identified several promising looking directions for improvements. I particularly like this one:\n\n The schema listing gives only table names; the \"don't call describe_table if you already have the information\" advice caused column-name guessing (page_count, o.order_id, first_name) and error-retry loops in baseline traces. Either include column names in the prompt's schema listing or soften that advice.\n\n Tags: ai , datasette , generative-ai , llms , evals , dspy , datasette-agent , claude-mythos"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Understand to participate",
+      "url": "https://simonwillison.net/2026/Jul/2/understand-to-participate/#atom-everything",
+      "publishedAt": "2026-07-02T17:07:14.806Z",
+      "author": "",
+      "description": "I saw Geoffrey Litt speak at AIE yesterday, and one framing he used particularly resonated with me: Understand to participate\n\nGeoffrey was…",
+      "content": "I saw Geoffrey Litt speak at AIE yesterday, and one framing he used particularly resonated with me:\n\n Understand to participate\n\n Geoffrey was talking about the challenge of collaborating with coding agents as they construct increasingly large and sophisticated changes, and the need to avoid taking on cognitive debt as your understanding drifts from how the code actually works.\n\n His argument is that you need to understand the code to a depth that enables you to participate further with the model:\n\n You can learn what the agent is doing to make sure you can be an active participant in the creative process. [...]\n\n You need a rich set of concepts in your mind to think creatively and fluently about how to move something forward. If you're lacking that fluency, your ability to participate in the project is meaningfully limited.\n\n The AIE talks are all recorded - all 300+ of them! - and should be trickling out over the next three weeks. Geoffrey's is one that I recommend catching on YouTube.\n\n Geoffrey also published a thread version of his talk on Twitter.\n\n Tags: geoffrey-litt , coding-agents , cognitive-debt , generative-ai , ai , llms"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "HTML table extractor",
+      "url": "https://simonwillison.net/2026/Jun/29/html-table-extractor/#atom-everything",
+      "publishedAt": "2026-06-29T23:38:21.968Z",
+      "author": "",
+      "description": "Tool: HTML table extractor Yet another in my growing collection of paste-conversion tools. This one accepts pasted rich text from…",
+      "content": "Tool: HTML table extractor\n\n Yet another in my growing collection of paste-conversion tools. This one accepts pasted rich text from browsers (with embedded HTML tables) and converts every detected table into HTML, Markdown, CSV, TSV, or JSON.\n\n Try it out by selecting everything on the Wikipedia List of cities and towns in the San Francisco Bay Area page and pasting it directly into the tool:\n\n On a similar note, I recently rebuilt my Rich text to markdown tool to add support for tables and generally improve the UI.\n\n Update : It turns out Wikipedia has an open CORS API for retrieving the full rendered HTML content of any page - demo here - so I had Codex add the ability to search Wikipedia for a page and then automatically import and display any tables from that page.\n\n Tags: html , tools , wikipedia , cors"
+    },
+    {
+      "source": "blog",
+      "name": "The Rundown AI",
+      "title": "Apptronik opens massive 'Robot Park' - Rundown AI",
+      "url": "https://www.rundown.ai/articles/apptronik-opens-massive-robot-park",
+      "publishedAt": "2026-07-02T14:30:28.143Z",
+      "author": "",
+      "description": "Apptronik just cracked open the doors on “Willy Wonka's Robot Factory” — all 90K square feet of it in Austin, where fleets of Apollo 2…",
+      "content": "Apptronik just cracked open the doors on “Willy Wonka's Robot Factory” — all 90K square feet of it in Austin, where fleets of Apollo 2 humanoids grind through logistics and retail tasks on loop, feeding a data pipeline straight into Google DeepMind."
+    },
+    {
+      "source": "blog",
+      "name": "The Rundown AI",
+      "title": "Anthropic's Fable returns worldwide - Rundown AI",
+      "url": "https://www.rundown.ai/articles/anthropic-fable-returns-worldwide",
+      "publishedAt": "2026-07-02T09:01:20.934Z",
+      "author": "",
+      "description": "Anthropic's Fable 5 returns worldwide after government shutdown, bringing new AI guardrails and closer regulatory oversight of frontier…",
+      "content": "Anthropic's Fable 5 returns worldwide after government shutdown, bringing new AI guardrails and closer regulatory oversight of frontier model deployments."
+    },
+    {
+      "source": "blog",
+      "name": "The Rundown AI",
+      "title": "Sonnet 5 ships as Washington frees Fable - Rundown AI",
+      "url": "https://www.rundown.ai/articles/sonnet-5-ships-as-washington-frees-fable",
+      "publishedAt": "2026-07-01T09:01:29.569Z",
+      "author": "",
+      "description": "Sonnet 5 ships as Washington frees Fable. Anthropic's latest model arrives amid buzz around more powerful models returning. Plus, create…",
+      "content": "Sonnet 5 ships as Washington frees Fable. Anthropic's latest model arrives amid buzz around more powerful models returning. Plus, create winning ads with Claude in one command."
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 6,
+    "totalTweets": 8,
+    "blogPosts": 6,
+    "podcastEpisodes": 0
+  }
+}

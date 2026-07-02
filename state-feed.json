@@ -1,14 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/gdb/status/2067344606128468445": 1781740359855,
-    "https://twitter.com/gdb/status/2067144669897859411": 1781740359855,
-    "https://twitter.com/gdb/status/2067100786098831681": 1781740359855,
-    "https://twitter.com/emollick/status/2067344183870836985": 1781740359856,
-    "https://twitter.com/emollick/status/2067294892687024304": 1781740359856,
-    "https://twitter.com/emollick/status/2067056226337186146": 1781740359856,
-    "https://twitter.com/petergostev/status/2067216755584389313": 1781740359856,
-    "https://twitter.com/thsottiaux/status/2067181377028538431": 1781740359856,
-    "https://twitter.com/thsottiaux/status/2067064381855187231": 1781740359856,
     "https://twitter.com/gdb/status/2067700691062464887": 1781827278646,
     "https://twitter.com/gdb/status/2067675030335668270": 1781827278646,
     "https://twitter.com/gdb/status/2067473704200863774": 1781827278647,
@@ -129,18 +120,18 @@
     "https://twitter.com/gdb/status/2072186947515355283": 1782949630928,
     "https://twitter.com/gdb/status/2072113363543580690": 1782949630928,
     "https://twitter.com/amorriscode/status/2072136117969883216": 1782949630928,
-    "https://twitter.com/bcherny/status/2072105851457019944": 1782949630928
+    "https://twitter.com/bcherny/status/2072105851457019944": 1782949630928,
+    "https://twitter.com/emollick/status/2072778376494895139": 1783035119476,
+    "https://twitter.com/emollick/status/2072775581020692894": 1783035119476,
+    "https://twitter.com/emollick/status/2072727258352001341": 1783035119476,
+    "https://twitter.com/_catwu/status/2072779317172683018": 1783035119476,
+    "https://twitter.com/thsottiaux/status/2072607914217320644": 1783035119476,
+    "https://twitter.com/trq212/status/2072541903707660507": 1783035119476,
+    "https://twitter.com/amorriscode/status/2072520635964895291": 1783035119476,
+    "https://twitter.com/gdb/status/2072468859047772664": 1783035119477
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://stratechery.com/2026/the-state-of-fable-the-jailbreak-problem-spacex-acquires-cursor/": 1781740359856,
-    "https://simonwillison.net/2026/Jun/17/charity-majors/#atom-everything": 1781740359856,
-    "https://simonwillison.net/2026/Jun/17/click-to-play-component/#atom-everything": 1781740359856,
-    "https://simonwillison.net/2026/Jun/17/netnewswire-status/#atom-everything": 1781740359856,
-    "https://www.rundown.ai/articles/cursor-officially-joins-the-spacex-ai-machine": 1781740359856,
-    "https://sebastianraschka.com/blog/2026/vibethinker-3b-post-training.html": 1781740359856,
-    "https://www.tomtunguz.com/databricks-widens-lead/": 1781740359856,
-    "https://www.tomtunguz.com/local-coding-models/": 1781740359856,
     "https://stratechery.com/": 1781827271385,
     "https://www.rundown.ai/articles/meet-eno-the-anti-humanoid-robot": 1781827278648,
     "https://www.rundown.ai/articles/inside-the-deadlock-keeping-mythos-offline": 1781827278648,
@@ -211,8 +202,14 @@
     "https://www.tomtunguz.com/cio-choices-clear-2026/": 1782949630928,
     "https://simonwillison.net/2026/Jun/30/anthropic/#atom-everything": 1782949630928,
     "https://simonwillison.net/2026/Jun/30/shot-scraper-video/#atom-everything": 1782949630928,
-    "https://simonwillison.net/2026/Jun/30/shot-scraper/#atom-everything": 1782949630929
+    "https://simonwillison.net/2026/Jun/30/shot-scraper/#atom-everything": 1782949630929,
+    "https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything": 1783035119477,
+    "https://simonwillison.net/2026/Jul/2/understand-to-participate/#atom-everything": 1783035119477,
+    "https://simonwillison.net/2026/Jun/29/html-table-extractor/#atom-everything": 1783035119477,
+    "https://www.rundown.ai/articles/apptronik-opens-massive-robot-park": 1783035119477,
+    "https://www.rundown.ai/articles/anthropic-fable-returns-worldwide": 1783035119477,
+    "https://www.rundown.ai/articles/sonnet-5-ships-as-washington-frees-fable": 1783035119477
   },
-  "lastRunKey": "2026-07-02",
-  "lastRunAt": "2026-07-01T23:47:10.935Z"
+  "lastRunKey": "2026-07-03",
+  "lastRunAt": "2026-07-02T23:31:59.482Z"
 }
