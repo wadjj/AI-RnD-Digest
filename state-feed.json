@@ -112,7 +112,13 @@
     "https://twitter.com/trq212/status/2073100352921215386": 1783121372582,
     "https://twitter.com/thsottiaux/status/2073079378808901663": 1783121372582,
     "https://twitter.com/polynoamial/status/2072909389389021484": 1783121372582,
-    "https://twitter.com/petergostev/status/2072831620046843940": 1783121372582
+    "https://twitter.com/petergostev/status/2072831620046843940": 1783121372582,
+    "https://twitter.com/petergostev/status/2073469313474851229": 1783206966384,
+    "https://twitter.com/petergostev/status/2073402334856552468": 1783206966384,
+    "https://twitter.com/_catwu/status/2073439890482794966": 1783206966384,
+    "https://twitter.com/emollick/status/2073248523215089825": 1783206966385,
+    "https://twitter.com/emollick/status/2073226212462215300": 1783206966385,
+    "https://twitter.com/JeffDean/status/2073438286392230337": 1783206966385
   },
   "seenVideos": {},
   "seenArticles": {
@@ -185,8 +191,11 @@
     "https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything": 1783121372582,
     "https://simonwillison.net/2026/Jul/3/judgement/#atom-everything": 1783121372582,
     "https://www.rundown.ai/articles/sony-kills-the-game-disc": 1783121372582,
-    "https://www.rundown.ai/articles/altman-invites-washington-inside-the-ai-industry": 1783121372582
+    "https://www.rundown.ai/articles/altman-invites-washington-inside-the-ai-industry": 1783121372582,
+    "https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything": 1783206966385,
+    "https://simonwillison.net/2026/Jul/3/june-newsletter/#atom-everything": 1783206966385,
+    "https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything": 1783206966385
   },
-  "lastRunKey": "2026-07-04",
-  "lastRunAt": "2026-07-03T23:29:32.587Z"
+  "lastRunKey": "2026-07-05",
+  "lastRunAt": "2026-07-04T23:16:06.390Z"
 }
