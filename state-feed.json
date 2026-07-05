@@ -1,13 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/thsottiaux/status/2068443037907522002": 1781998663617,
-    "https://twitter.com/thsottiaux/status/2068144722460475527": 1781998663617,
-    "https://twitter.com/thsottiaux/status/2068120572673077274": 1781998663617,
-    "https://twitter.com/emollick/status/2068356975667130774": 1781998663617,
-    "https://twitter.com/emollick/status/2068351258948198634": 1781998663617,
-    "https://twitter.com/emollick/status/2068152054900502702": 1781998663617,
-    "https://twitter.com/petergostev/status/2068276068021133624": 1781998663617,
-    "https://twitter.com/amorriscode/status/2068131881737175172": 1781998663618,
     "https://twitter.com/gdb/status/2068761809318990054": 1782085628814,
     "https://twitter.com/thsottiaux/status/2068736857312198928": 1782085628815,
     "https://twitter.com/thsottiaux/status/2068568650924409260": 1782085628815,
@@ -118,11 +110,14 @@
     "https://twitter.com/_catwu/status/2073439890482794966": 1783206966384,
     "https://twitter.com/emollick/status/2073248523215089825": 1783206966385,
     "https://twitter.com/emollick/status/2073226212462215300": 1783206966385,
-    "https://twitter.com/JeffDean/status/2073438286392230337": 1783206966385
+    "https://twitter.com/JeffDean/status/2073438286392230337": 1783206966385,
+    "https://twitter.com/emollick/status/2073613302828048767": 1783294226009,
+    "https://twitter.com/thsottiaux/status/2073565412336308699": 1783294226009,
+    "https://twitter.com/thsottiaux/status/2073554978053005607": 1783294226009,
+    "https://twitter.com/thsottiaux/status/2073551549494596079": 1783294226009
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything": 1781998663618,
     "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything": 1782085628815,
     "https://stratechery.com/2026/apple-price-increases-apple-intelligence-and-the-e-u/": 1782171891938,
     "https://www.rundown.ai/articles/gm-replaces-1k-workers-with-50-robots": 1782171891938,
@@ -194,8 +189,11 @@
     "https://www.rundown.ai/articles/altman-invites-washington-inside-the-ai-industry": 1783121372582,
     "https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything": 1783206966385,
     "https://simonwillison.net/2026/Jul/3/june-newsletter/#atom-everything": 1783206966385,
-    "https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything": 1783206966385
+    "https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything": 1783206966385,
+    "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything": 1783294226010,
+    "https://simonwillison.net/2026/Jul/5/sqlite-utils/#atom-everything": 1783294226010,
+    "https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/#atom-everything": 1783294226010
   },
-  "lastRunKey": "2026-07-05",
-  "lastRunAt": "2026-07-04T23:16:06.390Z"
+  "lastRunKey": "2026-07-06",
+  "lastRunAt": "2026-07-05T23:30:26.015Z"
 }
