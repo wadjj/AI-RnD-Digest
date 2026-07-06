@@ -1,8 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/gdb/status/2068761809318990054": 1782085628814,
-    "https://twitter.com/thsottiaux/status/2068736857312198928": 1782085628815,
-    "https://twitter.com/thsottiaux/status/2068568650924409260": 1782085628815,
     "https://twitter.com/gdb/status/2069128701850386834": 1782171891938,
     "https://twitter.com/demishassabis/status/2069155730360308150": 1782171891938,
     "https://twitter.com/petergostev/status/2068978105679487289": 1782171891938,
@@ -114,11 +111,18 @@
     "https://twitter.com/emollick/status/2073613302828048767": 1783294226009,
     "https://twitter.com/thsottiaux/status/2073565412336308699": 1783294226009,
     "https://twitter.com/thsottiaux/status/2073554978053005607": 1783294226009,
-    "https://twitter.com/thsottiaux/status/2073551549494596079": 1783294226009
+    "https://twitter.com/thsottiaux/status/2073551549494596079": 1783294226009,
+    "https://twitter.com/trq212/status/2074209928961819081": 1783380774257,
+    "https://twitter.com/trq212/status/2074209851975328157": 1783380774257,
+    "https://twitter.com/trq212/status/2073956140610924936": 1783380774257,
+    "https://twitter.com/thsottiaux/status/2074209421799166138": 1783380774257,
+    "https://twitter.com/thsottiaux/status/2074195169990357398": 1783380774257,
+    "https://twitter.com/emollick/status/2074204151521648766": 1783380774258,
+    "https://twitter.com/emollick/status/2073953911594004838": 1783380774258,
+    "https://twitter.com/emollick/status/2073913246000787901": 1783380774258
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything": 1782085628815,
     "https://stratechery.com/2026/apple-price-increases-apple-intelligence-and-the-e-u/": 1782171891938,
     "https://www.rundown.ai/articles/gm-replaces-1k-workers-with-50-robots": 1782171891938,
     "https://www.rundown.ai/articles/google-s-nobel-winner-jumps-to-anthropic": 1782171891938,
@@ -192,8 +196,13 @@
     "https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything": 1783206966385,
     "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything": 1783294226010,
     "https://simonwillison.net/2026/Jul/5/sqlite-utils/#atom-everything": 1783294226010,
-    "https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/#atom-everything": 1783294226010
+    "https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/#atom-everything": 1783294226010,
+    "https://www.rundown.ai/articles/this-8k-robot-can-do-your-laundry": 1783380774258,
+    "https://www.rundown.ai/articles/meta-sizes-up-gpt-5-5-with-watermelon": 1783380774258,
+    "https://jack-clark.net/2026/07/06/import-ai-464-fables-writes-gpu-kernels-ai-automation-and-analog-computation/": 1783380774258,
+    "https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything": 1783380774258,
+    "https://www.tomtunguz.com/godless-hippies-ai-models-values/": 1783380774258
   },
-  "lastRunKey": "2026-07-06",
-  "lastRunAt": "2026-07-05T23:30:26.015Z"
+  "lastRunKey": "2026-07-07",
+  "lastRunAt": "2026-07-06T23:32:54.263Z"
 }

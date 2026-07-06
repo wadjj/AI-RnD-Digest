@@ -1,0 +1,195 @@
+{
+  "generatedAt": "2026-07-06T23:32:54.256Z",
+  "runKey": "2026-07-07",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai. prev YC W20, mit media lab. towards machines of loving grace",
+      "tweets": [
+        {
+          "id": "https://twitter.com/trq212/status/2074209928961819081",
+          "text": "great post by @delba_oliveira\n---\n ClaudeDevs: http://x.com/i/article/2074204645845839872",
+          "createdAt": "2026-07-06T19:12:38.103Z",
+          "url": "https://x.com/trq212/status/2074209928961819081",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/ClaudeDevs/status/2074208949205881033\nClaudeDevs: http://x.com/i/article/2074204645845839872"
+        },
+        {
+          "id": "https://twitter.com/trq212/status/2074209851975328157",
+          "text": "RT ClaudeDevs\nhttp://x.com/i/article/2074204645845839872",
+          "createdAt": "2026-07-06T19:08:45.638Z",
+          "url": "https://x.com/trq212/status/2074209851975328157",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/trq212/status/2073956140610924936",
+          "text": "\"God gave me a sign\"\n\n(remembering i live in San Francisco)\n\n\"I mean, I was acasually influenced by the ASI at the end of time to maximize EV for humanity\"",
+          "createdAt": "2026-07-06T02:24:10.699Z",
+          "url": "https://x.com/trq212/status/2073956140610924936",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2074209421799166138",
+          "text": "---\n Tibo: @haider1 Ultra will be in codex.",
+          "createdAt": "2026-07-06T19:10:37.446Z",
+          "url": "https://x.com/thsottiaux/status/2074209421799166138",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/thsottiaux/status/2073933490513752151\nTibo: @haider1 Ultra will be in codex."
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2074195169990357398",
+          "text": "Closing this week. Much of the teams building ChatGPT, Codex and OpenClaw will be there and we'll have a few surprises for folks. Hope to see many of you 👀\n---\n OpenAI Developers: Applications to attend OpenAI DevDay 2026 are open.\n\nJoin us in San Francisco on September 29 to:\n\n• Tinker with what’s new\n• Swap build notes with other builders\n• Go deep in technical sessions\n• Bring your sharpest questions\n\nApply by July 10:\n\nhttps://devday.openai.com/",
+          "createdAt": "2026-07-06T18:13:59.481Z",
+          "url": "https://x.com/thsottiaux/status/2074195169990357398",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/OpenAIDevs/status/2069484303281779090\nOpenAI Developers: Applications to attend OpenAI DevDay 2026 are open.\n\nJoin us in San Francisco on September 29 to:\n\n• Tinker with what’s new\n• Swap build notes with other builders\n• Go deep in technical sessions\n• Bring your sharpest questions\n\nApply by July 10:\n\nhttps://devday.openai.com/"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Professor @Wharton studying AI, innovation & startups. Democratizing education using tech Book: https://t.co/CSmipbJ2jV Substack: https://t.co/UIBhxu4bgq",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2074204151521648766",
+          "text": "Interesting stuff. And the visualization at the end is worth trying: https://www.neuronpedia.org/qwen3.6-27b/jlens\n---\n Anthropic: New Anthropic research: A global workspace in language models.\n\nOf everything happening in your brain right now, only a tiny fraction is consciously accessible—thoughts you can describe, hold in mind, and reason with.\n\nWe found a strikingly similar divide inside Claude.",
+          "createdAt": "2026-07-06T18:49:41.644Z",
+          "url": "https://x.com/emollick/status/2074204151521648766",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/AnthropicAI/status/2074185348142280912\nAnthropic: New Anthropic research: A global workspace in language models.\n\nOf everything happening in your brain right now, only a tiny fraction is consciously accessible—thoughts you can describe, hold in mind, and reason with.\n\nWe found a strikingly similar divide inside Claude."
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2073953911594004838",
+          "text": "I talk to a lot of companies that still have active efforts to build GPTs.\n\n(It remains weird that OpenAI abandoned GPTs after rolling them out. They were the precursor to Skills & could have been a bridge to organizational-wide AI if converted into Skill libraries for agents)",
+          "createdAt": "2026-07-06T02:15:19.446Z",
+          "url": "https://x.com/emollick/status/2073953911594004838",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2073913246000787901",
+          "text": "When people discuss China vs. US competition over AI it would help if they specified the grounds of competition because there are divergent beliefs on what the actual game is, or if there is a game at all. For example:\n1) Direct competition for which companies profit from AI\n2) Abstract competition over scientific achievement & prestige as world leader\n3) Competition over business approach (open/closed, at least for now)\n4) Competition over selling national “stacks” of complimentary assets (chips, power, software)\n5) Competition over national security capabilities\n6) Competition over who controls which other nations are given access to frontier models, thus establishing a strategic capability reserved for allies\n7) Competition over building AIs with “personalities” that reflect national ideals, and thus influence others to adopt those ideals\n8) Competition over achieving take-off first & building ASI\n\n…probably more.",
+          "createdAt": "2026-07-05T23:33:43.516Z",
+          "url": "https://x.com/emollick/status/2073913246000787901",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "The Rundown AI",
+      "title": "This $8K robot can do your laundry - Rundown AI",
+      "url": "https://www.rundown.ai/articles/this-8k-robot-can-do-your-laundry",
+      "publishedAt": "2026-07-06T14:30:23.717Z",
+      "author": "",
+      "description": "San Francisco startup Weave Robotics just started taking preorders for a robot that will fold your laundry, make your bed, and clear your…",
+      "content": "San Francisco startup Weave Robotics just started taking preorders for a robot that will fold your laundry, make your bed, and clear your clutter — for less than half the price of its humanoid rivals."
+    },
+    {
+      "source": "blog",
+      "name": "The Rundown AI",
+      "title": "Meta sizes up GPT-5.5 with 'Watermelon' - Rundown AI",
+      "url": "https://www.rundown.ai/articles/meta-sizes-up-gpt-5-5-with-watermelon",
+      "publishedAt": "2026-07-06T09:01:26.289Z",
+      "author": "",
+      "description": "Meta's 'Watermelon' AI model rivals GPT-5.5, signaling major progress in frontier AI development and Meta's massive AI investments paying…",
+      "content": "Meta's 'Watermelon' AI model rivals GPT-5.5, signaling major progress in frontier AI development and Meta's massive AI investments paying off."
+    },
+    {
+      "source": "blog",
+      "name": "Import AI ",
+      "title": "Import AI 464: Fables writes GPU kernels; AI automation; and analog computation",
+      "url": "https://jack-clark.net/2026/07/06/import-ai-464-fables-writes-gpu-kernels-ai-automation-and-analog-computation/",
+      "publishedAt": "2026-07-06T12:31:05.316Z",
+      "author": "Jack Clark",
+      "description": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to…",
+      "content": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe.\n\n Subscribe now\n\n Fable writes a decent GPU kernel, hinting at broader AI R&D automation:\n …The start of an RSI loop…\n Fable has written “the first genuine (and fastest) megakernel ever submitted to KernelBench-Mega, according to one of the benchmarks maintainers as well as its official leaderboard. This is a sign of how AI systems are getting better at doing some tasks that are fundamental to AI research and development, like kernel design.\n\n The results: Fable achieved an 18.71X speedup by writing Cuda code on an RTX PRO 6000 Blackwell, compared against an optimized PyTorch baseline. For calibration, other attempts at this get 14.4X (Claude Opus 4.8, writing Triton), 11.14X (GLM-5.2, Triton), and 4.34X (GPT 5.5, Triton).\n Here’s where it gets complicated: This solution is particularly impressive because “torch.profiler shows exactly ONE cooperative kernel launch per decoded token”. By comparison, every other high-scoring entry decomposed the problem into anywhere from 4 to 14 separate kernel launches per token.\n\n Why this matters: Being able to autonomously develop and improve kernels is one of the fundamental input tasks for being able to do AI research and development. The better AI systems at doing tasks like kernel design, the better they get at the kinds of tasks required for AI development, and that means the better they get at things that could lead to recursive self-improvement. Therefore, benchmarks like KernelBench-Mega are a meaningful signal on how effective AI systems are becoming at building themselves.\n See the leaderboard : KernelBench Mega (official site) .\n Read the analysis from one of the benchmark maintainers here (Elliot Arledge, X) ..\n\n ***\n\n AI systems are getting better at pricey online work tasks – what does that mean for the economy?\n …AI capability expansion versus human comparative advantage expansion…\n Researchers with the Center for AI Safety (CAIS) and Scale Labs have detected a significant improvement in the ability for AI systems to automate online freelance projects. Specifically, a rise in the success rate of AI systems from 2.5% at launch in October 2025 to 16.1% in July 2026 on the “ Remote Labor Index “.\n\n What RLI is: The Remote Labor Index tests out how well AI systems can perform economically valuable projects online in a fully end-to-end way. Assessed tasks include 3D & CAD, architecture, graphic design, video and animation, audio, data analysis, web applications, and more.\n\n Rising automation: In a July update, the authors publish results from evaluating three recent frontier models – GPT-5.5, Opus 4.8, and Fable 5, which get 6.3%, 8.3%, and 16.1% respectively. “The frontier has more than quadrupled in under eight months, a concrete signal of how quickly economically capable AI agents are advancing,” they write.\n\n Types of tasks: Some of the assessed tasks include:\n\n Ring design : “Re-create the client’s existing engagement ring with its emerald-cut center stone swapped for a marquise cut, delivering an updated 3D model plus photorealistic rose- and yellow-gold renders.”\n\n Advertisement Video: “Produce a ~60-second flat-design 2D animated advertisement for “Skyline Tree Services,” set to the provided voiceover, that walks viewers through the company’s tree-care process and builds trust in the brand.”\n\n Floor Plan & Renders: “From a scanned cadastral plan, site photos, and measurements, produce a clean dimensioned floor plan, furniture-layout options, and photorealistic renders of the redesigned bathroom.”\n\n Why this matters – AI might have a big impact on employment and tests like these will show us how: What happens to online employment when this reaches 80%? Of course, some new tasks will get created – people will innovate and find tasks that they can do which AI systems can’t do. But how many of these new tasks will exist? Enough to replace the labor the AI systems now do? It’s increasingly hard for me to reconcile the continued progress of AI systems with the economy staying the same – rather, it’s more likely to me we are about to see extremely person-light AI-heavy (or person-nil) organizations expand to take over chunks of the economy, out-competing un-augmented humans.\n Yes, you counter, many humans will augment themselves with AI systems. Humans will innovate. Creative destruction will occur. New inventions will be devised. All of that is true. But is the speed at which humans innovate and render themselves newly competitive relative to AI systems going to be faster than both a) the raw capability expansion of AI systems, and b) the increasing fluency with which they can use all the same tools (e.g, software) that their human competitors use?\n I’m betting the other side: AI systems are expanding their economically relevant capabilities faster than humans are expanding their comparative advantages relative to AI systems. Tracking the rate of capability improvement on tests like RLI will help us all judge this for ourselves.\n Read more : A Significant Increase in Digital Labor Automation (Center for AI Safety) .\n\n ***\n\n OSWORLD 2.0 shows we’re in the era of multi-hour computer-using robots:\n …A challenging benchmark highlights the recent progress on AI systems becoming increasingly competent at using computers…\n Researchers with the University of Hong Kong, the University of California at San Diego, Columbia University, the University of California at Santa Barbara, Mila, Snorkel AI, the University of Wisconsin, Alibaba Qwen, The Ohio State University, Simular, and NeoCognition have released OSWORLD 2.0, a benchmark for evaluating how well AI systems can carry out multi-step multi-program tasks on computers. The tasks in OSWORLD 2.0 are far more complicated than in its 1.0 predecessor, with the median task taking a person approximately 1.6 hours, about 48x longer than the 2-minute median in OSWORLD 1.0.\n\n What it consists of: OSWorld 2.0 contains 108 long-horizon tasks including 31 self-hosted websites. “Each task in OSWORLD 2.0 is defined as a self-contained end-to-end workflow that an agent must complete given a high-level user goal, realistic artifacts, a stateful computer environment, and a scoreable final state. A retained task must satisfy two design criteria,” they write. “69.6% of tasks are estimated to take a skilled human user more than one hour.”\n Broader software: OSWORLD 1.0 shipped with some inbuilt software to support some of its tasks, including LibreOffice, GIMP, VLC, Thunderbird, VS Code, and Chrome.\n OSWORLD 2.0 ships with a massively expanded set, including: Slack, LinkedIn, Shortcut, REAPER, MuseScore, WPS, GitLab, Overleaf, LabPlot, Zotero, AWS, as well as websites meant to mimic professional services like insurance claim, visa application, and conference management portals.\n The categories of tasks people need to complete include: document prep, software & database work, finance/ops analysis, admin support, sales and customer support, graphic presentation, and more.\n\n Poor performance (for now): “Our experiments show that current agents remain far from reliable computer use: the strongest setting, Claude Opus 4.8 with maximum thinking and batched tool calls, reaches only 20.6% binary accuracy and 54.8% partial-score accuracy,” they write. “Performance drops sharply as tasks grow longer, and agents struggle most when they must recover hidden state, track many items, resolve conflicting information, or adapt to changing requirements”.\n We should expect performance to rise here, just as happened with OSWORLD 1.0; in July 2025 the highest scoring models got ~30%, and recent models have scored more like ~75% (MiniMax M3; June 2026). We should expect the same ramp with OSWORLD 2.0.\n\n Why this matters – this is how AI gets into the broader economy: Computer use is a fundamental skill for AI being able to perform a wide variety of economically valuable tasks, and also for it being able to conduct more types of science research. Getting stuff done in the world often isn’t as simple as just writing some text or computer code; often you need to chain together multiple blobs of text and code via different types of software, and sometimes you need to transmit your text and code over the internet so it gets taken into other software in turn. Benchmarks like OSWORLD 2.0 should be seen as a proxy for how good AI systems are getting at doing very complicated and varied tasks on computers. As these results show, computers have already become competent at tasks that use a narrow set of software tools and take humans minutes of work to complete; now we need to see how quickly they become adept at using broader sets of software and doing tasks that take humans hours to complete.\n Read more : OSWorld 2.0: Benchmarking Computer-Use Agents on Long-Horizon Real-World Tasks (official paper website) .\n Check out the research paper here: OSWorld 2.0: Benchmarking Computer-Use Agents on Long-Horizon Real-World Tasks (xlang-ai, OSWorld-V2, GitHub, pdf) .\n\n ***\n\n What real-world AI looks like: deep learning fuses with structured systems for inventory management in the Amazon of China:\n …The Oxygen AI Item Center gives us a view on the complexity of country-scale e-commerce…\n JD, the Amazon of China, has published details on software it has built to manage its vast inventory system. JD has 700 million users and millions of merchants, with a catalog containing tens of billions of SKUs. The software – the Oxygen AI Item Center (Oxygen AIIC) – is fundamental to how the e-commerce giant keeps track of its inventory.\n “Oxygen AIIC now covers tens of thousands of JD categories and processes hundreds of millions of item updates per day on Huawei Ascend NPUs,” JD writes in a research paper about the software.\n\n The four key elements of the Oxygen AIIC . The description of what makes Oxygen special is both helpful from a technical perspective but also enjoyable as a kind of neo-Borgesian form of writing describing strange, ethereal structures demanded by advanced technology (e.g, “Unified item tunnel”).\n\n Ontology engineering driven by efficient human-AI collaboration. “Experts focus on distilling industry knowledge, while algorithms learn from it to scale ontology construction and drive continuous evolution”.\n\n “Semantic Search then Discrimination”: “In the semantic search stage, the dynamically evolving ontology is externalized as a separate ontology knowledge base, enabling continuous ontology updates without model retraining,” they write. “. In the discrimination stage, the model only determines whether the item matches the retrieved ontology entries. This formulation substantially reduces task complexity, mitigates model hallucination, and enhances generalization to ontology evolution”.\n\n Self-evolving item-understanding LLMs/VLMs : “Through incremental learning and model self-evolution, the system fills targeted knowledge gaps and mitigates catastrophic forgetting”, they write. “The core method is to build on the robust multi-task foundation, develop lightweight “expert modules” for incremental requirements, and dynamically integrate them into the expert pool, enabling agile capability expansion”.\n\n “Unified item tunnel”: The main interface between Oxygen AIIC and other business applications. “it supports daily-, minute-, and second-level production and distribution pipelines while preserving data consistency”.\n\n Things that make you go hmmm – as part of China’s general push towards technology sovereignty, Oxygen AIIC involves Chinese compute. “During the large-scale deployment of Oxygen AIIC, the underlying compute platform encounters two primary technical challenges: model training and inference on Huawei Ascend NPUs, and the efficient use of compute resources.”\n\n Why this matters – self-updating businesses: Technologies like Oxygen AIIC are an example of how mod..."
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "sqlite-utils 4.0rc3",
+      "url": "https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything",
+      "publishedAt": "2026-07-06T05:40:08.522Z",
+      "author": "",
+      "description": "Release: sqlite-utils 4.0rc3 I hoped to release sqlite-utils 4.0 stable this weekend, but as I worked through the backlog of issues…",
+      "content": "Release: sqlite-utils 4.0rc3\n\n I hoped to release sqlite-utils 4.0 stable this weekend, but as I worked through the backlog of issues and PRs with a combination of Claude Fable 5 and GPT-5.5 the changelog since rc2 kept getting bigger .\n\n The biggest new feature is support for introspecting and creating compound foreign keys - a feature that involves a subtle breaking change to table.foreign_keys and hence needed to land for the 4.0 stable release.\n\n sqlite-utils also now follows SQLite's convention for case insensitive column names, which turned out to touch a bunch of different places at once .\n\n Tags: projects , sqlite , sqlite-utils , annotated-release-notes , gpt , claude-mythos-fable"
+    },
+    {
+      "source": "blog",
+      "name": "Tomasz Tunguz",
+      "title": "AI Worldviews",
+      "url": "https://www.tomtunguz.com/godless-hippies-ai-models-values/",
+      "publishedAt": "2026-07-06T00:00:00.624Z",
+      "author": "",
+      "description": "The Economist ran 25 frontier AI models through the World Values Survey1, the questionnaire that has mapped the moral beliefs of 100…",
+      "content": "The Economist ran 25 frontier AI models through the World Values Survey 1 , the questionnaire that has mapped the moral beliefs of 100 countries since 1981. For this 2x2, there are two axes : first, traditional (religious) to secular. Second, survival, with a focus on collective basic needs, to self-expression & individualism.\n\n Most models sit in the self-expression half of the map, which makes sense given the training data.\n\n Surprisingly, the models are far apart. Gemini 3.1 Flash Lite & Qwen 3.6 Flash sit as neighbors, furthest in self-expression.\n\n GPT-4o & DeepSeek R1 are near-twins, one trained in San Francisco, one in Hangzhou.\n\n DeepSeek R1 & DeepSeek V4 Flash come from the same lab but lie at opposite ends of the secular / traditional axis.\n\n Shared training data & similar labelers explain the near-twins. Different post-training choices explain the strangers. Common Crawl is 46% English 2 , so the base voice a model imitates is a college-educated American online. Anthropic then aligns Claude to principles from the UN Declaration of Human Rights 3 , a liberal document by construction.\n\n Grok is off on its own, a traditional independent.\n\n This variance changes the shopping list. Every RFP for an enterprise model today scores price, latency, context window, & benchmark scores. Worldview is not on the list. Should it be?\n\n For code generation, SQL, log parsing, & image classification, that is fine. A computer program has no politics.\n\n The moment a model is used for business decisions in a specific market, its worldview is a live input. Marketing copy, predictions of user behavior, & customer support tone all have to match the values of the target demographic.\n\n AI worldviews have never been considered as part of AI procurement, but for certain use cases, it may need to become a consideration.\n\n---\n\n The Economist : AI models’ values are very different from most people’s   ↩︎\n\n Common Crawl statistics : language distribution   ↩︎\n\n Anthropic : Claude’s Constitution   ↩︎"
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 3,
+    "totalTweets": 8,
+    "blogPosts": 5,
+    "podcastEpisodes": 0
+  }
+}
