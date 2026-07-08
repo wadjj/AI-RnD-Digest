@@ -1,15 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/karpathy/status/2069547676849557725": 1782257551672,
-    "https://twitter.com/_catwu/status/2069486403696869555": 1782257551672,
-    "https://twitter.com/_catwu/status/2069484330938998993": 1782257551672,
-    "https://twitter.com/_catwu/status/2069473118742331608": 1782257551672,
-    "https://twitter.com/trq212/status/2069490078267965793": 1782257551672,
-    "https://twitter.com/emollick/status/2069459062777860494": 1782257551672,
-    "https://twitter.com/emollick/status/2069285574737809655": 1782257551672,
-    "https://twitter.com/petergostev/status/2069417399234035856": 1782257551672,
-    "https://twitter.com/thsottiaux/status/2069267387464274366": 1782257551672,
-    "https://twitter.com/gdb/status/2069232102483378395": 1782257551672,
     "https://twitter.com/emollick/status/2069857050016776227": 1782344160810,
     "https://twitter.com/emollick/status/2069838427499962716": 1782344160810,
     "https://twitter.com/emollick/status/2069803130649297164": 1782344160810,
@@ -119,17 +109,25 @@
     "https://twitter.com/emollick/status/2074595359364411651": 1783466171338,
     "https://twitter.com/emollick/status/2074545147908378720": 1783466171338,
     "https://twitter.com/emollick/status/2074361301871083843": 1783466171338,
-    "https://twitter.com/trq212/status/2074555265794625831": 1783466171338
+    "https://twitter.com/trq212/status/2074555265794625831": 1783466171338,
+    "https://twitter.com/trq212/status/2074975617980973300": 1783553549468,
+    "https://twitter.com/trq212/status/2074986075714679116": 1783553549468,
+    "https://twitter.com/emollick/status/2074930119173460007": 1783553549468,
+    "https://twitter.com/emollick/status/2074924503470080319": 1783553549468,
+    "https://twitter.com/emollick/status/2074739169725685979": 1783553549468,
+    "https://twitter.com/_catwu/status/2074925531519468012": 1783553549468,
+    "https://twitter.com/gdb/status/2074910365377568948": 1783553549468,
+    "https://twitter.com/gdb/status/2074901915738264058": 1783553549468,
+    "https://twitter.com/gdb/status/2074889855704973388": 1783553549468,
+    "https://twitter.com/thsottiaux/status/2074885402918601082": 1783553549468,
+    "https://twitter.com/thsottiaux/status/2074705681920520526": 1783553549468,
+    "https://twitter.com/petergostev/status/2074875791536431555": 1783553549468,
+    "https://twitter.com/petergostev/status/2074836917619675154": 1783553549468,
+    "https://twitter.com/demishassabis/status/2074881271071752472": 1783553549468,
+    "https://twitter.com/markchen90/status/2074724183347732499": 1783553549468
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://stratechery.com/2026/memory-chips-and-china-microsoft-and-chinese-models/": 1782257551673,
-    "https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything": 1782257551672,
-    "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything": 1782257551672,
-    "https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything": 1782257551673,
-    "https://www.rundown.ai/articles/meta-employee-tracking-hits-a-wall": 1782257551673,
-    "https://www.rundown.ai/articles/sakana-fugu-takes-aim-at-the-frontier": 1782257551673,
-    "https://www.tomtunguz.com/crypto-is-the-quietest-part-of-the-vc-market/": 1782257551673,
     "https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything": 1782344160811,
     "https://simonwillison.net/2026/Jun/23/datasette/#atom-everything": 1782344160811,
     "https://stratechery.com/2026/my-vibe-coding-adventure-the-app-and-the-experience-ten-takeaways/": 1782344160811,
@@ -201,8 +199,15 @@
     "https://simonwillison.net/2026/Jul/7/github-code-component/#atom-everything": 1783466171339,
     "https://www.rundown.ai/articles/microsoft-axes-nearly-5k-jobs": 1783466171339,
     "https://www.rundown.ai/articles/the-part-of-claude-s-brain-nobody-built": 1783466171339,
-    "https://www.tomtunguz.com/the-10b-fde-boom/": 1783466171339
+    "https://www.tomtunguz.com/the-10b-fde-boom/": 1783466171339,
+    "https://stratechery.com/2026/xbox-cuts-bundling-and-the-internet-solvent-transaction-coordination-and-sunk-costs/": 1783553549469,
+    "https://simonwillison.net/2026/Jul/8/kenton-varda/#atom-everything": 1783553549469,
+    "https://simonwillison.net/2026/Jul/7/sqlite-utils/#atom-everything": 1783553549469,
+    "https://simonwillison.net/2026/Jul/7/sqlite-utils-2/#atom-everything": 1783553549469,
+    "https://www.rundown.ai/articles/meta-climbs-the-ai-image-leaderboard": 1783553549469,
+    "https://www.tomtunguz.com/the-ai-preflight-check/": 1783553549469,
+    "https://cursor.com/cn/blog/grok-4-5": 1783553549469
   },
-  "lastRunKey": "2026-07-08",
-  "lastRunAt": "2026-07-07T23:16:11.344Z"
+  "lastRunKey": "2026-07-09",
+  "lastRunAt": "2026-07-08T23:32:29.474Z"
 }
