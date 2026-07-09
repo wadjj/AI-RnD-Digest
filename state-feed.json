@@ -1,13 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/emollick/status/2069857050016776227": 1782344160810,
-    "https://twitter.com/emollick/status/2069838427499962716": 1782344160810,
-    "https://twitter.com/emollick/status/2069803130649297164": 1782344160810,
-    "https://twitter.com/gdb/status/2069845493199597944": 1782344160810,
-    "https://twitter.com/thsottiaux/status/2069837606574289329": 1782344160810,
-    "https://twitter.com/thsottiaux/status/2069624530960838914": 1782344160810,
-    "https://twitter.com/thsottiaux/status/2069592160966733853": 1782344160810,
-    "https://twitter.com/petergostev/status/2069774431665390015": 1782344160810,
     "https://twitter.com/thsottiaux/status/2070205520552886305": 1782431251866,
     "https://twitter.com/thsottiaux/status/2070010718288843204": 1782431251866,
     "https://twitter.com/gdb/status/2070199649823297653": 1782431251866,
@@ -124,15 +116,26 @@
     "https://twitter.com/petergostev/status/2074875791536431555": 1783553549468,
     "https://twitter.com/petergostev/status/2074836917619675154": 1783553549468,
     "https://twitter.com/demishassabis/status/2074881271071752472": 1783553549468,
-    "https://twitter.com/markchen90/status/2074724183347732499": 1783553549468
+    "https://twitter.com/markchen90/status/2074724183347732499": 1783553549468,
+    "https://twitter.com/emollick/status/2075345621716730049": 1783640367765,
+    "https://twitter.com/emollick/status/2075267042765148237": 1783640367765,
+    "https://twitter.com/emollick/status/2075250803103719667": 1783640367765,
+    "https://twitter.com/thsottiaux/status/2075330198887940337": 1783640367766,
+    "https://twitter.com/thsottiaux/status/2075322213834875026": 1783640367766,
+    "https://twitter.com/thsottiaux/status/2075293835127922748": 1783640367766,
+    "https://twitter.com/trq212/status/2075280416995705312": 1783640367766,
+    "https://twitter.com/_catwu/status/2075284383733579804": 1783640367766,
+    "https://twitter.com/gdb/status/2075276416686723110": 1783640367766,
+    "https://twitter.com/gdb/status/2075264641060769978": 1783640367766,
+    "https://twitter.com/gdb/status/2075233835802071467": 1783640367766,
+    "https://twitter.com/JeffDean/status/2075241717608206643": 1783640367766,
+    "https://twitter.com/petergostev/status/2075114693748805896": 1783640367766,
+    "https://twitter.com/petergostev/status/2075090604397043750": 1783640367766,
+    "https://twitter.com/polynoamial/status/2075128317141749893": 1783640367766,
+    "https://twitter.com/amorriscode/status/2075002016636784956": 1783640367766
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything": 1782344160811,
-    "https://simonwillison.net/2026/Jun/23/datasette/#atom-everything": 1782344160811,
-    "https://stratechery.com/2026/my-vibe-coding-adventure-the-app-and-the-experience-ten-takeaways/": 1782344160811,
-    "https://www.rundown.ai/articles/meet-your-new-slack-coworker-claude": 1782344160811,
-    "https://www.tomtunguz.com/sunil-agrawal-office-hours/": 1782344160811,
     "https://stratechery.com/2026/an-interview-with-figma-ceo-dylan-field-about-design-and-ai/": 1782431251868,
     "https://simonwillison.net/2026/Jun/25/ai-and-liability/#atom-everything": 1782431251867,
     "https://simonwillison.net/2026/Jun/25/datasette-export-database/#atom-everything": 1782431251867,
@@ -206,8 +209,16 @@
     "https://simonwillison.net/2026/Jul/7/sqlite-utils-2/#atom-everything": 1783553549469,
     "https://www.rundown.ai/articles/meta-climbs-the-ai-image-leaderboard": 1783553549469,
     "https://www.tomtunguz.com/the-ai-preflight-check/": 1783553549469,
-    "https://cursor.com/cn/blog/grok-4-5": 1783553549469
+    "https://cursor.com/cn/blog/grok-4-5": 1783553549469,
+    "https://stratechery.com/2026/muse-image-grok-4-5-alex-karp-on-cnbc/": 1783640367767,
+    "https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything": 1783640367767,
+    "https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything": 1783640367767,
+    "https://simonwillison.net/2026/Jul/9/llm-meta-ai/#atom-everything": 1783640367767,
+    "https://www.rundown.ai/articles/ex-tesla-scientist-builds-faceless-humanoid": 1783640367767,
+    "https://www.rundown.ai/articles/spacexai-cursor-release-the-strongest-grok-yet": 1783640367767,
+    "https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing": 1783640367767,
+    "https://www.tomtunguz.com/ollama-series-b/": 1783640367767
   },
-  "lastRunKey": "2026-07-09",
-  "lastRunAt": "2026-07-08T23:32:29.474Z"
+  "lastRunKey": "2026-07-10",
+  "lastRunAt": "2026-07-09T23:39:27.773Z"
 }
