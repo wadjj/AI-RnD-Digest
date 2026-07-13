@@ -1,13 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/emollick/status/2071291111352500554": 1782689519800,
-    "https://twitter.com/emollick/status/2071094858891120796": 1782689519800,
-    "https://twitter.com/emollick/status/2071078492830060780": 1782689519800,
-    "https://twitter.com/amorriscode/status/2071284925677129809": 1782689519801,
-    "https://twitter.com/petergostev/status/2071237444360437907": 1782689519801,
-    "https://twitter.com/thsottiaux/status/2071089307062837744": 1782689519801,
-    "https://twitter.com/thsottiaux/status/2071077932244570112": 1782689519801,
-    "https://twitter.com/thsottiaux/status/2071071289247244481": 1782689519801,
     "https://twitter.com/emollick/status/2071459383868117371": 1782775080813,
     "https://twitter.com/gdb/status/2071453977091477911": 1782775080814,
     "https://twitter.com/bcherny/status/2071379474277613732": 1782775080814,
@@ -148,13 +140,21 @@
     "https://twitter.com/thsottiaux/status/2076145711922696371": 1783897907186,
     "https://twitter.com/_catwu/status/2076358263688569314": 1783897907186,
     "https://twitter.com/amorriscode/status/2076381512166191543": 1783897907186,
-    "https://twitter.com/trq212/status/2076351802656821404": 1783897907186
+    "https://twitter.com/trq212/status/2076351802656821404": 1783897907186,
+    "https://twitter.com/gdb/status/2076788812072820885": 1783984534281,
+    "https://twitter.com/gdb/status/2076764438225621277": 1783984534281,
+    "https://twitter.com/gdb/status/2076723486723371325": 1783984534282,
+    "https://twitter.com/emollick/status/2076769431120756834": 1783984534282,
+    "https://twitter.com/emollick/status/2076746735431393596": 1783984534282,
+    "https://twitter.com/emollick/status/2076709510438105442": 1783984534282,
+    "https://twitter.com/thsottiaux/status/2076735790567338203": 1783984534282,
+    "https://twitter.com/thsottiaux/status/2076724023338389807": 1783984534282,
+    "https://twitter.com/thsottiaux/status/2076495156757577895": 1783984534282,
+    "https://twitter.com/petergostev/status/2076725390492487837": 1783984534282,
+    "https://twitter.com/petergostev/status/2076561982371536953": 1783984534282
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://simonwillison.net/2026/Jun/28/jon-udell/#atom-everything": 1782689519801,
-    "https://simonwillison.net/2026/Jun/28/hack-your-summer/#atom-everything": 1782689519801,
-    "https://sebastianraschka.com/blog/2026/local-open-weight-llms-coding-harnesses.html": 1782689519801,
     "https://simonwillison.net/2026/Jun/29/safari-tab-count/#atom-everything": 1782775080814,
     "https://simonwillison.net/2026/Jun/29/ornith/#atom-everything": 1782775080814,
     "https://jack-clark.net/2026/06/29/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/": 1782775080814,
@@ -229,8 +229,15 @@
     "https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything": 1783811581873,
     "https://simonwillison.net/2026/Jul/12/bump/#atom-everything": 1783897907186,
     "https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything": 1783897907186,
-    "https://sebastianraschka.com/blog/2026/ahead-of-ai-reached-200000-subscribers.html": 1783897907187
+    "https://sebastianraschka.com/blog/2026/ahead-of-ai-reached-200000-subscribers.html": 1783897907187,
+    "https://stratechery.com/2026/apple-sues-openai-apples-real-problem/": 1783984534282,
+    "https://simonwillison.net/2026/Jul/13/doomql/#atom-everything": 1783984534282,
+    "https://simonwillison.net/2026/Jul/13/datasette-code-frequency/#atom-everything": 1783984534282,
+    "https://simonwillison.net/2026/Jul/12/directly-responsible-individuals/#atom-everything": 1783984534282,
+    "https://www.rundown.ai/articles/neo-new-humanlike-hands": 1783984534282,
+    "https://www.rundown.ai/articles/apple-takes-openai-to-court": 1783984534282,
+    "https://www.tomtunguz.com/the-ai-colander/": 1783984534282
   },
-  "lastRunKey": "2026-07-13",
-  "lastRunAt": "2026-07-12T23:11:47.192Z"
+  "lastRunKey": "2026-07-14",
+  "lastRunAt": "2026-07-13T23:15:34.289Z"
 }
