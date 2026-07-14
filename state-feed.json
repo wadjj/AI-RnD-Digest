@@ -1,8 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/emollick/status/2071459383868117371": 1782775080813,
-    "https://twitter.com/gdb/status/2071453977091477911": 1782775080814,
-    "https://twitter.com/bcherny/status/2071379474277613732": 1782775080814,
     "https://twitter.com/petergostev/status/2072034568513732648": 1782862736722,
     "https://twitter.com/petergostev/status/2071955441240731658": 1782862736722,
     "https://twitter.com/amorriscode/status/2072002446336122933": 1782862736723,
@@ -151,15 +148,11 @@
     "https://twitter.com/thsottiaux/status/2076724023338389807": 1783984534282,
     "https://twitter.com/thsottiaux/status/2076495156757577895": 1783984534282,
     "https://twitter.com/petergostev/status/2076725390492487837": 1783984534282,
-    "https://twitter.com/petergostev/status/2076561982371536953": 1783984534282
+    "https://twitter.com/petergostev/status/2076561982371536953": 1783984534282,
+    "https://twitter.com/gdb/status/2076878421314195745": 1784070771707
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://simonwillison.net/2026/Jun/29/safari-tab-count/#atom-everything": 1782775080814,
-    "https://simonwillison.net/2026/Jun/29/ornith/#atom-everything": 1782775080814,
-    "https://jack-clark.net/2026/06/29/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/": 1782775080814,
-    "https://stratechery.com/2026/summer-break-week-of-june-29/": 1782775080814,
-    "https://www.tomtunguz.com/ai-spend-breakeven-2029/": 1782775080814,
     "https://simonwillison.net/2026/Jun/30/nano-banana-2-lite/#atom-everything": 1782862736723,
     "https://simonwillison.net/2026/Jun/30/claude-sonnet-5/#atom-everything": 1782862736723,
     "https://simonwillison.net/2026/Jun/30/the-ai-compass/#atom-everything": 1782862736723,
@@ -236,8 +229,12 @@
     "https://simonwillison.net/2026/Jul/12/directly-responsible-individuals/#atom-everything": 1783984534282,
     "https://www.rundown.ai/articles/neo-new-humanlike-hands": 1783984534282,
     "https://www.rundown.ai/articles/apple-takes-openai-to-court": 1783984534282,
-    "https://www.tomtunguz.com/the-ai-colander/": 1783984534282
+    "https://www.tomtunguz.com/the-ai-colander/": 1783984534282,
+    "https://stratechery.com/": 1784070769571,
+    "https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything": 1784070771707,
+    "https://simonwillison.net/2026/Jul/14/armin-ronacher/#atom-everything": 1784070771707,
+    "https://simonwillison.net/2026/Jul/14/datasette/#atom-everything": 1784070771707
   },
-  "lastRunKey": "2026-07-14",
-  "lastRunAt": "2026-07-13T23:15:34.289Z"
+  "lastRunKey": "2026-07-15",
+  "lastRunAt": "2026-07-14T23:12:51.712Z"
 }
