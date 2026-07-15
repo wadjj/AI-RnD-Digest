@@ -1,15 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/petergostev/status/2072034568513732648": 1782862736722,
-    "https://twitter.com/petergostev/status/2071955441240731658": 1782862736722,
-    "https://twitter.com/amorriscode/status/2072002446336122933": 1782862736723,
-    "https://twitter.com/bcherny/status/2072000214634742243": 1782862736723,
-    "https://twitter.com/trq212/status/2071990682726826193": 1782862736723,
-    "https://twitter.com/trq212/status/2071787401475960892": 1782862736723,
-    "https://twitter.com/demishassabis/status/2072003507025006670": 1782862736723,
-    "https://twitter.com/karpathy/status/2072051876816945486": 1782862736723,
-    "https://twitter.com/emollick/status/2071941684737515595": 1782862736723,
-    "https://twitter.com/thsottiaux/status/2071740419030053227": 1782862736723,
     "https://twitter.com/trq212/status/2072436109053936091": 1782949630927,
     "https://twitter.com/trq212/status/2072426684469670222": 1782949630927,
     "https://twitter.com/trq212/status/2072366310416425053": 1782949630927,
@@ -149,14 +139,21 @@
     "https://twitter.com/thsottiaux/status/2076495156757577895": 1783984534282,
     "https://twitter.com/petergostev/status/2076725390492487837": 1783984534282,
     "https://twitter.com/petergostev/status/2076561982371536953": 1783984534282,
-    "https://twitter.com/gdb/status/2076878421314195745": 1784070771707
+    "https://twitter.com/gdb/status/2076878421314195745": 1784070771707,
+    "https://twitter.com/bcherny/status/2077519049148260526": 1784157289229,
+    "https://twitter.com/bcherny/status/2077460395279692197": 1784157289229,
+    "https://twitter.com/emollick/status/2077479091146514434": 1784157289230,
+    "https://twitter.com/emollick/status/2077464719296712969": 1784157289230,
+    "https://twitter.com/emollick/status/2077226285919531191": 1784157289230,
+    "https://twitter.com/thsottiaux/status/2077271889626706300": 1784157289230,
+    "https://twitter.com/thsottiaux/status/2077248807533003257": 1784157289230,
+    "https://twitter.com/thsottiaux/status/2077212009071075330": 1784157289230,
+    "https://twitter.com/gdb/status/2077257613369344151": 1784157289230,
+    "https://twitter.com/gdb/status/2077212397052559792": 1784157289230,
+    "https://twitter.com/gdb/status/2077202646159802492": 1784157289230
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://simonwillison.net/2026/Jun/30/nano-banana-2-lite/#atom-everything": 1782862736723,
-    "https://simonwillison.net/2026/Jun/30/claude-sonnet-5/#atom-everything": 1782862736723,
-    "https://simonwillison.net/2026/Jun/30/the-ai-compass/#atom-everything": 1782862736723,
-    "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug": 1782862736723,
     "https://www.rundown.ai/articles/whatsapp-kicks-off-reservation-race-with-usernames": 1782949630928,
     "https://www.rundown.ai/articles/openai-most-powerful-ai-is-here-but-not-for-everyone": 1782949630928,
     "https://www.rundown.ai/articles/meta-brain-reading-ai-leaves-letters-behind": 1782949630928,
@@ -233,8 +230,17 @@
     "https://stratechery.com/": 1784070769571,
     "https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything": 1784070771707,
     "https://simonwillison.net/2026/Jul/14/armin-ronacher/#atom-everything": 1784070771707,
-    "https://simonwillison.net/2026/Jul/14/datasette/#atom-everything": 1784070771707
+    "https://simonwillison.net/2026/Jul/14/datasette/#atom-everything": 1784070771707,
+    "https://stratechery.com/2026/ibm-misses-ibms-mainframe-moat-ibms-many-ai-problems/": 1784157289230,
+    "https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything": 1784157289230,
+    "https://simonwillison.net/2026/Jul/14/github-changeling/#atom-everything": 1784157289230,
+    "https://simonwillison.net/2026/Jul/14/pedalican/#atom-everything": 1784157289230,
+    "https://stratechery.com/2026/the-openai-super-app-chatgpt-codex-whither-chat/": 1784157289230,
+    "https://www.rundown.ai/articles/demis-hassabis-puts-a-clock-on-ai-oversight": 1784157289230,
+    "https://www.rundown.ai/articles/meta-louisiana-data-center-hits-50b": 1784157289230,
+    "https://www.rundown.ai/articles/economists-researchers-put-ai-job-shock-on-the-clock": 1784157289230,
+    "https://www.tomtunguz.com/the-harness-is-the-new-battleground/": 1784157289230
   },
-  "lastRunKey": "2026-07-15",
-  "lastRunAt": "2026-07-14T23:12:51.712Z"
+  "lastRunKey": "2026-07-16",
+  "lastRunAt": "2026-07-15T23:14:49.237Z"
 }
