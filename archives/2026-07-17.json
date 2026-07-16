@@ -1,0 +1,321 @@
+{
+  "generatedAt": "2026-07-16T23:12:54.044Z",
+  "runKey": "2026-07-17",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2077835821982601614",
+          "text": "Just call Sol\n---\n Theo - t3.gg: My recommendation: just use Sol.",
+          "createdAt": "2026-07-16T19:20:38.971Z",
+          "url": "https://x.com/thsottiaux/status/2077835821982601614",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/theo/status/2077711164121993527\nTheo - t3.gg: My recommendation: just use Sol."
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2077632589498913087",
+          "text": "We've had no 5h limit in Codex plus and pro for a few days. Do you think it is better or are you finding it difficult to manage the usage included in the weekly limit effectively?\n\nIf we were to make this different, what should it look like in an ideal world?",
+          "createdAt": "2026-07-16T05:53:04.532Z",
+          "url": "https://x.com/thsottiaux/status/2077632589498913087",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2077630111499882637",
+          "text": "On file deletions. We’ve investigated a handful of reports where GPT-5.6 unexpectedly deleted files.\n\nWhat we have found is that this most commonly occurs when:\n- Full access mode is enabled and codex is run without sandboxing protections, including without auto review being enabled\n- The model attempts to override the $HOME env var to define a temporary directory.\n- The model makes an honest mistake and mistakenly deletes $HOME instead.\n\nThis is of course not how we want the system to behave, even when a user operates the model in full-access mode without the safeguards of our sandbox or without using auto review which checks for these kinds of high risk actions and rejects them.\n\nWe are taking steps to mitigate this risk including by updating the developer message, guiding more users towards safer permission modes, and adding additional harness safeguards. Even though this happens extremely rarely, we’ll share a detailed post-mortem in the coming days that goes into more details and what we are doing to minimize risks further.",
+          "createdAt": "2026-07-16T05:43:13.036Z",
+          "url": "https://x.com/thsottiaux/status/2077630111499882637",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Anthony Morris ツ",
+      "handle": "amorriscode",
+      "bio": "claude code @anthropicAI | ex @stripe → https://t.co/AjndW0qdf0",
+      "tweets": [
+        {
+          "id": "https://twitter.com/amorriscode/status/2077835141934960827",
+          "text": "safety first\n---\n 1Password: AI agents are booking travel, signing into websites, and acting on your behalf. That creates a new security problem: until now, letting an agent log in meant exposing your credentials to the model.\n\nToday, with @AnthropicAI, we're changing that. 1Password for @claudeai lets",
+          "createdAt": "2026-07-16T19:17:56.583Z",
+          "url": "https://x.com/amorriscode/status/2077835141934960827",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/1Password/status/2077743858239094854\n1Password: AI agents are booking travel, signing into websites, and acting on your behalf. That creates a new security problem: until now, letting an agent log in meant exposing your credentials to the model.\n\nToday, with @AnthropicAI, we're changing that. 1Password for @claudeai lets"
+        },
+        {
+          "id": "https://twitter.com/amorriscode/status/2077687897122332876",
+          "text": "see the odyssey in 70mm IMAX. go into debt if you have to.",
+          "createdAt": "2026-07-16T09:32:50.862Z",
+          "url": "https://x.com/amorriscode/status/2077687897122332876",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/amorriscode/status/2077605493942669397",
+          "text": "RT ClaudeDevs\nWe've reset 5-hour and weekly rate limits for all users.",
+          "createdAt": "2026-07-16T03:58:48.953Z",
+          "url": "https://x.com/amorriscode/status/2077605493942669397",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Professor @Wharton studying AI, innovation & startups. Democratizing education using tech Book: https://t.co/CSmipbJ2jV Substack: https://t.co/UIBhxu4bgq",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2077808560419795195",
+          "text": "Frontendmaxxing is going to become the new sycophancy: the easiest way to get your model a lot of love online is to build something that makes lovely websites, great SVGs, and terrific 3js worlds. Much more sharable than backend code or complex analysis.",
+          "createdAt": "2026-07-16T17:32:19.777Z",
+          "url": "https://x.com/emollick/status/2077808560419795195",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2077593908540850491",
+          "text": "Happy to see a new open weights model, but, so far, Inkling is pretty rough in my tests, not close to frontier Chinese open weights models.\n\nAs one example, here is it failing to pass the Lem Test (done by every frontier model since DeepSeek r1/Sonnet 3.5).",
+          "createdAt": "2026-07-16T03:19:22.662Z",
+          "url": "https://x.com/emollick/status/2077593908540850491",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2077578773445169607",
+          "text": "Really hate the use of \"front-end\" as the emerging catch-all term for everything that involves taste, judgement, and design from AI. When its \"back-end\" software, we have tons of gradations, front end is often just groups of stuff\n\nUX ≠ Design ≠ UI ≠ Style ≠ Vision ≠ art etc",
+          "createdAt": "2026-07-16T02:19:13.799Z",
+          "url": "https://x.com/emollick/status/2077578773445169607",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai. prev YC W20, mit media lab. towards machines of loving grace",
+      "tweets": [
+        {
+          "id": "https://twitter.com/trq212/status/2077786320890663244",
+          "text": "RT Evan Tana\nAI coding is changing faster than almost anyone can keep up.\n\nIt's impossible to predict exactly where we'll be a year from now.\n\nClaude Code's @trq212 (@southpkcommons alum and 2x founder) came back to SPC to talk about what's on the frontier.\n\n(00:00) From Startup Founder to Anthropic\n(03:33) Building Better AI With Claude Code\n(07:21) The Capability Overhang\n(12:17) How Anthropic Builds AI Products\n(17:51) Prompting Claude More Effectively\n(30:58) How AI Is Changing Product Teams\n(41:11) Advice for AI Founders",
+          "createdAt": "2026-07-16T15:54:05.662Z",
+          "url": "https://x.com/trq212/status/2077786320890663244",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/trq212/status/2077863956090408980",
+          "text": "RT 1Password\nAI agents are booking travel, signing into websites, and acting on your behalf. That creates a new security problem: until now, letting an agent log in meant exposing your credentials to the model.\n\nToday, with @AnthropicAI, we're changing that. 1Password for @claudeai lets Claude use your stored credentials to complete real-world tasks without your passwords or one-time codes ever reaching the model, its memory, or Anthropic's systems.\n\nYou stay in control and approve which credentials an agent can use. 1Password handles authentication behind the scenes.\n\nAvailable now on Mac for business, family, and individual customers.\n\nhttps://bit.ly/4bLP5EJ",
+          "createdAt": "2026-07-16T13:15:13.382Z",
+          "url": "https://x.com/trq212/status/2077863956090408980",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/trq212/status/2077604653248938012",
+          "text": "RT ClaudeDevs\nWe've reset 5-hour and weekly rate limits for all users.",
+          "createdAt": "2026-07-16T03:58:48.528Z",
+          "url": "https://x.com/trq212/status/2077604653248938012",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Noam Brown",
+      "handle": "polynoamial",
+      "bio": "Researching reasoning @OpenAI | Co-created Libratus/Pluribus superhuman poker AIs, CICERO Diplomacy AI, and OpenAI o3 / o1 / 🍓 reasoning models",
+      "tweets": [
+        {
+          "id": "https://twitter.com/polynoamial/status/2077762676932165996",
+          "text": "2023: LLMs struggle with 4th grade word problems\n2024: LLMs can do high school math\n2025: LLMs get a gold medal at the IMO\n\nNow, GPT-5.6 solves famous frontier math/stat questions. The IMO is today and 5.6 one-shotting a perfect score isn't even news.\n\nWhere will we be next year?\n---\n Edgar Dobriban: AI has helped resolve an important question in statistics. In the area of multiple hypothesis testing, the goal of controlling the false discovery rate (FDR) has been introduced in a seminal paper by Benjamini and Hochberg (1995). They also introduced a method (the",
+          "createdAt": "2026-07-16T14:29:59.337Z",
+          "url": "https://x.com/polynoamial/status/2077762676932165996",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/EdgarDobriban/status/2077082912021786660\nEdgar Dobriban: AI has helped resolve an important question in statistics. In the area of multiple hypothesis testing, the goal of controlling the false discovery rate (FDR) has been introduced in a seminal paper by Benjamini and Hochberg (1995). They also introduced a method (the"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Gostev",
+      "handle": "petergostev",
+      "bio": "London 🇬🇧 AI Capability @ https://t.co/Y4VEGWofQ8 https://t.co/bkfw1nxdmJ",
+      "tweets": [
+        {
+          "id": "https://twitter.com/petergostev/status/2077631127422910476",
+          "text": "The absurd trajectory continues\n\n---\n Peter Gostev: Ok my previous chart wasn't quite right, this is the right trajectory",
+          "createdAt": "2026-07-16T05:47:15.164Z",
+          "url": "https://x.com/petergostev/status/2077631127422910476",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/petergostev/status/2077120300831871413\nPeter Gostev: Ok my previous chart wasn't quite right, this is the right trajectory"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Greg Brockman",
+      "handle": "gdb",
+      "bio": "President & Co-Founder @OpenAI",
+      "tweets": [
+        {
+          "id": "https://twitter.com/gdb/status/2077622035984105848",
+          "text": "GPT-5.6 Sol Pro for resolving an important open question in statistics:\n---\n Edgar Dobriban: AI has helped resolve an important question in statistics. In the area of multiple hypothesis testing, the goal of controlling the false discovery rate (FDR) has been introduced in a seminal paper by Benjamini and Hochberg (1995). They also introduced a method (the",
+          "createdAt": "2026-07-16T05:11:08.829Z",
+          "url": "https://x.com/gdb/status/2077622035984105848",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/EdgarDobriban/status/2077082912021786660\nEdgar Dobriban: AI has helped resolve an important question in statistics. In the area of multiple hypothesis testing, the goal of controlling the false discovery rate (FDR) has been introduced in a seminal paper by Benjamini and Hochberg (1995). They also introduced a method (the"
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Kimi K3, and what we can still learn from the pelican benchmark",
+      "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/#atom-everything",
+      "publishedAt": "2026-07-16T20:19:30.955Z",
+      "author": "",
+      "description": "Chinese AI lab Moonshot AI announced Kimi K3 this morning, describing it as their \"most capable model to date, with 2.8 trillion parameters\"…",
+      "content": "Chinese AI lab Moonshot AI announced Kimi K3 this morning, describing it as their \"most capable model to date, with 2.8 trillion parameters\". It's currently available via their website and API, but an open weight release is promised \"by July 27, 2026\".\n\n Moonshot are calling this the first \"open 3T-class model\" (I guess they're rounding 2.8 trillion up to 3 trillion), taking the crown from DeepSeek's 1.6T v4 Pro . Their self-reported benchmarks have K3 mostly beating Claude Opus 4.8 max and GPT-5.5 high, while losing out to Claude Fable 5 and GPT-5.6 Sol.\n\n A few highlights from the Artificial Analysis report on the model:\n\n \"On our private long-horizon knowledge work evaluation, Kimi K3 reaches an overall Elo of 1547, +732 points from Kimi K2.6 and behind only Claude Fable 5.\"\n\n \"Cost per task ($0.94) is similar to GPT-5.6 Sol ($1.04), ~1/2 the price of Opus 4.8 ($1.80) and higher than open weights peers\"\n\n \"Kimi K3’s token usage on the Artificial Analysis Intelligence Index decreased significantly, using 21% fewer output tokens than K2.6.\"\n\n The model is also now the leading model on Arena.ai's Frontend Code arena , surpassing even Claude Fable 5.\n\n The new model is notable for the pricing: $3/million input tokens and $15/million output tokens, putting it at the same level as Anthropic's Claude Sonnet series and making it the most expensive model released by a Chinese AI lab to date. This is a significant increase on their earlier models such as Kimi K2.6 at $0.95/$4. 2.8 trillion parameters is also more than twice the size of that 1T model.\n\n But how does it pelican?\n\n I used OpenRouter (to avoid signing up for a Moonshot API key) with the llm-openrouter plugin to generate an SVG of a pelican riding a bicycle:\n\n llm -m openrouter/moonshotai/kimi-k3 'Generate an SVG of a pelican riding a bicycle'\n\n Here's the transcript . It looks like this:\n\n That pelican took 95 input tokens and 16,658 output tokens (13,241 were reasoning tokens), for a total cost of 25 cents !\n\n Since K3 accepts image input I ran it against that rendered SVG above (with my alt text prompt ) and got back (for 0.6 cents ):\n\n Cartoon illustration of a white pelican wearing a red scarf, riding a red bicycle along a gray road with white dashed lines; the pelican has a large orange beak and webbed orange feet pedaling, with white motion lines behind it; the background shows a light blue sky with white clouds, a yellow sun, two small black birds in flight, and green grass with tiny white flowers in the foreground\n\n What can we learn from the pelican?\n\n My Generate an SVG of a pelican riding a bicycle test is 21 months old now. It was never a particularly great benchmark. It started out as a joke on how absurdly difficult it is to compare these models, but then for the first year it turned out to have a surprising correlation to how good the models actually were.\n\n That connection has been mostly severed now. The GPT-5.6 and Claude Fable 5 pelicans are outclassed by GLM-5.2 , and much as I love GLM I don't think that's a Fable-class model.\n\n (I'm still not convinced that labs are training for the benchmark - if they were, I'd expect much better results. There's a chance that Gemini has optimized for any combination of an animal on a vehicle though!)\n\n The biggest limitation of the pelican is that it doesn't touch at all on the thing that matters most for today's model: agentic tool calling and the ability to operate tools reliably as conversations grow in length.\n\n So don't go using pelicans to compare models!\n\n All of that said, I still get a decent amount of value out of running the benchmark myself.\n\n Firstly, it's a forcing function for actually trying the model. If I show you a pelican, that means I've managed to run a prompt through it. If the model has an official API I'll use that, if it's open weight (and small enough to fit a 128GB M5 MacBook Pro) I'll try running it on my own machine, usually via llama.cpp or LM Studio or Ollama . I'll frequently use OpenRouter since that usually provides a proxy to an official API without me needing a new API key.\n\n Most of my pelicans are generated using my LLM CLI tool , which helps encourage me to ensure the latest models are supported by that (via one of its plugins).\n\n More importantly though, even the act of a single prompt to \"Generate an SVG of a pelican riding a bicycle\" can reveal interesting model characteristics.\n\n Consider the result for Kimi K3 today. Running those simple prompts helped emphasize several points about the model.\n\n It only has one reasoning effort right now, \"max\" - and it shows. The model consumed 13,241 reasoning tokens to output 3,417 tokens of response. This is expensive - the pelican cost 25 cents!\n\n How does the prompt \"Generate an SVG of a pelican riding a bicycle\" add up to 95 input tokens? OpenAI's tokenizer counts 10, Anthropic's counts 10 for Opus 4.6, 30 for Opus 4.7 and 25 for Sonnet 5/Fable 5. Prompting \"hi\" to Kimi K3 counted 86 tokens, suggesting there may be an 85 token hidden system prompt. It refused to leak it though.\n\n Vision works well: the alt text it generated is very good.\n\n K3 currently only has one thinking effort level, but I've been deriving quite a bit of value recently from running the same pelican prompt through different effort levels to get a quick idea for what impact those have. Here's my matrix for the GPT-5.6 model family , for example.\n\n Really though the main things I gain from the pelican test are:\n\n It's a \"hello world\" exercise for prompting a model\n\n A rough cost and reasoning estimate for a simple task\n\n Confirmation that the model can output valid SVG and has a basic idea of geometry and spatial awareness. This is a much bigger deal for the smaller models that run on my laptop.\n\n It's still interesting to compare pelicans between releases in the same model family. K3's pelican is a notable improvement from Kimi 2.5 .\n\n It's something I can share that demonstrates I've tried it. Plus a comment with a pelican in it is kind of a tradition on Hacker News at this point, any time I'm late I get comments asking where it is!\n\n Tags: ai , generative-ai , llms , llm-pricing , pelican-riding-a-bicycle , llm-release , ai-in-china , artificial-analysis , moonshot , kimi"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Quoting Thibault Sottiaux",
+      "url": "https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything",
+      "publishedAt": "2026-07-16T17:45:59.834Z",
+      "author": "",
+      "description": "On file deletions. We’ve investigated a handful of reports where GPT-5.6 unexpectedly deleted files. What we have found is that this most…",
+      "content": "On file deletions. We’ve investigated a handful of reports where GPT-5.6 unexpectedly deleted files.\n\n What we have found is that this most commonly occurs when:\n\n Full access mode is enabled and codex is run without sandboxing protections, including without auto review being enabled\n\n The model attempts to override the $HOME env var to define a temporary directory.\n\n The model makes an honest mistake and mistakenly deletes $HOME instead.\n\n — Thibault Sottiaux , describing a pretty gnarly Codex bug\n\n Tags: codex , coding-agents , generative-ai , ai , llms"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Inkling: Our open-weights model",
+      "url": "https://simonwillison.net/2026/Jul/16/inkling/#atom-everything",
+      "publishedAt": "2026-07-16T15:35:25.865Z",
+      "author": "",
+      "description": "Inkling: Our open-weights model Mira Murati's Thinking Machines Lab just released their first open-weights model. Inkling is \"a Mixture-of…",
+      "content": "Inkling: Our open-weights model\n\nMira Murati's Thinking Machines Lab just released their first open-weights model. Inkling is \"a Mixture-of-Experts transformer with 975B total parameters, 41B active\" - an Apache-2.0 licensed multimodal model trained on 45 trillion tokens of text, images, audio and video.\n\n They're also promising Inkling-Small, a 276B (12B active) model, but that's still being tested and the weights will be released \"once that work is complete\".\n\n The model card is much shorter than I've come to expect from US AI labs. It links to even shorter Training Data Documentation with almost nothing of interest in it - it's best summarized by these two paragraphs:\n\n The datasets Thinking Machines Lab uses to develop its AI services includes content that is in the public domain as well as content that may be subject to intellectual property protection.\n\n Thinking Machines Lab’s services were developed using publicly available content obtained from the open internet and publicly accessible data repositories. Certain datasets were also obtained from third parties.\n\n By Thinking Machines' own admission, this is not a frontier model. It's instead intended as a strong base model for fine-tuning using their own Tinker training platform :\n\n Inkling is not the strongest overall model available today, open or closed. Instead, a combination of qualities makes it a good open-weights base for customization: multimodal capabilities, efficient thinking, and availability on Tinker for fine-tuning.\n\n There's a lot to like about this release. It's Apache-2.0 licensed, and looks competitive with the open weight models coming out of China - it's good to see the US open weights ecosystem gain a new viable contender to join NVIDIA Nemotron and Gemma 4.\n\n Here's its attempt at an SVG pelican riding a bicycle, which I generated using this curl command against the Thinking Machines API:\n\n curl \" https://tinker.thinkingmachines.dev/services/tinker-prod/oai/api/v1/chat/completions \" \\\n -H \" Authorization: Bearer $TINKER_API_KEY \" \\\n -H \" Content-Type: application/json \" \\\n -d ' {\n \"model\": \"thinkingmachines/Inkling\",\n \"messages\": [\n {\"role\": \"user\", \"content\": \"Generate an SVG of a pelican riding a bicycle\"}\n ],\n \"stream\": false\n } '\n\n Full response here .\n\n Since it's a multi-modal model I had it describe its own image (after I rendered it to a JPEG) by sending this JSON:\n\n {\n \"model\" : \" thinkingmachines/Inkling \" ,\n \"messages\" : [{\n \"role\" : \" user \" ,\n \"content\" : [\n { \"type\" : \" image_url \" , \"image_url\" : { \"url\" : \" data:image/jpeg;base64,$BASE_64_JPEG \" }},\n { \"type\" : \" text \" , \"text\" : \" Describe this image in detail \" },\n ],\n }],\n \"stream\" : false\n}\n\n Here's the full response . It thought it had drawn a \"stork or seagull\":\n\n This is a cheerful, flat-vector cartoon illustration featuring a white bird riding a bicycle across a green landscape.\n\n The Bird: The central figure is a stylized white bird—resembling a stork or seagull—with a plump, rounded body. It has a long, prominent orange beak that is slightly open, revealing a black line for the mouth. Its eye is small and black with a tiny white highlight. The bird has black wing and tail feathers with white edges, and thin orange legs ending in black feet that rest on the bicycle's orange pedals.\n\n The Bicycle: The bike has a simple black frame with two large wheels featuring black tires, gray inner rims, and black spokes arranged in a cross pattern. The handlebars are black, and there are bright orange pedals attached to a black crank. A white seat is visible behind the bird's body.\n\n The Setting: The scene is set against a clear, light blue sky. There are two fluffy white clouds—one on the left side and a smaller one near the bird's head on the right. A bright, solid yellow sun shines in the upper right corner. At the bottom, there are rolling green hills with a smooth, curved top edge where the bicycle rests.\n\n The overall style is playful, simple, and colorful, with clean lines and a bright, sunny atmosphere.\n\n Via Hacker News\n\n Tags: ai , generative-ai , llms , training-data , pelican-riding-a-bicycle , llm-release"
+    },
+    {
+      "source": "blog",
+      "name": "The Rundown AI",
+      "title": "Toyota's secret humanoid hits $1.1B - Rundown AI",
+      "url": "https://www.rundown.ai/articles/toyota-secret-humanoid-hits-1-1b",
+      "publishedAt": "2026-07-16T14:30:19.160Z",
+      "author": "",
+      "description": "Most humanoid startups launch with a demo reel and a dream. Walden Robotics — a six-month-old spinout from Toyota’s research lab — emerged…",
+      "content": "Most humanoid startups launch with a demo reel and a dream. Walden Robotics — a six-month-old spinout from Toyota’s research lab — emerged from stealth with $300M in seed money, a $1.1B valuation, and a humanoid already pulling eight-hour shifts on a factory floor. The twist: Walden thinks the future of humanoids may not need legs at all."
+    },
+    {
+      "source": "blog",
+      "name": "The Rundown AI",
+      "title": "OpenAI’s new $230 AI agent control pad - Rundown AI",
+      "url": "https://www.rundown.ai/articles/openai-new-230-ai-agent-control-pad",
+      "publishedAt": "2026-07-16T09:03:51.267Z",
+      "author": "",
+      "description": "OpenAI just launched Codex Micro, a limited-run Work Louder keyboard to control AI agents. Not the smart speaker expected to open OpenAI's…",
+      "content": "OpenAI just launched Codex Micro, a limited-run Work Louder keyboard to control AI agents. Not the smart speaker expected to open OpenAI's device line, but with packaging that's Apple-white, a future turf war already looks believable."
+    },
+    {
+      "source": "blog",
+      "name": "Sebastian Raschka, PhD",
+      "title": "Inkling: A New Open-Weight 975B MoE with a Few Surprises",
+      "url": "https://sebastianraschka.com/blog/2026/inkling-architecture-benchmark-notes.html",
+      "publishedAt": "2026-07-16T08:50:22.553Z",
+      "author": "",
+      "description": "Short note on Thinking Machines Lab's 975B Inkling open-weight model, its benchmark profile, sparse MoE design, short convolutions…",
+      "content": "Short note on Thinking Machines Lab's 975B Inkling open-weight model, its benchmark profile, sparse MoE design, short convolutions, embedding RMSNorm, and relative-position bias."
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 7,
+    "totalTweets": 15,
+    "blogPosts": 6,
+    "podcastEpisodes": 0
+  }
+}
