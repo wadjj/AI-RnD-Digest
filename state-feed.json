@@ -1,13 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/emollick/status/2072778376494895139": 1783035119476,
-    "https://twitter.com/emollick/status/2072775581020692894": 1783035119476,
-    "https://twitter.com/emollick/status/2072727258352001341": 1783035119476,
-    "https://twitter.com/_catwu/status/2072779317172683018": 1783035119476,
-    "https://twitter.com/thsottiaux/status/2072607914217320644": 1783035119476,
-    "https://twitter.com/trq212/status/2072541903707660507": 1783035119476,
-    "https://twitter.com/amorriscode/status/2072520635964895291": 1783035119476,
-    "https://twitter.com/gdb/status/2072468859047772664": 1783035119477,
     "https://twitter.com/emollick/status/2073165421268594871": 1783121372581,
     "https://twitter.com/emollick/status/2073140350554669532": 1783121372581,
     "https://twitter.com/emollick/status/2073112767515492741": 1783121372581,
@@ -150,16 +142,20 @@
     "https://twitter.com/trq212/status/2077604653248938012": 1784243574045,
     "https://twitter.com/polynoamial/status/2077762676932165996": 1784243574045,
     "https://twitter.com/petergostev/status/2077631127422910476": 1784243574045,
-    "https://twitter.com/gdb/status/2077622035984105848": 1784243574045
+    "https://twitter.com/gdb/status/2077622035984105848": 1784243574045,
+    "https://twitter.com/petergostev/status/2078068492377510219": 1784329857996,
+    "https://twitter.com/gdb/status/2078004399675503093": 1784329857996,
+    "https://twitter.com/gdb/status/2078001746358784163": 1784329857996,
+    "https://twitter.com/thsottiaux/status/2077979212569522461": 1784329857996,
+    "https://twitter.com/emollick/status/2077969350573572490": 1784329857996,
+    "https://twitter.com/emollick/status/2077958864478048321": 1784329857997,
+    "https://twitter.com/emollick/status/2077951790868238616": 1784329857997,
+    "https://twitter.com/_catwu/status/2077933568282755145": 1784329857997,
+    "https://twitter.com/trq212/status/2077931237331890328": 1784329857997,
+    "https://twitter.com/amorriscode/status/2077930752193278317": 1784329857997
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything": 1783035119477,
-    "https://simonwillison.net/2026/Jul/2/understand-to-participate/#atom-everything": 1783035119477,
-    "https://simonwillison.net/2026/Jun/29/html-table-extractor/#atom-everything": 1783035119477,
-    "https://www.rundown.ai/articles/apptronik-opens-massive-robot-park": 1783035119477,
-    "https://www.rundown.ai/articles/anthropic-fable-returns-worldwide": 1783035119477,
-    "https://www.rundown.ai/articles/sonnet-5-ships-as-washington-frees-fable": 1783035119477,
     "https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything": 1783121372582,
     "https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything": 1783121372582,
     "https://simonwillison.net/2026/Jul/3/judgement/#atom-everything": 1783121372582,
@@ -237,8 +233,15 @@
     "https://simonwillison.net/2026/Jul/16/inkling/#atom-everything": 1784243574046,
     "https://www.rundown.ai/articles/toyota-secret-humanoid-hits-1-1b": 1784243574046,
     "https://www.rundown.ai/articles/openai-new-230-ai-agent-control-pad": 1784243574046,
-    "https://sebastianraschka.com/blog/2026/inkling-architecture-benchmark-notes.html": 1784243574046
+    "https://sebastianraschka.com/blog/2026/inkling-architecture-benchmark-notes.html": 1784243574046,
+    "https://stratechery.com/2026/mainframes-and-main-characters/": 1784329857997,
+    "https://www.rundown.ai/articles/prozac-maker-goes-psychedelic": 1784329857997,
+    "https://www.rundown.ai/articles/moonshot-kimi-k3-closes-the-frontier-gap": 1784329857997,
+    "https://simonwillison.net/2026/Jul/17/kimi-k3/#atom-everything": 1784329857997,
+    "https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter/#atom-everything": 1784329857997,
+    "https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything": 1784329857997,
+    "https://www.tomtunguz.com/the-blank-slate-ai-strategy/": 1784329857997
   },
-  "lastRunKey": "2026-07-17",
-  "lastRunAt": "2026-07-16T23:12:54.051Z"
+  "lastRunKey": "2026-07-18",
+  "lastRunAt": "2026-07-17T23:10:58.002Z"
 }
