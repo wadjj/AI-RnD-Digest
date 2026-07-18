@@ -1,0 +1,115 @@
+{
+  "generatedAt": "2026-07-18T23:13:03.951Z",
+  "runKey": "2026-07-19",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2078310751878647932",
+          "text": "GPT-5.6 Sol confirmed to be an extremely good model\n---\n Claude: Beginning July 20, Claude Fable 5 will be included in all Max and Team Premium plans, at 50% of limits.\n\nPro and Team Standard users will continue to have access to Fable via usage credits, and will receive a one-time $100 credit.\n\nDemand for Fable has been challenging to",
+          "createdAt": "2026-07-18T02:47:51.350Z",
+          "url": "https://x.com/thsottiaux/status/2078310751878647932",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/claudeai/status/2078302415804379218\nClaude: Beginning July 20, Claude Fable 5 will be included in all Max and Team Premium plans, at 50% of limits.\n\nPro and Team Standard users will continue to have access to Fable via usage credits, and will receive a one-time $100 credit.\n\nDemand for Fable has been challenging to"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Professor @Wharton studying AI, innovation & startups. Democratizing education using tech Book: https://t.co/CSmipbJ2jV Substack: https://t.co/UIBhxu4bgq",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2078274765475709035",
+          "text": "I am confused about the belief that if open weights eventually dominate it will lead to the collapse of AI. If the Labs lose (which is not happening now), it isn’t because AI was useless: compute is still the barrier & compute providers will capture the value rather than Labs.",
+          "createdAt": "2026-07-18T00:24:51.647Z",
+          "url": "https://x.com/emollick/status/2078274765475709035",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Greg Brockman",
+      "handle": "gdb",
+      "bio": "President & Co-Founder @OpenAI",
+      "tweets": [
+        {
+          "id": "https://twitter.com/gdb/status/2078258886734446764",
+          "text": "don't sleep on terra!\n---\n Peter Steinberger 🦞: 5.6 Terra high is underrated. Switched @clawsweeper (GitHub review bot) to it and it's ~40% faster overall with negligible quality loss. Better than 5.5 on all counts. Massively cheaper.\n\n(Tried xhigh but that negates perf wins, didn't make a noticable difference in review evals)",
+          "createdAt": "2026-07-17T23:21:45.106Z",
+          "url": "https://x.com/gdb/status/2078258886734446764",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/steipete/status/2078236791329657017\nPeter Steinberger 🦞: 5.6 Terra high is underrated. Switched @clawsweeper (GitHub review bot) to it and it's ~40% faster overall with negligible quality loss. Better than 5.5 on all counts. Massively cheaper.\n\n(Tried xhigh but that negates perf wins, didn't make a noticable difference in review evals)"
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Claude make Fable 5 permanent",
+      "url": "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything",
+      "publishedAt": "2026-07-18T06:00:13.535Z",
+      "author": "",
+      "description": "Claude make Fable 5 permanent An update from the @claudeai account on Twitter:\n\nBeginning July 20, Claude Fable 5 will be included in all…",
+      "content": "Claude make Fable 5 permanent\n\nAn update from the @claudeai account on Twitter:\n\n Beginning July 20, Claude Fable 5 will be included in all Max and Team Premium plans, at 50% of limits.\n\n Pro and Team Standard users will continue to have access to Fable via usage credits, and will receive a one-time $100 credit.\n\n As I was saying last week , the competition from GPT-5.6 Sol (and maybe to a lesser extent Kimi 3 ) made untenable Anthropic's plan to remove Fable 5 from their subscription accounts and make it available exclusively through API pricing.\n\n Why pay $100 or $200/month for a subscription plan that doesn't include Anthropic's best model?\n\n Their original plan was driven by concerns over compute capacity. I wonder if they'll have to dial back their training efforts in order to make more GPUs available to help serve the model.\n\n A lot of people were losing sleep over trying to make the most of Fable 5 before subscriber access was withdrawn. It's nice not to have to worry about the Fablepocalypse any more.\n\n Update : Important to note that users on the $20/month plan will still not have access to Fable 5 on that subscription. The Max plans are $100 and $200/month.\n\n Tags: ai , generative-ai , llms , anthropic , claude , llm-pricing , claude-mythos-fable"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "nascheme/quixote",
+      "url": "https://simonwillison.net/2026/Jul/18/quixote/#atom-everything",
+      "publishedAt": "2026-07-18T05:27:49.667Z",
+      "author": "",
+      "description": "nascheme/quixote A certain vintage if Python web nerd might be delighted to learn that the most recent commit to the Quixote web framework…",
+      "content": "nascheme/quixote\n\nA certain vintage if Python web nerd might be delighted to learn that the most recent commit to the Quixote web framework was six hours ago .\n\n The oldest commit in that repo is from 21 years ago, and that was the initial import of Quixote 2.4 from Subversion into Git.\n\n Tags: computer-history , python , web-frameworks"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Firefox in WebAssembly",
+      "url": "https://simonwillison.net/2026/Jul/16/firefox-in-webassembly/#atom-everything",
+      "publishedAt": "2026-07-16T23:34:16.950Z",
+      "author": "",
+      "description": "Firefox in WebAssembly This is absurdly cool: Puter compiled Firefox to WebAssembly such that the whole browser runs in another browser.\n\nHer…",
+      "content": "Firefox in WebAssembly\n\nThis is absurdly cool: Puter compiled Firefox to WebAssembly such that the whole browser runs in another browser.\n\n Here's my blog, running in Firefox, running in WebAssembly, running in Chrome:\n\n They chose Firefox/Gecko because it has strong single-process support. The project used an estimated $25,000 worth of Claude Opus and Fable tokens, but took advantage of a Claude Max subscription plan so cost much less in actual dollars.\n\n The demo funnels all traffic over a WebSocket protocol (using the Wisp protocol ) through Puter's server - a requirement to get this kind of thing to work because code running in browsers can't open arbitrary network connections.\n\n (That proxying sounds expensive! The team had to scale the servers up to handle the traffic during the Hacker News conversation about the project.)\n\n Puter claim this supports end-to-end encryption and that looks to be true - I inspected the WebSocket messages and traffic to my own HTTPS site was encrypted whereas requests and responses to http://www.example.com/ were in cleartext.\n\n Here's the repo for firefox-wasm . theogbob/WebkitWasm is a similar project that compiles WebKit to WASM, but that one doesn't currently have an accessible online demo.\n\n Via Hacker News\n\n Tags: browsers , firefox , ai , webassembly , generative-ai , llms , ai-assisted-programming , claude , claude-mythos-fable"
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 3,
+    "totalTweets": 3,
+    "blogPosts": 3,
+    "podcastEpisodes": 0
+  }
+}
