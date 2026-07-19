@@ -1,11 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/petergostev/status/2073469313474851229": 1783206966384,
-    "https://twitter.com/petergostev/status/2073402334856552468": 1783206966384,
-    "https://twitter.com/_catwu/status/2073439890482794966": 1783206966384,
-    "https://twitter.com/emollick/status/2073248523215089825": 1783206966385,
-    "https://twitter.com/emollick/status/2073226212462215300": 1783206966385,
-    "https://twitter.com/JeffDean/status/2073438286392230337": 1783206966385,
     "https://twitter.com/emollick/status/2073613302828048767": 1783294226009,
     "https://twitter.com/thsottiaux/status/2073565412336308699": 1783294226009,
     "https://twitter.com/thsottiaux/status/2073554978053005607": 1783294226009,
@@ -145,13 +139,16 @@
     "https://twitter.com/amorriscode/status/2077930752193278317": 1784329857997,
     "https://twitter.com/thsottiaux/status/2078310751878647932": 1784416383952,
     "https://twitter.com/emollick/status/2078274765475709035": 1784416383953,
-    "https://twitter.com/gdb/status/2078258886734446764": 1784416383953
+    "https://twitter.com/gdb/status/2078258886734446764": 1784416383953,
+    "https://twitter.com/gdb/status/2078922461660533120": 1784502856109,
+    "https://twitter.com/petergostev/status/2078910391782932988": 1784502856109,
+    "https://twitter.com/petergostev/status/2078846354772644190": 1784502856109,
+    "https://twitter.com/petergostev/status/2078763019765743728": 1784502856109,
+    "https://twitter.com/thsottiaux/status/2078624985363706343": 1784502856109,
+    "https://twitter.com/emollick/status/2078621842508587318": 1784502856109
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything": 1783206966385,
-    "https://simonwillison.net/2026/Jul/3/june-newsletter/#atom-everything": 1783206966385,
-    "https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything": 1783206966385,
     "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything": 1783294226010,
     "https://simonwillison.net/2026/Jul/5/sqlite-utils/#atom-everything": 1783294226010,
     "https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/#atom-everything": 1783294226010,
@@ -231,8 +228,12 @@
     "https://www.tomtunguz.com/the-blank-slate-ai-strategy/": 1784329857997,
     "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything": 1784416383953,
     "https://simonwillison.net/2026/Jul/18/quixote/#atom-everything": 1784416383953,
-    "https://simonwillison.net/2026/Jul/16/firefox-in-webassembly/#atom-everything": 1784416383953
+    "https://simonwillison.net/2026/Jul/16/firefox-in-webassembly/#atom-everything": 1784416383953,
+    "https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything": 1784502856109,
+    "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything": 1784502856110,
+    "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything": 1784502856110,
+    "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms": 1784502856110
   },
-  "lastRunKey": "2026-07-19",
-  "lastRunAt": "2026-07-18T23:13:03.958Z"
+  "lastRunKey": "2026-07-20",
+  "lastRunAt": "2026-07-19T23:14:16.114Z"
 }
