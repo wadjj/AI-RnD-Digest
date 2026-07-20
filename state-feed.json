@@ -1,9 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/emollick/status/2073613302828048767": 1783294226009,
-    "https://twitter.com/thsottiaux/status/2073565412336308699": 1783294226009,
-    "https://twitter.com/thsottiaux/status/2073554978053005607": 1783294226009,
-    "https://twitter.com/thsottiaux/status/2073551549494596079": 1783294226009,
     "https://twitter.com/trq212/status/2074209928961819081": 1783380774257,
     "https://twitter.com/trq212/status/2074209851975328157": 1783380774257,
     "https://twitter.com/trq212/status/2073956140610924936": 1783380774257,
@@ -145,13 +141,20 @@
     "https://twitter.com/petergostev/status/2078846354772644190": 1784502856109,
     "https://twitter.com/petergostev/status/2078763019765743728": 1784502856109,
     "https://twitter.com/thsottiaux/status/2078624985363706343": 1784502856109,
-    "https://twitter.com/emollick/status/2078621842508587318": 1784502856109
+    "https://twitter.com/emollick/status/2078621842508587318": 1784502856109,
+    "https://twitter.com/polynoamial/status/2079260550895382965": 1784589435656,
+    "https://twitter.com/_sholtodouglas/status/2079229936855031853": 1784589435656,
+    "https://twitter.com/_sholtodouglas/status/2079080721638199317": 1784589435656,
+    "https://twitter.com/emollick/status/2079070674073633017": 1784589435657,
+    "https://twitter.com/emollick/status/2079030868413182298": 1784589435657,
+    "https://twitter.com/emollick/status/2079027267137601724": 1784589435657,
+    "https://twitter.com/thsottiaux/status/2079058139207573541": 1784589435657,
+    "https://twitter.com/trq212/status/2079085903067406446": 1784589435657,
+    "https://twitter.com/amorriscode/status/2079027309735301193": 1784589435657,
+    "https://twitter.com/_catwu/status/2079011428380602526": 1784589435657
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything": 1783294226010,
-    "https://simonwillison.net/2026/Jul/5/sqlite-utils/#atom-everything": 1783294226010,
-    "https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/#atom-everything": 1783294226010,
     "https://www.rundown.ai/articles/this-8k-robot-can-do-your-laundry": 1783380774258,
     "https://www.rundown.ai/articles/meta-sizes-up-gpt-5-5-with-watermelon": 1783380774258,
     "https://jack-clark.net/2026/07/06/import-ai-464-fables-writes-gpu-kernels-ai-automation-and-analog-computation/": 1783380774258,
@@ -232,8 +235,14 @@
     "https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything": 1784502856109,
     "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything": 1784502856110,
     "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything": 1784502856110,
-    "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms": 1784502856110
+    "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms": 1784502856110,
+    "https://stratechery.com/2026/whos-afraid-of-chinese-models/": 1784589435658,
+    "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything": 1784589435657,
+    "https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything": 1784589435657,
+    "https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything": 1784589435657,
+    "https://jack-clark.net/2026/07/20/import-ai-465-open-vs-closed-gaps-kimi-k3-demis-big-policy-plan/": 1784589435657,
+    "https://www.tomtunguz.com/open-models-tack-toward-the-frontier/": 1784589435658
   },
-  "lastRunKey": "2026-07-20",
-  "lastRunAt": "2026-07-19T23:14:16.114Z"
+  "lastRunKey": "2026-07-21",
+  "lastRunAt": "2026-07-20T23:17:15.663Z"
 }
