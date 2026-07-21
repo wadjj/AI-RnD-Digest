@@ -1,13 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/trq212/status/2074209928961819081": 1783380774257,
-    "https://twitter.com/trq212/status/2074209851975328157": 1783380774257,
-    "https://twitter.com/trq212/status/2073956140610924936": 1783380774257,
-    "https://twitter.com/thsottiaux/status/2074209421799166138": 1783380774257,
-    "https://twitter.com/thsottiaux/status/2074195169990357398": 1783380774257,
-    "https://twitter.com/emollick/status/2074204151521648766": 1783380774258,
-    "https://twitter.com/emollick/status/2073953911594004838": 1783380774258,
-    "https://twitter.com/emollick/status/2073913246000787901": 1783380774258,
     "https://twitter.com/emollick/status/2074595359364411651": 1783466171338,
     "https://twitter.com/emollick/status/2074545147908378720": 1783466171338,
     "https://twitter.com/emollick/status/2074361301871083843": 1783466171338,
@@ -151,15 +143,20 @@
     "https://twitter.com/thsottiaux/status/2079058139207573541": 1784589435657,
     "https://twitter.com/trq212/status/2079085903067406446": 1784589435657,
     "https://twitter.com/amorriscode/status/2079027309735301193": 1784589435657,
-    "https://twitter.com/_catwu/status/2079011428380602526": 1784589435657
+    "https://twitter.com/_catwu/status/2079011428380602526": 1784589435657,
+    "https://twitter.com/trq212/status/2079680872924762219": 1784675646841,
+    "https://twitter.com/trq212/status/2079664334146551940": 1784675646841,
+    "https://twitter.com/trq212/status/2079608231220195493": 1784675646841,
+    "https://twitter.com/emollick/status/2079639676713922678": 1784675646841,
+    "https://twitter.com/emollick/status/2079437066585202824": 1784675646841,
+    "https://twitter.com/karpathy/status/2079610838143623371": 1784675646842,
+    "https://twitter.com/JeffDean/status/2079591562145870043": 1784675646842,
+    "https://twitter.com/JeffDean/status/2079619846992789681": 1784675646842,
+    "https://twitter.com/petergostev/status/2079449332286132732": 1784675646842,
+    "https://twitter.com/thsottiaux/status/2079355529101705264": 1784675646842
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://www.rundown.ai/articles/this-8k-robot-can-do-your-laundry": 1783380774258,
-    "https://www.rundown.ai/articles/meta-sizes-up-gpt-5-5-with-watermelon": 1783380774258,
-    "https://jack-clark.net/2026/07/06/import-ai-464-fables-writes-gpu-kernels-ai-automation-and-analog-computation/": 1783380774258,
-    "https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything": 1783380774258,
-    "https://www.tomtunguz.com/godless-hippies-ai-models-values/": 1783380774258,
     "https://stratechery.com/2026/a-script-for-mark-zuckerberg/": 1783466171339,
     "https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything": 1783466171338,
     "https://simonwillison.net/2026/Jul/7/sqlite-migrate/#atom-everything": 1783466171339,
@@ -241,8 +238,14 @@
     "https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything": 1784589435657,
     "https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything": 1784589435657,
     "https://jack-clark.net/2026/07/20/import-ai-465-open-vs-closed-gaps-kimi-k3-demis-big-policy-plan/": 1784589435657,
-    "https://www.tomtunguz.com/open-models-tack-toward-the-frontier/": 1784589435658
+    "https://www.tomtunguz.com/open-models-tack-toward-the-frontier/": 1784589435658,
+    "https://stratechery.com/2026/netflix-earnings-is-netflix-washed-additional-notes/": 1784675646843,
+    "https://www.rundown.ai/articles/china-bold-plan-to-knock-an-asteroid-off-course": 1784675646842,
+    "https://www.rundown.ai/articles/claude-disproves-an-87-year-old-math-problem": 1784675646842,
+    "https://www.rundown.ai/articles/world-first-humanoid-cage-fight": 1784675646842,
+    "https://simonwillison.net/2026/Jul/21/nativ/#atom-everything": 1784675646842,
+    "https://simonwillison.net/2026/Jul/21/cat-and-thariq/#atom-everything": 1784675646843
   },
-  "lastRunKey": "2026-07-21",
-  "lastRunAt": "2026-07-20T23:17:15.663Z"
+  "lastRunKey": "2026-07-22",
+  "lastRunAt": "2026-07-21T23:14:06.849Z"
 }
