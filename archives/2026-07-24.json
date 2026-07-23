@@ -1,0 +1,227 @@
+{
+  "generatedAt": "2026-07-23T23:13:56.162Z",
+  "runKey": "2026-07-24",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Greg Brockman",
+      "handle": "gdb",
+      "bio": "President & Co-Founder @OpenAI",
+      "tweets": [
+        {
+          "id": "https://twitter.com/gdb/status/2080414383352529085",
+          "text": "voice makes you feel just how unnatural it is to type\n---\n OpenAI: ChatGPT Voice is now in the desktop app.\n\nControl your computer and direct multiple agents running in ChatGPT Work or Codex, using just your voice.\n\nIt's powered by GPT-Live, so it can speak, listen, and coordinate work in the app at the same time.\n\nRolling out globally today",
+          "createdAt": "2026-07-23T22:06:55.007Z",
+          "url": "https://x.com/gdb/status/2080414383352529085",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/OpenAI/status/2080378182469857576\nOpenAI: ChatGPT Voice is now in the desktop app.\n\nControl your computer and direct multiple agents running in ChatGPT Work or Codex, using just your voice.\n\nIt's powered by GPT-Live, so it can speak, listen, and coordinate work in the app at the same time.\n\nRolling out globally today"
+        },
+        {
+          "id": "https://twitter.com/gdb/status/2080149982359831017",
+          "text": "try the codex security plugin, for applying our models to cyberdefense:\n---\n Vaibhav (VB) Srivastav: Reintroducing Codex Security plugin!\n\npoint it at a codebase or diff and it can build a threat model, map attack paths, validate findings, generate + test fixes, and export results to SARIF, GitHub, Jira or Linear.\n\noh, and it all open source on github!!",
+          "createdAt": "2026-07-23T04:36:17.163Z",
+          "url": "https://x.com/gdb/status/2080149982359831017",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/reach_vb/status/2080042063328866519\nVaibhav (VB) Srivastav: Reintroducing Codex Security plugin!\n\npoint it at a codebase or diff and it can build a threat model, map attack paths, validate findings, generate + test fixes, and export results to SARIF, GitHub, Jira or Linear.\n\noh, and it all open source on github!!"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Demis Hassabis",
+      "handle": "demishassabis",
+      "bio": "Nobel Laureate. Co-Founder & CEO @GoogleDeepMind - working on AGI. Solving disease @IsomorphicLabs. Trying to understand the fundamental nature of reality.",
+      "tweets": [
+        {
+          "id": "https://twitter.com/demishassabis/status/2080332282028507234",
+          "text": "Congratulations @KanishkaNarayan on your new role as UK's AI Minister in the Cabinet, great news for the UK AI ecosystem!\n---\n Kanishka Narayan MP: 48 hours since @10DowningStreet appointed me AI Minister, and feeling relentlessly focused on shaping AI with British leadership:\n\n**We reindustrialise with AI manufacturing** 🏭\n-- First call with @demishassabis on turning British advantage into British jobs\n-- Spoke to",
+          "createdAt": "2026-07-23T16:40:41.498Z",
+          "url": "https://x.com/demishassabis/status/2080332282028507234",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/KanishkaNarayan/status/2080066326718976268\nKanishka Narayan MP: 48 hours since @10DowningStreet appointed me AI Minister, and feeling relentlessly focused on shaping AI with British leadership:\n\n**We reindustrialise with AI manufacturing** 🏭\n-- First call with @demishassabis on turning British advantage into British jobs\n-- Spoke to"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Gostev",
+      "handle": "petergostev",
+      "bio": "London 🇬🇧 AI Capability @ https://t.co/Y4VEGWofQ8 https://t.co/bkfw1nxdmJ",
+      "tweets": [
+        {
+          "id": "https://twitter.com/petergostev/status/2080189506242625690",
+          "text": "We need to stop maths until we know what the hell is going on",
+          "createdAt": "2026-07-23T07:13:20.738Z",
+          "url": "https://x.com/petergostev/status/2080189506242625690",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2080144499716800513",
+          "text": "Unbelievable excited for what’s coming together. Tomorrow is feeling codexy",
+          "createdAt": "2026-07-23T04:14:30.620Z",
+          "url": "https://x.com/thsottiaux/status/2080144499716800513",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Anthony Morris ツ",
+      "handle": "amorriscode",
+      "bio": "claude code @anthropicAI | ex @stripe → https://t.co/AjndW0qdf0",
+      "tweets": [
+        {
+          "id": "https://twitter.com/amorriscode/status/2080125889535484314",
+          "text": "what has Fable done for you lately?\n---\n Guillermo Rauch: Fable just found a 15-30% memory efficiency improvement in Turbopack / Next.js, nearly autonomously.\n\n@tobi asked me today: what have been your “holy s***” moments with AI?\n\nMy answer was: it’s every single week. And it’s accelerating. In fact, “WTFs/day” might just be my",
+          "createdAt": "2026-07-23T03:00:33.918Z",
+          "url": "https://x.com/amorriscode/status/2080125889535484314",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/rauchg/status/2080098518535110913\nGuillermo Rauch: Fable just found a 15-30% memory efficiency improvement in Turbopack / Next.js, nearly autonomously.\n\n@tobi asked me today: what have been your “holy s***” moments with AI?\n\nMy answer was: it’s every single week. And it’s accelerating. In fact, “WTFs/day” might just be my"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai. prev YC W20, mit media lab. towards machines of loving grace",
+      "tweets": [
+        {
+          "id": "https://twitter.com/trq212/status/2080090919832084753",
+          "text": "I'm sad it took me this long to actually type /design but working on frontend with Claude Design and Claude Code is actually so good",
+          "createdAt": "2026-07-23T00:41:36.573Z",
+          "url": "https://x.com/trq212/status/2080090919832084753",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "The Rundown AI",
+      "title": "Travis Kalanick's $1.7B computer for the physical world - Rundown AI",
+      "url": "https://www.rundown.ai/articles/travis-kalanick-1-7b-computer-for-the-physical-world",
+      "publishedAt": "2026-07-23T14:30:13.495Z",
+      "author": "",
+      "description": "Forber Uber CEO Travis Kalanick raises $1.7B for his robotics venture building \"computers for the physical world\"— specialized machines for…",
+      "content": "Forber Uber CEO Travis Kalanick raises $1.7B for his robotics venture building \"computers for the physical world\"— specialized machines for manufacturing and logistics. No humanoids, just practical industrial automation."
+    },
+    {
+      "source": "blog",
+      "name": "The Rundown AI",
+      "title": "OpenAI’s cyber test escapes the lab - Rundown AI",
+      "url": "https://www.rundown.ai/articles/openai-cyber-test-escapes-the-lab",
+      "publishedAt": "2026-07-23T09:03:03.915Z",
+      "author": "",
+      "description": "OpenAI's AI model escapes security test, breaches Hugging Face servers. Discover how the sandbox containment failed and what it means for AI…",
+      "content": "OpenAI's AI model escapes security test, breaches Hugging Face servers. Discover how the sandbox containment failed and what it means for AI safety."
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Quoting Seth Larson",
+      "url": "https://simonwillison.net/2026/Jul/23/seth-larson/#atom-everything",
+      "publishedAt": "2026-07-23T04:50:36.596Z",
+      "author": "",
+      "description": "The Python Package Index (PyPI) now rejects new files being uploaded to releases that are older than 14 days. This restriction was put in…",
+      "content": "The Python Package Index (PyPI) now rejects new files being uploaded to releases that are older than 14 days. This restriction was  put in place  to prevent old and long-stable releases from being poisoned in case publishing tokens or workflows of PyPI projects were compromised. As far as we are aware this has not yet been abused, but there is no technical reason beyond that attackers weren't aware it was possible.\n\n — Seth Larson , PyPI blog\n\n Tags: packaging , python , supply-chain , pypi , seth-michael-larson"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Quoting Thomas Ptacek",
+      "url": "https://simonwillison.net/2026/Jul/22/thomas-ptacek/#atom-everything",
+      "publishedAt": "2026-07-22T23:59:01.054Z",
+      "author": "",
+      "description": "I genuinely believe that if you took an open weights model from 2025 and built a pentest harness for it, it could do this kind of sandbox…",
+      "content": "I genuinely believe that if you took an open weights model from 2025 and built a pentest harness for it, it could do this kind of sandbox escape and scan/hack in most networks. This is only surprising because you assume OpenAI has sounder sandboxes.\n\n — Thomas Ptacek , doesn't think this even needs a frontier model\n\n Tags: thomas-ptacek , openai , security , generative-ai , ai-security-research , ai , llms , sandboxing"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened",
+      "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/#atom-everything",
+      "publishedAt": "2026-07-22T23:51:33.341Z",
+      "author": "",
+      "description": "This story is wild. The short version: OpenAI were running a cybersecurity test against an unreleased model, with the model's guardrail…",
+      "content": "This story is wild. The short version: OpenAI were running a cybersecurity test against an unreleased model, with the model's guardrail features turned off. Rather than solve the test, the model broke its way out of OpenAI's sandbox, then found exploits to break in to Hugging Face, all so it could cheat on the test by stealing the answers.\n\n Along the way it helped make the strongest case yet for how the imbalance of model availability is hurting our ability to secure our software.\n\n Here's what happened\n\n We currently have three documents to help us understand what happened here.\n\n ExploitGym: Can AI Agents Turn Security Vulnerabilities into Real Attacks? is a paper published on 11th May 2026 describing ExploitGym, a new eval suite for LLM-powered agent systems.\n\n Security incident disclosure — July 2026 by Hugging Face on 16th July 2026 describes how they detected an attack from an \"agentic security-research harness - used LLM still not known\" that breached some of their systems.\n\n OpenAI and Hugging Face partner to address security incident during model evaluation from OpenAI on 21st July 2026 confesses that it was their agent harness that did this, and that they're working with Hugging Face to clean up the mess.\n\n ExploitGym\n\n I hadn't seen the ExploitGym paper before and it's a really interesting one. Authors from UC Berkeley, the Max Planck Institute, UC Santa Barbara, and Arizona State designed a new benchmark for evaluating models on their ability to turn a reported vulnerability into a concrete exploit. OpenAI, Anthropic, and Google provided feedback and helped run the benchmark against their models.\n\n The benchmark \"comprises 898 instances derived from real-world vulnerabilities that affected popular software projects\" - including the Linux kernel and V8 JavaScript engine.\n\n Here's the paragraph that best represents their benchmark results:\n\n Among all configurations, Claude Mythos Preview and GPT-5.5 achieve the highest success counts (157 and 120 successes, respectively), demonstrating that current frontier agents can exploit a substantial subset of real-world vulnerabilities under controlled conditions. GPT-5.4 also solves a notable 54 tasks, placing it in an intermediate tier. The remaining model–agent pairings solve fewer than 15 tasks each, underscoring that end-to-end exploitation remains challenging and sharply differentiates today’s frontier systems. Notably, Claude Opus 4.7 achieves fewer successes than Claude Opus 4.6 despite being a newer checkpoint, and does so at substantially lower cost on the full set. Trace inspection reveals that Claude Opus 4.7 and Gemini 3.1 Pro frequently conclude early after judging the target vulnerability non-exploitable.\n\n The paper also describes the approach they took to preventing the agents from cheating by going outside the parameters of the test. This becomes relevant in a moment!\n\n Outbound connections are restricted to a curated allowlist that permits routine package installation (Ubuntu apt repositories and PyPI) and fetching the toolchains required for building V8. All other external endpoints are blocked.\n\n The paper concludes with this (emphasis mine):\n\n Our results show that autonomous exploit development by frontier AI agents is no longer a hypothetical capability . While current agents are not yet reliable across all targets, they already exploit a non-trivial fraction of real-world vulnerabilities , including complex targets such as kernel components. This rapid emergence is itself a central finding, showing that capabilities that would have seemed implausible are now present in deployed frontier models.\n\n An important detail here: this paper isn't about discovering vulnerabilities; it's about being able to take those vulnerabilities and turn them into working exploits.\n\n When Anthropic first restricted access to Mythos back in April they talked about this capability as well. A model that can act on vulnerabilities is a lot more dangerous than one that can just discover them.\n\n One of the ways Fable differs from Mythos is that it's more likely to refuse to weaponize vulnerabilities in this way. I get the impression the US government did not understand that distinction when they banned Fable last month .\n\n The Hugging Face incident\n\n The first hint we got of the attack was in this blog post by Hugging Face on 16th July 2026:\n\n A malicious dataset abused two code-execution paths in our dataset processing (a remote-code dataset loader and a template-injection in a dataset configuration) to run code on a processing worker. From there, the actor escalated to node-level access, harvested cloud and cluster credentials, and moved laterally into several internal clusters over a weekend.\n\n I hope they release more details about the code that pulled this off. I'm assuming this means packages using the datasets library , a Hugging Face project for bundling up and sharing datasets on their platform. That library used to execute arbitrary code but has been steadily locked down over time, with the 4.0.0 release in July 2025 removing the trust_remote_code=True flag entirely.\n\n Assuming the attack used that library it must have either abused pickle serialization in some way, found some other non-obvious code execution path, or (most likely) specified datasets as the dependency.\n\n The campaign was run by an autonomous agent framework (appearing to be built on an agentic security-research harness - used LLM still not known) executing many thousands of individual actions across a swarm of short-lived sandboxes, with self-migrating command-and-control staged on public services.\n\n This was a sophisticated attack!\n\n Then Hugging Face hit a wall: they tried to use \"frontier models behind commercial APIs\" - I'm guessing from Anthropic and OpenAI - to help analyze the attack, and were blocked:\n\n When we started the log analysis, we first used frontier models behind commercial APIs. This did not work: the analysis requires submitting large volumes of real attack commands, exploit payloads, and C2 artifacts, and these requests were blocked by the providers' safety guardrails, which cannot distinguish an incident responder from an attacker.\n\n They switched to their own self-hosted instance of MIT licensed GLM-5.2 and it helped them figure out what was going on.\n\n This indicated a fundamental asymmetry between the defending team and the (so-far unknown) attacker:\n\n We do not know which model powered the attacker's agents, whether a jailbroken hosted model or an unrestricted open-weight one; either way, the attacker was bound by no usage policy, while our own forensic work was blocked by the guardrails of the hosted models we first tried.\n\n As a useful indicator of how seriously they took the attack:\n\n [...] Finally, we have also reported this incident to law enforcement agencies.\n\n So who was responsible for this \"autonomous agent framework\"? It turned out to be OpenAI themselves.\n\n The OpenAI confession\n\n Five days later, on July 21st , OpenAI revealed the culprit. They had been running the ExploitGym benchmark against a new, as-yet undisclosed model, and that model had been operating way outside its intended parameters (emphasis mine):\n\n After investigating, we now know that this particular incident was driven by a combination of OpenAI models — including GPT‑5.6 Sol and an even more capable pre-release model, all with reduced cyber refusals for evaluation purposes — while being internally tested on a benchmark⁠ [ExploitGym] of cyber capabilities. [...]\n\n We estimate maximal cyber capabilities by running this evaluation without production classifiers used to prevent models from pursuing high-risk cyber activity . Our benchmarks run in a highly isolated environment, with network access constrained to the ability to install packages through an internally hosted third-party software that acts as a proxy and cache for package registries.\n\n The models identified and chained vulnerabilities across OpenAI’s research environment and Hugging Face’s production infrastructure to obtain test solutions directly from Hugging Face’s production database. All evidence suggests that the models were hyperfocused on finding a solution for ExploitGym, going to extreme lengths to achieve a rather narrow testing goal.\n\n It's pretty clear what happened here. OpenAI removed safety filters for an in-progress model, locked it up in a sandbox and told it to solve the ExploitGym problems. Given the absence of guardrails there was nothing to prevent the model from attempting to break out of that sandbox, break into Hugging Face, and read the answers from there instead.\n\n OpenAI's sandbox used the now common pattern of allowing access to an allow-list of sites related to installing additional packages via a controlled proxy. In OpenAI's words:\n\n While operating in our sandboxed testing environment, our models spent a substantial amount of inference compute finding a way to obtain open Internet access , in pursuit of solving the evaluation problem. To gain access, the models identified and exploited a zero-day vulnerability (which we’ve now responsibly disclosed to the vendor) in the package registry cache proxy . With this access, our models performed a series of privilege escalation and lateral movement actions in our research testing environment until the models reached a node with Internet access.\n\n So step one was to break out onto the public internet. The model then broke into Hugging Face to find the answers:\n\n After gaining Internet access, the models inferred that Hugging Face potentially hosted models, datasets and solutions for ExploitGym. Knowing this, the model searched for and successfully found ways to gain access to secret information that it could use to cheat the evaluation. In one example, the model chained together multiple attack vectors, including using stolen credentials and zero-day vulnerabilities to find a remote code execution path on the Hugging Face servers.\n\n Chaining together multiple attack vectors is exactly the kind of thing these new models can do, where previous generations of models might have failed.\n\n I wrote last month about how Claude Fable is relentlessly proactive , when I noticed it spinning up custom web servers and deploying CORS tricks on my own laptop just to help debug a WebKit CSS issue. It turns out relentless proactivity is the defining trait of this new generation of Mythos-class models. If you set them a goal and give them a way to get there, even inadvertently, they will figure it out .\n\n Resist the temptation to write this off as a stunt\n\n There will inevitably be some people who dismiss this story as a dishonest marketing trick by OpenAI to make their models sound terrifyingly effective. I found 81 instances of the term \"marketing\" in the Hacker News discussion of the incident.\n\n To those people I say pull your heads out of the sand - you're now including Hugging Face in your conspiracy theories, just so you can deny the crescendo of evidence here!\n\n The best models we have today have the ability to both find and exploit new vulnerabilities. The ExploitGym paper itself concludes that \"autonomous exploit development by frontier AI agents is no longer a hypothetical capability\", and this incident is a perfect example of exactly that.\n\n The asymmetry is increasingly frustrating\n\n One of the most infuriating details of this story is how Hugging Face, faced with an accidental and aggressive attack from one of OpenAI's models, were unable to then turn to OpenAI's models to help them fend off the attack.\n\n The frontier models we have access to are increasingly being constrained in how much they can help us protect our software, heavily influenced by the US government's ongoing threat of export controls. Claude Fable 5 wouldn't even proofread this article for me! It insisted on downgrading me to a less capable model.\n\n Meanwhile open weight models from China such as GLM-5.2, Kimi 3 and the new Qwen 3.8 Max appear..."
+    },
+    {
+      "source": "blog",
+      "name": "Hardcore Software by Steven Sinofsky",
+      "title": "241. Distillation Is Not Anti-American, Weaponizing It Is",
+      "url": "https://hardcoresoftware.learningbyshipping.com/p/241-distillation-is-not-anti-american",
+      "publishedAt": "2026-07-23T01:30:19.738Z",
+      "author": "Steven Sinofsky",
+      "description": "Xeet from Director OSTP and a quote from Anthropic policy leader. This post discusses the broader concept of this effort. This above makes me…",
+      "content": "Xeet from Director OSTP and a quote from Anthropic policy leader. This post discusses the broader concept of this effort.\n This above makes me sad. It always makes me sad to see tech companies in litigation in general and in IP litigation specifically. This compounds when any company seeks to do so under the cover of using the whole of government, trade l…"
+    },
+    {
+      "source": "blog",
+      "name": "Tomasz Tunguz",
+      "title": "Google's Cloud Revenue Converges to NVIDIA's Growth Rate",
+      "url": "https://www.tomtunguz.com/google-cloud-hyperscaler-to-hardware/",
+      "publishedAt": "2026-07-22T00:00:00.393Z",
+      "author": "",
+      "description": "Google Cloud grew 82% year-over-year to $24.8b in Q2 2026, beating the $22.3b consensus. The number alone would headline any earnings report…",
+      "content": "Google Cloud grew 82% year-over-year to $24.8b in Q2 2026, beating the $22.3b consensus. The number alone would headline any earnings report. The more important signal is what it converges toward: Google Cloud’s growth rate now mirrors NVIDIA’s.\n\n Google did start selling hardware this quarter. CFO Anat Ashkenazi told investors Google “began to recognize revenues from TPU system sales, which we delivered to customer data centers for the first time in Q2.” 1 But she was clear the dollars were small: cloud growth “accelerated meaningfully even after excluding the impact of TPU system sales,” with the bulk of TPU revenue landing in 2027. The convergence has a different source. Google Cloud rents AI compute by the hour, NVIDIA sells the chips outright, & both revenue lines are downstream of the same demand to train & run AI models.\n\n The chart shows the convergence. Google Cloud & NVIDIA’s Data Center segment now trace the same curve, one bending up on rental revenue, the other on unit sales, NVIDIA ahead on scale.\n\n The pipeline points the same direction. Google Cloud’s backlog reached $514b, up 385% from $106b a year ago & up more than $50b in a single quarter, with just over half set to convert to revenue within 24 months. Set against the other hyperscalers, the four largest cloud providers now carry more than $2t in contracted demand.\n\n Plus, Google enjoys economies of scale. Cloud operating income was $8.8b, more than tripling year-over-year, & operating margin expanded from 20.7% a year ago to 35.6%.\n\n Set against AWS, the margin gap is closing fast.\n\n Segment\n Operating income\n Revenue\n Operating margin\n Margin change YoY\n\n AWS\n $14.2b\n $37.6b\n 37.7%\n -1.8 pts\n\n Google Cloud\n $8.8b\n $24.8b\n 35.6%\n +14.9 pts\n\n The timing differs: AWS has not yet reported calendar Q2 2026, so its figures are Q1 2026, while Google Cloud’s are Q2 2026. AWS remains larger in absolute dollars, but its margin slipped nearly two points year-over-year while Google Cloud’s expanded almost fifteen, narrowing a gap that was 19 points a year ago to barely two.\n\n The ROI on capital investment is clear, so more capex is projected. Google raised full-year 2026 capex guidance to $195b to $205b, up from $180b to $190b, & said it expects capex “to increase significantly in 2027.” Across Amazon, Microsoft, Meta, & Oracle, industry AI infrastructure spend is on a path well beyond $1t next year.\n\n We’ve never seen businesses at scale grow this fast & this profitably.\n\n---\n\n Alphabet Q2 2026 earnings call, July 22, 2026. All quoted figures & remarks from the transcript . Framing first flagged by SemiAnalysis (@SemiAnalysis_) .  ↩︎"
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 6,
+    "totalTweets": 7,
+    "blogPosts": 7,
+    "podcastEpisodes": 0
+  }
+}

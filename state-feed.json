@@ -1,20 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/trq212/status/2074975617980973300": 1783553549468,
-    "https://twitter.com/trq212/status/2074986075714679116": 1783553549468,
-    "https://twitter.com/emollick/status/2074930119173460007": 1783553549468,
-    "https://twitter.com/emollick/status/2074924503470080319": 1783553549468,
-    "https://twitter.com/emollick/status/2074739169725685979": 1783553549468,
-    "https://twitter.com/_catwu/status/2074925531519468012": 1783553549468,
-    "https://twitter.com/gdb/status/2074910365377568948": 1783553549468,
-    "https://twitter.com/gdb/status/2074901915738264058": 1783553549468,
-    "https://twitter.com/gdb/status/2074889855704973388": 1783553549468,
-    "https://twitter.com/thsottiaux/status/2074885402918601082": 1783553549468,
-    "https://twitter.com/thsottiaux/status/2074705681920520526": 1783553549468,
-    "https://twitter.com/petergostev/status/2074875791536431555": 1783553549468,
-    "https://twitter.com/petergostev/status/2074836917619675154": 1783553549468,
-    "https://twitter.com/demishassabis/status/2074881271071752472": 1783553549468,
-    "https://twitter.com/markchen90/status/2074724183347732499": 1783553549468,
     "https://twitter.com/emollick/status/2075345621716730049": 1783640367765,
     "https://twitter.com/emollick/status/2075267042765148237": 1783640367765,
     "https://twitter.com/emollick/status/2075250803103719667": 1783640367765,
@@ -153,17 +138,17 @@
     "https://twitter.com/demishassabis/status/2079974477559894174": 1784762237394,
     "https://twitter.com/petergostev/status/2079855805344416248": 1784762237394,
     "https://twitter.com/emollick/status/2079812585268842759": 1784762237395,
-    "https://twitter.com/thsottiaux/status/2079731272797372425": 1784762237395
+    "https://twitter.com/thsottiaux/status/2079731272797372425": 1784762237395,
+    "https://twitter.com/gdb/status/2080414383352529085": 1784848436163,
+    "https://twitter.com/gdb/status/2080149982359831017": 1784848436163,
+    "https://twitter.com/demishassabis/status/2080332282028507234": 1784848436163,
+    "https://twitter.com/petergostev/status/2080189506242625690": 1784848436163,
+    "https://twitter.com/thsottiaux/status/2080144499716800513": 1784848436163,
+    "https://twitter.com/amorriscode/status/2080125889535484314": 1784848436163,
+    "https://twitter.com/trq212/status/2080090919832084753": 1784848436163
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://stratechery.com/2026/xbox-cuts-bundling-and-the-internet-solvent-transaction-coordination-and-sunk-costs/": 1783553549469,
-    "https://simonwillison.net/2026/Jul/8/kenton-varda/#atom-everything": 1783553549469,
-    "https://simonwillison.net/2026/Jul/7/sqlite-utils/#atom-everything": 1783553549469,
-    "https://simonwillison.net/2026/Jul/7/sqlite-utils-2/#atom-everything": 1783553549469,
-    "https://www.rundown.ai/articles/meta-climbs-the-ai-image-leaderboard": 1783553549469,
-    "https://www.tomtunguz.com/the-ai-preflight-check/": 1783553549469,
-    "https://cursor.com/cn/blog/grok-4-5": 1783553549469,
     "https://stratechery.com/2026/muse-image-grok-4-5-alex-karp-on-cnbc/": 1783640367767,
     "https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything": 1783640367767,
     "https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything": 1783640367767,
@@ -241,8 +226,15 @@
     "https://stratechery.com/2026/openai-hacks-hugging-face-what-happened-alignment-and-paper-clips/": 1784762237395,
     "https://www.rundown.ai/articles/google-gemini-lineup-has-a-pro-sized-hole": 1784762237395,
     "https://www.rundown.ai/articles/anthropic-fable-survives-the-subscription-axe": 1784762237395,
-    "https://www.tomtunguz.com/ai-engineering-productivity-anything-but-normal/": 1784762237395
+    "https://www.tomtunguz.com/ai-engineering-productivity-anything-but-normal/": 1784762237395,
+    "https://www.rundown.ai/articles/travis-kalanick-1-7b-computer-for-the-physical-world": 1784848436163,
+    "https://www.rundown.ai/articles/openai-cyber-test-escapes-the-lab": 1784848436163,
+    "https://simonwillison.net/2026/Jul/23/seth-larson/#atom-everything": 1784848436163,
+    "https://simonwillison.net/2026/Jul/22/thomas-ptacek/#atom-everything": 1784848436163,
+    "https://simonwillison.net/2026/Jul/22/openai-cyberattack/#atom-everything": 1784848436164,
+    "https://hardcoresoftware.learningbyshipping.com/p/241-distillation-is-not-anti-american": 1784848436164,
+    "https://www.tomtunguz.com/google-cloud-hyperscaler-to-hardware/": 1784848436164
   },
-  "lastRunKey": "2026-07-23",
-  "lastRunAt": "2026-07-22T23:17:17.400Z"
+  "lastRunKey": "2026-07-24",
+  "lastRunAt": "2026-07-23T23:13:56.169Z"
 }
