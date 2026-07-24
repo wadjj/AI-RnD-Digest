@@ -1,0 +1,275 @@
+{
+  "generatedAt": "2026-07-24T23:18:20.869Z",
+  "runKey": "2026-07-25",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Professor @Wharton studying AI, innovation & startups. Democratizing education using tech Book: https://t.co/CSmipbJ2jV Substack: https://t.co/UIBhxu4bgq",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2080731915196194981",
+          "text": "This is a big jump in ARC-AGI-3.\n---\n ARC Prize: Claude Opus 5 from @AnthropicAI is the new SOTA on ARC-AGI-3: 30.2%\n\nThe previous high score (7.8%) was set by GPT-5.6 Sol (Max)\n\nThroughout our analysis, we observed novel behavior that allows Opus 5 to solve previously unbeaten environments, outperforming Fable",
+          "createdAt": "2026-07-24T19:08:41.083Z",
+          "url": "https://x.com/emollick/status/2080731915196194981",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/arcprize/status/2080716561539907928\nARC Prize: Claude Opus 5 from @AnthropicAI is the new SOTA on ARC-AGI-3: 30.2%\n\nThe previous high score (7.8%) was set by GPT-5.6 Sol (Max)\n\nThroughout our analysis, we observed novel behavior that allows Opus 5 to solve previously unbeaten environments, outperforming Fable"
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2080713231937552394",
+          "text": "Opus 5 replaced Opus 4.8 for me, it was generally stronger in everything... except it shares some of the weird language quirks of Fable, including a love of density and FableSpeak.\n\nI had it make a game where you build railroads in knock-off Middle Earth: https://perilous-ways.netlify.app/",
+          "createdAt": "2026-07-24T17:54:26.206Z",
+          "url": "https://x.com/emollick/status/2080713231937552394",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2080688546839491031",
+          "text": "Unexpected finding from a big study on what ChatGPT did to colleges: \"once the COVID-19 disruption is modeled separately, the introduction of ChatGPT had no detectable effect on grades.. course evaluations for subject understanding, interest, and relative workload show no change\"\n---\n Misha Teplitskiy | Science of Science: **How does GenAI affect grades in college? It can help learn, but it can also substitute for learning (\"substitution hypothesis\"). And how do students *experience* courses that GenAI can easily ace?**\n\nWe spent year+ trying to answer these questions, using some of the best data:",
+          "createdAt": "2026-07-24T16:16:21.683Z",
+          "url": "https://x.com/emollick/status/2080688546839491031",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/MishaTeplitskiy/status/2080681320477233167\nMisha Teplitskiy | Science of Science: **How does GenAI affect grades in college? It can help learn, but it can also substitute for learning (\"substitution hypothesis\"). And how do students *experience* courses that GenAI can easily ace?**\n\nWe spent year+ trying to answer these questions, using some of the best data:"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Sholto Douglas",
+      "handle": "_sholtodouglas",
+      "bio": "Scaling RL @AnthropicAI, ex @DeepMind - working towards intelligence too cheap to meter",
+      "tweets": [
+        {
+          "id": "https://twitter.com/_sholtodouglas/status/2080712574526775706",
+          "text": "Half the cost, pareto mogging intelligence. I think fable still has more sparks of genius - but they work very well together.\n---\n Claude: Opus 5 is also highly efficient. It outperforms other models for a similar or lower cost per task:",
+          "createdAt": "2026-07-24T17:51:50.679Z",
+          "url": "https://x.com/_sholtodouglas/status/2080712574526775706",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/claudeai/status/2080699500943790198\nClaude: Opus 5 is also highly efficient. It outperforms other models for a similar or lower cost per task:"
+        },
+        {
+          "id": "https://twitter.com/_sholtodouglas/status/2080709314059358627",
+          "text": "RT Cognition\nClaude Opus 5 is now available in Devin.\n\nOn FrontierCode 1.1, Opus 5 approaches Fable-level performance at half the cost.",
+          "createdAt": "2026-07-24T17:07:19.174Z",
+          "url": "https://x.com/_sholtodouglas/status/2080709314059358627",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "cat",
+      "handle": "_catwu",
+      "bio": "claude code + cowork @anthropicai, prev: @dagster, @scale_ai",
+      "tweets": [
+        {
+          "id": "https://twitter.com/_catwu/status/2080707593115516985",
+          "text": "Claude Opus 5 is great at long-running autonomous work! Try it out and let us know what you think :)\n---\n Claude: Introducing Claude Opus 5.\n\nIt's a thoughtful and proactive model that comes close to the frontier intelligence of Fable 5 at half the price.",
+          "createdAt": "2026-07-24T17:32:02.873Z",
+          "url": "https://x.com/_catwu/status/2080707593115516985",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/claudeai/status/2080699495453528290\nClaude: Introducing Claude Opus 5.\n\nIt's a thoughtful and proactive model that comes close to the frontier intelligence of Fable 5 at half the price."
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2080543574211666029",
+          "text": "Should we rename ChatGPT Work to ChatGPT Vibe?",
+          "createdAt": "2026-07-24T06:40:17.242Z",
+          "url": "https://x.com/thsottiaux/status/2080543574211666029",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2080537149204758689",
+          "text": "From Science Fiction to Science Reality. Join the team if you want to work on some of the coolest and most impactful technology.",
+          "createdAt": "2026-07-24T06:14:45.165Z",
+          "url": "https://x.com/thsottiaux/status/2080537149204758689",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Greg Brockman",
+      "handle": "gdb",
+      "bio": "President & Co-Founder @OpenAI",
+      "tweets": [
+        {
+          "id": "https://twitter.com/gdb/status/2080524965514723414",
+          "text": "try chatgpt voice in the desktop app:\n---\n Max Weinbach: This has been sick so far\n\nI love just walking through ideas and it starts organizing and creating threads and work trees\n\nI just sat at my desk with it enabled, told it things sporadically, and it kept me updated\n\nIt's so cool",
+          "createdAt": "2026-07-24T05:26:20.953Z",
+          "url": "https://x.com/gdb/status/2080524965514723414",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/mweinbach/status/2080509445822407111\nMax Weinbach: This has been sick so far\n\nI love just walking through ideas and it starts organizing and creating threads and work trees\n\nI just sat at my desk with it enabled, told it things sporadically, and it kept me updated\n\nIt's so cool"
+        },
+        {
+          "id": "https://twitter.com/gdb/status/2080494474287780286",
+          "text": "Excited to welcome Jacob Tsimerman to the team!\n---\n Kai Williams @ ICM (world biggest math conference): Jacob Tsimerman, who won a fields medal, perhaps math's most prestigious prize, just announced at a press conference that he is \"pivoting toward AI safety\" and will be going to OpenAI soon",
+          "createdAt": "2026-07-24T03:25:11.271Z",
+          "url": "https://x.com/gdb/status/2080494474287780286",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/chi_t_williams/status/2080339331139424727\nKai Williams @ ICM (world biggest math conference): Jacob Tsimerman, who won a fields medal, perhaps math's most prestigious prize, just announced at a press conference that he is \"pivoting toward AI safety\" and will be going to OpenAI soon"
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Stratechery by Ben Thompson",
+      "title": "2026.30: The Copium Wars",
+      "url": "https://stratechery.com/2026/the-copium-wars/",
+      "publishedAt": "2026-07-24T17:00:00.619Z",
+      "author": "Ben Thompson",
+      "description": "(Photo by Ng Han Guan-Pool/Getty Images) Welcome back to This Week in Stratechery!\n\nAs a reminder, each week, every Friday, we’re…",
+      "content": "(Photo by Ng Han Guan-Pool/Getty Images)\n\n Welcome back to This Week in Stratechery!\n\n As a reminder, each week, every Friday, we’re sending out this overview of content in the Stratechery bundle; highlighted links are free for everyone . Additionally, you have complete control over what we send to you. If you don’t want to receive This Week in Stratechery emails (there is no podcast), please uncheck the box in your delivery settings .\n\n On that note, here were a few of our favorites this week.\n\n Chinese Models and Frontier Futures . Kimi K3 is a very good model — so good that everyone from Wall Street to the U.S. government is suddenly worried about the U.S.’s position in AI. In fact, the threat isn’t new — and the frontier labs advantage is still real. In this week’s Stratechery Article and Sharp Tech episode I break down what has and hasn’t changed in AI, and explain why the biggest danger is U.S. policy around cybersecurity. Solving that problem will require understanding and accepting the reality and nature of Chinese competition, even if that leaves OpenAI and Anthropic to fend for themselves. — Ben Thompson\n\n What Happened to Hugging Face? As Sharp Tech’s resident normie I’m often baffled by the lingua franca of frontier technology, and this week’s controversy around OpenAI and its cybersecurity snafu introduced several terms that have amused and confounded me for years: everything centered the “Hugging Face” platform and the concept of “sandboxing,” and we were revisiting “the paper clip problem.” Thankfully, Wednesday’s Update synthesized the story in a way that was a bit more legible for the rest of us. Come to understand what happened, and stay to learn where OpenAI appears to have erred and why this mess is arguably reassuring with regard to alignment fears around LLMs.  — Andrew Sharp\n\n The NBA And Its Second Apron Bet.  If you’ve been online for the past month and even half-paying attention to the NBA, you’ve probably encountered complaints about the league’s imposition of a “second apron” salary threshold that’s effectively functioning as a hard salary cap. Contenders are being forced to part ways with homegrown stars, others teams have limited room to improve, and fans almost unanimously hate these changes. With the offseason winding down, this week’s Sharp Text explains precisely what the NBA is trying to accomplish , why I hate it, and the stakes for the league as it bets on parity in the shadow of shrinking local TV money, slowing growth, and heavy reliance on national TV revenue.  — AS\n\n---\n\n Stratechery Articles and Updates\n\n Who’s Afraid of Chinese Models? — Everyone is worried about Chinese models, but the frontier labs will be fine; we need to enable open U.S. alternatives.\n\n Netflix Earnings, Is Netflix Washed?, Additional Notes — Netflix’s earnings were fine, and befitting a mature company whose most exciting days are likely behind them.\n\n OpenAI Hacks Hugging Face, What Happened, Alignment and Paper Clips — OpenAI accidentally hacked Hugging Face, but the takeaways are more encouraging than people realize.\n\n Sharp Text by Andrew Sharp\n\n Two More Cents on the NBA’s Second Apron Era — The problem with the second apron is that it’s working. Plus: July reading recs!\n\n Dithering with Ben Thompson and Daring Fireball’s John Gruber\n\n DST and Kimi\n\n Android, AI, and the EU\n\n Asianometry with Jon Yu\n\n France Sold Its Nuclear Steam Turbine Champion. Then Bought It Back.\n\n Sharp China with Andrew Sharp and Sinocism’s Bill Bishop\n\n Kimi Madness; Xi’s AI Vision and US Questions; Trump’s Election Data Claims; The Connected Vehicle Security Act\n\n Greatest of All Talk\n\n Summer Top Fives: Coaches or GMs to Get a Beer With and State Flags\n\n Sharp Tech with Andrew Sharp and Ben Thompson\n\n An OpenAI Model Escapes Sandboxing, Intelligence Will Be a Commodity Market, The Chinese Model Conundrum\n\n This week’s Sharp Tech video is on Meta’s maddening messaging ."
+    },
+    {
+      "source": "blog",
+      "name": "The Rundown AI",
+      "title": "DARPA's big bet on a light-based quantum computer - Rundown AI",
+      "url": "https://www.rundown.ai/articles/darpa-big-bet-on-a-light-based-quantum-computer",
+      "publishedAt": "2026-07-24T14:30:11.175Z",
+      "author": "",
+      "description": "DARPA backs a California startup betting on light-based quantum computers to achieve utility-scale computing breakthroughs. Plus, Neuralink…",
+      "content": "DARPA backs a California startup betting on light-based quantum computers to achieve utility-scale computing breakthroughs. Plus, Neuralink enables thought-controlled wheelchairs."
+    },
+    {
+      "source": "blog",
+      "name": "The Rundown AI",
+      "title": "Black Forest Labs teaches video AI to run robots - Rundown AI",
+      "url": "https://www.rundown.ai/articles/black-forest-labs-teaches-video-ai-to-run-robots",
+      "publishedAt": "2026-07-24T09:06:53.140Z",
+      "author": "",
+      "description": "Black Forest Labs' Flux 3 video AI trains robots on production lines while revolutionizing video editing. Discover AI's latest breakthrough…",
+      "content": "Black Forest Labs' Flux 3 video AI trains robots on production lines while revolutionizing video editing. Discover AI's latest breakthrough in visual intelligence and automation."
+    },
+    {
+      "source": "blog",
+      "name": "Lovable - Inside Lovable",
+      "title": "Enterprise features July roundup",
+      "url": "https://lovable.dev/blog/enterprise-features-july-roundup",
+      "publishedAt": "2026-07-24T14:30:00.871Z",
+      "author": "",
+      "description": "A roundup of recent Lovable releases that give enterprise admins governance and control — AIUC-1 certification, reusable authentication…",
+      "content": "A roundup of recent Lovable releases that give enterprise admins governance and control — AIUC-1 certification, reusable authentication, publishing controls, Workspace Insights, security scanning, and cleanup of abandoned apps."
+    },
+    {
+      "source": "blog",
+      "name": "Lovable - Inside Lovable",
+      "title": "How we run swarms of AI hacking agents against ourselves in a game of capture the flag",
+      "url": "https://lovable.dev/blog/how-we-run-swarms-of-ai-hacking-agents-against-ourselves",
+      "publishedAt": "2026-07-24T14:30:00.155Z",
+      "author": "",
+      "description": "How Lovable built an internal offensive security program around verifiable results, and how we orchestrate a swarm of AI hacking agents to…",
+      "content": "How Lovable built an internal offensive security program around verifiable results, and how we orchestrate a swarm of AI hacking agents to find real vulnerabilities instead of noise."
+    },
+    {
+      "source": "blog",
+      "name": "Lovable - Inside Lovable",
+      "title": "Lovable is the first coding agent platform to earn AIUC-1 certification",
+      "url": "https://lovable.dev/blog/aiuc-1",
+      "publishedAt": "2026-07-22T14:00:00.272Z",
+      "author": "",
+      "description": "Lovable is the first AI coding agent platform to achieve AIUC-1, the industry's first security, safety, and reliability standard built for…",
+      "content": "Lovable is the first AI coding agent platform to achieve AIUC-1, the industry's first security, safety, and reliability standard built for AI agents."
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "The first known runaway AI agent - or a very bad marketing stunt?",
+      "url": "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything",
+      "publishedAt": "2026-07-23T22:53:08.005Z",
+      "author": "",
+      "description": "The first known runaway AI agent - or a very bad marketing stunt? Martin Alderson's commentary on the OpenAI accidental cyberattack against…",
+      "content": "The first known runaway AI agent - or a very bad marketing stunt?\n\nMartin Alderson's commentary on the OpenAI accidental cyberattack against Hugging Face includes a couple of details I hadn't considered.\n\n First, Hugging Face offers a truly rich target if you're trying to find potential vulnerabilities that require executing arbitrary code:\n\n Hugging Face has an enormous attack surface. They have more interfaces than I can count which run untrusted models and code. While they definitely have invested in defences, by nature of their operating model they do have many more opportunities to be attacked than many other services. I certainly don't envy their cybersecurity teams.\n\n Secondly, one of the things that has puzzled me is how OpenAI didn't notice that their sandbox had been so thoroughly breached by the agent. Surely they'd be monitoring network traffic closely?\n\n Martin points out that:\n\n It's also likely they were running a huge amount of benchmarks simultaneously with ~unlimited token budgets - you want as many samples as possible to figure out how good a model is at a certain benchmark. It may also be they are testing various different checkpoints of the model too, understanding how the model is improving as it goes through the various training stages.\n\n The mistakes made by the OpenAI team running this benchmark are easier to imagine when you think about the scale at which benchmarks of this kind usually operate. For all we know they could have been subjecting a new model to dozens of benchmarks at the same time, in dozens of different environments.\n\n Via Lobste.rs\n\n Tags: security , ai , openai , generative-ai , llms , hugging-face , ai-security-research"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Are AI labs pelicanmaxxing?",
+      "url": "https://simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing/#atom-everything",
+      "publishedAt": "2026-07-22T23:01:00.363Z",
+      "author": "",
+      "description": "Are AI labs pelicanmaxxing? Excellent piece of work by Dylan Castillo, who took a deep-dive into the frequently pondered question of whether…",
+      "content": "Are AI labs pelicanmaxxing?\n\nExcellent piece of work by Dylan Castillo, who took a deep-dive into the frequently pondered question of whether the AI labs have been deliberately training models to draw pelicans riding bicycles in response to my deeply unscientific benchmark .\n\n I've been randomly spot-checking this in the past by testing models against other animals riding other types of vehicle, but never with anything close to the diligence of Dylan's methodology here.\n\n Dylan took 8 animals × 6 vehicles = 48 prompts and ran them three times each through 7 different models ( GPT-5.6 Terra, Claude Sonnet 5, Gemini 3.5 Flash, Grok 4.5, Qwen3.7-Max, GLM-5.2, and DeepSeek V4 Pro). He then used GPT-5.6 Luna and Gemini 3.1 Flash-Lite to help evaluate the results.\n\n There's a neat filter view for exploring the results:\n\n For the models he tested he could find no evidence of pelimaxxing:\n\n The pelicans on bicycles don’t look any better\n\n Labs are not better at drawing pelicans\n\n Labs are not better at drawing bicycles\n\n Labs are not better at drawing pelicans on bicycles, even adjusting for difficulty\n\n The pelican-bicycle scenes don’t look memorized [...]\n\n Pelicans aren’t drawn any better than other animals. Bicycles aren’t drawn any better than other vehicles. And no lab draws the combination better than its pelicans and bicycles already predict. GLM-5.2 comes closest: it has the largest boost on the exact pelican-bicycle cell, and and its first pelican-on-bicycle sample caught my eye. But the effect is small and not significant, so I wouldn’t put too much weight on it.\n\n Via Hacker News\n\n Tags: ai , generative-ai , llms , evals , pelican-riding-a-bicycle"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Orchestrions",
+      "url": "https://simonwillison.net/2026/Jul/22/all-the-orchestrions/#atom-everything",
+      "publishedAt": "2026-07-22T14:48:52.942Z",
+      "author": "",
+      "description": "San Francisco tip: it only costs around $15 ($10 in quarters plus a $5 bill for the self-playing violin) to activate every single…",
+      "content": "San Francisco tip: it only costs around $15 ($10 in quarters plus a $5 bill for the self-playing violin) to activate every single Orchestrion in Musée Mécanique .\n\n And because most people are bad at allocating their funds you may well be the ONLY person activating the Orchestrions, which means you get to craft the soundscape for the entire museum.\n\n Tags: san-francisco"
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 5,
+    "totalTweets": 10,
+    "blogPosts": 9,
+    "podcastEpisodes": 0
+  }
+}
