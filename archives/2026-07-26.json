@@ -1,0 +1,271 @@
+{
+  "generatedAt": "2026-07-25T23:15:35.930Z",
+  "runKey": "2026-07-26",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2081096447718723984",
+          "text": "We have reset usage limits for all Codex and ChatGPT Work users.\n\nLast night around 2am to 4am we suffered an almost global outage. All well and recovered, but you know what comes next.\n\nWe learn. We reset. Enjoy.\n---\n bluedev: Hey does this mean a reset?? A banked one too maybe?",
+          "createdAt": "2026-07-25T19:17:12.555Z",
+          "url": "https://x.com/thsottiaux/status/2081096447718723984",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/blueemi99/status/2080956723297198218\nbluedev: Hey does this mean a reset?? A banked one too maybe?"
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2080876712439747052",
+          "text": "How to put this🙈ChatGPT Work is available globally for all paid plans across mobile/web/desktop. Probably already on your phone.\n\nPuts a jetpack on your ChatGPT",
+          "createdAt": "2026-07-25T04:44:03.418Z",
+          "url": "https://x.com/thsottiaux/status/2080876712439747052",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2080823473090461721",
+          "text": "Re @claudeai May I propose",
+          "createdAt": "2026-07-25T01:12:30.375Z",
+          "url": "https://x.com/thsottiaux/status/2080823473090461721",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Professor @Wharton studying AI, innovation & startups. Democratizing education using tech Book: https://t.co/CSmipbJ2jV Substack: https://t.co/UIBhxu4bgq",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2081048797308662097",
+          "text": "As with every open letter, I suspect the signatories of the letter supporting open weights models have quite divergent ideas of what it means to support open weights models (there are caveats in the letter about distillation for example). Still interesting, nonetheless.",
+          "createdAt": "2026-07-25T16:07:51.660Z",
+          "url": "https://x.com/emollick/status/2081048797308662097",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2080876002444496942",
+          "text": "Ha! It did it: \"We introduce BenchBenchBenchBenchBench (BBBBB), an executable benchmark of AI-authored conformance suites for benchmark-evaluation metrics\"\n\nI really thought it would treat \"now do benchbenchbenchbenchbench\" as a joke, but Sol actually did reasonable experiments.\n\n---\n Ethan Mollick: As a joke I prompted Codex \"Build and run BenchBench, a benchmark of now good ai is at creating benchmarks. then figure out what benchbenchbench is and run that. and then write benchbenchbench up as a good arXiv paper.\" I got a PDF.\n\nBut the paper is actually kind of interesting?",
+          "createdAt": "2026-07-25T04:41:14.376Z",
+          "url": "https://x.com/emollick/status/2080876002444496942",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/emollick/status/2080676187752280532\nEthan Mollick: As a joke I prompted Codex \"Build and run BenchBench, a benchmark of now good ai is at creating benchmarks. then figure out what benchbenchbench is and run that. and then write benchbenchbench up as a good arXiv paper.\" I got a PDF.\n\nBut the paper is actually kind of interesting?"
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2080829512275624173",
+          "text": "Has Claude stopped showing full summarized thinking traces? See this before & after\n\nIf so, it is actually a big loss, both for interpretability (seeing even a summarized thinking trace helps you diagnose errors in a way that you can't otherwise) and because they were insightful",
+          "createdAt": "2026-07-25T01:36:30.954Z",
+          "url": "https://x.com/emollick/status/2080829512275624173",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Greg Brockman",
+      "handle": "gdb",
+      "bio": "President & Co-Founder @OpenAI",
+      "tweets": [
+        {
+          "id": "https://twitter.com/gdb/status/2080939030062178512",
+          "text": "ChatGPT Work for using websites which require login:\n---\n OpenAI Developers: Your ChatGPT Work agent can now use websites that require you to sign in.\n\nTake over the cloud browser to log in, then let your agent continue the task. Your login persists across sessions, so you only have to sign in once.",
+          "createdAt": "2026-07-25T08:51:41.130Z",
+          "url": "https://x.com/gdb/status/2080939030062178512",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/OpenAIDevs/status/2080707685448847418\nOpenAI Developers: Your ChatGPT Work agent can now use websites that require you to sign in.\n\nTake over the cloud browser to log in, then let your agent continue the task. Your login persists across sessions, so you only have to sign in once."
+        },
+        {
+          "id": "https://twitter.com/gdb/status/2080874519091151227",
+          "text": "Pets make building fun\n---\n OpenAI Developers: Your Pet is ready to meet other builders.\n\nOn ChatGPT web, create a shareable link for your custom pet and send it to a friend to adopt.",
+          "createdAt": "2026-07-25T04:35:20.215Z",
+          "url": "https://x.com/gdb/status/2080874519091151227",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/OpenAIDevs/status/2080747505474736162\nOpenAI Developers: Your Pet is ready to meet other builders.\n\nOn ChatGPT web, create a shareable link for your custom pet and send it to a friend to adopt."
+        },
+        {
+          "id": "https://twitter.com/gdb/status/2080861203010568232",
+          "text": "stories like this should be told more\n---\n Polymarket: JUST IN: ChatGPT surfaces a crucial mutation in a woman’s old biopsy records, helping doctors determine her terminal glioblastoma diagnosis was incorrect.",
+          "createdAt": "2026-07-25T03:42:25.632Z",
+          "url": "https://x.com/gdb/status/2080861203010568232",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/Polymarket/status/2080759839513280770\nPolymarket: JUST IN: ChatGPT surfaces a crucial mutation in a woman’s old biopsy records, helping doctors determine her terminal glioblastoma diagnosis was incorrect."
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Gostev",
+      "handle": "petergostev",
+      "bio": "London 🇬🇧 AI Capability @ https://t.co/Y4VEGWofQ8 https://t.co/bkfw1nxdmJ",
+      "tweets": [
+        {
+          "id": "https://twitter.com/petergostev/status/2080930553553957061",
+          "text": "The reason why this video would he worth your while is where a visually tease out the differences of why Fable is still a stronger model than Opus, despite many benchmarks showing that Opus is stronger https://youtu.be/UDE0qOnAb-I",
+          "createdAt": "2026-07-25T08:18:00.177Z",
+          "url": "https://x.com/petergostev/status/2080930553553957061",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/petergostev/status/2080905509054353515",
+          "text": "RT Arena.ai\nCheck out first impressions of Opus 5 with @petergostev now on Arena's YouTube. Leaderboard scores based on real world use coming soon!\n\nhttps://www.youtube.com/watch?v=UDE0qOnAb-I",
+          "createdAt": "2026-07-25T02:51:26.987Z",
+          "url": "https://x.com/petergostev/status/2080905509054353515",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/petergostev/status/2080797705970798841",
+          "text": "Now the big test is - can Anthropic reset Codex's rate limits with Opus 5?",
+          "createdAt": "2026-07-24T23:30:07.712Z",
+          "url": "https://x.com/petergostev/status/2080797705970798841",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Noam Brown",
+      "handle": "polynoamial",
+      "bio": "Researching reasoning @OpenAI | Co-created Libratus/Pluribus superhuman poker AIs, CICERO Diplomacy AI, and OpenAI o3 / o1 / 🍓 reasoning models",
+      "tweets": [
+        {
+          "id": "https://twitter.com/polynoamial/status/2080859568343597179",
+          "text": "This was one of the bigger open questions in quantum cryptography\n---\n Chayanka_42: GPT-5.6 Sol Ultra helped solve a six-year-old open problem in quantum cryptography by generating the construction and main proof ideas through Codex.\n\nHuman experts refined and verified the result.",
+          "createdAt": "2026-07-25T03:35:56.434Z",
+          "url": "https://x.com/polynoamial/status/2080859568343597179",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/42_gravity/status/2080507627952562189\nChayanka_42: GPT-5.6 Sol Ultra helped solve a six-year-old open problem in quantum cryptography by generating the construction and main proof ideas through Codex.\n\nHuman experts refined and verified the result."
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai. prev YC W20, mit media lab. towards machines of loving grace",
+      "tweets": [
+        {
+          "id": "https://twitter.com/trq212/status/2081051987517301066",
+          "text": "RT jeremy\nOpus 5 has a better FrontierCode score at medium effort than higher effort - despite increasing performance with effort on other evals. Why? 🧵",
+          "createdAt": "2026-07-25T00:04:39.040Z",
+          "url": "https://x.com/trq212/status/2081051987517301066",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Sebastian Raschka, PhD",
+      "title": "Correction for Listing 6.5 in Build a Reasoning Model From Scratch",
+      "url": "https://sebastianraschka.com/blog/2026/reasoning-model-listing-6-5-correction.html",
+      "publishedAt": "2026-07-25T08:18:12.328Z",
+      "author": "",
+      "description": "Short correction note for the random seed in Listing 6.5 on page 198 of Build a Reasoning Model From Scratch.",
+      "content": "Short correction note for the random seed in Listing 6.5 on page 198 of Build a Reasoning Model From Scratch."
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Quoting Boris Cherny",
+      "url": "https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything",
+      "publishedAt": "2026-07-25T00:42:59.763Z",
+      "author": "",
+      "description": "More than any of these eval scores, what is most exciting to me is something else: Opus 5 is our least prompt injectable model yet. It is a…",
+      "content": "More than any of these eval scores, what is most exciting to me is something else: Opus 5 is our least prompt injectable model yet. It is a bit buried in the system card, but across PI evals and red teaming, Opus 5 is very hard to prompt inject successfully.\n\n — Boris Cherny , here's that System Card section , page 73\n\n Tags: prompt-injection , anthropic , claude , generative-ai , ai , llms , boris-cherny"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Introducing Claude Opus 5",
+      "url": "https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything",
+      "publishedAt": "2026-07-24T23:48:50.194Z",
+      "author": "",
+      "description": "Introducing Claude Opus 5 I've been offline kayaking with sea otters for much of today so I haven't had a chance to put Anthropic's new…",
+      "content": "Introducing Claude Opus 5\n\nI've been offline kayaking with sea otters for much of today so I haven't had a chance to put Anthropic's new model Claude Opus 5 through its paces yet. The buzz is positive, and Anthropic's description of it as a \"thoughtful and proactive model that comes close to the frontier intelligence of Claude Fable 5 at half the price\" sounds promising. It's currently leading the Artificial Analysis leaderboard , in front of even Fable 5.\n\n It's priced the same as Opus 4.8, and continues to offer a \"fast mode\" at twice the cost of the base model.\n\n Based on this anecdote in the release post it sounds like it might be relentlessly proactive :\n\n On one Frontier-Bench task, Opus 5 was given a drawing of a machine part and asked to write code to rebuild it as a 3D FreeCAD model. However, in this task, the model was intentionally given no way to directly viewthe drawing. Opus 5 responded by writing its own computer vision pipeline to pull the geometry from the raw pixels, then reconstructed the full machine part.\n\n It's better at finding vulnerabilities but has deliberately not been trained on how to exploit them. Hopefully this means the US government won't shut it down!\n\n As with its predecessor, Opus 4.8, we’ve intentionally avoided training Opus 5 on cyber tasks. The model has nevertheless improved substantially on these tasks as a result of becoming more generally capable, and it comes close to Mythos 5 at finding cybersecurity vulnerabilities. However, it remains substantially behind Mythos 5 on the exploitation of those vulnerabilities—that is, in turning vulnerabilities into material cyber threats.\n\n Anthropic have published a prompting guide for Claude Opus 5 . Thariq Shihipar has also written The new rules of context engineering for Claude 5 generation models .\n\n The first pelican I got was missing the bicycle wheels; the second attempt was better.\n\n Tags: ai , generative-ai , llms , anthropic , claude , llm-release"
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 6,
+    "totalTweets": 14,
+    "blogPosts": 3,
+    "podcastEpisodes": 0
+  }
+}

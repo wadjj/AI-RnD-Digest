@@ -1,17 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/thsottiaux/status/2076021263945039876": 1783811581872,
-    "https://twitter.com/thsottiaux/status/2075961345351307739": 1783811581872,
-    "https://twitter.com/thsottiaux/status/2075820987833274448": 1783811581872,
-    "https://twitter.com/petergostev/status/2076015761886237031": 1783811581872,
-    "https://twitter.com/petergostev/status/2075916923322187878": 1783811581872,
-    "https://twitter.com/petergostev/status/2075796923605205378": 1783811581872,
-    "https://twitter.com/gdb/status/2075844434063978724": 1783811581872,
-    "https://twitter.com/gdb/status/2075741989228945908": 1783811581872,
-    "https://twitter.com/gdb/status/2075738256663269790": 1783811581872,
-    "https://twitter.com/emollick/status/2075768304170410034": 1783811581872,
-    "https://twitter.com/emollick/status/2075760408342728820": 1783811581872,
-    "https://twitter.com/emollick/status/2075741472712728924": 1783811581872,
     "https://twitter.com/emollick/status/2076373838028300370": 1783897907185,
     "https://twitter.com/emollick/status/2076348176697585917": 1783897907185,
     "https://twitter.com/emollick/status/2076311573425951108": 1783897907185,
@@ -120,13 +108,24 @@
     "https://twitter.com/thsottiaux/status/2080543574211666029": 1784935100870,
     "https://twitter.com/thsottiaux/status/2080537149204758689": 1784935100870,
     "https://twitter.com/gdb/status/2080524965514723414": 1784935100870,
-    "https://twitter.com/gdb/status/2080494474287780286": 1784935100870
+    "https://twitter.com/gdb/status/2080494474287780286": 1784935100870,
+    "https://twitter.com/thsottiaux/status/2081096447718723984": 1785021335932,
+    "https://twitter.com/thsottiaux/status/2080876712439747052": 1785021335932,
+    "https://twitter.com/thsottiaux/status/2080823473090461721": 1785021335932,
+    "https://twitter.com/emollick/status/2081048797308662097": 1785021335932,
+    "https://twitter.com/emollick/status/2080876002444496942": 1785021335932,
+    "https://twitter.com/emollick/status/2080829512275624173": 1785021335932,
+    "https://twitter.com/gdb/status/2080939030062178512": 1785021335932,
+    "https://twitter.com/gdb/status/2080874519091151227": 1785021335932,
+    "https://twitter.com/gdb/status/2080861203010568232": 1785021335932,
+    "https://twitter.com/petergostev/status/2080930553553957061": 1785021335932,
+    "https://twitter.com/petergostev/status/2080905509054353515": 1785021335932,
+    "https://twitter.com/petergostev/status/2080797705970798841": 1785021335932,
+    "https://twitter.com/polynoamial/status/2080859568343597179": 1785021335932,
+    "https://twitter.com/trq212/status/2081051987517301066": 1785021335933
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://hardcoresoftware.learningbyshipping.com/p/240-banning-ai-in-law-school-weve": 1783811581873,
-    "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything": 1783811581873,
-    "https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything": 1783811581873,
     "https://simonwillison.net/2026/Jul/12/bump/#atom-everything": 1783897907186,
     "https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything": 1783897907186,
     "https://sebastianraschka.com/blog/2026/ahead-of-ai-reached-200000-subscribers.html": 1783897907187,
@@ -201,8 +200,11 @@
     "https://lovable.dev/blog/aiuc-1": 1784935100870,
     "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything": 1784935100870,
     "https://simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing/#atom-everything": 1784935100870,
-    "https://simonwillison.net/2026/Jul/22/all-the-orchestrions/#atom-everything": 1784935100870
+    "https://simonwillison.net/2026/Jul/22/all-the-orchestrions/#atom-everything": 1784935100870,
+    "https://sebastianraschka.com/blog/2026/reasoning-model-listing-6-5-correction.html": 1785021335933,
+    "https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything": 1785021335933,
+    "https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything": 1785021335933
   },
-  "lastRunKey": "2026-07-25",
-  "lastRunAt": "2026-07-24T23:18:20.876Z"
+  "lastRunKey": "2026-07-26",
+  "lastRunAt": "2026-07-25T23:15:35.938Z"
 }
