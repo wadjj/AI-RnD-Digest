@@ -1,0 +1,133 @@
+{
+  "generatedAt": "2026-07-26T23:14:42.309Z",
+  "runKey": "2026-07-27",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Greg Brockman",
+      "handle": "gdb",
+      "bio": "President & Co-Founder @OpenAI",
+      "tweets": [
+        {
+          "id": "https://twitter.com/gdb/status/2081409255916359771",
+          "text": "put chatgpt to work\n---\n Sam Altman: chatgpt work is remarkable, and \"work\" undersells it.\n\nfrom my phone i sent:\n\n\"use all my chat history to figure out ideas for a long weekend trip with 8 friends, plan the best three options, make a full-stack site where the 9 of us can coordinate on what we would want to do in",
+          "createdAt": "2026-07-26T16:00:11.676Z",
+          "url": "https://x.com/gdb/status/2081409255916359771",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/sama/status/2081396796174282900\nSam Altman: chatgpt work is remarkable, and \"work\" undersells it.\n\nfrom my phone i sent:\n\n\"use all my chat history to figure out ideas for a long weekend trip with 8 friends, plan the best three options, make a full-stack site where the 9 of us can coordinate on what we would want to do in"
+        },
+        {
+          "id": "https://twitter.com/gdb/status/2081285058485534856",
+          "text": "GPT-Live for a different reading experience:\n---\n José Ocampo: Reading a book while having GPT-Live open to talk to, ask questions, write down notes and bookmarks really feels like reading in 4D",
+          "createdAt": "2026-07-26T07:46:41.801Z",
+          "url": "https://x.com/gdb/status/2081285058485534856",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/kurorosage/status/2081031402854699173\nJosé Ocampo: Reading a book while having GPT-Live open to talk to, ask questions, write down notes and bookmarks really feels like reading in 4D"
+        },
+        {
+          "id": "https://twitter.com/gdb/status/2081233872168390661",
+          "text": "true fact\n---\n Titanium: Codex is sooooo good! Damn!",
+          "createdAt": "2026-07-26T04:23:17.557Z",
+          "url": "https://x.com/gdb/status/2081233872168390661",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/akinkunmi/status/2080919023273882067\nTitanium: Codex is sooooo good! Damn!"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2081254182502465981",
+          "text": "It was always possible to speak to your computer. It wouldn’t do much in return. But we fixed that bug.\n---\n Guinness Chen: Speaking is faster than typing. Reading is faster than listening. The highest bandwidth interface between humans and AI is asymmetric. That’s how we designed ChatGPT Voice on desktop: speak your thoughts and let the model choose the best way to show you its answer.",
+          "createdAt": "2026-07-26T05:43:59.076Z",
+          "url": "https://x.com/thsottiaux/status/2081254182502465981",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/guinnesschen/status/2080718593566949422\nGuinness Chen: Speaking is faster than typing. Reading is faster than listening. The highest bandwidth interface between humans and AI is asymmetric. That’s how we designed ChatGPT Voice on desktop: speak your thoughts and let the model choose the best way to show you its answer."
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2081229262452097169",
+          "text": "Game changer when used from mobile. Available in the ChatGPT app already.\n---\n OpenAI Developers: Your ChatGPT Work agent can now use websites that require you to sign in.\n\nTake over the cloud browser to log in, then let your agent continue the task. Your login persists across sessions, so you only have to sign in once.",
+          "createdAt": "2026-07-26T04:04:58.938Z",
+          "url": "https://x.com/thsottiaux/status/2081229262452097169",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/OpenAIDevs/status/2080707685448847418\nOpenAI Developers: Your ChatGPT Work agent can now use websites that require you to sign in.\n\nTake over the cloud browser to log in, then let your agent continue the task. Your login persists across sessions, so you only have to sign in once."
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2081198608293187635",
+          "text": "ChatGPT Work officially has overtaken Codex in number of active users. Way to go.",
+          "createdAt": "2026-07-26T02:03:09.148Z",
+          "url": "https://x.com/thsottiaux/status/2081198608293187635",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "An Inside Look at the Relay Market Powering Token Resellers and Fraud",
+      "url": "https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything",
+      "publishedAt": "2026-07-26T19:30:54.207Z",
+      "author": "",
+      "description": "An Inside Look at the Relay Market Powering Token Resellers and Fraud Fascinating investigation by Matt Lenhard into the market that has…",
+      "content": "An Inside Look at the Relay Market Powering Token Resellers and Fraud\n\nFascinating investigation by Matt Lenhard into the market that has grown up around reselling LLM tokens at a discount by pooling API keys from various sources.\n\n This looks to be mostly a thing in China. Resellers sell access to an LLM proxy that offers significant discounts on regular API pricing, which they achieve by abusing free trials, proxying through unprotected support bots, or sometimes through stolen credit cards or chargeback attacks.\n\n The software they are using for these proxies is open source - mostly one-api and its more actively developed fork new-api , both legitimate API proxy products which can be used to load. balance requests across a pool of API credentials.\n\n The buyers are seeking cheap tokens, avoiding geo-restrictions, and in some cases collecting data for model distillation.\n\n I've been cautious about exposing my own LLM-driven applications publicly out of fear of abuse leading to big token bills. The existence of this marketplace makes me even more cautious: there's now an entire ecosystem that can profit from finding a new unprotected endpoint to exploit.\n\n LLM vendors really need to get better at offering strict caps for their API keys. I want my LLM apps to stop working the moment they hit a dollar threshold I've set for a period of time.\n\n Here's the (Chinese language) forum thread that served as the principal source for Matt's article.\n\n Via Hacker News\n\n Tags: ai , generative-ai , llms , llm-pricing , ai-ethics , ai-in-china"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Ruff v0.16.0",
+      "url": "https://simonwillison.net/2026/Jul/25/ruff/#atom-everything",
+      "publishedAt": "2026-07-25T22:44:05.763Z",
+      "author": "",
+      "description": "Ruff v0.16.0 Astral shipped a significant new version of their Ruff Python linting tool a few days ago on July 23rd. I noticed today because…",
+      "content": "Ruff v0.16.0\n\nAstral shipped a significant new version of their Ruff Python linting tool a few days ago on July 23rd. I noticed today because my various CI jobs all started failing thanks to new default Ruff checks and my unpinned \"ruff\" dev dependency.\n\n From Brent Westbrook's announcement post:\n\n Ruff now enables 413 rules by default, up from 59 in previous versions.\n\n Since Ruff's default rule set was last modified in  v0.1.0 , the number of rules in Ruff has grown from 708 to 968. Many of these rules catch severe issues, including  syntax errors  and immediate runtime errors  but were not previously enabled by default. With the new rule set, Ruff will bring these issues and many others to your attention without any Ruff configuration.\n\n Here's a one-liner for trying it on any Python project:\n\n uvx ruff@latest check .\n\n I ran the latest Ruff against my three biggest projects - Datasette , sqlite-utils , and LLM - and it found hundreds of minor issues that breached the new default rules.\n\n All three projects have very comprehensive test suites, executed in CI against Python 3.10 through Python 3.14, so upgrades like this are pretty safe. The following command did the bulk of the upgrades:\n\n uvx ruff@latest check . --fix --unsafe-fixes\n\n Against sqlite-utils , that command reported:\n\n Found 1618 errors (1538 fixed, 80 remaining).\n\n As an illustrative example, here are three of the remaining issues. Ruff does a nice job of explaining each one:\n\n DTZ005 `datetime.datetime.now()` called without a `tz` argument\n --> tests/test_duplicate.py:17:10\n |\n15 | \"datetime_col\" TEXT)\"\"\")\n16 | # Insert one row of mock data:\n17 | dt = datetime.datetime.now()\n | ^^^^^^^^^^^^^^^^^^^^^^^\n18 | data = {\n19 | \"text_col\": \"Cleo\",\n |\nhelp: Pass a `datetime.timezone` object to the `tz` parameter\n\nBLE001 Do not catch blind exception: `Exception`\n --> tests/test_plugins.py:16:12\n |\n14 | db.execute(\"select * from pragma_function_list()\")\n15 | return True\n16 | except Exception:\n | ^^^^^^^^^\n17 | return False\n18 | finally:\n |\n\nB018 Found useless attribute access. Either assign it to a variable or remove it.\n --> tests/test_update.py:46:5\n |\n44 | def test_update_invalid_pk(fresh_db, pk, update_pk):\n45 | table = fresh_db[\"table\"]\n46 | table.insert({\"id1\": 5, \"id2\": 3, \"v\": 1}, pk=pk).last_pk\n | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n47 | with pytest.raises(NotFoundError):\n48 | table.update(update_pk, {\"v\": 2})\n |\n\n Unsurprisingly, given Astral's new home at OpenAI , this output provides everything a coding agent would need to fix the problems.\n\n I had Codex (GPT-5.6 Sol high) upgrade LLM and sqlite-utils , and Claude Code (with Opus 5) upgrade Datasette .\n\n Tags: python , ruff , astral"
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 2,
+    "totalTweets": 6,
+    "blogPosts": 2,
+    "podcastEpisodes": 0
+  }
+}
