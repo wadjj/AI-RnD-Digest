@@ -1,16 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/gdb/status/2076788812072820885": 1783984534281,
-    "https://twitter.com/gdb/status/2076764438225621277": 1783984534281,
-    "https://twitter.com/gdb/status/2076723486723371325": 1783984534282,
-    "https://twitter.com/emollick/status/2076769431120756834": 1783984534282,
-    "https://twitter.com/emollick/status/2076746735431393596": 1783984534282,
-    "https://twitter.com/emollick/status/2076709510438105442": 1783984534282,
-    "https://twitter.com/thsottiaux/status/2076735790567338203": 1783984534282,
-    "https://twitter.com/thsottiaux/status/2076724023338389807": 1783984534282,
-    "https://twitter.com/thsottiaux/status/2076495156757577895": 1783984534282,
-    "https://twitter.com/petergostev/status/2076725390492487837": 1783984534282,
-    "https://twitter.com/petergostev/status/2076561982371536953": 1783984534282,
     "https://twitter.com/gdb/status/2076878421314195745": 1784070771707,
     "https://twitter.com/bcherny/status/2077519049148260526": 1784157289229,
     "https://twitter.com/bcherny/status/2077460395279692197": 1784157289229,
@@ -117,17 +106,19 @@
     "https://twitter.com/gdb/status/2081233872168390661": 1785107682310,
     "https://twitter.com/thsottiaux/status/2081254182502465981": 1785107682311,
     "https://twitter.com/thsottiaux/status/2081229262452097169": 1785107682311,
-    "https://twitter.com/thsottiaux/status/2081198608293187635": 1785107682311
+    "https://twitter.com/thsottiaux/status/2081198608293187635": 1785107682311,
+    "https://twitter.com/thsottiaux/status/2081860991210631476": 1785194941165,
+    "https://twitter.com/thsottiaux/status/2081839118531834176": 1785194941166,
+    "https://twitter.com/thsottiaux/status/2081534792903147881": 1785194941166,
+    "https://twitter.com/petergostev/status/2081848495661564209": 1785194941166,
+    "https://twitter.com/petergostev/status/2081762420947562928": 1785194941166,
+    "https://twitter.com/petergostev/status/2081729347778441279": 1785194941166,
+    "https://twitter.com/emollick/status/2081801855860883634": 1785194941166,
+    "https://twitter.com/emollick/status/2081603003866329496": 1785194941166,
+    "https://twitter.com/emollick/status/2081601965360910597": 1785194941166
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://stratechery.com/2026/apple-sues-openai-apples-real-problem/": 1783984534282,
-    "https://simonwillison.net/2026/Jul/13/doomql/#atom-everything": 1783984534282,
-    "https://simonwillison.net/2026/Jul/13/datasette-code-frequency/#atom-everything": 1783984534282,
-    "https://simonwillison.net/2026/Jul/12/directly-responsible-individuals/#atom-everything": 1783984534282,
-    "https://www.rundown.ai/articles/neo-new-humanlike-hands": 1783984534282,
-    "https://www.rundown.ai/articles/apple-takes-openai-to-court": 1783984534282,
-    "https://www.tomtunguz.com/the-ai-colander/": 1783984534282,
     "https://stratechery.com/": 1784070769571,
     "https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything": 1784070771707,
     "https://simonwillison.net/2026/Jul/14/armin-ronacher/#atom-everything": 1784070771707,
@@ -197,8 +188,13 @@
     "https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything": 1785021335933,
     "https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything": 1785021335933,
     "https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything": 1785107682311,
-    "https://simonwillison.net/2026/Jul/25/ruff/#atom-everything": 1785107682311
+    "https://simonwillison.net/2026/Jul/25/ruff/#atom-everything": 1785107682311,
+    "https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything": 1785194941167,
+    "https://jack-clark.net/2026/07/27/import-ai-466-the-bitter-lesson-for-robotics-ais-complete-week-long-programming-tasks-and-openais-accidental-ai-hacker/": 1785194941167,
+    "https://stratechery.com/2026/vacation-week-of-july-27/": 1785194941167,
+    "https://www.rundown.ai/articles/anthropic-opus-5-surprise": 1785194941167,
+    "https://sebastianraschka.com/blog/2026/notable-open-weight-models-this-week.html": 1785194941167
   },
-  "lastRunKey": "2026-07-27",
-  "lastRunAt": "2026-07-26T23:14:42.316Z"
+  "lastRunKey": "2026-07-28",
+  "lastRunAt": "2026-07-27T23:29:01.173Z"
 }

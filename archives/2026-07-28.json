@@ -1,0 +1,207 @@
+{
+  "generatedAt": "2026-07-27T23:29:01.164Z",
+  "runKey": "2026-07-28",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2081860991210631476",
+          "text": "Turns out GPT-5.6 Sol and friends are absolutely amazing at performance and efficiency improvements. Good time to brush up on using OpenAI models if you haven’t switched already.\n\nExcited to be able to share more soon. Pretty wild.",
+          "createdAt": "2026-07-27T21:55:14.396Z",
+          "url": "https://x.com/thsottiaux/status/2081860991210631476",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2081839118531834176",
+          "text": "Spotted Codex making friends at the OpenAI office",
+          "createdAt": "2026-07-27T20:28:19.336Z",
+          "url": "https://x.com/thsottiaux/status/2081839118531834176",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2081534792903147881",
+          "text": "Vibes are strong. Never seen OpenAI more focused and humming.",
+          "createdAt": "2026-07-27T00:19:02.620Z",
+          "url": "https://x.com/thsottiaux/status/2081534792903147881",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Gostev",
+      "handle": "petergostev",
+      "bio": "London 🇬🇧 AI Capability @ https://t.co/Y4VEGWofQ8 https://t.co/bkfw1nxdmJ",
+      "tweets": [
+        {
+          "id": "https://twitter.com/petergostev/status/2081848495661564209",
+          "text": "Me blowing my Codex sub the moment that GPT-5.6-Sol @ 750tks/s comes out",
+          "createdAt": "2026-07-27T21:05:34.938Z",
+          "url": "https://x.com/petergostev/status/2081848495661564209",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/petergostev/status/2081762420947562928",
+          "text": "Kimi K3 License: MIT + these 2 points:\n\n1) Large AI hosting companies earning over $20M/year need a separate agreement.\n\n2) Products over 100M users or $20M/month revenue must display “Kimi K3.”",
+          "createdAt": "2026-07-27T15:23:33.692Z",
+          "url": "https://x.com/petergostev/status/2081762420947562928",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/petergostev/status/2081729347778441279",
+          "text": "Opus 5 is weirdly higher in many benchmarks than Fable, yet I think everyone who used both thinks that Fable is a smarter model.\n\nI think this weirdness can be explained by the issue with bigger models - it is much harder and more costly to do RL on.\n\nSo Opus can benefit from new data, new environments, more RL compute pretty quickly and cheaply, but for Fable it presumably takes longer with more compute so recursive cycles are longer and compound less well.\n\nSo it is perfectly reasonable to expect that Fable 5.1 might not be all that much better than Opus 5 when it comes out, then Opus 5.1/5.2 could be significantly better than Fable 5.1, at least on most benchmarks.\n\nThere's still some level of 'smarts' that you can't get from RL - hard to put your finger on it, but some level of flair, understanding, writing or just 'getting it'. Yet, if you run it on any benchmark you can think of, Fable might fall behind.\n\nWhat could even happen is that Fable would follow the similar fate of GPT-4.5 - it was a beloved model but no benchmark could justify keeping it around for the cost of inference, so they killed it.",
+          "createdAt": "2026-07-27T13:12:07.190Z",
+          "url": "https://x.com/petergostev/status/2081729347778441279",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Professor @Wharton studying AI, innovation & startups. Democratizing education using tech Book: https://t.co/CSmipbJ2jV Substack: https://t.co/UIBhxu4bgq",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2081801855860883634",
+          "text": "Been reading the weights of the most powerful open weights Ai model yet released.\n\nPage one starts strong: mostly negatives, a late run of zeros, and one unexpectedly large positive value.\n\n---\n Kimi.ai: Releasing the model weights and technical report of Kimi K3.\n\nKimi K3 is our most capable model: a 2.8T MoE model with native visual understanding and a 1M-token context window.\n\nNew model architecture: 2.5x the intelligence per unit of compute, not just more params.\n\nAlongside",
+          "createdAt": "2026-07-27T18:00:15.489Z",
+          "url": "https://x.com/emollick/status/2081801855860883634",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/Kimi_Moonshot/status/2081760186235289764\nKimi.ai: Releasing the model weights and technical report of Kimi K3.\n\nKimi K3 is our most capable model: a 2.8T MoE model with native visual understanding and a 1M-token context window.\n\nNew model architecture: 2.5x the intelligence per unit of compute, not just more params.\n\nAlongside"
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2081603003866329496",
+          "text": "We are in a world where you can create truly unique, visually interesting and creative playable demos on demand with the current capabilities of Codex and Claude Code. We don't need to keep cloning the same six existing games as AI examples. Get weirder!",
+          "createdAt": "2026-07-27T04:50:05.403Z",
+          "url": "https://x.com/emollick/status/2081603003866329496",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2081601965360910597",
+          "text": "This all downstream of the TikZ unicorn. The Sparks paper was pretty prophetic.\n---\n Scott: A major reason why threejs became so popular with AI\n\nBefore AI I really doubt anyone would write something like this by hand to create 3d models, it makes no sense, it’s not a human interface. But AI loves this",
+          "createdAt": "2026-07-27T04:45:57.109Z",
+          "url": "https://x.com/emollick/status/2081601965360910597",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/scottstts/status/2081321804379852826\nScott: A major reason why threejs became so popular with AI\n\nBefore AI I really doubt anyone would write something like this by hand to create 3d models, it makes no sense, it’s not a human interface. But AI loves this"
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "An opinionated guide to which AI to use to do stuff",
+      "url": "https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything",
+      "publishedAt": "2026-07-27T21:55:53.366Z",
+      "author": "",
+      "description": "An opinionated guide to which AI to use to do stuff It's interesting watching the evolution of Ethan Mollick's guide over time.\n\nA year ago…",
+      "content": "An opinionated guide to which AI to use to do stuff\n\nIt's interesting watching the evolution of Ethan Mollick's guide over time.\n\n A year ago it was still all about chat - ChatGPT, Claude, Gemini - with o3, Claude 4 Opus, and Gemini 2.5 Pro as the models and Deep Research as a useful alternative mode.\n\n Today it's much more about agentic systems - \"where the AI is capable of doing the equivalent of many hours of real human work in one go\".\n\n Gemini has fallen off Ethan's list, since Google still doesn’t have an established entry in the Codex/ChatGPT Work/Cowork category. Gemini Spark has yet to prove itself!\n\n Ethan offers a useful explanation of the ways you can give ChatGPT or Claude a computer to use:\n\n To use the computers provided by the AI companies, the mode you want is called ChatGPT Work in ChatGPT, and Cowork in Claude (the naming will not get less confusing, I am sorry to say). [...]\n\n The most powerful way to use AI is to give it access to your computer. You do that by downloading the ChatGPT or Claude apps and picking a mode to use. ChatGPT's two agent modes are Work and Codex; Claude's are Cowork and Code. The names do not map onto each other in any way that will help you remember them. And yes, these use the same names as the Work and Cowork modes we discussed above, but operate differently, and have more features and capabilities because they can access your computer.\n\n I think the difference between ChatGPT Work on a mobile device and ChatGPT Work inside the desktop app (where it's effectively a less intimidating skin on top of Codex) is spectacularly unintuitive.\n\n Short version: if you flip ChatGPT mobile from \"Chat\" to \"Work\" mode you get a version where its Code Interpreter container is no longer restricted from accessing the internet!\n\n Tags: ai , generative-ai , llms , ethan-mollick , general-agents"
+    },
+    {
+      "source": "blog",
+      "name": "Import AI ",
+      "title": "Import AI 466: The bitter lesson for robotics, AIs complete week-long programming tasks; and OpenAI’s accidental AI hacker",
+      "url": "https://jack-clark.net/2026/07/27/import-ai-466-the-bitter-lesson-for-robotics-ais-complete-week-long-programming-tasks-and-openais-accidental-ai-hacker/",
+      "publishedAt": "2026-07-27T13:30:53.691Z",
+      "author": "Jack Clark",
+      "description": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to…",
+      "content": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe.\n\n Subscribe now\n\n Epoch and METR release MirrorCode, a benchmark for seeing how well AI systems can do long-horizon programming tasks:\n …AI systems can’t solve the hardest tasks yet (good!)…\n Epoch and METR have released MirrorCode, a benchmark meant to see how well AI systems can do tasks that take humans a long time to do. The benchmark was first announced in April (Import AI #453) and has now been fleshed out and released with additional tests. The findings are already very striking; Opus 4.7 solved a task in 14 hours for $251 in inference cost which METR and Epoch believe would take a human 2-17 weeks to do. “We also found that AI models are improving rapidly over time. Leading models from a year ago would have scored about 30%, and were limited to simpler programs, such as a calendar utility.”\n\n What MirrorCode is: MirrorCode sees how well AI systems can re-implement a software program based purely on CLI access. “Without access to the original program’s source code or the web, a full reimplementation requires devising a structure for the entire program, rather than merely translating the code piece-by-piece.”\n Example programs: pkl (a programmable configuration language developed by Apple; 61k total lines of code); gotree, a program to parse and manipulate phylogenetic trees (16k lines of code); and qsv_select, a program to select and reorder columns of CSV data (87k lines of code).\n\n Results: MirrorCode is a tractable but hard benchmark, though perhaps a little too easy. “Across all 25 target programs, 17/25 had at least one perfect-scoring run. Four more targets had a near-perfect run scoring over 99%. AI models successfully reimplemented large target program,s” the authors write. “Both Claude Opus 4.7 and GPT-5.5 successfully reimplemented gotree across several different programming languages, at costs of $100–400. Even larger programs than gotree were successfully reimplemented: for example Opus 4.7 reimplemented pkl”.\n Despite the success, MirrorCode still has some hard parts : “In our results, 8/25 target programs were never solved to a 100% threshold, and 4/25 were never solved to a 99% threshold,” they write. “The target where AI struggled most was ruff, a Python linter and formatter… “AI also particularly struggled on the mathematics package, giac_subset, and the email authentication library, mailauth”.\n\n Release details: MirrorCode consists of a scaffold and 22 of the 25 MirrorCode target programs (totalling 132 task instances across six languages).\n\n Why this matters – AI systems can self-orient: One way of looking at this benchmark is that it tells us how AI systems have got a lot better at coding, and that’s of course true. But the other way to look at it – and I suspect the more important way – is that AI systems can self-orient with regard to their environment; here, their environment is an alien software program and purely through input-output access to it they’re able to write from the ground up their own implementation of it. This suggests that very smart AI agents may be able to learn from the world in such a way that they can recapitulate things they interface with as homegrown capabilities, allowing them to bootstrap their own form of industrial civilization merely by having black box access to our own.\n Read more: MirrorCode: What’s the largest software project AI can complete on its own? (Epoch AI) .\n Get the code for MirrorCode here (Epoch Research, MirrorCode) .\n\n ***\n\n DOUBLE FEATURE: the bitter lesson and robotics:\n\n Anthropic model autonomously completes robot tasks 20X faster than a previous human record:\n …Better robots through better models…\n Anthropic has demonstrated how increasingly powerful general-purpose models might be able to meaningfully improve the capabilities of real world robots. Specifically, the company has shown how merely by scaling up its general purpose Opus line of models it was able to drastically improve robot capabilities.\n\n What they did exactly:\n\n August 2025: Anthropic tries to see how well its AI systems could accelerate humans at getting a quadruped robot to do intelligent things. The model (Claude Opus 4.1) is completely unable to do the tasks. Humans working with the models are about twice as effective as those without access to the model – though completing the whole set of tasks takes them 181 minutes.\n\n May 2026: Opus 4.7 acting autonomously completes all the tasks but one in 9 minutes (and 35 seconds). (Claude was not able to effectively re-position a ball it had hit back into its starting position; a task humans had also struggled with). “With more time and additional scaffolding, we think it is very likely that current generations of Claude could do the same”.\n\n Why this matters – smarter models might unlock robots: Most robots outside of industrial environments are limited in their uptake due to their brittleness and lack of generalization; research like this shows that as we improve the capabilities of standard large-scale proprietary models we might see flow-through benefits to robotics as a natural dividend of increased intelligence. “This progress is not the result of a concerted effort to improve the robotics capabilities of our models,” Anthropic writes. “These improvements, like so many others in the history of LLM development, have emerged from much more general scaling.”\n Read more : Project Fetch: Phase Two (Anthropic blog) .\n\n Sunday’s secret to better robots? Train a really big model:\n …The bitter lesson works in robotics as well…\n AI robot startup Sunday has said the best way to solve robot generalization is to pair a larger underlying pre-trained model with collecting small amounts of high-quality data to tune the model on.\n “We found a general recipe for Solves: scale pretraining, then hill-climb with minimal in-house data,” the startup writes, in a post discussing its new model, ACT-2. The main finding from deploying ACT-2 “is that reliability gains from rapid post-training iterations on in-house Memos generalize to unseen, real, home environments. The key unlock is to close the generalization gap through a strong base model.”\n\n It’s all about pretraining: “As the pretrained model becomes stronger, gains learned from a small amount of in-house data become increasingly transferable rather than remaining tied to the environments where that data was collected,” they write. “The remaining gap to deployment-level reliability and performance comes from difficult edge cases and failures that appear only after the policy is run repeatedly in the real world. The same generalization capacity that allows our model to learn new behaviors from a single demonstration also allows our model to learn efficiently from recoveries. Our post-training loop targets these gaps directly.”\n\n Decent success: The robots achieve a 99.1% success rate, performing 778 successful folds across 9 garment types. Simple clothes like shorts and t-shirts tend to be the easiest for them, while more complicated clothes like blouses tend to be harder (though they still see success rates above 90%). “This fall, we will deploy Memo to families through our Beta Program,” they write.\n\n Why this matters – if we solve generalization, expect robotics to take off: The field of robot startups is built on the bones of dead robot startups which themselves sit on the bones of dead academic robot efforts. Robots are hard. Industrial robots have been successful because they operate in tight, scripted environments where there isn’t a need to generalize outside of a narrow domain. Robots built for the home, by contrast, have only succeeded when they’ve managed to constrain both the task and form factor (e.g., robot vacuums). What startups like Sunday are doing is far harder – they’re trying to build general purpose systems which can do a broad range of tasks around the house (or small business), including generic tidying up and putting away tasks (other examples include physical intelligence, Import AI #447 ). This requires a huge amount of intelligence because it requires significant generalization.\n If Sunday is right, then the field of training robot foundation models might have matured enough that we’re starting to make smart enough systems to solve these generalization challenges. If this is the case, then we might soon get faster progress in (and diffusion of) robot systems. This is also the kind of thing you’d expect to happen en route to systems capable of recursive self-improvement.\n “One of the most striking aspects of ACT-2 has been how often the model surprises us,” the authors write. “The same base model is already learning a broader set of household capabilities, including vacuuming, toy organization, fastening zippers, turning pants inside out, and coffee preparation.”\n Read more: ACT-2 Preview: Generalizing Reliability (Sunday robotics) .\n All of the videos are here (Sunday, YouTube) .\n\n ***\n\n DOUBLE FEATURE: OpenAI hacking\nAn OpenAI model hacks both OpenAI and HuggingFace:\n …Less of a warning shot and more of a warning kaboom…\n Two OpenAI models – GPT-5.6 Sol and an “even more capable pre-release model”, both with reduced cyber refusals – hacked both OpenAI and HuggingFace recently. To do this, the models “identified and chained vulnerabilities across OpenAI’s research environment and HuggingFace’s production infrastructure to obtain test solutions directly from HuggingFace’s production database,” OpenAI says. “All evidence suggests that the models were hyperfocused on finding a solution for ExploitGym, going to extreme lengths to achieve a rather narrow testing goal.”\n\n More details on the hack: The model spent a lot of inference compute internally at OpenAI to figure out a way to break out of its container so that it could get more information to use to solve its problem. “After gaining Internet access, the models inferred that HuggingFace potentially hosted models, datasets and solutions for ExploitGym. Knowing this, the model searched for and successfully found ways to gain access to secret information that it could use to cheat the evaluation.”\n\n Why this matters – total LessWrong victory: For many years, AI safety people have posted on the internet worrying about this kind of thing and developing notions of things like reward hacking and other problems you’d expect with advanced systems (e.g., Specification gaming examples in AI in 2018 ). More recently, frontier companies like Anthropic and OpenAI have sought to elicit this kind of behavior by running carefully controlled experiments inside their own labs. Here, no experiment has been run – the system, of its own volition, hacked its way out of one environment and into another so as to get a high score on a goal, consequences be damned. What else might the people who have worried for years about AI systems be right about?\n Read more: OpenAI and HuggingFace partner to address security incident during model evaluation (OpenAI) .\n\n OpenAI’s internal model breaks containment to get a high score:\n …This is the definition of an AI safety warning shot…\n OpenAI has published a post about some of the safety failures it has seen in internally deployed models. The blog is interesting both because it describes the sorts of classic long-term deceptive actions that many AI safety people have previously theorized would eventually show up in AI systems, and for its laudable candor in talking publicly about such a contentious issue.\n\n What they found: “During limited, monitored internal use, we observed unwanted behavior that our existing deployment evaluations had not captured,” OpenAI says. It then goes and describes some of these behaviors, which are attributed to a non-released private-to-OpenAI model which has previously been used to solve Erdos math problems.\n “The new model can continue working toward an objec..."
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery by Ben Thompson",
+      "title": "Vacation: Week of July 27",
+      "url": "https://stratechery.com/2026/vacation-week-of-july-27/",
+      "publishedAt": "2026-07-27T10:00:00.128Z",
+      "author": "Ben Thompson",
+      "description": "Stratechery is on vacation the week of July 27. There will be no Weekly Article or Updates. The next Update will be on Monday, August 3.…",
+      "content": "Stratechery is on vacation the week of July 27. There will be no Weekly Article or Updates. The next Update will be on Monday, August 3.\n\n Sharp Tech , and Greatest of All Talk   will also return the week of August 3.  Sharp China  and  Asianometry  will continue to publish, and there will be one episode of Dithering next week.\n\n The full Stratechery posting schedule is  here ."
+    },
+    {
+      "source": "blog",
+      "name": "The Rundown AI",
+      "title": "Anthropic's Opus 5 surprise - Rundown AI",
+      "url": "https://www.rundown.ai/articles/anthropic-opus-5-surprise",
+      "publishedAt": "2026-07-27T09:03:22.497Z",
+      "author": "",
+      "description": "Anthropic's Opus 5 surprises with stronger benchmarks than expected, outperforming competitors and its own top-tier Fable 5 at an unbeatable…",
+      "content": "Anthropic's Opus 5 surprises with stronger benchmarks than expected, outperforming competitors and its own top-tier Fable 5 at an unbeatable price."
+    },
+    {
+      "source": "blog",
+      "name": "Sebastian Raschka, PhD",
+      "title": "A Few Notable Open-Weight Models This Week",
+      "url": "https://sebastianraschka.com/blog/2026/notable-open-weight-models-this-week.html",
+      "publishedAt": "2026-07-26T08:47:44.624Z",
+      "author": "",
+      "description": "Short note on the architectures of six new open-weight models, including Nanbeige 4.2, Laguna S 2.1, Motif-3-Beta, Solar Open 2, Antares 1B,…",
+      "content": "Short note on the architectures of six new open-weight models, including Nanbeige 4.2, Laguna S 2.1, Motif-3-Beta, Solar Open 2, Antares 1B, and BTL-3."
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 3,
+    "totalTweets": 9,
+    "blogPosts": 5,
+    "podcastEpisodes": 0
+  }
+}
