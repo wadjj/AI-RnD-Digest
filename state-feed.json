@@ -1,6 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/gdb/status/2076878421314195745": 1784070771707,
     "https://twitter.com/bcherny/status/2077519049148260526": 1784157289229,
     "https://twitter.com/bcherny/status/2077460395279692197": 1784157289229,
     "https://twitter.com/emollick/status/2077479091146514434": 1784157289230,
@@ -115,14 +114,18 @@
     "https://twitter.com/petergostev/status/2081729347778441279": 1785194941166,
     "https://twitter.com/emollick/status/2081801855860883634": 1785194941166,
     "https://twitter.com/emollick/status/2081603003866329496": 1785194941166,
-    "https://twitter.com/emollick/status/2081601965360910597": 1785194941166
+    "https://twitter.com/emollick/status/2081601965360910597": 1785194941166,
+    "https://twitter.com/_sholtodouglas/status/2082143897250312264": 1785280661502,
+    "https://twitter.com/_sholtodouglas/status/2081911870630551729": 1785280661502,
+    "https://twitter.com/_sholtodouglas/status/2081902824733220943": 1785280661502,
+    "https://twitter.com/emollick/status/2082107597084131749": 1785280661503,
+    "https://twitter.com/thsottiaux/status/2081979033261412537": 1785280661503,
+    "https://twitter.com/thsottiaux/status/2081940052154933696": 1785280661503,
+    "https://twitter.com/thsottiaux/status/2081899343091843463": 1785280661503,
+    "https://twitter.com/gdb/status/2081955446404112493": 1785280661503
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://stratechery.com/": 1784070769571,
-    "https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything": 1784070771707,
-    "https://simonwillison.net/2026/Jul/14/armin-ronacher/#atom-everything": 1784070771707,
-    "https://simonwillison.net/2026/Jul/14/datasette/#atom-everything": 1784070771707,
     "https://stratechery.com/2026/ibm-misses-ibms-mainframe-moat-ibms-many-ai-problems/": 1784157289230,
     "https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything": 1784157289230,
     "https://simonwillison.net/2026/Jul/14/github-changeling/#atom-everything": 1784157289230,
@@ -193,8 +196,15 @@
     "https://jack-clark.net/2026/07/27/import-ai-466-the-bitter-lesson-for-robotics-ais-complete-week-long-programming-tasks-and-openais-accidental-ai-hacker/": 1785194941167,
     "https://stratechery.com/2026/vacation-week-of-july-27/": 1785194941167,
     "https://www.rundown.ai/articles/anthropic-opus-5-surprise": 1785194941167,
-    "https://sebastianraschka.com/blog/2026/notable-open-weight-models-this-week.html": 1785194941167
+    "https://sebastianraschka.com/blog/2026/notable-open-weight-models-this-week.html": 1785194941167,
+    "https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything": 1785280661503,
+    "https://simonwillison.net/2026/Jul/28/akshat-bubna/#atom-everything": 1785280661503,
+    "https://simonwillison.net/2026/Jul/28/uv/#atom-everything": 1785280661503,
+    "https://www.rundown.ai/articles/meta-glasses-enter-their-creep-era": 1785280661503,
+    "https://www.rundown.ai/articles/moonshot-lets-history-largest-open-model-loose": 1785280661503,
+    "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html": 1785280661503,
+    "https://www.tomtunguz.com/aftermarket-harnesses/": 1785280661503
   },
-  "lastRunKey": "2026-07-28",
-  "lastRunAt": "2026-07-27T23:29:01.173Z"
+  "lastRunKey": "2026-07-29",
+  "lastRunAt": "2026-07-28T23:17:41.508Z"
 }

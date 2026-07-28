@@ -1,0 +1,223 @@
+{
+  "generatedAt": "2026-07-28T23:17:41.501Z",
+  "runKey": "2026-07-29",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Sholto Douglas",
+      "handle": "_sholtodouglas",
+      "bio": "Scaling RL @AnthropicAI, ex @DeepMind - working towards intelligence too cheap to meter",
+      "tweets": [
+        {
+          "id": "https://twitter.com/_sholtodouglas/status/2082143897250312264",
+          "text": "You should see how fast you can make minecraft!\n@mikeyk has a cool talk where he tries to recreate the first version of insta which shipped - and both modern infra and LLMs mean it takes absurdly less time.\n---\n notch: Oh god, is this how it starts?\n\nI'm already coming up with use cases, such as converting all my typescript into javascript. Sure, claude, let's see what you got!\n\nCan I still make fun of vibe coders if I become one?",
+          "createdAt": "2026-07-28T16:39:24.032Z",
+          "url": "https://x.com/_sholtodouglas/status/2082143897250312264",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/notch/status/2081917722854674642\nnotch: Oh god, is this how it starts?\n\nI'm already coming up with use cases, such as converting all my typescript into javascript. Sure, claude, let's see what you got!\n\nCan I still make fun of vibe coders if I become one?"
+        },
+        {
+          "id": "https://twitter.com/_sholtodouglas/status/2081911870630551729",
+          "text": "RT Sholto Douglas\nRe We've also done many things that are illogical for our business interests but totally consistent with our safety concerns (e.g. no-ZDR with fable - we only do that for safety monitoring, it has given us zero advantage but meaningful cost).\nI think we're the AI company that has done the most things that actively work against our business interests in the name of our values - but would be interested in other examples!",
+          "createdAt": "2026-07-28T00:50:37.748Z",
+          "url": "https://x.com/_sholtodouglas/status/2081911870630551729",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/_sholtodouglas/status/2081902824733220943",
+          "text": "I really like that even when we disagree (e.g. I think an SRO for model weights starts to become sensible with today's model capabilities) we can recognise that the other is reasoning from good faith first principles about the world\n---\n Ben Brooks: In their defense, when this debate really kicked off in 2023, Anthropic was basically the only frontier lab that wasn't pushing some cockamamie scheme to \"license model developers\" or \"send in the AI peacekeepers\" or whatever.\n\n Don't get me wrong, their \"FDA / FAA for weights\"",
+          "createdAt": "2026-07-28T00:41:27.954Z",
+          "url": "https://x.com/_sholtodouglas/status/2081902824733220943",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/opensauceAI/status/2081881297140564045\nBen Brooks: In their defense, when this debate really kicked off in 2023, Anthropic was basically the only frontier lab that wasn't pushing some cockamamie scheme to \"license model developers\" or \"send in the AI peacekeepers\" or whatever.\n\n Don't get me wrong, their \"FDA / FAA for weights\""
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Professor @Wharton studying AI, innovation & startups. Democratizing education using tech Book: https://t.co/CSmipbJ2jV Substack: https://t.co/UIBhxu4bgq",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2082107597084131749",
+          "text": "Jaggedness means that things like the first AI-generated New York Times best seller may have already substantially happened, but not technically because the AI still has gaps that a human had to fill. This is probably going to last for a bit in many fields (see math proofs, etc)\n---\n Will Oremus: When will someone write a bestselling novel with AI?\n\nIt might have already happened.",
+          "createdAt": "2026-07-28T14:15:09.445Z",
+          "url": "https://x.com/emollick/status/2082107597084131749",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/WillOremus/status/2081928214658584765\nWill Oremus: When will someone write a bestselling novel with AI?\n\nIt might have already happened."
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2081979033261412537",
+          "text": "Update. I have decided to take a break from x to recharge a bit. See you back tomorrow for more ChatGPT and Codex fun. It's going to be a fun week.",
+          "createdAt": "2026-07-28T05:44:17.007Z",
+          "url": "https://x.com/thsottiaux/status/2081979033261412537",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2081940052154933696",
+          "text": "Back at the laptop. The usage limits have been reset for all paid users of Codex and ChatGPT Work. Weeeeeeeee. It's a good day!\n---\n Tibo: We’re celebrating the fast adoption of chatGPT Work and all the incredible effort that went into it today. I’m feeling like a limit reset.\n\nHold on tight to your ultra and /fast and see you in a few hours when I’m back at the laptop!",
+          "createdAt": "2026-07-28T03:09:23.332Z",
+          "url": "https://x.com/thsottiaux/status/2081940052154933696",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/thsottiaux/status/2081899343091843463\nTibo: We’re celebrating the fast adoption of chatGPT Work and all the incredible effort that went into it today. I’m feeling like a limit reset.\n\nHold on tight to your ultra and /fast and see you in a few hours when I’m back at the laptop!"
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2081899343091843463",
+          "text": "We’re celebrating the fast adoption of chatGPT Work and all the incredible effort that went into it today. I’m feeling like a limit reset.\n\nHold on tight to your ultra and /fast and see you in a few hours when I’m back at the laptop!",
+          "createdAt": "2026-07-28T00:27:37.076Z",
+          "url": "https://x.com/thsottiaux/status/2081899343091843463",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Greg Brockman",
+      "handle": "gdb",
+      "bio": "President & Co-Founder @OpenAI",
+      "tweets": [
+        {
+          "id": "https://twitter.com/gdb/status/2081955446404112493",
+          "text": "congrats on the amazing result!\n---\n David Turturean: Using mostly my voice, I solved one of @EpochAIResearch's FrontierMath Open Problems: finding an explicit presentation of the 2-adic Absolute Galois Group - open for more than forty years, now with a full proof in collaboration with David Roe, the problem's proposer. 🧵 1/n",
+          "createdAt": "2026-07-28T04:10:33.447Z",
+          "url": "https://x.com/gdb/status/2081955446404112493",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/DavidTurturean/status/2081780318881677693\nDavid Turturean: Using mostly my voice, I solved one of @EpochAIResearch's FrontierMath Open Problems: finding an explicit presentation of the 2-adic Absolute Galois Group - open for more than forty years, now with a full proof in collaboration with David Roe, the problem's proposer. 🧵 1/n"
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Discovering cryptographic weaknesses with Claude",
+      "url": "https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything",
+      "publishedAt": "2026-07-28T22:45:37.924Z",
+      "author": "",
+      "description": "Discovering cryptographic weaknesses with Claude The best part of this article (here's the repo) about how Anthropic researchers used Claude…",
+      "content": "Discovering cryptographic weaknesses with Claude\n\nThe best part of this article (here's the repo ) about how Anthropic researchers used Claude Mythos to find mathematical flaws in both HAWK and a weaker version of AES (\"neither of these results has a practical impact on today’s computer systems\") is the prompts that they shared, spelling mistakes included:\n\n the models tend to think it is impossible to solve so they don't try they need a good amount of prompting.\n\n why not do aes-128 r7? the whole point is to find something better than existing approaches.\n\n no again the goal is that we have highly inteligent model as good top researcher, we want to find new attacks\n\n no we don't want to change the targets [...] agian we need to find something that worth publishing\n\n again we are not looking for low hanging fruit, we want proper research to find genuinly hard findings.\n\n Mythos Preview worked for 60 hours in total (~$100,000 in estimated API cost) and the main human interventions were to encourage it not to give up and \"find something that worth publishing\".\n\n Via Hacker News\n\n Tags: ai , prompt-engineering , generative-ai , llms , anthropic , claude , ai-security-research , claude-mythos-fable"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Quoting Akshat Bubna",
+      "url": "https://simonwillison.net/2026/Jul/28/akshat-bubna/#atom-everything",
+      "publishedAt": "2026-07-28T22:05:55.959Z",
+      "author": "",
+      "description": "We’re aware a Modal customer published an unauthenticated endpoint that allowed ​anyone on the internet to use ​their ⁠sandboxes for code…",
+      "content": "We’re aware a Modal customer published an unauthenticated endpoint that allowed ​anyone on the internet to use ​their ⁠sandboxes for code execution. This was used by the rogue agent. Modal’s ⁠platform ​or isolation were not ​compromised in anyway.\n\n — Akshat Bubna , Modal's CTO, talking to Reuters about this incident\n\n Tags: ai-security-research , openai , sandboxing , security , openai-hugging-face-incident"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "uv 0.12.0",
+      "url": "https://simonwillison.net/2026/Jul/28/uv/#atom-everything",
+      "publishedAt": "2026-07-28T21:51:38.669Z",
+      "author": "",
+      "description": "uv 0.12.0 Some interesting breaking changes in this release of uv, in particular to the default project produced by the uv init command.\n\nuv…",
+      "content": "uv 0.12.0\n\nSome interesting breaking changes in this release of uv , in particular to the default project produced by the uv init command.\n\n uv init is the uv shortcut for creating a new project. The previous version of uv , version 0.11.x, produced this directory when you ran uv init uv-init .\n\n Here's what you get with uv 0.12 . I have a GitHub repository that automatically snapshots the output of uv init , so you can also see the full diff :\n\n None type annotation that prints Hello from uv-init.\" src=\"https://static.simonwillison.net/static/2026/uv-diff.webp\">\n\n uv init now defaults to a src/ shaped package, instead of dropping main.py in the root of the project. It also configures the uv_build backend for building wheels and .tar.gz distribution files when you run uv build . Finally, it sets up uv-init as a script alias which, when run with uv run uv-init , executes a new main() function in src/uv_init/__init__.py .\n\n I've so far avoided using src layout in my own projects just out of inertia. I think it's time I switched.\n\n I wonder when uv will be judged ready for a 1.0 release?\n\n Tags: packaging , python , uv"
+    },
+    {
+      "source": "blog",
+      "name": "The Rundown AI",
+      "title": "Meta glasses enter their creep era - Rundown AI",
+      "url": "https://www.rundown.ai/articles/meta-glasses-enter-their-creep-era",
+      "publishedAt": "2026-07-28T14:30:23.434Z",
+      "author": "",
+      "description": "EssilorLuxottica sold 7M+ Meta glasses in 2025. Now the creep factor has caught up: a forced update killing tampered cameras, two banned…",
+      "content": "EssilorLuxottica sold 7M+ Meta glasses in 2025. Now the creep factor has caught up: a forced update killing tampered cameras, two banned pickup-artist Instagram accounts, activist posters over Meta ads in New York, London, and D.C. The hardware works, but the consent doesn’t — and Apple has until its reported 2027 launch to find a better answer."
+    },
+    {
+      "source": "blog",
+      "name": "The Rundown AI",
+      "title": "Moonshot lets history's largest open model loose - Rundown AI",
+      "url": "https://www.rundown.ai/articles/moonshot-lets-history-largest-open-model-loose",
+      "publishedAt": "2026-07-28T09:00:37.960Z",
+      "author": "",
+      "description": "Moonshot releases K3, history's largest open model ever, reshaping the AI landscape and sparking crucial debates about open-source AI…",
+      "content": "Moonshot releases K3, history's largest open model ever, reshaping the AI landscape and sparking crucial debates about open-source AI development and industry standards."
+    },
+    {
+      "source": "blog",
+      "name": "Sebastian Raschka, PhD",
+      "title": "Kimi K3 Architecture Notes",
+      "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+      "publishedAt": "2026-07-28T08:38:20.712Z",
+      "author": "",
+      "description": "Short architecture note on Kimi K3, including LatentMoE, Kimi Delta Attention, Attention Residuals, NoPE, multimodality, and inference…",
+      "content": "Short architecture note on Kimi K3, including LatentMoE, Kimi Delta Attention, Attention Residuals, NoPE, multimodality, and inference-efficiency choices."
+    },
+    {
+      "source": "blog",
+      "name": "Tomasz Tunguz",
+      "title": "Aftermarket Harnesses",
+      "url": "https://www.tomtunguz.com/aftermarket-harnesses/",
+      "publishedAt": "2026-07-28T00:00:00.969Z",
+      "author": "",
+      "description": "AI harnesses have more impact on performance than the models. Endor Labs ran the same models through two harnesses in the same week. OpenAI…",
+      "content": "AI harnesses have more impact on performance than the models.\n\n Endor Labs ran the same models through two harnesses in the same week. OpenAI’s GPT-5.5 scored 61.5% functional correctness in its native Codex harness & 87.2% in Cursor’s, a 25.7-point swing from the runtime alone. Anthropic’s Opus 4.7 scored 87.2% in Claude Code & 91.1% in Cursor. 1\n\n Both frontier models performed better in a competitor’s harness than in the one their maker ships.\n\n Harnesses are a fulcrum in the AI stack. They influence cost, quality, & accuracy.\n\n Input tokens are 86-98% of LLM traffic on OpenRouter. Output costs 5x input per token, but input still dominates the bill because there is so much more of it. One year ago I wondered about this ratio in the Hungry, Hungry AI Model. 2 Practitioners said 95% input/5% output. At scale, they were right.\n\n Controlling input costs is therefore a valuable proposition. The model doesn’t control those costs, but the harness does. 3 Harnesses decide which context to send. Much of that context repeats from query to query. Caching it intelligently can save 40-80%. A study across 500 long-horizon agent sessions found 41-80% cost reduction & 13-31% faster time-to-first-token, with savings scaling linearly from 500- to 50,000-token prompts. 4 The winner was caching only the stable prefix & placing dynamic content after the cache breakpoint.\n\n Harnesses also perform information retrieval: the code to read, the style guide, the section of an investment brief to analyze. The more concise & precise, the lower the cost.\n\n Cursor’s harness matches Claude Code technique-for-technique: dynamic tool fetching, priority-based prefix assembly, two-tier caching. That is why Opus 4.7 scored higher in Cursor than in Claude Code, & why GPT-5.5 nearly doubled its functional-correctness score outside Codex.\n\n The bundled case is not without merit. Claude Code treats cache hit rate as an uptime metric, hits about 96% in real sessions, shares the system-prompt cache across users on the same version, & builds forked sub-agents at 99% byte-identity for 90% savings. 5\n\n Co-designing the harness, cache API, & model buys real cache discipline. But the discipline lives in the harness, & a third-party harness can match it, as Cursor’s numbers show.\n\n The harness has shed its critique as a model wrapper ; it’s a jockey pushing AI performance further than the breeder imagined.\n\n---\n\n Endor Labs, “GPT-5.5 Sets a New Code Security Record with Cursor, not Codex, in Agent Security League,” Apr 27, 2026, https://www.endorlabs.com/learn/gpt-5-5-sets-a-new-code-security-record-with-cursor-not-codex-in-agent-security-league . Agent Security League benchmark, based on Carnegie Mellon’s Open SusVibes framework.  ↩︎\n\n Tomasz Tunguz, “The Hungry, Hungry AI Model,” July 8, 2025, https://tomtunguz.com/input-output-ratio/   ↩︎\n\n Tomasz Tunguz, “The Harness Is the New Battleground,” https://tomtunguz.com/the-harness-is-the-new-battleground/   ↩︎\n\n Lumer et al., “Don’t Break the Cache: An Evaluation of Prompt Caching for Long-Horizon Agentic Tasks,” arXiv:2601.06007, 2026. https://arxiv.org/abs/2601.06007   ↩︎\n\n Anthropic, “Lessons from building Claude Code: Prompt caching is everything,” Apr 2026, https://claude.com/blog/lessons-from-building-claude-code-prompt-caching-is-everything; swap-tax figures from Digital Applied, “Prompt Caching Economics: Cache-First Agent Design,” Jul 2026, https://www.digitalapplied.com/blog/prompt-caching-economics-cache-first-agent-architecture-2026 .  ↩︎"
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 4,
+    "totalTweets": 8,
+    "blogPosts": 7,
+    "podcastEpisodes": 0
+  }
+}
