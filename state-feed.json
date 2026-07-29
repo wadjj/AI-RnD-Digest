@@ -1,16 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/bcherny/status/2077519049148260526": 1784157289229,
-    "https://twitter.com/bcherny/status/2077460395279692197": 1784157289229,
-    "https://twitter.com/emollick/status/2077479091146514434": 1784157289230,
-    "https://twitter.com/emollick/status/2077464719296712969": 1784157289230,
-    "https://twitter.com/emollick/status/2077226285919531191": 1784157289230,
-    "https://twitter.com/thsottiaux/status/2077271889626706300": 1784157289230,
-    "https://twitter.com/thsottiaux/status/2077248807533003257": 1784157289230,
-    "https://twitter.com/thsottiaux/status/2077212009071075330": 1784157289230,
-    "https://twitter.com/gdb/status/2077257613369344151": 1784157289230,
-    "https://twitter.com/gdb/status/2077212397052559792": 1784157289230,
-    "https://twitter.com/gdb/status/2077202646159802492": 1784157289230,
     "https://twitter.com/thsottiaux/status/2077835821982601614": 1784243574045,
     "https://twitter.com/thsottiaux/status/2077632589498913087": 1784243574045,
     "https://twitter.com/thsottiaux/status/2077630111499882637": 1784243574045,
@@ -122,19 +111,21 @@
     "https://twitter.com/thsottiaux/status/2081979033261412537": 1785280661503,
     "https://twitter.com/thsottiaux/status/2081940052154933696": 1785280661503,
     "https://twitter.com/thsottiaux/status/2081899343091843463": 1785280661503,
-    "https://twitter.com/gdb/status/2081955446404112493": 1785280661503
+    "https://twitter.com/gdb/status/2081955446404112493": 1785280661503,
+    "https://twitter.com/petergostev/status/2082524998460215441": 1785366979507,
+    "https://twitter.com/petergostev/status/2082493534876168693": 1785366979507,
+    "https://twitter.com/petergostev/status/2082434188376945039": 1785366979507,
+    "https://twitter.com/gdb/status/2082523070968070359": 1785366979508,
+    "https://twitter.com/gdb/status/2082350322337673601": 1785366979508,
+    "https://twitter.com/gdb/status/2082309375696478372": 1785366979508,
+    "https://twitter.com/emollick/status/2082519430999748697": 1785366979508,
+    "https://twitter.com/emollick/status/2082502289898508640": 1785366979508,
+    "https://twitter.com/emollick/status/2082492712754852341": 1785366979508,
+    "https://twitter.com/thsottiaux/status/2082326593532473523": 1785366979508,
+    "https://twitter.com/thsottiaux/status/2082317452755751098": 1785366979508
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://stratechery.com/2026/ibm-misses-ibms-mainframe-moat-ibms-many-ai-problems/": 1784157289230,
-    "https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything": 1784157289230,
-    "https://simonwillison.net/2026/Jul/14/github-changeling/#atom-everything": 1784157289230,
-    "https://simonwillison.net/2026/Jul/14/pedalican/#atom-everything": 1784157289230,
-    "https://stratechery.com/2026/the-openai-super-app-chatgpt-codex-whither-chat/": 1784157289230,
-    "https://www.rundown.ai/articles/demis-hassabis-puts-a-clock-on-ai-oversight": 1784157289230,
-    "https://www.rundown.ai/articles/meta-louisiana-data-center-hits-50b": 1784157289230,
-    "https://www.rundown.ai/articles/economists-researchers-put-ai-job-shock-on-the-clock": 1784157289230,
-    "https://www.tomtunguz.com/the-harness-is-the-new-battleground/": 1784157289230,
     "https://simonwillison.net/2026/Jul/16/kimi-k3/#atom-everything": 1784243574045,
     "https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything": 1784243574046,
     "https://simonwillison.net/2026/Jul/16/inkling/#atom-everything": 1784243574046,
@@ -203,8 +194,12 @@
     "https://www.rundown.ai/articles/meta-glasses-enter-their-creep-era": 1785280661503,
     "https://www.rundown.ai/articles/moonshot-lets-history-largest-open-model-loose": 1785280661503,
     "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html": 1785280661503,
-    "https://www.tomtunguz.com/aftermarket-harnesses/": 1785280661503
+    "https://www.tomtunguz.com/aftermarket-harnesses/": 1785280661503,
+    "https://simonwillison.net/2026/Jul/29/ai-worming-through-word/#atom-everything": 1785366979508,
+    "https://simonwillison.net/2026/Jul/29/matthew-green/#atom-everything": 1785366979508,
+    "https://simonwillison.net/2026/Jul/29/mcp-in-claude-and-chatgpt/#atom-everything": 1785366979508,
+    "https://www.rundown.ai/articles/1000-frontier-staffers-ask-for-an-ai-brake-pedal": 1785366979508
   },
-  "lastRunKey": "2026-07-29",
-  "lastRunAt": "2026-07-28T23:17:41.508Z"
+  "lastRunKey": "2026-07-30",
+  "lastRunAt": "2026-07-29T23:16:19.513Z"
 }
