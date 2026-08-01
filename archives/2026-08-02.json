@@ -1,0 +1,333 @@
+{
+  "generatedAt": "2026-08-01T23:14:00.106Z",
+  "runKey": "2026-08-02",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Professor @Wharton studying AI, innovation & startups. Democratizing education using tech Book: https://t.co/CSmipbJ2jV Substack: https://t.co/UIBhxu4bgq",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2083637197157101708",
+          "text": "I was waiting for the verdict from one of the most level-headed and AI-aware math professors.\n---\n Daniel Litt: @LouisLebbos It’s a big deal.",
+          "createdAt": "2026-08-01T19:33:14.526Z",
+          "url": "https://x.com/emollick/status/2083637197157101708",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/littmath/status/2083576300854481106\nDaniel Litt: @LouisLebbos It’s a big deal."
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2083633444685295764",
+          "text": "Humans have always been shaped by our technology. In fact, our brains co-evolved with tools. Tools extend our nervous system: we can sense where the impact is on a rod we are holding, unconsciously, from its modes of vibration. Also, complex tools & complex language are linked",
+          "createdAt": "2026-08-01T19:18:19.601Z",
+          "url": "https://x.com/emollick/status/2083633444685295764",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2083625021868499165",
+          "text": "And yet they still stink at good long-form fiction.",
+          "createdAt": "2026-08-01T18:44:51.647Z",
+          "url": "https://x.com/emollick/status/2083625021868499165",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Gostev",
+      "handle": "petergostev",
+      "bio": "London 🇬🇧 AI Capability @ https://t.co/Y4VEGWofQ8 https://t.co/bkfw1nxdmJ",
+      "tweets": [
+        {
+          "id": "https://twitter.com/petergostev/status/2083592970939322376",
+          "text": "I lost my job today. I was the guy in charge of not solving any math problems.",
+          "createdAt": "2026-08-01T16:37:30.047Z",
+          "url": "https://x.com/petergostev/status/2083592970939322376",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/petergostev/status/2083573243810615320",
+          "text": "I don't know what all the fuss is about, clearly all of the numbers were in the training data, it's just a matter of rearranging them in the right order",
+          "createdAt": "2026-08-01T15:19:06.868Z",
+          "url": "https://x.com/petergostev/status/2083573243810615320",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/petergostev/status/2083479583165182323",
+          "text": "Hacking hugging face is so July. In August we hack maths",
+          "createdAt": "2026-08-01T09:06:56.593Z",
+          "url": "https://x.com/petergostev/status/2083479583165182323",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2083556636455752050",
+          "text": "The week was for efficiency. The weekend is for 10 major breakthroughs in science.\n\nThere will be signs.\n---\n Sebastien Bubeck: yes, nonsofic groups exist: this statement is one of many new beautiful results proved by Astra, our next major model.\n\nWe're releasing 10 such Astra proofs, complete with lean certificates and CoT walkthroughs for each of them. The results are wide-ranging, from von Neumann",
+          "createdAt": "2026-08-01T14:13:07.568Z",
+          "url": "https://x.com/thsottiaux/status/2083556636455752050",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/SebastienBubeck/status/2083456300692979886\nSebastien Bubeck: yes, nonsofic groups exist: this statement is one of many new beautiful results proved by Astra, our next major model.\n\nWe're releasing 10 such Astra proofs, complete with lean certificates and CoT walkthroughs for each of them. The results are wide-ranging, from von Neumann"
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2083427516996292992",
+          "text": "Optimize for curiosity",
+          "createdAt": "2026-08-01T05:40:02.691Z",
+          "url": "https://x.com/thsottiaux/status/2083427516996292992",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2083395449814229287",
+          "text": "To celebrate a week of efficiency and let you run 100'000 Luna threads this weekend... that's right... wait for it... I have reset usage limits for Codex and ChatGPT Work.\n\nEnjoy.",
+          "createdAt": "2026-08-01T03:32:37.324Z",
+          "url": "https://x.com/thsottiaux/status/2083395449814229287",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Sholto Douglas",
+      "handle": "_sholtodouglas",
+      "bio": "Scaling RL @AnthropicAI, ex @DeepMind - working towards intelligence too cheap to meter",
+      "tweets": [
+        {
+          "id": "https://twitter.com/_sholtodouglas/status/2083568761215553777",
+          "text": "RT Nat McAleese\nwhat even can be said? we approach a whole new world.\n---\n Noam Brown: The cost of generating the proofs for all 10 of these breakthroughs combined was under $2,000 at Sol API prices. We’re excited to see what scientists and researchers are able to create with our upcoming Astra models!",
+          "createdAt": "2026-08-01T08:53:22.441Z",
+          "url": "https://x.com/_sholtodouglas/status/2083568761215553777",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Noam Brown",
+      "handle": "polynoamial",
+      "bio": "Researching reasoning @OpenAI | Co-created Libratus/Pluribus superhuman poker AIs, CICERO Diplomacy AI, and OpenAI o3 / o1 / 🍓 reasoning models",
+      "tweets": [
+        {
+          "id": "https://twitter.com/polynoamial/status/2083474946454696245",
+          "text": "RT Alexander Wei\nIt is remarkable—and takes a moment to process—how quickly the next generation of models will accelerate our research, and breathe new life into old problems.\n\nThis was an incredible project done by an incredible team (and model) in just a week. Ad Astra we go ✨\n\n---\n Lijie Chen: 10 proofs from our next major model Astra on long-standing open problems in mathematics and theoretical computer science (also including new circuit lower bounds for computing the permanent!)\n\nGPT-5.6 has already enabled so much exciting work in math and science. Can’t wait to",
+          "createdAt": "2026-08-01T08:37:47.311Z",
+          "url": "https://x.com/polynoamial/status/2083474946454696245",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/polynoamial/status/2083467194663571701",
+          "text": "An internal version of Astra, @OpenAI’s next major model family, solved 10 major open problems in mathematics, quantum complexity, and theoretical computer science.\n\nWe believe it will be a major step for scientific reasoning. https://openai.com/index/ten-advances-in-mathematics/\n\n---\n Lijie Chen: 10 proofs from our next major model Astra on long-standing open problems in mathematics and theoretical computer science (also including new circuit lower bounds for computing the permanent!)\n\nGPT-5.6 has already enabled so much exciting work in math and science. Can’t wait to",
+          "createdAt": "2026-08-01T08:17:42.547Z",
+          "url": "https://x.com/polynoamial/status/2083467194663571701",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/wjmzbmr1/status/2083465844735226099\nLijie Chen: 10 proofs from our next major model Astra on long-standing open problems in mathematics and theoretical computer science (also including new circuit lower bounds for computing the permanent!)\n\nGPT-5.6 has already enabled so much exciting work in math and science. Can’t wait to"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Greg Brockman",
+      "handle": "gdb",
+      "bio": "President & Co-Founder @OpenAI",
+      "tweets": [
+        {
+          "id": "https://twitter.com/gdb/status/2083457463337287721",
+          "text": "ten significant advances in mathematics and theoretical computer science.\n\nsolved using an internal version of Astra, our next major model, for a total cost of about $2000 at Sol API prices:\n---\n Sebastien Bubeck: yes, nonsofic groups exist: this statement is one of many new beautiful results proved by Astra, our next major model.\n\nWe're releasing 10 such Astra proofs, complete with lean certificates and CoT walkthroughs for each of them. The results are wide-ranging, from von Neumann",
+          "createdAt": "2026-08-01T07:39:02.974Z",
+          "url": "https://x.com/gdb/status/2083457463337287721",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/SebastienBubeck/status/2083456300692979886\nSebastien Bubeck: yes, nonsofic groups exist: this statement is one of many new beautiful results proved by Astra, our next major model.\n\nWe're releasing 10 such Astra proofs, complete with lean certificates and CoT walkthroughs for each of them. The results are wide-ranging, from von Neumann"
+        },
+        {
+          "id": "https://twitter.com/gdb/status/2083424030099656806",
+          "text": "openai team making git better for everyone\n---\n Ted Nyman: happy friday we've continued our work on git here at @openai.\n\nperformance, correctness, & testing improvements are flowing from openai/git to upstream. perf improvements in codex app too; you'll see more efficient use of git in new builds.\n\nfollow along: http://openai-git-upstream.openai.chatgpt.site",
+          "createdAt": "2026-08-01T05:26:11.405Z",
+          "url": "https://x.com/gdb/status/2083424030099656806",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/tnm/status/2083328099975119044\nTed Nyman: happy friday we've continued our work on git here at @openai.\n\nperformance, correctness, & testing improvements are flowing from openai/git to upstream. perf improvements in codex app too; you'll see more efficient use of git in new builds.\n\nfollow along: http://openai-git-upstream.openai.chatgpt.site"
+        },
+        {
+          "id": "https://twitter.com/gdb/status/2083419294378209724",
+          "text": "having a great experience with using chatgpt work for extremely thorough research and fact checking",
+          "createdAt": "2026-08-01T05:07:22.036Z",
+          "url": "https://x.com/gdb/status/2083419294378209724",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Jakub Pachocki",
+      "handle": "merettm",
+      "bio": "OpenAI",
+      "tweets": [
+        {
+          "id": "https://twitter.com/merettm/status/2083456710489116853",
+          "text": "RT Sebastien Bubeck\nyes, nonsofic groups exist: this statement is one of many new beautiful results proved by Astra, our next major model.\n\nWe're releasing 10 such Astra proofs, complete with lean certificates and CoT walkthroughs for each of them. The results are wide-ranging, from von Neumann algebras (disproof of Connes' Rigidity Conjecture) to better bounds for high dimensional sphere packing, for circuit complexity, for monochromatic triangles in multicolored graphs, and more.\n\nMore thoughts here: https://openai.com/index/ten-advances-in-mathematics/",
+          "createdAt": "2026-08-01T07:34:25.674Z",
+          "url": "https://x.com/merettm/status/2083456710489116853",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Mark Chen",
+      "handle": "markchen90",
+      "bio": "Chief Research Officer at @OpenAI. Coach for the USA IOI Team.",
+      "tweets": [
+        {
+          "id": "https://twitter.com/markchen90/status/2083621634527858983",
+          "text": "RT Sebastien Bubeck\nyes, nonsofic groups exist: this statement is one of many new beautiful results proved by Astra, our next major model.\n\nWe're releasing 10 such Astra proofs, complete with lean certificates and CoT walkthroughs for each of them. The results are wide-ranging, from von Neumann algebras (disproof of Connes' Rigidity Conjecture) to better bounds for high dimensional sphere packing, for circuit complexity, for monochromatic triangles in multicolored graphs, and more.\n\nMore thoughts here: https://openai.com/index/ten-advances-in-mathematics/",
+          "createdAt": "2026-08-01T07:34:25.431Z",
+          "url": "https://x.com/markchen90/status/2083621634527858983",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "datasette-apps 0.2a0",
+      "url": "https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything",
+      "publishedAt": "2026-08-01T21:23:56.521Z",
+      "author": "",
+      "description": "Release: datasette-apps 0.2a0 Changes that improve Datasette Apps when created and edited using Datasette Agent:\n\nNew app_debug() t…",
+      "content": "Release: datasette-apps 0.2a0\n\n Changes that improve Datasette Apps when created and edited using Datasette Agent :\n\n New app_debug() tool allowing agent to open an app (invisibly) and test it using JavaScript. #33\n\n New app_list() tool for listing apps the user has permission to edit, so the agent can edit them. #36\n\n The app_debug() tool is pretty neat: it works by displaying the app in a opacity: 0 iframe with pointer-events: none (so it can't be seen or interacted with) and then executing agent-provided JavaScript inside that sandboxed iframe. This means the agent can smoke test that the app is working and even do things like measure the dimensions of different elements.\n\n This uses the new context.browser_task() mechanism added in datasette-agent 0.4a0 .\n\n Tags: iframes , datasette , datasette-apps"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "url": "https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything",
+      "publishedAt": "2026-08-01T20:34:49.036Z",
+      "author": "",
+      "description": "Ten advances in mathematics and theoretical computer science A few days ago it was Anthropic discovering cryptographic weaknesses with…",
+      "content": "Ten advances in mathematics and theoretical computer science\n\nA few days ago it was Anthropic discovering cryptographic weaknesses with Claude using Mythos Preview, spending $100,000 on tokens and with prompts that included \"again we are not looking for low hanging fruit, we want proper research to find genuinly hard findings.\"\n\n Now it's OpenAI's turn to flex. They set \"an internal version of Astra, our next major model\" on finding solutions to ten mathematical problems that \"have seen no progress on the main result for at least a decade\". They claim to have spent less than $2,000 at GPT-5.6 Sol token prices on each one.\n\n (No news on how many problems they spent $2,000 on without reaching a solution though.)\n\n The openai/ten-proofs repository has Lean 4 formalizations of their results, and there's also a paper describing the solutions and an additional LLM-generated PDF where the model \"reconstructs how the proof came together\" based on the unpublished reasoning traces.\n\n That's a decent level of transparency, but I want to see the prompts they used!\n\n A lot of mathematicians online are experiencing a collective burst of Deep Blue .\n\n OpenAI's results reminds me of what Terence Tao described as \"big mathematics\" in IEEE Spectrum in June :\n\n Unlike some of his peers, Tao is neither dismissive of AI nor fearful. Instead, he sees it as the catalyst for a fundamental shift in the discipline—a transition toward what he calls “big mathematics.” He envisions a future of large-scale, decentralized collaborations between humans and machines, where complex mathematical tasks can be diced and sliced, with humans claiming the creative parts and AI doing the lion’s share of the technical grunt work.\n\n Via Hacker News\n\n Tags: mathematics , ai , openai , generative-ai , llms , deep-blue"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+      "url": "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything",
+      "publishedAt": "2026-07-31T23:59:44.962Z",
+      "author": "",
+      "description": "deepseek-ai/DeepSeek-V4-Flash-0731 The latest release in DeepSeek's V4 family, \"with substantially enhanced agentic capabilities\". It's 304…",
+      "content": "deepseek-ai/DeepSeek-V4-Flash-0731\n\nThe latest release in DeepSeek's V4 family, \"with substantially enhanced agentic capabilities\". It's 304 billion parameters - 167GB on Hugging Face - but it appears to punch well above its weight.\n\n Artificial Analysis rank it ahead of MiniMax M3 - a 428B model. It's $0.14/million input and $0.27/million output pricing means this may currently be the best value-per-intelligence model out there. It's looking very good on the Intelligence Index vs. Cost per Intelligence Index Task chart:\n\n I got a disappointing pelican from it using the default reasoning level via OpenRouter:\n\n But when I bumped reasoning level up to high I got something much better :\n\n llm -m openrouter/deepseek/deepseek-v4-flash-0731 -t pelican -o reasoning_effort high\n\n Via Hacker News\n\n Tags: ai , generative-ai , llms , pelican-riding-a-bicycle , deepseek , llm-release , openrouter , ai-in-china , artificial-analysis"
+    },
+    {
+      "source": "blog",
+      "name": "The Rundown AI",
+      "title": "Disney plots its Netflix makeover - Rundown AI",
+      "url": "https://www.rundown.ai/articles/disney-plots-its-netflix-makeover",
+      "publishedAt": "2026-07-31T14:30:34.687Z",
+      "author": "",
+      "description": "Disney’s new CEO wants Disney+ to stop acting like a digital cable box and start thinking like Netflix. Josh D’Amaro is reportedly plotting…",
+      "content": "Disney’s new CEO wants Disney+ to stop acting like a digital cable box and start thinking like Netflix. Josh D’Amaro is reportedly plotting a tech-heavy overhaul built around sharper recommendations, smarter personalization, and a much bigger platform play. The Mouse already owns the characters, the parks, and the screens — now it needs to master the recommendation algorithm."
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 8,
+    "totalTweets": 17,
+    "blogPosts": 4,
+    "podcastEpisodes": 0
+  }
+}
