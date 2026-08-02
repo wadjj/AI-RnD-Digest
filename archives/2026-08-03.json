@@ -1,0 +1,235 @@
+{
+  "generatedAt": "2026-08-02T23:14:47.754Z",
+  "runKey": "2026-08-03",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Professor @Wharton studying AI, innovation & startups. Democratizing education using tech Book: https://t.co/CSmipbJ2jV Substack: https://t.co/UIBhxu4bgq",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2083996732875055396",
+          "text": "You will live to see wonders and respond by shrugging and saying “yup, that’s another wonder”\n---\n Noah Smith 🐇🇺🇸🇺🇦🇹🇼: All the cliches about tech journalism are true. It has become almost entirely about the human relationships, the intrigues, the politics, the deals, etc. The sense of wonder at the future possibilities of the tech itself is gone.",
+          "createdAt": "2026-08-02T19:21:54.117Z",
+          "url": "https://x.com/emollick/status/2083996732875055396",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/Noahpinion/status/2083676898551627877\nNoah Smith 🐇🇺🇸🇺🇦🇹🇼: All the cliches about tech journalism are true. It has become almost entirely about the human relationships, the intrigues, the politics, the deals, etc. The sense of wonder at the future possibilities of the tech itself is gone."
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Claude Code @anthropicai. prev YC W20, mit media lab. towards machines of loving grace",
+      "tweets": [
+        {
+          "id": "https://twitter.com/trq212/status/2083978109376987365",
+          "text": "Re i think there are lots of parallels to what happened with chess",
+          "createdAt": "2026-08-02T18:07:54.390Z",
+          "url": "https://x.com/trq212/status/2083978109376987365",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/trq212/status/2083977795290734975",
+          "text": "you can already see Jevons paradox at work in mathematics\n\nthere is more happening, it is easier to understand and mathematicians have more time to discuss it with us at higher abstraction levels\n\ndemand for people who think and know about math will go up",
+          "createdAt": "2026-08-02T18:06:39.028Z",
+          "url": "https://x.com/trq212/status/2083977795290734975",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Andrej Karpathy",
+      "handle": "karpathy",
+      "bio": "I like training large deep neural nets.",
+      "tweets": [
+        {
+          "id": "https://twitter.com/karpathy/status/2083948654377996480",
+          "text": "Re More on the pelican on the bicycle test from @simonw:\nhttps://simonwillison.net/2025/Jun/6/six-months-in-llms/\n\nI uploaded the source here so it's playable in the browser, forkable etc.\nhttps://karpathy.ai/lotr-movie/\n\nLook out for GTA Hobbiton dropping before GTA VI :)",
+          "createdAt": "2026-08-02T16:10:51.883Z",
+          "url": "https://x.com/karpathy/status/2083948654377996480",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/karpathy/status/2083749667410727319",
+          "text": "We're starting to leave the territory where you'd test an LLM by e.g. \"create an svg of pelican on a bicycle\". As one idea to generalize it, I was interested what Opus 5 would do if I gave it the first paragraph of the Lord of the Rings, a 1M token budget (~$10) and asked for three js render of it. Opus went off for ~2 hours and wrote 5500 lines of code that (procedurally) rendered the story. It's kind of janky but fun. But it's a bit mindboggling that the LLM has to place and orchestrate various polygon assets in (x,y,z) coordinates and write code that animates it all, and that it even does anything at all.\n\nI also like this kind of examples because no one in their right mind would ever spend the time to write something this custom but LLMs have all the stamina and patience in the world, so it's an example where we go from \"no one would ever do this\" to \"sure, why not, it's ~free\". There might be a lot more. But I'm excited about creating hyper custom worlds that you can imagine dropping players into, e.g. here to participate in the LoTR story as a spectator NPC, or one of the characters, or etc. Something like an ephemeral GTA of X on demand.\n\nLast thought is that the domain of worlds/games exposes a weakness in LLMs: they can't easily audit their work because they aren't able to efficiently and natively perceive videos or play games within them. Here, Opus 5 had to very slowly and painstakingly take screenshots at different points, and it messed up a few times and created a bunch of jank. An example of raw capability (multimodal, gameplay) that I think is still quite lacking.",
+          "createdAt": "2026-08-02T03:00:09.383Z",
+          "url": "https://x.com/karpathy/status/2083749667410727319",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Gostev",
+      "handle": "petergostev",
+      "bio": "London 🇬🇧 AI Capability @ https://t.co/Y4VEGWofQ8 https://t.co/bkfw1nxdmJ",
+      "tweets": [
+        {
+          "id": "https://twitter.com/petergostev/status/2083936326794023276",
+          "text": "If I do social scoring in excel is that allowed?\n---\n EU Council: Most of the AI act’s rules come into force today.\n\nThe EU's #AI act is the world's first law on artificial intelligence. The act aims to ensure that AI systems are safe, ethical and trustworthy.\n\nRead more → https://link.europa.eu/rJWXFh",
+          "createdAt": "2026-08-02T15:21:52.147Z",
+          "url": "https://x.com/petergostev/status/2083936326794023276",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/EUCouncil/status/2083813800898375866\nEU Council: Most of the AI act’s rules come into force today.\n\nThe EU's #AI act is the world's first law on artificial intelligence. The act aims to ensure that AI systems are safe, ethical and trustworthy.\n\nRead more → https://link.europa.eu/rJWXFh"
+        },
+        {
+          "id": "https://twitter.com/petergostev/status/2083894148210241608",
+          "text": "There was once a not-so-fringe question whether GPT-4 may have been a lucky one off run and that we might not be able to replicate it ever again",
+          "createdAt": "2026-08-02T12:34:16.604Z",
+          "url": "https://x.com/petergostev/status/2083894148210241608",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Greg Brockman",
+      "handle": "gdb",
+      "bio": "President & Co-Founder @OpenAI",
+      "tweets": [
+        {
+          "id": "https://twitter.com/gdb/status/2083934330146197989",
+          "text": "chatgpt for building interactive educational tools\n---\n The Bugged Dev: Only if education could be this interactive ❤️‍🔥\n\nI've had a looong wish to build something genuinely useful through vibe coding, and I finally did it.\n\nA 3D human anatomy application built with @threejs using GPT 5.6 Sol.\n\nIt all started with a single design image that I created",
+          "createdAt": "2026-08-02T15:13:56.099Z",
+          "url": "https://x.com/gdb/status/2083934330146197989",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/thebuggeddev/status/2083884856531177942\nThe Bugged Dev: Only if education could be this interactive ❤️‍🔥\n\nI've had a looong wish to build something genuinely useful through vibe coding, and I finally did it.\n\nA 3D human anatomy application built with @threejs using GPT 5.6 Sol.\n\nIt all started with a single design image that I created"
+        },
+        {
+          "id": "https://twitter.com/gdb/status/2083773552793465087",
+          "text": "chatgpt for empowering your dad to build:\n---\n chloe venn: my dad using gpt 5.6 sol for the 1st time:\n\n- wanted to build a webpage about indigenous south african fynbos (extreme plant dad)\n\n- read all of the thinking states as it streamed\n\n- final thoughts on the HTML file: “its gorgeous, its absolutely gorgeous”",
+          "createdAt": "2026-08-02T04:35:04.294Z",
+          "url": "https://x.com/gdb/status/2083773552793465087",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/khloyakafe/status/2083707803265286193\nchloe venn: my dad using gpt 5.6 sol for the 1st time:\n\n- wanted to build a webpage about indigenous south african fynbos (extreme plant dad)\n\n- read all of the thinking states as it streamed\n\n- final thoughts on the HTML file: “its gorgeous, its absolutely gorgeous”"
+        },
+        {
+          "id": "https://twitter.com/gdb/status/2083750556062093745",
+          "text": "ask chatgpt work to do any recurring task\n---\n Brett Bauman: chatgpt work is the new cron job\n\nhttp://bbrett.com/movies",
+          "createdAt": "2026-08-02T03:03:41.923Z",
+          "url": "https://x.com/gdb/status/2083750556062093745",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/brttbmn/status/2083641132534083915\nBrett Bauman: chatgpt work is the new cron job\n\nhttp://bbrett.com/movies"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2083699879650463756",
+          "text": "Fun fact, users use /fast less during the weekend. The weekend is for relaxation, even for the model.",
+          "createdAt": "2026-08-01T23:42:19.726Z",
+          "url": "https://x.com/thsottiaux/status/2083699879650463756",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Open letters about AI development",
+      "url": "https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything",
+      "publishedAt": "2026-08-02T04:16:52.944Z",
+      "author": "",
+      "description": "Open letters about AI development I wrote this summary of the past few weeks of open letters as a section of my sponsors-only newsletter but…",
+      "content": "Open letters about AI development\n\n I wrote this summary of the past few weeks of open letters as a section of my sponsors-only newsletter but I've decided to share it here as well.\n\n Open Weights and American AI Leadership was shepherded by Microsoft, dated July 24th, and signed by 235 AI-adjacent companies including NVIDIA (see Jensen's first ever tweet ), Amazon, Y Combinator, The Linux Foundation, and (a later signer) OpenAI.\n\n It's clearly an argument designed to counter any instincts by the current US government to ban or limit open weight models over \"safety\" concerns - a reasonable consideration given what happened to Claude Fable 5 !\n\n Relying solely on closed models is not inherently safe: they can be breached, misused, or fail in ways that outsiders cannot detect. And concentrating advanced AI capabilities behind a small number of closed models compounds that risk. It results in a small number of single points of failure, weakens competition, and leaves critical technology in the hands of a few providers. Open weight models, on the other hand, allow a broad community of researchers and developers to examine their behavior, identify vulnerabilities, develop safeguards, and improve them over time.\n\n The one surprising note in the letter is that it comes out in support of distillation, where models train on output from other models:\n\n In shaping this ecosystem, policymakers should be careful not to conflate legitimate model-development techniques with misappropriation. Distillation, or the practice of using one model’s outputs to help train or improve another, is a widely used technique for model improvement, evaluation, and validation. It reflects a long tradition of learning from, building upon, and improving existing technologies, a tradition that has helped drive innovation since the rise of the open-source software movement.\n\n Notably absent from the signatures: Anthropic, who published their own response Our position on open-weights models three days later. CEO Dario Amodei doubled down on the risk of authoritarian governments building \"AI models that are more powerful than those built by the US\", and models being \"misused to carry out cyberattacks or biological attacks\", and called for \"a crack down on industrial-scale distillation operations \", while also stating that \"Anthropic has never advocated for a ban on open-weights models\".\n\n Then on July 28th Pacing the Frontier was published, featuring signatures from \"1,324 employees of frontier AI companies\" - with names like Jakub Pachocki (Chief Scientist, OpenAI), Ilya Sutskever (Safe Superintelligence Inc, previously OpenAI), Dario Amodei (Anthropic), Jack Clark (Anthropic) and more. Their core message:\n\n We request that the U.S. government support an international effort to develop the technical and governance tools needed to deliberately pace the frontier of automated AI development.\n\n Their concern is intense competitive pressure combined with accelerated AI progress caused by automated AI research - and given that Anthropic produce 80% of their code with Claude Code , OpenAI had Sol reduce their end-to-end serving costs by 20% , and Kimi K3 designed a chip to serve a nano model built on its own architecture , you can see why people are taking that risk more seriously right now.\n\n Tags: anthropic , generative-ai , openai , ai , llms , ai-ethics"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "July 2026 newsletter",
+      "url": "https://simonwillison.net/2026/Aug/2/july-newsletter/#atom-everything",
+      "publishedAt": "2026-08-02T04:12:41.747Z",
+      "author": "",
+      "description": "The June edition of my sponsors-only monthly newsletter is out. If you are a sponsor (or if you start a sponsorship now) you can access it…",
+      "content": "The June edition of my sponsors-only monthly newsletter is out. If you are a sponsor (or if you start a sponsorship now) you can access it here .\n\n This month:\n\n Accidental cyberattacks by OpenAl and Anthropic models under test\n\n GPT-5.6 Sol, Terra, and Luna\n\n Claude Opus 5\n\n Kimi K3 and DeepSeek-V4-Flash-0731\n\n Open letters about Al development\n\n A fireside chat and a podcast\n\n Reigniting my interest in MCP\n\n Other model releases\n\n My projects\n\n What I'm using at the moment\n\n Here's a copy of the June newsletter as a preview of what you'll get. Pay $10/month to stay a month ahead of the free copy!\n\n Tags: newsletter"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Quoting Greg Brockman",
+      "url": "https://simonwillison.net/2026/Aug/1/greg-brockman/#atom-everything",
+      "publishedAt": "2026-08-01T22:29:44.987Z",
+      "author": "",
+      "description": "at openai, many people hook their chatgpt up to slack. people really don't like when a coworker's chatgpt contacts them asking for help with…",
+      "content": "at openai, many people hook their chatgpt up to slack.\n\n people really don't like when a coworker's chatgpt contacts them asking for help with a task, even when they'd be perfectly happy doing that same work if asked by that coworker.\n\n reinforces how much people care about human relationships and helping each other, and want AI to give time back — or enhance time together — rather than become a layer separating people.\n\n — Greg Brockman , President and Co-Founder, OpenAI\n\n Tags: ai-ethics , ai-misuse , generative-ai , openai , ai , llms"
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 6,
+    "totalTweets": 11,
+    "blogPosts": 3,
+    "podcastEpisodes": 0
+  }
+}
