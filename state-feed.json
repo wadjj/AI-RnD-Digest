@@ -1,15 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/polynoamial/status/2079260550895382965": 1784589435656,
-    "https://twitter.com/_sholtodouglas/status/2079229936855031853": 1784589435656,
-    "https://twitter.com/_sholtodouglas/status/2079080721638199317": 1784589435656,
-    "https://twitter.com/emollick/status/2079070674073633017": 1784589435657,
-    "https://twitter.com/emollick/status/2079030868413182298": 1784589435657,
-    "https://twitter.com/emollick/status/2079027267137601724": 1784589435657,
-    "https://twitter.com/thsottiaux/status/2079058139207573541": 1784589435657,
-    "https://twitter.com/trq212/status/2079085903067406446": 1784589435657,
-    "https://twitter.com/amorriscode/status/2079027309735301193": 1784589435657,
-    "https://twitter.com/_catwu/status/2079011428380602526": 1784589435657,
     "https://twitter.com/trq212/status/2079680872924762219": 1784675646841,
     "https://twitter.com/trq212/status/2079664334146551940": 1784675646841,
     "https://twitter.com/trq212/status/2079608231220195493": 1784675646841,
@@ -143,16 +133,15 @@
     "https://twitter.com/gdb/status/2083934330146197989": 1785712487756,
     "https://twitter.com/gdb/status/2083773552793465087": 1785712487756,
     "https://twitter.com/gdb/status/2083750556062093745": 1785712487756,
-    "https://twitter.com/thsottiaux/status/2083699879650463756": 1785712487756
+    "https://twitter.com/thsottiaux/status/2083699879650463756": 1785712487756,
+    "https://twitter.com/petergostev/status/2084202899328909466": 1785799723843,
+    "https://twitter.com/thsottiaux/status/2084196918071357707": 1785799723843,
+    "https://twitter.com/emollick/status/2084124237053219289": 1785799723843,
+    "https://twitter.com/gdb/status/2084104354911707518": 1785799723844,
+    "https://twitter.com/gdb/status/2084074129930772953": 1785799723844
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://stratechery.com/2026/whos-afraid-of-chinese-models/": 1784589435658,
-    "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything": 1784589435657,
-    "https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything": 1784589435657,
-    "https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything": 1784589435657,
-    "https://jack-clark.net/2026/07/20/import-ai-465-open-vs-closed-gaps-kimi-k3-demis-big-policy-plan/": 1784589435657,
-    "https://www.tomtunguz.com/open-models-tack-toward-the-frontier/": 1784589435658,
     "https://stratechery.com/2026/netflix-earnings-is-netflix-washed-additional-notes/": 1784675646843,
     "https://www.rundown.ai/articles/china-bold-plan-to-knock-an-asteroid-off-course": 1784675646842,
     "https://www.rundown.ai/articles/claude-disproves-an-87-year-old-math-problem": 1784675646842,
@@ -221,8 +210,17 @@
     "https://www.rundown.ai/articles/disney-plots-its-netflix-makeover": 1785626040109,
     "https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything": 1785712487756,
     "https://simonwillison.net/2026/Aug/2/july-newsletter/#atom-everything": 1785712487756,
-    "https://simonwillison.net/2026/Aug/1/greg-brockman/#atom-everything": 1785712487756
+    "https://simonwillison.net/2026/Aug/1/greg-brockman/#atom-everything": 1785712487756,
+    "https://stratechery.com/": 1785799718985,
+    "https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything": 1785799723844,
+    "https://simonwillison.net/2026/Aug/3/devtools-must-be-open-source-exedev/#atom-everything": 1785799723844,
+    "https://simonwillison.net/2026/Aug/2/condense-json/#atom-everything": 1785799723844,
+    "https://www.rundown.ai/articles/attack-drones-are-coming-to-schools": 1785799723844,
+    "https://www.rundown.ai/articles/openai-astra-solves-10-long-standing-math-problems": 1785799723844,
+    "https://jack-clark.net/2026/08/03/import-ai-467-self-sustaining-ai-viruses-pacing-ai-progress-confusion-about-ai-and-creativity/": 1785799723844,
+    "https://stratechery.com/2026/meta-earnings-metas-timing-problems-the-financial-tail/": 1785799723844,
+    "https://timkellogg.me/blog/2026/08/01/printer-example": 1785799723844
   },
-  "lastRunKey": "2026-08-03",
-  "lastRunAt": "2026-08-02T23:14:47.761Z"
+  "lastRunKey": "2026-08-04",
+  "lastRunAt": "2026-08-03T23:28:43.850Z"
 }
