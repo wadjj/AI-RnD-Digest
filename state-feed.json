@@ -1,15 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/trq212/status/2079680872924762219": 1784675646841,
-    "https://twitter.com/trq212/status/2079664334146551940": 1784675646841,
-    "https://twitter.com/trq212/status/2079608231220195493": 1784675646841,
-    "https://twitter.com/emollick/status/2079639676713922678": 1784675646841,
-    "https://twitter.com/emollick/status/2079437066585202824": 1784675646841,
-    "https://twitter.com/karpathy/status/2079610838143623371": 1784675646842,
-    "https://twitter.com/JeffDean/status/2079591562145870043": 1784675646842,
-    "https://twitter.com/JeffDean/status/2079619846992789681": 1784675646842,
-    "https://twitter.com/petergostev/status/2079449332286132732": 1784675646842,
-    "https://twitter.com/thsottiaux/status/2079355529101705264": 1784675646842,
     "https://twitter.com/demishassabis/status/2079974477559894174": 1784762237394,
     "https://twitter.com/petergostev/status/2079855805344416248": 1784762237394,
     "https://twitter.com/emollick/status/2079812585268842759": 1784762237395,
@@ -138,16 +128,15 @@
     "https://twitter.com/thsottiaux/status/2084196918071357707": 1785799723843,
     "https://twitter.com/emollick/status/2084124237053219289": 1785799723843,
     "https://twitter.com/gdb/status/2084104354911707518": 1785799723844,
-    "https://twitter.com/gdb/status/2084074129930772953": 1785799723844
+    "https://twitter.com/gdb/status/2084074129930772953": 1785799723844,
+    "https://twitter.com/petergostev/status/2084691096760652121": 1785886077035,
+    "https://twitter.com/petergostev/status/2084658068080521420": 1785886077035,
+    "https://twitter.com/thsottiaux/status/2084506501834829833": 1785886077035,
+    "https://twitter.com/thsottiaux/status/2084483765158719542": 1785886077035,
+    "https://twitter.com/emollick/status/2084433995534574042": 1785886077035
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://stratechery.com/2026/netflix-earnings-is-netflix-washed-additional-notes/": 1784675646843,
-    "https://www.rundown.ai/articles/china-bold-plan-to-knock-an-asteroid-off-course": 1784675646842,
-    "https://www.rundown.ai/articles/claude-disproves-an-87-year-old-math-problem": 1784675646842,
-    "https://www.rundown.ai/articles/world-first-humanoid-cage-fight": 1784675646842,
-    "https://simonwillison.net/2026/Jul/21/nativ/#atom-everything": 1784675646842,
-    "https://simonwillison.net/2026/Jul/21/cat-and-thariq/#atom-everything": 1784675646843,
     "https://stratechery.com/2026/openai-hacks-hugging-face-what-happened-alignment-and-paper-clips/": 1784762237395,
     "https://www.rundown.ai/articles/google-gemini-lineup-has-a-pro-sized-hole": 1784762237395,
     "https://www.rundown.ai/articles/anthropic-fable-survives-the-subscription-axe": 1784762237395,
@@ -219,8 +208,16 @@
     "https://www.rundown.ai/articles/openai-astra-solves-10-long-standing-math-problems": 1785799723844,
     "https://jack-clark.net/2026/08/03/import-ai-467-self-sustaining-ai-viruses-pacing-ai-progress-confusion-about-ai-and-creativity/": 1785799723844,
     "https://stratechery.com/2026/meta-earnings-metas-timing-problems-the-financial-tail/": 1785799723844,
-    "https://timkellogg.me/blog/2026/08/01/printer-example": 1785799723844
+    "https://timkellogg.me/blog/2026/08/01/printer-example": 1785799723844,
+    "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx/#atom-everything": 1785886077035,
+    "https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything": 1785886077035,
+    "https://simonwillison.net/2026/Aug/3/dont-be-a-meat-proxy/#atom-everything": 1785886077035,
+    "https://www.rundown.ai/articles/biohackers-head-to-big-sky-country": 1785886077035,
+    "https://www.rundown.ai/articles/ai-giants-head-to-the-white-house-to-discuss-safety": 1785886077035,
+    "https://stratechery.com/2026/microsoft-earnings-microsoft-vs-meta-the-efficiency-payoff/": 1785886077035,
+    "https://www.tomtunguz.com/what-if-gpu-prices-double/": 1785886077036,
+    "https://www.tomtunguz.com/ai-ghost-writing/": 1785886077036
   },
-  "lastRunKey": "2026-08-04",
-  "lastRunAt": "2026-08-03T23:28:43.850Z"
+  "lastRunKey": "2026-08-05",
+  "lastRunAt": "2026-08-04T23:27:57.041Z"
 }
