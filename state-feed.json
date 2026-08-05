@@ -1,9 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/demishassabis/status/2079974477559894174": 1784762237394,
-    "https://twitter.com/petergostev/status/2079855805344416248": 1784762237394,
-    "https://twitter.com/emollick/status/2079812585268842759": 1784762237395,
-    "https://twitter.com/thsottiaux/status/2079731272797372425": 1784762237395,
     "https://twitter.com/gdb/status/2080414383352529085": 1784848436163,
     "https://twitter.com/gdb/status/2080149982359831017": 1784848436163,
     "https://twitter.com/demishassabis/status/2080332282028507234": 1784848436163,
@@ -133,14 +129,17 @@
     "https://twitter.com/petergostev/status/2084658068080521420": 1785886077035,
     "https://twitter.com/thsottiaux/status/2084506501834829833": 1785886077035,
     "https://twitter.com/thsottiaux/status/2084483765158719542": 1785886077035,
-    "https://twitter.com/emollick/status/2084433995534574042": 1785886077035
+    "https://twitter.com/emollick/status/2084433995534574042": 1785886077035,
+    "https://twitter.com/JeffDean/status/2085083442669318443": 1785972004702,
+    "https://twitter.com/JeffDean/status/2085059187437113387": 1785972004702,
+    "https://twitter.com/emollick/status/2085055055237914802": 1785972004702,
+    "https://twitter.com/emollick/status/2084826713922355207": 1785972004703,
+    "https://twitter.com/emollick/status/2084806293617807448": 1785972004703,
+    "https://twitter.com/thsottiaux/status/2084859308165271658": 1785972004703,
+    "https://twitter.com/petergostev/status/2084784675558404390": 1785972004703
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://stratechery.com/2026/openai-hacks-hugging-face-what-happened-alignment-and-paper-clips/": 1784762237395,
-    "https://www.rundown.ai/articles/google-gemini-lineup-has-a-pro-sized-hole": 1784762237395,
-    "https://www.rundown.ai/articles/anthropic-fable-survives-the-subscription-axe": 1784762237395,
-    "https://www.tomtunguz.com/ai-engineering-productivity-anything-but-normal/": 1784762237395,
     "https://www.rundown.ai/articles/travis-kalanick-1-7b-computer-for-the-physical-world": 1784848436163,
     "https://www.rundown.ai/articles/openai-cyber-test-escapes-the-lab": 1784848436163,
     "https://simonwillison.net/2026/Jul/23/seth-larson/#atom-everything": 1784848436163,
@@ -216,8 +215,14 @@
     "https://www.rundown.ai/articles/ai-giants-head-to-the-white-house-to-discuss-safety": 1785886077035,
     "https://stratechery.com/2026/microsoft-earnings-microsoft-vs-meta-the-efficiency-payoff/": 1785886077035,
     "https://www.tomtunguz.com/what-if-gpu-prices-double/": 1785886077036,
-    "https://www.tomtunguz.com/ai-ghost-writing/": 1785886077036
+    "https://www.tomtunguz.com/ai-ghost-writing/": 1785886077036,
+    "https://stratechery.com/2026/google-earnings-the-frontier-case-amazon-earnings/": 1785972004703,
+    "https://simonwillison.net/2026/Aug/5/raccoon-heist/#atom-everything": 1785972004703,
+    "https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything": 1785972004703,
+    "https://simonwillison.net/2026/Aug/4/llm-anthropic/#atom-everything": 1785972004703,
+    "https://lovable.dev/blog/cerebras-partnership": 1785972004703,
+    "https://www.rundown.ai/articles/anthropic-and-openai-agents-went-rogue-again": 1785972004703
   },
-  "lastRunKey": "2026-08-05",
-  "lastRunAt": "2026-08-04T23:27:57.041Z"
+  "lastRunKey": "2026-08-06",
+  "lastRunAt": "2026-08-05T23:20:04.709Z"
 }
