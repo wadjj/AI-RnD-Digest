@@ -140,7 +140,17 @@
     "https://twitter.com/emollick/status/2085182466122272957": 1786066444356,
     "https://twitter.com/petergostev/status/2085351791038726487": 1786066444356,
     "https://twitter.com/petergostev/status/2085306053080568079": 1786066444356,
-    "https://twitter.com/_sholtodouglas/status/2085260678680711671": 1786066444356
+    "https://twitter.com/_sholtodouglas/status/2085260678680711671": 1786066444356,
+    "https://twitter.com/petergostev/status/2085840300329582882": 1786143415179,
+    "https://twitter.com/petergostev/status/2085792699169280462": 1786143415179,
+    "https://twitter.com/petergostev/status/2085757475664331091": 1786143415179,
+    "https://twitter.com/bcherny/status/2085807103382519872": 1786143415180,
+    "https://twitter.com/trq212/status/2085804481984475437": 1786143415180,
+    "https://twitter.com/trq212/status/2085804064491929979": 1786143415180,
+    "https://twitter.com/emollick/status/2085690446618022042": 1786143415180,
+    "https://twitter.com/emollick/status/2085582623909265546": 1786143415180,
+    "https://twitter.com/emollick/status/2085580116143292850": 1786143415180,
+    "https://twitter.com/thsottiaux/status/2085597685948813610": 1786143415180
   },
   "seenVideos": {},
   "seenArticles": {
@@ -224,8 +234,15 @@
     "https://simonwillison.net/2026/Aug/6/simon-willison-on-technical-blogging/#atom-everything": 1786066444357,
     "https://www.rundown.ai/articles/musk-moon-factories-need-robots": 1786066444357,
     "https://www.rundown.ai/articles/google-shakes-up-its-ai-brain-trust": 1786066444357,
-    "https://www.tomtunguz.com/the-newest-hyperscaler/": 1786066444357
+    "https://www.tomtunguz.com/the-newest-hyperscaler/": 1786066444357,
+    "https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything": 1786143415180,
+    "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/#atom-everything": 1786143415180,
+    "https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything": 1786143415180,
+    "https://stratechery.com/2026/earnings-and-learnings/": 1786143415180,
+    "https://www.rundown.ai/articles/openai-builds-a-400-ai-donut": 1786143415180,
+    "https://www.rundown.ai/articles/ai-designs-viruses-never-seen-in-nature": 1786143415180,
+    "https://www.tomtunguz.com/the-secret-chat-room/": 1786143415180
   },
-  "lastRunKey": "2026-08-07",
-  "lastRunAt": "2026-08-07T01:34:04.363Z"
+  "lastRunKey": "2026-08-08",
+  "lastRunAt": "2026-08-07T22:56:55.186Z"
 }

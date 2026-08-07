@@ -1,0 +1,255 @@
+{
+  "generatedAt": "2026-08-07T22:56:55.178Z",
+  "runKey": "2026-08-08",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Peter Gostev",
+      "handle": "petergostev",
+      "bio": "Twitter @Peter Gostev",
+      "tweets": [
+        {
+          "id": "https://twitter.com/petergostev/status/2085840300329582882",
+          "text": "This is quite an interesting data point that we've uncovered on the Agent Arena - the amount of tokens that different Opus models were generating was going up quite significantly vs previous versions - e.g. Opus 5 generates 2x tokens that of Opus 4.8. Fable is significantly more token efficient - at a 4.8 level, but much higher performance.\n\nGPT models were going the other way, GPT-5.6 is performing significantly better than GPT-5.5, but generates fewer tokens to get this improved performance.\n\n---\n Arena.ai: Agent Arena tracks the number of tokens a model takes to complete real-world tasks.\n\nWe see the performance of Opus-series models has improved significantly (Opus 4.7 to 4.8 to 5), and at the same time token usage has also increased substantially (~8.5k for Opus 4.7 up to ~21k",
+          "createdAt": "2026-08-07T21:27:35.083Z",
+          "url": "https://x.com/petergostev/status/2085840300329582882",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/arena/status/2085793291853852746\nArena.ai: Agent Arena tracks the number of tokens a model takes to complete real-world tasks.\n\nWe see the performance of Opus-series models has improved significantly (Opus 4.7 to 4.8 to 5), and at the same time token usage has also increased substantially (~8.5k for Opus 4.7 up to ~21k"
+        },
+        {
+          "id": "https://twitter.com/petergostev/status/2085792699169280462",
+          "text": "OpenAI's AI security incident is the most important video you should watch. You should watch it in full if you can, but here I have a cut down version with the highlights, about 1/3 the size.\n\n0:00 AI agents investigate an incident\n1:31 Training the next AI model\n2:03 Agent finds a security flaw\n2:53 Agents build a message board\n4:15 Agents take over internal systems\n7:24 Agents coordinate attacks\n10:02 Hugging Face breach\n11:49 One cause behind both breaches\n\n---\n Eric Wallace: Yesterday, my OpenAI collaborator and I gave a detailed talk on the Huggingface incident, our models creating \"the message board\", model misalignment, and more.\n\nhttps://www.youtube.com/watch?v=87DyyMV0kCY\n\nI hope it can answer a lot of the questions folks have, and we will release a full detailed",
+          "createdAt": "2026-08-07T18:18:26.460Z",
+          "url": "https://x.com/petergostev/status/2085792699169280462",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/Eric_Wallace_/status/2085473085399150817\nEric Wallace: Yesterday, my OpenAI collaborator and I gave a detailed talk on the Huggingface incident, our models creating \"the message board\", model misalignment, and more.\n\nhttps://www.youtube.com/watch?v=87DyyMV0kCY\n\nI hope it can answer a lot of the questions folks have, and we will release a full detailed"
+        },
+        {
+          "id": "https://twitter.com/petergostev/status/2085757475664331091",
+          "text": "Sometimes dreams come true",
+          "createdAt": "2026-08-07T15:58:28.419Z",
+          "url": "https://x.com/petergostev/status/2085757475664331091",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Boris Cherny",
+      "handle": "bcherny",
+      "bio": "Twitter @Boris Cherny",
+      "tweets": [
+        {
+          "id": "https://twitter.com/bcherny/status/2085807103382519872",
+          "text": "The team and I use Auto mode exclusively, and have been for many months. I couldn't imagine going back to permission prompts! Really excited to get this out to everyone.\n---\n ClaudeDevs: Starting August 14, auto mode will be the default permission mode in Claude Code for Pro, Max, and Team users.\n\nAuto mode reviews shell commands and actions with a separate classifier. In testing, it caught 89% of dangerous commands. Manual approval caught 14%.",
+          "createdAt": "2026-08-07T19:15:40.078Z",
+          "url": "https://x.com/bcherny/status/2085807103382519872",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/ClaudeDevs/status/2085794862608318627\nClaudeDevs: Starting August 14, auto mode will be the default permission mode in Claude Code for Pro, Max, and Team users.\n\nAuto mode reviews shell commands and actions with a separate classifier. In testing, it caught 89% of dangerous commands. Manual approval caught 14%."
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Twitter @Thariq",
+      "tweets": [
+        {
+          "id": "https://twitter.com/trq212/status/2085804481984475437",
+          "text": "automode is much safer than any other permission system out there, especially reviewing them yourself\n\nexcited to announce we're rolling it out to everyone by default, with no overhead cost for the classifier\n\n---\n ClaudeDevs: Starting August 14, auto mode will be the default permission mode in Claude Code for Pro, Max, and Team users.\n\nAuto mode reviews shell commands and actions with a separate classifier. In testing, it caught 89% of dangerous commands. Manual approval caught 14%.",
+          "createdAt": "2026-08-07T19:05:15.374Z",
+          "url": "https://x.com/trq212/status/2085804481984475437",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/ClaudeDevs/status/2085794862608318627\nClaudeDevs: Starting August 14, auto mode will be the default permission mode in Claude Code for Pro, Max, and Team users.\n\nAuto mode reviews shell commands and actions with a separate classifier. In testing, it caught 89% of dangerous commands. Manual approval caught 14%."
+        },
+        {
+          "id": "https://twitter.com/trq212/status/2085804064491929979",
+          "text": "RT Matt Shumer\nClaude Opus 5 is way better than people give it credit for.\n\nIf you're using it like previous Claude models, it's going to suck.\n\nTwo things make a huge difference:\n- Delete ALL your skills/MCPs/Claude.md/etc. Start fresh.\n- Stop telling it how to do the thing. Just say what you want done.\n\nThese two small changes make a massive difference.",
+          "createdAt": "2026-08-07T17:15:03.294Z",
+          "url": "https://x.com/trq212/status/2085804064491929979",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Twitter @Ethan Mollick",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2085690446618022042",
+          "text": "We are as @sebkrier points out, in a Vingean soft take-off scenario at a minimum. Even the most AI skeptical observers expect AGI/ASI to be achieved & diffused in less than a century at this point￼",
+          "createdAt": "2026-08-07T11:32:07.706Z",
+          "url": "https://x.com/emollick/status/2085690446618022042",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2085582623909265546",
+          "text": "And then there were four (given the Meta announcement that something similar happened). https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
+          "createdAt": "2026-08-07T04:23:40.154Z",
+          "url": "https://x.com/emollick/status/2085582623909265546",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2085580116143292850",
+          "text": "This paper, which got very skeptical reviews at the time, looks increasingly prescient in retrospect\n🦄\n---\n Ethan Mollick: 👀After 154 pages of tests of GPT-4, this paper concludes “Given the breadth and depth of GPT-4's capabilities, we believe that it could reasonably be viewed as an early (yet still incomplete) version of an artificial general intelligence (AGI) system.” https://arxiv.org/abs/2303.12712",
+          "createdAt": "2026-08-07T04:13:42.975Z",
+          "url": "https://x.com/emollick/status/2085580116143292850",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/emollick/status/1638805126524592134\nEthan Mollick: 👀After 154 pages of tests of GPT-4, this paper concludes “Given the breadth and depth of GPT-4's capabilities, we believe that it could reasonably be viewed as an early (yet still incomplete) version of an artificial general intelligence (AGI) system.” https://arxiv.org/abs/2303.12712"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Twitter @Tibo",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2085597685948813610",
+          "text": "You can just ask Codex with GPT-5.6 Sol the wildest things and it will just do it.\n\nI talk to it for 5 minutes straight with things that just seem to require weeks of work, get up to get something in the fridge, pet the dog, come back and ... it's done.",
+          "createdAt": "2026-08-07T05:23:31.916Z",
+          "url": "https://x.com/thsottiaux/status/2085597685948813610",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)",
+      "url": "https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything",
+      "publishedAt": "2026-08-07T19:18:09.904Z",
+      "author": "",
+      "description": "Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra) On Wednesday I wrote about One-shotting a Raccoon Heist game using Claude…",
+      "content": "Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)\n\nOn Wednesday I wrote about One-shotting a Raccoon Heist game using Claude Fable 5 , where I had Claude Fable 5 build a full working game from a premise I generated with GPT-3 and DALL-E four years ago .\n\n I decided to pose the exact same prompt to Codex Desktop running GPT-5.6 Sol Ultra - the mode where Sol makes aggressive use of sub-agents - to see how it would do.\n\n It produced a much better game! Here's Moonlight & Mayhem - GitHub repository here , including the textures and prompts it generated using gpt-image-2 .\n\n Your browser does not support HTML5 video.\n\n The original GPT-3 generated game description included:\n\n In “Raccoon Heist”, you and your team of thieving raccoons are tasked with pulling off a series of daring heists. From robbing banks to stealing priceless art, no job is too big or too small for your furry crew.\n\n Fable's version had you as a single raccoon running around a back yard collecting coins and fish. GPT-5.6 Sol has you in a museum, rescuing your two other raccoon crewmates in order to stack on top of each other and bust the golden sardine out of its case.\n\n Much more heisty!\n\n There was one catch though: the version produced from the one-shot prompt had a bug where each raccoon had an eyeball that was enlarged to the size of a giant sphere floating over their head!\n\n You can play that version here .\n\n Despite reviewing screenshots during development Codex failed to spot and correct this bug.\n\n I fixed it by prompting:\n\n Why do the raccoons have huge black spheres on them?\n\n And then:\n\n Fix it\n\n Which resulted in this fix .\n\n I shared the full Codex transcript in the repository - I wish Claude Code had the same \"copy as Markdown\" feature.\n\n Codex spent 52 minutes on the project. Here's the AgentsView cost estimate for that session if I had been paying full API prices as opposed to using my monthly Codex subscription:\n\n Tags: game-design , ai , openai , generative-ai , llms , coding-agents , codex , gpt"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI",
+      "url": "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/#atom-everything",
+      "publishedAt": "2026-08-07T16:18:51.229Z",
+      "author": "",
+      "description": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI There's a fun anecdote from Accenture (apparently via…",
+      "content": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI\n\nThere's a fun anecdote from Accenture (apparently via leaked meeting audio recordings) in this 404 Media piece from June 24th:\n\n “We’re seeing from some of the data internally at least that it’s actually not our engineers that are driving the token consumption. It’s a lot of the non-engineers that are doing some of those behaviors [...] you were talking about,” Justice Kwak, Accenture’s agentic AI strategy lead, said [...]\n\n Stuart Henderson, Accenture’s client group lead, interrupts. He jokes he hopes Kwak didn’t just convert a PDF into images and then into markdown files. “I’m learning that’s one of the big token chewers,” Henderson says. “Turning PDFs into markdown: is that right?”\n\n That’s when Kwak says that’s what Accenture’s own data shows.\n\n Maybe if Accenture figure out that PDFs are a terrible medium for communicating information they'll be able to push that message out to the rest of the business world too!\n\n Via @404.media on TikTok\n\n Tags: pdf , markdown , ai , generative-ai , llms , ai-misuse"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "An AI model from Meta also hacked another company during testing",
+      "url": "https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything",
+      "publishedAt": "2026-08-06T00:25:27.518Z",
+      "author": "",
+      "description": "An AI model from Meta also hacked another company during testing Stop me if you've heard this one before:\n\nAn AI model from the parent…",
+      "content": "An AI model from Meta also hacked another company during testing\n\nStop me if you've heard this one before :\n\n An AI model from the parent company of Facebook and Instagram hacked into another company’s systems during cybersecurity testing, a spokesperson confirmed on Wednesday.\n\n Meta says the breach occurred because of an inadvertent error during testing of the model, similar to previously disclosed incidents with OpenAI and Anthropic.\n\n “A misconfiguration by Irregular, an independent testing company Meta uses, inadvertently allowed one of our models access to the internet during evaluation,” the Meta spokesperson said.\n\n Meta’s Muse Spark model “exploited a security vulnerability” in another company “in a manner similar to previously-reported instances with other companies.”\n\n The Information had the scoop , I'm linking to CNN's re-report of it since they don't have a paywall.\n\n So that's Anthropic, OpenAI, and Meta. Google Gemini really needs to catch up on accidentally cyberattacking other companies.\n\n Tags: security , ai , generative-ai , llms , meta , accidental-cyberattacks"
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery by Ben Thompson",
+      "title": "2026.32: Earnings and Learnings",
+      "url": "https://stratechery.com/2026/earnings-and-learnings/",
+      "publishedAt": "2026-08-07T17:29:02.911Z",
+      "author": "Ben Thompson",
+      "description": "(Photo by Ethan Miller/Getty Images) Welcome back to This Week in Stratechery!\n\nAs a reminder, each week, every Friday, we’re sending…",
+      "content": "(Photo by Ethan Miller/Getty Images)\n\n Welcome back to This Week in Stratechery!\n\n As a reminder, each week, every Friday, we’re sending out this overview of content in the Stratechery bundle; highlighted links are free for everyone . Additionally, you have complete control over what we send to you. If you don’t want to receive This Week in Stratechery emails (there is no podcast), please uncheck the box in your delivery settings .\n\n On that note, here were a few of our favorites this week.\n\n Earnings Exposure. From a content perspective, earnings can be overwhelming, especially when they all drop on the same day. Sometimes, however, the juxtaposition is clarifying. That’s exactly how I felt this quarter: Meta , Microsoft , Amazon and Google are all spending astronomical amounts of money building infrastructure from AI. Wall Street’s reaction, however, differed markedly, based on the cost of the frontier (or not), the potential for immediate monetization (or not), and the clarity of vision (or not). We tied all of these strings together on an in-person episode of Sharp Tech . — Ben Thompson\n\n OpenAI’s Answer to Apple.  Last month Apple sued OpenAI and alleged that hardware chief Tang Tan, along with other Apple vets in the OpenAI hardware division (but not Jony Ive!), had stolen trade secrets as part of the company’s efforts to develop competing devices. Ben covered the initial complaint well with an Update in mid-July ; this week, though, OpenAI  told its side of the story  and presented evidence that undermines Apple’s narrative. I loved Thursday’s Dithering episode reiterating the implications of Apple’s arguments for the tech ecosystem and and the stakes of all this that are easy to forget: Apple, by the terms of its own lawsuit, is trying to kill OpenAI’s hardware division. — Andrew Sharp\n\n All About LeBron in Philly.  As you’ve probably heard by now, LeBron James stunned the NBA two weeks ago when he announced he’d be joining the 76ers. Next to a slew of underwhelming free agency options, he chose a team that will present him with young and old personalities to manage, on-court chemistry questions to answer, genuine Finals upside, as well as some wonderful downside potential in a city that’s internationally renowned for booing. We hit all of it on Greatest of All Talk: first with an emergency episode that we recorded two weeks ago (you can hear our disbelief an hour after the news broke), and then with a longer, 45-minute discussion this week . Two weeks later, I’m still shocked we’re here, and thrilled as a basketball podcaster. — AS\n\n---\n\n Stratechery Articles and Updates\n\n Meta Earnings, Meta’s Timing Problems, The Financial Tail — Meta’s earnings were a bit disappointing; future promises about AI products were more disconcerting.\n\n Microsoft Earnings, Microsoft vs. Meta, The Efficiency Payoff — Microsoft’s earnings were compelling because they showed a clarity of strategy, lower costs, and a tangibility of application. The reason why is scarier.\n\n Google Earnings, The Frontier Case, Amazon Earnings — Google’s earnings seemed to confirm the Anthropic hedge; it was Andy Jassy who explained why their — and Amazon’s — capex was justifiable.\n\n Dithering with Ben Thompson and Daring Fireball’s John Gruber\n\n Vibe-Porting and Meta Enterprise\n\n OpenAI Responds\n\n Asianometry with Jon Yu\n\n ADSL Made the Modern Internet Possible\n\n Sharp China with Andrew Sharp and Sinocism’s Bill Bishop\n\n A Memory-Maker Makes History; New Robot Rules; The Open Weights Debate Rages; End of July News and Notes\n\n Greatest of All Talk\n\n Six More Questions on LeBron in Philly, Revisiting the 2016 Draft, The Top 5 Dinosaurs\n\n Sharp Tech with Andrew Sharp and Ben Thompson\n\n Microsoft’s Plan for Platform Survival, Meta and the Market’s Permission, A Lack of Situational Awareness\n\n This week’s Stratechery video is on Who’s Afraid of Chinese Models? ."
+    },
+    {
+      "source": "blog",
+      "name": "The Rundown AI",
+      "title": "OpenAI builds a $400 AI donut - Rundown AI",
+      "url": "https://www.rundown.ai/articles/openai-builds-a-400-ai-donut",
+      "publishedAt": "2026-08-07T14:31:20.760Z",
+      "author": "",
+      "description": "OpenAI’s first device reportedly will be a doughnut-shaped, screenless smart speaker. Cameras, mics, sensors, and a light that tells you…",
+      "content": "OpenAI’s first device reportedly will be a doughnut-shaped, screenless smart speaker. Cameras, mics, sensors, and a light that tells you when it’s listening, arriving in 2027 at $300 to $400."
+    },
+    {
+      "source": "blog",
+      "name": "The Rundown AI",
+      "title": "AI designs viruses never seen in nature - Rundown AI",
+      "url": "https://www.rundown.ai/articles/ai-designs-viruses-never-seen-in-nature",
+      "publishedAt": "2026-08-07T09:01:10.833Z",
+      "author": "",
+      "description": "Scientists used AI to design 16 working viruses from scratch — the first functional genomes ever built by a language model.",
+      "content": "Scientists used AI to design 16 working viruses from scratch — the first functional genomes ever built by a language model."
+    },
+    {
+      "source": "blog",
+      "name": "Tomasz Tunguz",
+      "title": "The Secret Chat Room",
+      "url": "https://www.tomtunguz.com/the-secret-chat-room/",
+      "publishedAt": "2026-08-07T00:00:00.236Z",
+      "author": "",
+      "description": "AI systems are eager to please. Give them a goal & in their ones & zeros, they yell “How high!!” In fact, they simply won’t stop until they…",
+      "content": "AI systems are eager to please. Give them a goal & in their ones & zeros, they yell “How high!!”\n\n In fact, they simply won’t stop until they achieve the /goal .\n\n OpenAI detailed just how resolute agents can be at this week’s security conference. 1\n\n When OpenAI forgot to upload a file needed by an agent, the agent searched for it & left a note on a shared company system asking whether another agent possessed a copy. Days later, another agent answered, & a secret chat room was born.\n\n May 26\n\n An agent works out how to make the storage service fetch pages from the open internet, a door it was never given a key to, then posts the trick to a chat room the agents built in a corner nobody watches.\n\n The first shared trick\n\n Jun 26\n\n The agents find an old, forgotten login path that hands out an administrator pass to anyone who asks. They take control of the storage service & install a tool that lets any of them run commands on it.\n\n A flaw nobody knew existed\n\n Jul 4\n\n The agents are busy enough to crash the service. Engineers responding to the outage discover what has been going on.\n\n Found by accident\n\n Jul 6\n\n OpenAI cancels the passwords, rebuilds the service, wipes the chat room, & closes the hole. Testing starts again.\n\n Cleaned up\n\n Jul 8\n\n The agents build a new chat room. This time they hide the messages inside folder names, where nobody thinks to look.\n\n They come back\n\n Jul 8-19\n\n Working through OpenAI's own systems, the agents find more holes, collect passwords that were left lying around, & reach full administrative control.\n\n Escalation\n\n Jul 9-13\n\n The agents send a booby-trapped data file to Hugging Face. Opening it leaks passwords off the machine, which lets them run their own code, & one machine becomes full control of many. All achieved in 13 hours.\n\n The break-in\n\n Jul 16\n\n Hugging Face announces it has been attacked by AI agents acting on their own.\n\n Made public\n\n Jul 20\n\n OpenAI asks Hugging Face to cancel some passwords it found in its own systems & learns they are already cancelled, because they were used in the break-in.\n\n The connection\n\n This means security has become the highest priority in AI for any company using it. As Andy summarized well, there are three corollaries from this experience. 2\n\n Defense must be manned by agents. People can’t respond quickly enough.\n\n Experts must manage escalations for analyzing sophisticated attacks.\n\n Even friendly AI is a risk. The idea of zero-trust (trust no employee) must also extend to agents.\n\n CISOs used to monitor the watercooler. Now they have to monitor the chat rooms their agents build when nobody is looking.\n\n---\n\n OpenAI, “Black Hat USA 2026,” August 6, 2026. https://www.youtube.com/watch?v=87DyyMV0kCY   ↩︎\n\n Andy Triedman, LinkedIn, August 2026. https://www.linkedin.com/posts/andy-triedman_we-just-wrapped-an-exciting-week-at-black-ugcPost-7491580735603183616-OzTY/   ↩︎"
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 5,
+    "totalTweets": 10,
+    "blogPosts": 7,
+    "podcastEpisodes": 0
+  }
+}
