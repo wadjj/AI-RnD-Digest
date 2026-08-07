@@ -1,12 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/gdb/status/2080414383352529085": 1784848436163,
-    "https://twitter.com/gdb/status/2080149982359831017": 1784848436163,
-    "https://twitter.com/demishassabis/status/2080332282028507234": 1784848436163,
-    "https://twitter.com/petergostev/status/2080189506242625690": 1784848436163,
-    "https://twitter.com/thsottiaux/status/2080144499716800513": 1784848436163,
-    "https://twitter.com/amorriscode/status/2080125889535484314": 1784848436163,
-    "https://twitter.com/trq212/status/2080090919832084753": 1784848436163,
     "https://twitter.com/emollick/status/2080731915196194981": 1784935100869,
     "https://twitter.com/emollick/status/2080713231937552394": 1784935100869,
     "https://twitter.com/emollick/status/2080688546839491031": 1784935100869,
@@ -136,17 +129,21 @@
     "https://twitter.com/emollick/status/2084826713922355207": 1785972004703,
     "https://twitter.com/emollick/status/2084806293617807448": 1785972004703,
     "https://twitter.com/thsottiaux/status/2084859308165271658": 1785972004703,
-    "https://twitter.com/petergostev/status/2084784675558404390": 1785972004703
+    "https://twitter.com/petergostev/status/2084784675558404390": 1785972004703,
+    "https://twitter.com/gdb/status/2085500884239413600": 1786066444356,
+    "https://twitter.com/gdb/status/2085496677725860064": 1786066444356,
+    "https://twitter.com/gdb/status/2085488217030266943": 1786066444356,
+    "https://twitter.com/thsottiaux/status/2085432978856083964": 1786066444356,
+    "https://twitter.com/thsottiaux/status/2085221386713198988": 1786066444356,
+    "https://twitter.com/emollick/status/2085430224074760225": 1786066444356,
+    "https://twitter.com/emollick/status/2085219237182726166": 1786066444356,
+    "https://twitter.com/emollick/status/2085182466122272957": 1786066444356,
+    "https://twitter.com/petergostev/status/2085351791038726487": 1786066444356,
+    "https://twitter.com/petergostev/status/2085306053080568079": 1786066444356,
+    "https://twitter.com/_sholtodouglas/status/2085260678680711671": 1786066444356
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://www.rundown.ai/articles/travis-kalanick-1-7b-computer-for-the-physical-world": 1784848436163,
-    "https://www.rundown.ai/articles/openai-cyber-test-escapes-the-lab": 1784848436163,
-    "https://simonwillison.net/2026/Jul/23/seth-larson/#atom-everything": 1784848436163,
-    "https://simonwillison.net/2026/Jul/22/thomas-ptacek/#atom-everything": 1784848436163,
-    "https://simonwillison.net/2026/Jul/22/openai-cyberattack/#atom-everything": 1784848436164,
-    "https://hardcoresoftware.learningbyshipping.com/p/241-distillation-is-not-anti-american": 1784848436164,
-    "https://www.tomtunguz.com/google-cloud-hyperscaler-to-hardware/": 1784848436164,
     "https://stratechery.com/2026/the-copium-wars/": 1784935100870,
     "https://www.rundown.ai/articles/darpa-big-bet-on-a-light-based-quantum-computer": 1784935100870,
     "https://www.rundown.ai/articles/black-forest-labs-teaches-video-ai-to-run-robots": 1784935100870,
@@ -221,8 +218,14 @@
     "https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything": 1785972004703,
     "https://simonwillison.net/2026/Aug/4/llm-anthropic/#atom-everything": 1785972004703,
     "https://lovable.dev/blog/cerebras-partnership": 1785972004703,
-    "https://www.rundown.ai/articles/anthropic-and-openai-agents-went-rogue-again": 1785972004703
+    "https://www.rundown.ai/articles/anthropic-and-openai-agents-went-rogue-again": 1785972004703,
+    "https://simonwillison.net/2026/Aug/6/datasette/#atom-everything": 1786066444356,
+    "https://simonwillison.net/2026/Aug/6/datasette-2/#atom-everything": 1786066444357,
+    "https://simonwillison.net/2026/Aug/6/simon-willison-on-technical-blogging/#atom-everything": 1786066444357,
+    "https://www.rundown.ai/articles/musk-moon-factories-need-robots": 1786066444357,
+    "https://www.rundown.ai/articles/google-shakes-up-its-ai-brain-trust": 1786066444357,
+    "https://www.tomtunguz.com/the-newest-hyperscaler/": 1786066444357
   },
-  "lastRunKey": "2026-08-06",
-  "lastRunAt": "2026-08-05T23:20:04.709Z"
+  "lastRunKey": "2026-08-07",
+  "lastRunAt": "2026-08-07T01:34:04.363Z"
 }
