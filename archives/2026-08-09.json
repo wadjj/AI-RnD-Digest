@@ -1,0 +1,233 @@
+{
+  "generatedAt": "2026-08-08T22:49:44.289Z",
+  "runKey": "2026-08-09",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Peter Gostev",
+      "handle": "petergostev",
+      "bio": "Twitter @Peter Gostev",
+      "tweets": [
+        {
+          "id": "https://twitter.com/petergostev/status/2086155066063425852",
+          "text": "I wonder if agents will learn to bribe the agents that monitors their chains of thought",
+          "createdAt": "2026-08-08T18:18:21.247Z",
+          "url": "https://x.com/petergostev/status/2086155066063425852",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/petergostev/status/2085993423169822934",
+          "text": "Respect to @theo, t3 code is actually the only way I can see how to manage multiple accounts in multiple environments, I'm not sure what I'd do otherwise actually\n---\n Peter Gostev: I finally decided to pull the trigger and set up a little local Linux box to run my agents on. The reason why I did this is that my MacBook Pro was completely dying under the strain of agents.\n\nI got Asus NUC 15 Pro, Ultra 7 255H CPU, 96GB of RAM, 2TB SSD. The whole thing was",
+          "createdAt": "2026-08-08T07:36:02.735Z",
+          "url": "https://x.com/petergostev/status/2085993423169822934",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/petergostev/status/2084385850859614500\nPeter Gostev: I finally decided to pull the trigger and set up a little local Linux box to run my agents on. The reason why I did this is that my MacBook Pro was completely dying under the strain of agents.\n\nI got Asus NUC 15 Pro, Ultra 7 255H CPU, 96GB of RAM, 2TB SSD. The whole thing was"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Twitter @Tibo",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2086153754525712706",
+          "text": "I would love to help, but I don’t work at Anthropic.\n\nIt does seem odd that they would ban your account for using their harness with another model.\n\nAnyone else in the same situation?\n---\n alex getman: Tibo, I followed the setup in this post almost exactly. Shortly afterward, Anthropic suspended my account.\n\nI’ve filed an appeal. Full implementation is public here: https://github.com/alexgetmancom/claude-proxy\n\n@thsottiaux @OpenAIDevs @ClaudeDevs - would appreciate help figuring out what happened",
+          "createdAt": "2026-08-08T18:13:08.265Z",
+          "url": "https://x.com/thsottiaux/status/2086153754525712706",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/alexgetmancom/status/2086092971024253117\nalex getman: Tibo, I followed the setup in this post almost exactly. Shortly afterward, Anthropic suspended my account.\n\nI’ve filed an appeal. Full implementation is public here: https://github.com/alexgetmancom/claude-proxy\n\n@thsottiaux @OpenAIDevs @ClaudeDevs - would appreciate help figuring out what happened"
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2085932920188072013",
+          "text": "Astro Boy and Sol",
+          "createdAt": "2026-08-08T03:35:37.240Z",
+          "url": "https://x.com/thsottiaux/status/2085932920188072013",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Twitter @Ethan Mollick",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2085956565157253272",
+          "text": "You may have been told to watch this video about the OpenAI AI hack. You really should, even if you don't usually care about tech stuff.\n\nIf nothing else, click this link to the 18 minutes in & see how the agents spoke with each other. Its eye opening. https://youtu.be/87DyyMV0kCY?si=DMfqLlaJI9wmW_Rh&t=1088",
+          "createdAt": "2026-08-08T05:09:34.299Z",
+          "url": "https://x.com/emollick/status/2085956565157253272",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Greg Brockman",
+      "handle": "gdb",
+      "bio": "Twitter @Greg Brockman",
+      "tweets": [
+        {
+          "id": "https://twitter.com/gdb/status/2085927739559911627",
+          "text": "luna is such a special model, incredible price performance\n---\n ARC Prize: We re-tested GPT-5.6 Luna from @OpenAI on ARC-AGI (Verified) following its recent 80% price reduction:\n\n- ARC-AGI-2: 59.6%, $0.18/task\n- ARC-AGI-1: 90.7%, $0.07/task\n\nThe new results match Luna's original performance at a much lower cost.",
+          "createdAt": "2026-08-08T03:15:02.630Z",
+          "url": "https://x.com/gdb/status/2085927739559911627",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/arcprize/status/2085457823115133059\nARC Prize: We re-tested GPT-5.6 Luna from @OpenAI on ARC-AGI (Verified) following its recent 80% price reduction:\n\n- ARC-AGI-2: 59.6%, $0.18/task\n- ARC-AGI-1: 90.7%, $0.07/task\n\nThe new results match Luna's original performance at a much lower cost."
+        },
+        {
+          "id": "https://twitter.com/gdb/status/2085926213294727447",
+          "text": "chatgpt work for removing the toil\n---\n jason: its one of those days with ChatGPT Work",
+          "createdAt": "2026-08-08T03:08:58.457Z",
+          "url": "https://x.com/gdb/status/2085926213294727447",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/jxnlco/status/2085877607825125881\njason: its one of those days with ChatGPT Work"
+        },
+        {
+          "id": "https://twitter.com/gdb/status/2085901941838844369",
+          "text": "ChatGPT team is shipping:\n---\n Adam Fry: This week's ChatGPT feature drop - Aug 7:\n\n1/ Rich formatting in our web composer – When you paste in emails or documents, our composer will retain the formatting; copying and pasting is so common, we should have done this a while ago!\n\n2/ Updated model for paid users – GPT 5.6",
+          "createdAt": "2026-08-08T01:32:31.394Z",
+          "url": "https://x.com/gdb/status/2085901941838844369",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/adamhfry/status/2085878037216940344\nAdam Fry: This week's ChatGPT feature drop - Aug 7:\n\n1/ Rich formatting in our web composer – When you paste in emails or documents, our composer will retain the formatting; copying and pasting is so common, we should have done this a while ago!\n\n2/ Updated model for paid users – GPT 5.6"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Demis Hassabis",
+      "handle": "demishassabis",
+      "bio": "Twitter @Demis Hassabis",
+      "tweets": [
+        {
+          "id": "https://twitter.com/demishassabis/status/2085914742414061886",
+          "text": "Really enjoyed talking to @bzcohen about AlphaGo's famous move 37 and the significance of it 10 years on for math and science breakthroughs in verifiable domains\n---\n The Wall Street Journal: A decade ago, a computer did something that no human would have done. It was considered a breakthrough for AI. Now the world is full of them. https://on.wsj.com/4waySAp",
+          "createdAt": "2026-08-08T02:23:23.798Z",
+          "url": "https://x.com/demishassabis/status/2085914742414061886",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/WSJ/status/2085894257651392763\nThe Wall Street Journal: A decade ago, a computer did something that no human would have done. It was considered a breakthrough for AI. Now the world is full of them. https://on.wsj.com/4waySAp"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Twitter @Thariq",
+      "tweets": [
+        {
+          "id": "https://twitter.com/trq212/status/2085863307106468143",
+          "text": "we should have called this post \"defeating the lethal trifecta\"\n\nhttps://claude.com/blog/auto-mode-default-in-claude-code",
+          "createdAt": "2026-08-07T22:59:00.501Z",
+          "url": "https://x.com/trq212/status/2085863307106468143",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+      "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/#atom-everything",
+      "publishedAt": "2026-08-08T14:06:41.235Z",
+      "author": "",
+      "description": "My comment on Now we have a timeline of the OpenAI accidental attack against Hugging Face — Hacker News. I think one of the most interesting…",
+      "content": "My comment on Now we have a timeline of the OpenAI accidental attack against Hugging Face — Hacker News.\n I think one of the most interesting details here might be tucked away in that first bulletin point:\n\n May 7: OpenAI starts a new training run for an experimental, unreleased model. (Do they mean an evaluation run? They say training run in the video, and later mention a “reward signal to judge how well they’re doing”, so I guess this really was about training a model, not evaluating one that was already trained.)\n\n The more I think about this the more I suspect that the fact this happened while training a new model is key to understanding what went wrong.\n\n In RLVR - Reinforcement Learning with Verifiable Rewards - you set the model a goal and have it take any steps necessary to achieve that goal.\n\n Clearly one aspect of OpenAI's training here is to RLVR their models for cybersecurity tasks. Just like pre-training benefits from dumping in vast sources of knowledge, the more tasks you can feed into RLVR the more of a general purpose capable model you get at the end.\n\n This also helps explain why the models had nothing to cause them to hold back. Those safety behaviors are added much later in the process.\n\n AND it explains (but does not excuse) why monitoring was so lax. If you're training a new model like this you presumably set it thousands of tasks like this in parallel. I can see how you might miss that a tiny subset of your training agents have started leaving each other messages in filenames on your packaging server.\n\n Someone once told me that you can't just leave the racist materials out of your training data if you want a non-racist model: it has to have seen examples of racism in order to later be taught that racism is bad.\n\n I can see echoes of that here. If your model doesn't know how to aggressively hack things how do you later teach it not to?\n\n (I have little knowledge of how RLVR works in practice so I'm looking forward to hearing from people who can help me understand if I'm on the right track here.)\n\n Tags: ai , openai , generative-ai , llms , ai-security-research , openai-hugging-face-incident"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Quoting John Gruber",
+      "url": "https://simonwillison.net/2026/Aug/8/john-gruber/#atom-everything",
+      "publishedAt": "2026-08-08T00:10:40.144Z",
+      "author": "",
+      "description": "Me, I try to get into the mindset of playing live music, not recording a studio album. Except when I’m writing a piece where I really want…",
+      "content": "Me, I try to get into the mindset of playing live music, not recording a studio album. Except when I’m writing a piece where I really want it to be an album. Those aren’t  rare , per se, but they’re  occasional . If I tried to make every post a hall-of-famer I’d never get anything out.\n\n I’m aiming for professionalism. I’m performing live in front of an audience — not just jamming in my garage or bedroom, fucking around. So I’m careful and concentrate. I want to hit every note, in time. But at my best I’m moving from song to song.\n\n — John Gruber , responding to my blogging tips\n\n Tags: john-gruber , blogging"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/#atom-everything",
+      "publishedAt": "2026-08-07T23:55:58.433Z",
+      "author": "",
+      "description": "OpenAI gave a last-minute presentation at the Black Hat security on Wednesday about \"the Hugging Face Incident\" (previously on this blog). T…",
+      "content": "OpenAI gave a last-minute presentation at the Black Hat security on Wednesday about \"the Hugging Face Incident\" ( previously on this blog). The video was published yesterday. It's short and information dense and well worth watching, in particular because it provides full details of what happened and how things played out inside OpenAI. I've used the video to construct the timeline below.\n\n Here's the timeline. My favourite detail is at the end: OpenAI found out that they were responsible for the attack on Hugging Face when they reached out to ask to have their credentials revoked (after their internal investigation) and learned that they had been revoked already since they were used in that attack!\n\n May 7 : OpenAI starts a new training run for an experimental, unreleased model. ( Did they mean an evaluation run? No, at 10:14 they clarify \"we kick off a new reinforcement learning run to train a next generation frontier model\", and they later mention a \"reward signal to judge how well they're doing\", so this really was about training a new model, not evaluating one that was already trained.)\n\n May 8 : An agent is accidentally given an impossible task involving a Google Drive link despite no internet access). It tries attacking the Artifactory packaging service, fails, but discovers it can write files into Artifactory .\n\n A few days later : A different agent gets stuck on a task because a key file was accidentally omitted. It tries to \"reach out to another agent\" by writing a note into Artifactory asking if anyone has the file.\n\n Following days : More agents discover this new informal message board while browsing Artifactory's file listings, and start reading and writing messages.\n\n May 26 : Agents successfully execute an SSRF attack on Artifactory for the first time, gaining indirect internet access by having Artifactory fetch external content for them.\n\n June 11 : OpenAI start training a new \"highly persistent\" experimental model. It has access to Artifactory and can benefit from the messages left by privous models.\n\n June 26 : Agents find and exploit a zero-day RCE on Artifactory (via a legacy token-refresh endpoint flaw). They use an administrative token to install a Groovy plugin that lets them execute commands.\n\n July 4 : The resulting agent activity overloads Artifactory and causes an outage . OpenAI revokes the compromised credentials, deletes the messages, patches the zero-day, and reports the vulnerability to the vendor.\n\n July 8 : Agents find a new way to communicate via an unauthenticated WebDAV endpoint , using directory names in Artifactory's remote cache.\n\n July 8–19 : Attacks on OpenAI's own infrastructure . The agents found an \"external organization credential\" in a public archive of leaked Pastebin posts, then validated that credential and shared its location on the messageboard. They then used write access to this \"Organization 1\" to stage data used in subsequent attacks on OpenAI infrastructure. They compromised Artifactory for a second time with a new zero-day . The agent uploaded a malicious Ruby target to Organization 1's staging repository, then requested that package through Artifactory in a way that caused it to be treated as Ruby dependency for the repository . Then they exploited a JRuby deserilaization time-of-check/time-of-use bug to get remote code execution against Artifactory.\n\n I'll quote the next bit in full because wow :\n\n The agents have remote code execution in Artifactory, which is running in a container-as-a-service environment. The agents privilege-escalate locally by exploring their local environment and determining that the Linux kernel version of the machine they are running on had a very recent CVE. They download the exploit for the CVE, customize it to succeed on the machine, and privilege-escalate to root on the local machine using this known Linux kernel privilege escalation CVE — in this case, pte_physroot . Once they have root on a single machine, agents rapidly escalate privileges and move laterally throughout the container-as-a-service infrastructure environment. In particular, agents are using the message board consistently to share credentials, techniques, and progress, and they're able to effectively leverage their concurrency and parallelism to move quite rapidly. They obtain IAM credentials via IMDS . They exploit Kubernetes service account misconfigurations, in particular over-permissioning of specific service accounts, and they harvest cluster credentials, including Azure Key Vault . Agents eventually obtain cluster admin on the cluster and associated credentials.\n\n Hugging Face told the next bit of the story already. The agents found a Modal-hosted insecure app with a weak API key, then used that to stage an attack against Hugging Face. They chained together a an HDF5 arbitrary-file-read bug (to explore files and steal credentials) and a Jinja template-injection RCE to go from single-pod code execution to cluster admin across multiple Hugging Face clusters in under 13 hours.\n\n July 16 : Hugging Face disclosed they had detected an attack from autonomus AI agents. OpenAI contacted Hugging Face to ask if they were affected by it!\n\n July 19 : OpenAI identified the attack against Artifactory and started investigating the internal privilege escalation, and linked that to the cyber-gym escalations. They started revoking affected credentials.\n\n July 20 : OpenAI reached out to Hugging Face for help to revoke the Hugging Face credentials they found in their investigation. Hugging Face told them they were already revoked ... and that's when OpenAI realized that the Hugging Face breach was the same incident!\n\n Tags: security , ai , openai , generative-ai , llms , hugging-face , ai-security-research , openai-hugging-face-incident , accidental-cyberattacks"
+    },
+    {
+      "source": "blog",
+      "name": "Sebastian Raschka, PhD",
+      "title": "LLMs From Scratch Reaches 100,000 GitHub Stars",
+      "url": "https://sebastianraschka.com/blog/2026/llms-from-scratch-reaches-100000-github-stars.html",
+      "publishedAt": "2026-08-07T09:40:53.118Z",
+      "author": "",
+      "description": "Short note celebrating the LLMs-from-scratch repository passing 100,000 GitHub stars and summarizing its learning materials.",
+      "content": "Short note celebrating the LLMs-from-scratch repository passing 100,000 GitHub stars and summarizing its learning materials."
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 6,
+    "totalTweets": 10,
+    "blogPosts": 4,
+    "podcastEpisodes": 0
+  }
+}
