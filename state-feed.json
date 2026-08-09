@@ -1,19 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/thsottiaux/status/2081096447718723984": 1785021335932,
-    "https://twitter.com/thsottiaux/status/2080876712439747052": 1785021335932,
-    "https://twitter.com/thsottiaux/status/2080823473090461721": 1785021335932,
-    "https://twitter.com/emollick/status/2081048797308662097": 1785021335932,
-    "https://twitter.com/emollick/status/2080876002444496942": 1785021335932,
-    "https://twitter.com/emollick/status/2080829512275624173": 1785021335932,
-    "https://twitter.com/gdb/status/2080939030062178512": 1785021335932,
-    "https://twitter.com/gdb/status/2080874519091151227": 1785021335932,
-    "https://twitter.com/gdb/status/2080861203010568232": 1785021335932,
-    "https://twitter.com/petergostev/status/2080930553553957061": 1785021335932,
-    "https://twitter.com/petergostev/status/2080905509054353515": 1785021335932,
-    "https://twitter.com/petergostev/status/2080797705970798841": 1785021335932,
-    "https://twitter.com/polynoamial/status/2080859568343597179": 1785021335932,
-    "https://twitter.com/trq212/status/2081051987517301066": 1785021335933,
     "https://twitter.com/gdb/status/2081409255916359771": 1785107682310,
     "https://twitter.com/gdb/status/2081285058485534856": 1785107682310,
     "https://twitter.com/gdb/status/2081233872168390661": 1785107682310,
@@ -150,13 +136,18 @@
     "https://twitter.com/gdb/status/2085926213294727447": 1786229384291,
     "https://twitter.com/gdb/status/2085901941838844369": 1786229384291,
     "https://twitter.com/demishassabis/status/2085914742414061886": 1786229384291,
-    "https://twitter.com/trq212/status/2085863307106468143": 1786229384291
+    "https://twitter.com/trq212/status/2085863307106468143": 1786229384291,
+    "https://twitter.com/bcherny/status/2086520950259118464": 1786315947597,
+    "https://twitter.com/petergostev/status/2086446145622942025": 1786315947597,
+    "https://twitter.com/petergostev/status/2086418286430834863": 1786315947597,
+    "https://twitter.com/gdb/status/2086364812326670454": 1786315947597,
+    "https://twitter.com/gdb/status/2086246436690350190": 1786315947597,
+    "https://twitter.com/thsottiaux/status/2086353229894529148": 1786315947597,
+    "https://twitter.com/emollick/status/2086261230889492678": 1786315947597,
+    "https://twitter.com/_sholtodouglas/status/2086313352318661096": 1786315947597
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://sebastianraschka.com/blog/2026/reasoning-model-listing-6-5-correction.html": 1785021335933,
-    "https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything": 1785021335933,
-    "https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything": 1785021335933,
     "https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything": 1785107682311,
     "https://simonwillison.net/2026/Jul/25/ruff/#atom-everything": 1785107682311,
     "https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything": 1785194941167,
@@ -236,8 +227,9 @@
     "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/#atom-everything": 1786229384291,
     "https://simonwillison.net/2026/Aug/8/john-gruber/#atom-everything": 1786229384291,
     "https://simonwillison.net/2026/Aug/7/openai-timeline/#atom-everything": 1786229384291,
-    "https://sebastianraschka.com/blog/2026/llms-from-scratch-reaches-100000-github-stars.html": 1786229384291
+    "https://sebastianraschka.com/blog/2026/llms-from-scratch-reaches-100000-github-stars.html": 1786229384291,
+    "https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything": 1786315947597
   },
-  "lastRunKey": "2026-08-09",
-  "lastRunAt": "2026-08-08T22:49:44.297Z"
+  "lastRunKey": "2026-08-10",
+  "lastRunAt": "2026-08-09T22:52:27.602Z"
 }
