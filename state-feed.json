@@ -1,14 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/thsottiaux/status/2081860991210631476": 1785194941165,
-    "https://twitter.com/thsottiaux/status/2081839118531834176": 1785194941166,
-    "https://twitter.com/thsottiaux/status/2081534792903147881": 1785194941166,
-    "https://twitter.com/petergostev/status/2081848495661564209": 1785194941166,
-    "https://twitter.com/petergostev/status/2081762420947562928": 1785194941166,
-    "https://twitter.com/petergostev/status/2081729347778441279": 1785194941166,
-    "https://twitter.com/emollick/status/2081801855860883634": 1785194941166,
-    "https://twitter.com/emollick/status/2081603003866329496": 1785194941166,
-    "https://twitter.com/emollick/status/2081601965360910597": 1785194941166,
     "https://twitter.com/_sholtodouglas/status/2082143897250312264": 1785280661502,
     "https://twitter.com/_sholtodouglas/status/2081911870630551729": 1785280661502,
     "https://twitter.com/_sholtodouglas/status/2081902824733220943": 1785280661502,
@@ -151,15 +142,15 @@
     "https://twitter.com/amorriscode/status/2086926012252930372": 1786402713614,
     "https://twitter.com/bcherny/status/2086859917756133459": 1786402713615,
     "https://twitter.com/JeffDean/status/2086662585508921672": 1786402713615,
-    "https://twitter.com/petergostev/status/2086599803853492284": 1786402713615
+    "https://twitter.com/petergostev/status/2086599803853492284": 1786402713615,
+    "https://twitter.com/thsottiaux/status/2087254026232775052": 1786489560439,
+    "https://twitter.com/thsottiaux/status/2087252528513814773": 1786489560439,
+    "https://twitter.com/koraykv/status/2087253148973060343": 1786489560439,
+    "https://twitter.com/demishassabis/status/2087252280886145166": 1786489560439,
+    "https://twitter.com/JeffDean/status/2087038694054072637": 1786489560439
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything": 1785194941167,
-    "https://jack-clark.net/2026/07/27/import-ai-466-the-bitter-lesson-for-robotics-ais-complete-week-long-programming-tasks-and-openais-accidental-ai-hacker/": 1785194941167,
-    "https://stratechery.com/2026/vacation-week-of-july-27/": 1785194941167,
-    "https://www.rundown.ai/articles/anthropic-opus-5-surprise": 1785194941167,
-    "https://sebastianraschka.com/blog/2026/notable-open-weight-models-this-week.html": 1785194941167,
     "https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything": 1785280661503,
     "https://simonwillison.net/2026/Jul/28/akshat-bubna/#atom-everything": 1785280661503,
     "https://simonwillison.net/2026/Jul/28/uv/#atom-everything": 1785280661503,
@@ -241,8 +232,16 @@
     "https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything": 1786402713615,
     "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything": 1786402713615,
     "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything": 1786402713615,
-    "https://www.tomtunguz.com/ai-harness-arr-multiples/": 1786402713615
+    "https://www.tomtunguz.com/ai-harness-arr-multiples/": 1786402713615,
+    "https://www.rundown.ai/articles/apple-almost-glass-iphone": 1786489560440,
+    "https://www.rundown.ai/articles/meta-returns-to-its-open-source-roots": 1786489560440,
+    "https://stratechery.com/2026/nvidias-risky-business/": 1786489560440,
+    "https://sebastianraschka.com/blog/2026/muse-glimmer-30b-architecture-notes.html": 1786489560440,
+    "https://lovable.dev/blog/the-model-picker-is-a-dead-end": 1786489560440,
+    "https://www.tomtunguz.com/a-winner-in-every-category/": 1786489560440,
+    "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/#atom-everything": 1786489560440,
+    "https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything": 1786489560440
   },
-  "lastRunKey": "2026-08-11",
-  "lastRunAt": "2026-08-10T22:58:33.621Z"
+  "lastRunKey": "2026-08-12",
+  "lastRunAt": "2026-08-11T23:06:00.446Z"
 }

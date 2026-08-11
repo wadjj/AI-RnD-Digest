@@ -1,0 +1,197 @@
+{
+  "generatedAt": "2026-08-11T23:06:00.438Z",
+  "runKey": "2026-08-12",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Twitter @Tibo",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2087254026232775052",
+          "text": "We did it, finally... Codex & ChatGPT desktop, now on Linux.\n\nThanks for waiting and you can cancel that MacBook order if you got impatient. It’s that good.\n\n👀\n---\n OpenAI: Now in preview: The ChatGPT desktop app for Linux.\n\nUse ChatGPT, ChatGPT Work, and Codex where you already work and build, with your projects and browser workflows on supported Linux systems.",
+          "createdAt": "2026-08-11T19:05:13.453Z",
+          "url": "https://x.com/thsottiaux/status/2087254026232775052",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/OpenAI/status/2087231350134980830\nOpenAI: Now in preview: The ChatGPT desktop app for Linux.\n\nUse ChatGPT, ChatGPT Work, and Codex where you already work and build, with your projects and browser workflows on supported Linux systems."
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2087252528513814773",
+          "text": "Import your world. Codex. Run.\n---\n OpenAI Developers: You can now keep your work from other agents in sync with ChatGPT Work and Codex.\n\nImport projects, chats, skills, and plugins, review your import history, and opt in to automatic updates in Settings.\n\nNow available in the ChatGPT desktop app.",
+          "createdAt": "2026-08-11T18:59:16.009Z",
+          "url": "https://x.com/thsottiaux/status/2087252528513814773",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/OpenAIDevs/status/2087242829076791392\nOpenAI Developers: You can now keep your work from other agents in sync with ChatGPT Work and Codex.\n\nImport projects, chats, skills, and plugins, review your import history, and opt in to automatic updates in Settings.\n\nNow available in the ChatGPT desktop app."
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "koray kavukcuoglu",
+      "handle": "koraykv",
+      "bio": "Twitter @koray kavukcuoglu",
+      "tweets": [
+        {
+          "id": "https://twitter.com/koraykv/status/2087253148973060343",
+          "text": "What a tremendous milestone - thanks to all 1B+ people globally who use the Gemini app to help them throughout their day and to our entire team for great work!\n---\n Sundar Pichai: 1B+ people are now using @Geminiapp every month to spark new ideas and get things done. It’s our fastest growing product ever, and our 14th to hit the 1B-user mark.\n\nKudos to @JoshWoodward & the entire Gemini team, and thank you to everyone who has been on this journey with us -",
+          "createdAt": "2026-08-11T19:01:44.154Z",
+          "url": "https://x.com/koraykv/status/2087253148973060343",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/sundarpichai/status/2087222656819241292\nSundar Pichai: 1B+ people are now using @Geminiapp every month to spark new ideas and get things done. It’s our fastest growing product ever, and our 14th to hit the 1B-user mark.\n\nKudos to @JoshWoodward & the entire Gemini team, and thank you to everyone who has been on this journey with us -"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Demis Hassabis",
+      "handle": "demishassabis",
+      "bio": "Twitter @Demis Hassabis",
+      "tweets": [
+        {
+          "id": "https://twitter.com/demishassabis/status/2087252280886145166",
+          "text": "RT Google Gemma\n🎉 1 BILLION DOWNLOADS 🎉\n\nTo celebrate this exciting milestone, we’re hosting an exclusive evening in SF on Aug 20 dedicated to YOU, the open-source builders, researchers, and contributors driving the Gemmaverse forward.\n\nSpace is limited. Apply for your spot here: https://cerebralvalley.ai/e/gemma-1-billion-celebration",
+          "createdAt": "2026-08-11T16:07:40.591Z",
+          "url": "https://x.com/demishassabis/status/2087252280886145166",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Jeff Dean",
+      "handle": "JeffDean",
+      "bio": "Twitter @Jeff Dean",
+      "tweets": [
+        {
+          "id": "https://twitter.com/JeffDean/status/2087038694054072637",
+          "text": "Indeed, it has been quite a week, so I thought I'd share it with the KDD 2026 audience! For my Google colleagues who might have sent me internal chat messages after I closed my laptop for a final time on Thursday afternoon, I apologize for my lack of response!\n\n(Zoomed in)\n\n---\n Dhruv Kuchhal: Legendary! Thanks for sharing the behind-the-scenes @JeffDean!",
+          "createdAt": "2026-08-11T04:49:34.119Z",
+          "url": "https://x.com/JeffDean/status/2087038694054072637",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/kuchhal_dhruv/status/2086967141828349960\nDhruv Kuchhal: Legendary! Thanks for sharing the behind-the-scenes @JeffDean!"
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "The Rundown AI",
+      "title": "Apple's almost-glass iPhone - Rundown AI",
+      "url": "https://www.rundown.ai/articles/apple-almost-glass-iphone",
+      "publishedAt": "2026-08-11T14:30:19.192Z",
+      "author": "",
+      "description": "Apple has been chasing the dream of a glass iPhone for a decade. On Monday, Jefferies said it was dead and downgraded the stock. Bloomberg…",
+      "content": "Apple has been chasing the dream of a glass iPhone for a decade. On Monday, Jefferies said it was dead and downgraded the stock. Bloomberg then reported the 2027 Pro is alive — but it’ll be “glass-centric,” not all-glass."
+    },
+    {
+      "source": "blog",
+      "name": "The Rundown AI",
+      "title": "Meta returns to its open-source roots - Rundown AI",
+      "url": "https://www.rundown.ai/articles/meta-returns-to-its-open-source-roots",
+      "publishedAt": "2026-08-11T09:00:49.022Z",
+      "author": "",
+      "description": "PLUS: Go from idea to website with ChatGPT Work + Codex",
+      "content": "PLUS: Go from idea to website with ChatGPT Work + Codex"
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery by Ben Thompson",
+      "title": "Nvidia’s Risky Business",
+      "url": "https://stratechery.com/2026/nvidias-risky-business/",
+      "publishedAt": "2026-08-11T10:00:00.110Z",
+      "author": "Ben Thompson",
+      "description": "Listen to this post: Log in to listen\n\nOn January 1, 1870, Jay Cooke, hailed as an American hero for his…",
+      "content": "Listen to this post :\n\n Log in to listen\n\n On January 1, 1870, Jay Cooke, hailed as an American hero for his role in financing the Union effort in the Civil War, signed a contract that would, if you squint, lead to world war.\n\n In 1864, Congress had created the Northern Pacific Railway Company with the goal of linking the Great Lakes and Puget Sound with tracks that would eventually run from Duluth to Tacoma; the charter included 40 million acres of land adjacent to the proposed line in exchange for accomplishing the build-out. For the ensuing six years, however, Northern Pacific struggled to secure financing, even as the Union Pacific and Central Pacific railroads built towards each other, driving the golden spike linking Sacramento and Omaha in May 1869.\n\n Northern Pacific had approached Cooke about funding in 1866, but lacked the generous federal guarantees that undergirded Union Pacific and Central Pacific (which, it should be noted, led to an incredible amount of graft); Cooke, himself no stranger to the financial power of the federal government, wasn’t interested. Ultimately, however, Northern Pacific gave him an offer he couldn’t resist: a commission of 12 percent on every bond, and $200 of Northern Pacific stock for every $1,000 in bonds he sold.\n\n Cooke soon found that his institutional peers agreed with his earlier refusal, and weren’t interested in his bonds, so he leaned on the same tactics he honed selling war bonds: appeals to patriotism, control of the media, and promises of railroad fortunes, backed by industrial-scale distribution. At the peak Cooke employed 1,500 salespeople and funded 1,300 newspapers (through a combination of advertising and direct payments) with a brand burnished by the Civil War. Retail investors could already buy railway bonds; Cooke made them his primary funding mechanism.\n\n This was, to be certain, an incredible innovation. It used to be the case that if you couldn’t get loans from the government or from banks, you couldn’t get much money at all. The problem was that Northern Pacific’s capital needs were endless, and by September 1873, as credit tightened worldwide thanks to a crash on the Vienna stock exchange and the demonetization of silver, Cooke, who had been funding Northern Pacific from deposits in between bond issuances, could find no more buyers. The subsequent bankruptcy of Jay Cooke & Company triggered the Panic of 1873, culminating in endless railroad bankruptcies across the country, a multi-year depression, multi-decade deflation, and, one could argue, the financial conditions that made Europe, four decades later, into a tinder box.\n\n Northern Pacific did eventually finish their line, by the way, with multiple bankruptcies along the way; ultimately, they were one of four railroads that were merged to form the Burlington Northern Railroad. Burlington Northern would eventually merge with the Atchison, Topeka and Santa Fe Railway to form BNSF Railway; Berkshire Hathaway would purchase the parent corporation in 2009.\n\n Blowing Through Debt\n\n If this story sounds vaguely familiar it might be because Cooke is — for obvious reasons — a central character in Liaquat Ahamed’s new book, 1873 , released earlier this year. Ahamed is not shy about drawing a link between the collapse of the railroad buildout and the current AI moment; the book’s very first page — even before page 1 — is about translating sums of money, and concludes thusly:\n\n In order to grasp the true significance of sums of money that relate to the economic situation of whole countries — such as the size of the indemnity imposed on France after the Franco-Prussian war — it is most useful not simply to make allowances for changes in the cost of living but instead to adjust for changes in the size of economies. To translate such figures into comparable 2026 magnitudes, multiply by a factor of 1,200. Thus the $500 million that went into U.S. railway bonds annually during the boom years of the early 1870s would today be the equivalent of $600 billion, roughly what is projected to be invested by major tech companies in 2026.\n\n Microsoft CEO Satya Nadella is certainly aware of the connection: he cited 1873 as “the book to be read” on the company’s recent earnings call . Perhaps it’s not a coincidence, then, that Microsoft, alone amongst the hyperscalers , still boasts substantial free cash flow — $19.6 billion last quarter. Microsoft is the one hyperscaler still abiding by the dictum used to deny the existence of a bubble: its CapEx isn’t funded by debt.\n\n This was, believe it or not, a defense that could be used for nearly all of Big Tech a year ago; then, between September and November, Oracle, Meta, Alphabet, and Amazon issued a combined $80 billion in debt for building out infrastructure. That was only the beginning: after raising a combined $108 billion in all of 2025, these four companies have, as of July 7, already raised $194 billion this year. Unsurprisingly, spreads are rising, and 86% of the bonds issued this year are already trading at higher yields than at issuance. Cover for recent issuance has fallen to less than 2x, from 5x in February.\n\n The real shock, however, came at the beginning of June, when Google announced it would raise $85 billion in equity, including a special $10 billion issuance to the aforementioned Berkshire Hathaway. I wrote at the time in The Google Capital Company :\n\n It is worth noting that $10 billion is a relatively small amount of money to both companies. To that end, perhaps the primary utility is as a signaling mechanism. On Google’s side, the signal is that the expected demand is actually far greater than anyone thinks, and that the company is ready and willing to fund supply using all means at its disposal, including equity; for them Berkshire Hathaway’s investment is an endorsement of this view and a validation of the wisdom of the investment. And, on the flip side, if the signal is correct, then Berkshire Hathaway is getting a deal and putting its cash flow machines to work building the future.\n\n I concluded:\n\n Implicit in this analysis was that there was enough compute capacity in the world to be bought; what happens, however, when and if there isn’t? What if the ultimate battle — the one that determines who gets compute — becomes a matter of who can bring the most cash to bear? And what if that advantage compounds, such that the company with the most cash capacity ends up with the most compute capacity (which we already know they will sell, in addition to using themselves) driving the ability to generate more cash? In that world, what company would be your best bet?\n\n The implied answer, of course, was Google.\n\n DeepMind Drama\n\n Google right now is no one’s bet, at least in terms of the frontier. After the departure of DeepMind CEO Demis Hassabis (technically promoted to chairman, but no longer in charge of day-to-day operations) and Gemini co-lead and former Chief Scientist Jeff Dean, along with a host of other prominent researchers, SemiAnalysis declared that Gemini is Cooked :\n\n For all intents and purposes, we believe DeepMind is no longer a frontier lab. We said as much a few months ago to our Tokenomics clients due to large numbers of departures from their reinforcement learning teams and poor compute allocation. Google will continue meandering on and releasing models, but their odds of reaching SOTA again have dropped to zero.\n\n Furthermore, the biggest beneficiary of today’s news is neither Anthropic nor OpenAI—it’s Google Cloud. Whereas Gemini and GCP used to desperately fight for compute allocation, it’s now clear that Thomas Kurian won. We expect GCP revenue growth to meaningfully accelerate as a result.\n\n From later in the post:\n\n We’ve obviously been quite bearish on DeepMind thus far, and if we had to steelman the case for why they’ll still be able to train a true SOTA model in the future, it would go something like the following:\n\n The current setup clearly wasn’t working. With the existing leadership team, their odds of catching up to Anthropic/OpenAI looked extremely slim.\n\n Now that they’ve cleaned house, the new guys can start from a blank slate. Maybe they’ll even acqui-hire a neolab like SSI or Thinking Machines.\n\n With this new team, their odds of catching up to the frontier actually increase.\n\n Perhaps there’s some world in which this happens, but we think the odds are basically zero. The issue with Google was not Jeff Dean nor Noam Shazeer, but rather their extremely bureaucratic, painfully slow, and strategically timid culture. Remember that DeepMind had an AI chatbot 1 year before ChatGPT but was not allowed to release it due to fears of disrupting their core business.\n\n Actually, you could make the case the problem was also Hassabis and DeepMind. I explained in an Update after Google I/O how Hassabis’ vision of the frontier was fundamentally different from the other frontier labs because he believed in world models, not just text/code, and concluded:\n\n What falls out of [Hassabis’ vision] are models with multimodality — in contrast to Claude, which outputs text only — and, it must be said, not nearly as impressive coding capabilities. This gets at the point of this entire digression: I think it’s possible that the reason Google is widely considered to be behind both Anthropic and OpenAI in terms of coding, particularly long-running agentic workflows that depend just as much on the harness as the model itself, simply comes down to their research team having other priorities. That’s why the coding parts of this keynote fell on the Antigravity team, not DeepMind, and why Hassabis was barely on stage.\n\n From this perspective, last week’s events are less surprising, and were arguably foretold at I/O: Hassabis might be right about world models being the path to AGI, but Google has run out of patience in terms of letting him find out; Google co-founder Sergey Brin is reportedly deeply involved and closely allied with Koray Kavukcuoglu, the new DeepMind CEO, and I wouldn’t be surprised if the company is pivoting to Anthropic’s more text- (and thus code-) centered approach.\n\n Google’s Infrastructure Bet\n\n What is fascinating about Google’s position is that these machinations do not necessarily mean the Berkshire Hathaway bet was a bad one; indeed, it’s arguably good news. This is what the SemiAnalysis article was driving towards, and it’s a point I made last week about Google’s recent earnings :\n\n The story seems to be very similar to last quarter , with even more Google Cloud growth: 82% year-over-year (compared to 63% last quarter, and 32% a year ago), with 36% margins (compared to 33% last quarter, and 21% a year ago). I wondered then how much of this growth was actually Anthropic, and while we didn’t get clear confirmation this quarter, I thought this answer from CEO Sundar Pichai on the earnings call about why Google needs to rent 3rd-party capacity was notable:\n\n I think on the bridge deal, the main thing I would say is, look, there are — on the margin, there are very, very large customers of ours on Cloud who we are trying to support them through this extraordinary moment. And the incremental opportunities they are bringing to us, while a short‑term cost over a few months may be very high, in the lifetime of the deal, as we bring more capacity on, is highly ROI‑positive. So those are factors we are taking into account. So are you willing to take upfront a six‑month deal to be able to serve the customer in what is a multiyear opportunity where the margins and the returns are very, very attractive over that multiyear horizon? So hopefully that gives some color on how we’ve thought about those opportunities.\n\n That customer is almost certainly Anthropic.\n\n Again from SemiAnalysis:\n\n More than 20% of total TPU shipments from 3Q26 to 4Q27 are being sold directly to Anthropic. This is excluding the hundreds of thousands of TPUs GCP already rents to Anthropic today, and the many hundreds of thousands mor..."
+    },
+    {
+      "source": "blog",
+      "name": "Sebastian Raschka, PhD",
+      "title": "Muse Glimmer 30B Architecture Notes",
+      "url": "https://sebastianraschka.com/blog/2026/muse-glimmer-30b-architecture-notes.html",
+      "publishedAt": "2026-08-11T09:15:07.033Z",
+      "author": "",
+      "description": "Short architecture note on Meta Muse Glimmer 30B, including gated local and global GQA, KV-cache efficiency, and release-time benchmark…",
+      "content": "Short architecture note on Meta Muse Glimmer 30B, including gated local and global GQA, KV-cache efficiency, and release-time benchmark comparisons."
+    },
+    {
+      "source": "blog",
+      "name": "Lovable - Inside Lovable",
+      "title": "The model picker is a dead end",
+      "url": "https://lovable.dev/blog/the-model-picker-is-a-dead-end",
+      "publishedAt": "2026-08-11T00:00:00.665Z",
+      "author": "",
+      "description": "Here's what model independence means at Lovable.",
+      "content": "Here's what model independence means at Lovable."
+    },
+    {
+      "source": "blog",
+      "name": "Tomasz Tunguz",
+      "title": "A Winner in Every Category",
+      "url": "https://www.tomtunguz.com/a-winner-in-every-category/",
+      "publishedAt": "2026-08-11T00:00:00.468Z",
+      "author": "",
+      "description": "The collapse in SaaS has depressed multiples. But in nearly every category, a leader thrives. CrowdStrike trades at 3.9x the security…",
+      "content": "The collapse in SaaS has depressed multiples. But in nearly every category, a leader thrives.\n\n CrowdStrike trades at 3.9x the security median ; Cloudflare at 3.4x infrastructure ; & Shopify at 8.1x Commerce median.\n\n Each of them has carved out an AI focused path.\n\n CrowdStrike at 34.4x forward revenue. Palo Alto trades at 22x. Every AI agent an enterprise deploys is a new endpoint to defend, & defending it requires the trillion security events a day CrowdStrike’s Threat Graph already correlates 1 .\n\n Cloudflare at 32.6x. The nearest peer, Snowflake, trades at 17.5x. More than half the traffic crossing its network is no longer human 2 , so every agent that reaches a customer becomes a request Cloudflare routes, inspects & eventually bills for.\n\n Shopify at 11.3x. Its Commerce peers trade at a 1.4x median. Shopping agents send orders that convert new buyers at twice the rate of other channels, & because they write straight into Shopify, that demand lands at the take rate Shopify already charges 3 .\n\n Samsara at 10.8x. Vertical SaaS’s median is 4.0x. The 25 trillion data points a year crossing its platform, dashcam imagery & maintenance workflows that, as Sanjit Biswas put it, aren’t found on the Internet 4 , are the training data no foundation model can buy.\n\n ServiceNow at 7.4x. The Productivity & Collaboration median is 3.4x, & Atlassian trades at 5.1x. Enterprises buying agents need somewhere to govern them, which is why ServiceNow’s AI book crossed $1b in annual contract value & is targeted at 30% of total ACV by 2030 5 .\n\n Figma at 6.7x. GitLab, the only other Developer & Design name here, trades at 4.6x. As AI commoditizes the code, judgment about what to build becomes the scarce input, & more than 80% of Figma’s customers above $10k in ARR now consume AI credits weekly 6 .\n\n Twilio at 5.6x. RingCentral in Communications trades at 2.4x. Voice agents have to reach humans over someone’s network, & that pull accelerated Twilio’s voice revenue past 20% for a sixth consecutive quarter 7 .\n\n Salesforce at 4.0x. The Marketing & Sales median is 2.3x. Agents are only as useful as the customer record they act on, which is how Agentforce reached $1.2b ARR & grew 205%, more than half of it sold back into the installed base 8 .\n\n None of these are the fastest-growing name in their category. CrowdStrike grows 23% & trades at 34.4x, while Rubrik grows 46% in the same category & trades at 10.4x. Salesforce grows 11%, slower than almost everyone.\n\n But the market believes in the AI story, the harness, the inference revenue, the durability.\n\n Also violating the narrative : nearly every category in public software rallied last quarter, & in Security & Developer & Design every name gained.\n\n Since 2021, the ceiling has fallen from 100x 9 to 34x, & only eleven names now clear 10x. But the top of the market is rosying.\n\n See that little elbow at the very bottom right?\n\n---\n\n https://www.fool.com/earnings/call-transcripts/2026/03/03/crowdstrike-crwd-q4-2026-earnings-transcript/   ↩︎\n\n https://www.fool.com/investing/2026/08/07/more-than-half-of-cloudflares-network-traffic-is-n/   ↩︎\n\n https://www.fool.com/earnings/call-transcripts/2026/05/05/shopify-shop-q1-2026-earnings-transcript/   ↩︎\n\n https://s29.q4cdn.com/853855404/files/doc_financials/2026/q4/CORRECTED-TRANSCRIPT_-Samsara-Inc-IOT-US-Q4-2026-Earnings-Call-5-March-2026-5_00-PM-ET.pdf   ↩︎\n\n https://finance.yahoo.com/markets/stocks/articles/servicenow-reports-second-quarter-2026-201000482.html   ↩︎\n\n https://s206.q4cdn.com/973901332/files/doc_financials/2026/q2/Figma-Q2-26-Prepared-Remarks.pdf   ↩︎\n\n https://www.fool.com/earnings/call-transcripts/2026/04/30/twilio-twlo-q1-2026-earnings-transcript/   ↩︎\n\n https://www.sec.gov/Archives/edgar/data/0001108524/000110852426000125/crm-q1fy27xexhibit991.htm   ↩︎\n\n https://tomtunguz.com/100x-arr/   ↩︎"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Introducing Muse Glimmer",
+      "url": "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/#atom-everything",
+      "publishedAt": "2026-08-10T23:56:03.471Z",
+      "author": "",
+      "description": "Introducing Muse Glimmer Meta are back in the open weights game! Muse Glimmer is a brand new 30B model under a clean Apache 2.0 license (a…",
+      "content": "Introducing Muse Glimmer\n\nMeta are back in the open weights game! Muse Glimmer is a brand new 30B model under a clean Apache 2.0 license (a step up from the janky Llama licenses of old).\n\n They claim to have optimized it for exactly the kind of things I'm looking for in a local model:\n\n End-to-end Agentic Task Completion. Muse Glimmer achieves strong success rates on full-task benchmarks including DeepSearch QA, MCP-Atlas, 𝛕-Bench and SWE-Bench, which measure its ability to work within scaffolds, write and debug code, and resolve multi-turn requests from start to finish.\n\n Reliable Tool Use. The model handles a wide range of function calls, invoking tools with precise schemas throughout extended workflows.\n\n Multi-Step Reasoning. Muse Glimmer chains reasoning over long horizons, sustaining coherent plans across complex, extended workflows. [...]\n\n Here's a pelican which I generated using LM Studio's 18.16 GB version of the model :\n\n I also tried it out with my llm-coding-agent plugin, running against a fresh checkout of Datasette with the prompt:\n\n how does auth work?\n\n Here's the response , at the end of a long transcript showing all of the tool calls it made to explore the codebase. I ran this using llm-lmstudio with this patch applied to upgrade it for compatibility with LLM 0.32 .\n\n I really like this size of model, because if a machine has 32 GB of RAM or more (mine has 128GB) it leaves plenty of space for running other applications at the same time.\n\n Glimmer is a vision model, so I asked it to describe this image:\n\n llm -m lmstudio/meta/muse-glimmer -a https://static.inaturalist.org/photos/714731804/large.jpg 'describe image'\n\n Here's what I got back :\n\n The photograph shows a rocky, breakwater-style shoreline on an overcast day with a smooth, gray body of water and a faint dock/pier line in the soft-focused background.\n\n In the foreground two large brown pelicans, Pelecanus occidentalis , are perched on the jumbled gray-white stones. They have the species’ characteristic long, down-curved yellow-orange bills with a large throat pouch, long slender necks and mottled brown-gray plumage on the back and wings. The pelican on the left is turned slightly toward the camera and appears to be preening or resting its bill against its chest; a pale, whitish patch is visible on the crown and nape and a small crest of feathers is raised. The pelican on the right faces mostly forward/right, its head up, bill pointing down and to the right, with the same pale head markings and the barred, darker wing feathers clearly visible.\n\n Scattered among the rocks around the two pelicans are several much smaller dark birds — gulls/tern-like birds in muted brown-gray plumage. One dark bird sits on the far left on a rock, another brownish bird stands to the right of the right-hand pelican, a grayish bird with a reddish bill is in the lower right foreground, and a further small dark bird is at the extreme right edge of the frame.\n\n The overall light is flat and diffused, giving the water and sky a muted, almost monochromatic palette that contrasts with the textured rock and the detailed feathering of the pelicans. The composition places the two big birds as the dominant subjects, framed against the calm water and the low, rocky perch.\n\n Via Hacker News\n\n Tags: ai , generative-ai , llama , local-llms , llms , llm , vision-llms , meta , pelican-riding-a-bicycle , llm-release"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "SQLite compressed text-history prototypes",
+      "url": "https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything",
+      "publishedAt": "2026-08-09T22:05:00.301Z",
+      "author": "",
+      "description": "Research: SQLite compressed text-history prototypes I'm perennially interested in options for storing revision histories in…",
+      "content": "Research: SQLite compressed text-history prototypes\n\n I'm perennially interested in options for storing revision histories in relational databases. While out on a dog walk I had a new idea: how about taking the full text of every prior version in a big JSON array of strings and then applying zlib or zstd compression to the whole thing? Surely that would compress really well due to all of the repeated strings.\n\n The new GPT‑Live voice mode in the ChatGPT iPhone app has got really good, so I discussed the prototype with that. You still can't share URLs to voice conversations, but here's what I said copied from the transcript as a proper stream of consciousness:\n\n I have an interesting idea for a scheme for saving all previous versions of a piece of text that's constantly edited in a SQLite database um column in as efficient a way as possible. Okay, so I built these kinds of systems in the past, and it's always difficult to come up with a efficient way to do this. Like the easiest way is you have a row for every previous copy of the previous previous value of the string. But if it's a long document Like20 kilobytes of data, that means that every single edit adds another 20 kilobytes of data to the database, right. So, what I've now thinking, is um compression would work really well, right? If you Bundle all of those different um Every every version of this document all the way back to the start if you were to apply a good compression algorithm to them that should basically wipe out huge amounts of the redund- the um redundant text, right Um, so what I'd thinking is how about really, really simple mechanism There is a history column on the single on this uh uh table and it's a blob, it's a BLOB so it stores binary data and then you just stick in there a Zlib or maybe even ZSTD um compressed JSON text array of all of the previous documents, and so you probably have two columns, right? You'd have a column that's this magic JSON array of text You have a second column which is a JSON array of timestamps and that doesn't need to be compressed at all, right? A timestamp can just be a uh- it's an array of integers, right? Unix integers But that's the whole scheme.\n\n Then I stopped voice mode and typed the following text prompt to GPT-5.6 Sol Pro:\n\n Use Python and Build experimental prototypes around this idea\n\n It churned away for 38 minutes and delivered this answer plus the files you see in this folder .\n\n The approach works really well! 1,000 simulated revisions to a document resulted in 20.4 MB of raw revision text that compressed to 80.3 KB as Zstandard-compressed JSON array.\n\n To avoid the overhead of decompressing and recompressing the entire array on every edit Sol suggested breaking the history up into multiple rows, with each one containing a maximum of either 128 revisions or 3MB of uncompressed JSON.\n\n Tags: compression , sqlite , speech-to-text"
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 4,
+    "totalTweets": 5,
+    "blogPosts": 8,
+    "podcastEpisodes": 0
+  }
+}
