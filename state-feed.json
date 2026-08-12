@@ -1,13 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/_sholtodouglas/status/2082143897250312264": 1785280661502,
-    "https://twitter.com/_sholtodouglas/status/2081911870630551729": 1785280661502,
-    "https://twitter.com/_sholtodouglas/status/2081902824733220943": 1785280661502,
-    "https://twitter.com/emollick/status/2082107597084131749": 1785280661503,
-    "https://twitter.com/thsottiaux/status/2081979033261412537": 1785280661503,
-    "https://twitter.com/thsottiaux/status/2081940052154933696": 1785280661503,
-    "https://twitter.com/thsottiaux/status/2081899343091843463": 1785280661503,
-    "https://twitter.com/gdb/status/2081955446404112493": 1785280661503,
     "https://twitter.com/petergostev/status/2082524998460215441": 1785366979507,
     "https://twitter.com/petergostev/status/2082493534876168693": 1785366979507,
     "https://twitter.com/petergostev/status/2082434188376945039": 1785366979507,
@@ -147,17 +139,15 @@
     "https://twitter.com/thsottiaux/status/2087252528513814773": 1786489560439,
     "https://twitter.com/koraykv/status/2087253148973060343": 1786489560439,
     "https://twitter.com/demishassabis/status/2087252280886145166": 1786489560439,
-    "https://twitter.com/JeffDean/status/2087038694054072637": 1786489560439
+    "https://twitter.com/JeffDean/status/2087038694054072637": 1786489560439,
+    "https://twitter.com/thsottiaux/status/2087614555203809395": 1786575828301,
+    "https://twitter.com/thsottiaux/status/2087423996115681767": 1786575828301,
+    "https://twitter.com/emollick/status/2087556358757609854": 1786575828301,
+    "https://twitter.com/emollick/status/2087368598465745360": 1786575828301,
+    "https://twitter.com/petergostev/status/2087527300975714499": 1786575828301
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything": 1785280661503,
-    "https://simonwillison.net/2026/Jul/28/akshat-bubna/#atom-everything": 1785280661503,
-    "https://simonwillison.net/2026/Jul/28/uv/#atom-everything": 1785280661503,
-    "https://www.rundown.ai/articles/meta-glasses-enter-their-creep-era": 1785280661503,
-    "https://www.rundown.ai/articles/moonshot-lets-history-largest-open-model-loose": 1785280661503,
-    "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html": 1785280661503,
-    "https://www.tomtunguz.com/aftermarket-harnesses/": 1785280661503,
     "https://simonwillison.net/2026/Jul/29/ai-worming-through-word/#atom-everything": 1785366979508,
     "https://simonwillison.net/2026/Jul/29/matthew-green/#atom-everything": 1785366979508,
     "https://simonwillison.net/2026/Jul/29/mcp-in-claude-and-chatgpt/#atom-everything": 1785366979508,
@@ -240,8 +230,15 @@
     "https://lovable.dev/blog/the-model-picker-is-a-dead-end": 1786489560440,
     "https://www.tomtunguz.com/a-winner-in-every-category/": 1786489560440,
     "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/#atom-everything": 1786489560440,
-    "https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything": 1786489560440
+    "https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything": 1786489560440,
+    "https://simonwillison.net/2026/Aug/12/florian-herrengt/#atom-everything": 1786575828302,
+    "https://simonwillison.net/2026/Aug/12/florian-herrengt/": 1786575828302,
+    "https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/": 1786575828302,
+    "https://www.rundown.ai/articles/anthropic-slips-an-invisible-signature-into-claude": 1786575828302,
+    "https://stratechery.com/2026/anthropics-watermarking-how-it-probably-works-worse-than-it-seems/": 1786575828302,
+    "https://lovable.dev/blog/series-c": 1786575828302,
+    "https://cursor.com/cn/blog/grok-4-6": 1786575828302
   },
-  "lastRunKey": "2026-08-12",
-  "lastRunAt": "2026-08-11T23:06:00.446Z"
+  "lastRunKey": "2026-08-13",
+  "lastRunAt": "2026-08-12T23:03:48.307Z"
 }
