@@ -1,16 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/petergostev/status/2082524998460215441": 1785366979507,
-    "https://twitter.com/petergostev/status/2082493534876168693": 1785366979507,
-    "https://twitter.com/petergostev/status/2082434188376945039": 1785366979507,
-    "https://twitter.com/gdb/status/2082523070968070359": 1785366979508,
-    "https://twitter.com/gdb/status/2082350322337673601": 1785366979508,
-    "https://twitter.com/gdb/status/2082309375696478372": 1785366979508,
-    "https://twitter.com/emollick/status/2082519430999748697": 1785366979508,
-    "https://twitter.com/emollick/status/2082502289898508640": 1785366979508,
-    "https://twitter.com/emollick/status/2082492712754852341": 1785366979508,
-    "https://twitter.com/thsottiaux/status/2082326593532473523": 1785366979508,
-    "https://twitter.com/thsottiaux/status/2082317452755751098": 1785366979508,
     "https://twitter.com/emollick/status/2082935598768091518": 1785454066602,
     "https://twitter.com/emollick/status/2082902577994231815": 1785454066603,
     "https://twitter.com/emollick/status/2082616135170555984": 1785454066603,
@@ -144,14 +133,19 @@
     "https://twitter.com/thsottiaux/status/2087423996115681767": 1786575828301,
     "https://twitter.com/emollick/status/2087556358757609854": 1786575828301,
     "https://twitter.com/emollick/status/2087368598465745360": 1786575828301,
-    "https://twitter.com/petergostev/status/2087527300975714499": 1786575828301
+    "https://twitter.com/petergostev/status/2087527300975714499": 1786575828301,
+    "https://twitter.com/_catwu/status/2088006642189361564": 1786662302355,
+    "https://twitter.com/koraykv/status/2087948169552490845": 1786662302355,
+    "https://twitter.com/koraykv/status/2087948171230203976": 1786662302355,
+    "https://twitter.com/demishassabis/status/2087885303855944001": 1786662302355,
+    "https://twitter.com/petergostev/status/2087810662248407192": 1786662302355,
+    "https://twitter.com/emollick/status/2087757725572939957": 1786662302355,
+    "https://twitter.com/bcherny/status/2087752313700319456": 1786662302355,
+    "https://twitter.com/amorriscode/status/2087722925164232772": 1786662302355,
+    "https://twitter.com/thsottiaux/status/2087706104814023111": 1786662302356
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://simonwillison.net/2026/Jul/29/ai-worming-through-word/#atom-everything": 1785366979508,
-    "https://simonwillison.net/2026/Jul/29/matthew-green/#atom-everything": 1785366979508,
-    "https://simonwillison.net/2026/Jul/29/mcp-in-claude-and-chatgpt/#atom-everything": 1785366979508,
-    "https://www.rundown.ai/articles/1000-frontier-staffers-ask-for-an-ai-brake-pedal": 1785366979508,
     "https://simonwillison.net/2026/Jul/30/bruce-schneier/#atom-everything": 1785454066603,
     "https://simonwillison.net/2026/Jul/29/d-richard-hipp/#atom-everything": 1785454066603,
     "https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion/#atom-everything": 1785454066603,
@@ -237,8 +231,13 @@
     "https://www.rundown.ai/articles/anthropic-slips-an-invisible-signature-into-claude": 1786575828302,
     "https://stratechery.com/2026/anthropics-watermarking-how-it-probably-works-worse-than-it-seems/": 1786575828302,
     "https://lovable.dev/blog/series-c": 1786575828302,
-    "https://cursor.com/cn/blog/grok-4-6": 1786575828302
+    "https://cursor.com/cn/blog/grok-4-6": 1786575828302,
+    "https://www.rundown.ai/articles/honor-robot-phone-is-finally-here": 1786662302356,
+    "https://www.rundown.ai/articles/grok-4-6-storms-the-ai-frontier": 1786662302356,
+    "https://simonwillison.net/2026/Aug/13/alchemy-utils/": 1786662302356,
+    "https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/": 1786662302356,
+    "https://simonwillison.net/2026/Aug/12/alchemy-utils/": 1786662302356
   },
-  "lastRunKey": "2026-08-13",
-  "lastRunAt": "2026-08-12T23:03:48.307Z"
+  "lastRunKey": "2026-08-14",
+  "lastRunAt": "2026-08-13T23:05:02.361Z"
 }
