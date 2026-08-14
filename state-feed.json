@@ -1,16 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/emollick/status/2082935598768091518": 1785454066602,
-    "https://twitter.com/emollick/status/2082902577994231815": 1785454066603,
-    "https://twitter.com/emollick/status/2082616135170555984": 1785454066603,
-    "https://twitter.com/petergostev/status/2082928399580790905": 1785454066603,
-    "https://twitter.com/gdb/status/2082919656403435638": 1785454066603,
-    "https://twitter.com/gdb/status/2082902415855202686": 1785454066603,
-    "https://twitter.com/gdb/status/2082864105883586798": 1785454066603,
-    "https://twitter.com/demishassabis/status/2082883806323728416": 1785454066603,
-    "https://twitter.com/thsottiaux/status/2082655731204096275": 1785454066603,
-    "https://twitter.com/thsottiaux/status/2082637967852806207": 1785454066603,
-    "https://twitter.com/thsottiaux/status/2082609662231502932": 1785454066603,
     "https://twitter.com/_sholtodouglas/status/2083266460131250259": 1785539848890,
     "https://twitter.com/_sholtodouglas/status/2083250843479146974": 1785539848890,
     "https://twitter.com/_sholtodouglas/status/2083241932973830272": 1785539848890,
@@ -142,18 +131,22 @@
     "https://twitter.com/emollick/status/2087757725572939957": 1786662302355,
     "https://twitter.com/bcherny/status/2087752313700319456": 1786662302355,
     "https://twitter.com/amorriscode/status/2087722925164232772": 1786662302355,
-    "https://twitter.com/thsottiaux/status/2087706104814023111": 1786662302356
+    "https://twitter.com/thsottiaux/status/2087706104814023111": 1786662302356,
+    "https://twitter.com/trq212/status/2088339390435377456": 1786747400299,
+    "https://twitter.com/trq212/status/2088049989306192106": 1786747400300,
+    "https://twitter.com/emollick/status/2088288410670940213": 1786747400300,
+    "https://twitter.com/petergostev/status/2088237032359215205": 1786747400300,
+    "https://twitter.com/petergostev/status/2088064647203049785": 1786747400300,
+    "https://twitter.com/petergostev/status/2088038815352901697": 1786747400300,
+    "https://twitter.com/thsottiaux/status/2088133823619895712": 1786747400300,
+    "https://twitter.com/thsottiaux/status/2088103609477238858": 1786747400300,
+    "https://twitter.com/gdb/status/2088111733973934346": 1786747400300,
+    "https://twitter.com/gdb/status/2088111005297471894": 1786747400300,
+    "https://twitter.com/_sholtodouglas/status/2088062341732774200": 1786747400300,
+    "https://twitter.com/amorriscode/status/2088034151387791385": 1786747400300
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://simonwillison.net/2026/Jul/30/bruce-schneier/#atom-everything": 1785454066603,
-    "https://simonwillison.net/2026/Jul/29/d-richard-hipp/#atom-everything": 1785454066603,
-    "https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion/#atom-everything": 1785454066603,
-    "https://www.rundown.ai/articles/us-bans-humanoids-from-china": 1785454066603,
-    "https://www.rundown.ai/articles/openai-escaped-ai-claims-another-victim": 1785454066603,
-    "https://lovable.dev/blog/how-lovable-secures-connected-data": 1785454066603,
-    "https://lovable.dev/blog/app-user-connectors": 1785454066603,
-    "https://www.tomtunguz.com/microsoft-resells-the-frontier/": 1785454066603,
     "https://simonwillison.net/2026/Jul/31/oxide-and-friends/#atom-everything": 1785539848891,
     "https://simonwillison.net/2026/Jul/31/smevals/#atom-everything": 1785539848891,
     "https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything": 1785539848891,
@@ -236,8 +229,16 @@
     "https://www.rundown.ai/articles/grok-4-6-storms-the-ai-frontier": 1786662302356,
     "https://simonwillison.net/2026/Aug/13/alchemy-utils/": 1786662302356,
     "https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/": 1786662302356,
-    "https://simonwillison.net/2026/Aug/12/alchemy-utils/": 1786662302356
+    "https://simonwillison.net/2026/Aug/12/alchemy-utils/": 1786662302356,
+    "https://stratechery.com/2026/the-capex-train-keeps-rolling/": 1786747400300,
+    "https://www.rundown.ai/articles/google-fitbit-gets-a-wild-new-update": 1786747400301,
+    "https://www.rundown.ai/articles/openai-feels-the-frontier-need-for-speed": 1786747400301,
+    "https://simonwillison.net/2026/Aug/13/sqlite-utils-2/": 1786747400301,
+    "https://simonwillison.net/2026/Aug/13/sqlite-utils/": 1786747400301,
+    "https://simonwillison.net/2026/Aug/13/llm-gemini/": 1786747400301,
+    "https://www.tomtunguz.com/openai-hack-ai-intent/": 1786747400301,
+    "https://sebastianraschka.com/blog/2026/build-a-reasoning-model-from-scratch-on-amazon.html": 1786747400301
   },
-  "lastRunKey": "2026-08-14",
-  "lastRunAt": "2026-08-13T23:05:02.361Z"
+  "lastRunKey": "2026-08-15",
+  "lastRunAt": "2026-08-14T22:43:20.307Z"
 }
