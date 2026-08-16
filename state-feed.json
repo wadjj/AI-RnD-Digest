@@ -1,22 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/emollick/status/2083637197157101708": 1785626040107,
-    "https://twitter.com/emollick/status/2083633444685295764": 1785626040108,
-    "https://twitter.com/emollick/status/2083625021868499165": 1785626040108,
-    "https://twitter.com/petergostev/status/2083592970939322376": 1785626040108,
-    "https://twitter.com/petergostev/status/2083573243810615320": 1785626040108,
-    "https://twitter.com/petergostev/status/2083479583165182323": 1785626040108,
-    "https://twitter.com/thsottiaux/status/2083556636455752050": 1785626040108,
-    "https://twitter.com/thsottiaux/status/2083427516996292992": 1785626040108,
-    "https://twitter.com/thsottiaux/status/2083395449814229287": 1785626040108,
-    "https://twitter.com/_sholtodouglas/status/2083568761215553777": 1785626040108,
-    "https://twitter.com/polynoamial/status/2083474946454696245": 1785626040108,
-    "https://twitter.com/polynoamial/status/2083467194663571701": 1785626040108,
-    "https://twitter.com/gdb/status/2083457463337287721": 1785626040108,
-    "https://twitter.com/gdb/status/2083424030099656806": 1785626040108,
-    "https://twitter.com/gdb/status/2083419294378209724": 1785626040108,
-    "https://twitter.com/merettm/status/2083456710489116853": 1785626040108,
-    "https://twitter.com/markchen90/status/2083621634527858983": 1785626040108,
     "https://twitter.com/emollick/status/2083996732875055396": 1785712487755,
     "https://twitter.com/trq212/status/2083978109376987365": 1785712487755,
     "https://twitter.com/trq212/status/2083977795290734975": 1785712487755,
@@ -135,14 +118,17 @@
     "https://twitter.com/thsottiaux/status/2088500028721832432": 1786833648891,
     "https://twitter.com/thsottiaux/status/2088493756391768252": 1786833648891,
     "https://twitter.com/_sholtodouglas/status/2088463770318516734": 1786833648891,
-    "https://twitter.com/petergostev/status/2088408813044916730": 1786833648891
+    "https://twitter.com/petergostev/status/2088408813044916730": 1786833648891,
+    "https://twitter.com/thsottiaux/status/2089082893804896524": 1786919998462,
+    "https://twitter.com/thsottiaux/status/2089080720396317053": 1786919998462,
+    "https://twitter.com/thsottiaux/status/2088877426483036646": 1786919998462,
+    "https://twitter.com/petergostev/status/2088993721505259983": 1786919998462,
+    "https://twitter.com/_sholtodouglas/status/2089001840033853490": 1786919998462,
+    "https://twitter.com/_sholtodouglas/status/2088771124033372524": 1786919998462,
+    "https://twitter.com/_sholtodouglas/status/2088762852333281775": 1786919998462
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything": 1785626040109,
-    "https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything": 1785626040109,
-    "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything": 1785626040109,
-    "https://www.rundown.ai/articles/disney-plots-its-netflix-makeover": 1785626040109,
     "https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything": 1785712487756,
     "https://simonwillison.net/2026/Aug/2/july-newsletter/#atom-everything": 1785712487756,
     "https://simonwillison.net/2026/Aug/1/greg-brockman/#atom-everything": 1785712487756,
@@ -227,8 +213,10 @@
     "https://sebastianraschka.com/blog/2026/claude-text-watermarking.html": 1786833648892,
     "https://simonwillison.net/2026/Aug/15/sighting-391300422/": 1786833648892,
     "https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/": 1786833648892,
-    "https://www.tomtunguz.com/model-release-exhaustion/": 1786833648892
+    "https://www.tomtunguz.com/model-release-exhaustion/": 1786833648892,
+    "https://simonwillison.net/2026/Aug/16/dario-amodei/": 1786919998463,
+    "https://simonwillison.net/2026/Aug/15/cors-chat/": 1786919998463
   },
-  "lastRunKey": "2026-08-16",
-  "lastRunAt": "2026-08-15T22:40:48.897Z"
+  "lastRunKey": "2026-08-17",
+  "lastRunAt": "2026-08-16T22:39:58.467Z"
 }
