@@ -1,10 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/petergostev/status/2084202899328909466": 1785799723843,
-    "https://twitter.com/thsottiaux/status/2084196918071357707": 1785799723843,
-    "https://twitter.com/emollick/status/2084124237053219289": 1785799723843,
-    "https://twitter.com/gdb/status/2084104354911707518": 1785799723844,
-    "https://twitter.com/gdb/status/2084074129930772953": 1785799723844,
     "https://twitter.com/petergostev/status/2084691096760652121": 1785886077035,
     "https://twitter.com/petergostev/status/2084658068080521420": 1785886077035,
     "https://twitter.com/thsottiaux/status/2084506501834829833": 1785886077035,
@@ -122,19 +117,20 @@
     "https://twitter.com/gdb/status/2089181834580250870": 1787006628347,
     "https://twitter.com/thsottiaux/status/2089149255382438340": 1787006628347,
     "https://twitter.com/thsottiaux/status/2089143488696705077": 1787006628347,
-    "https://twitter.com/polynoamial/status/2089148291028291665": 1787006628347
+    "https://twitter.com/polynoamial/status/2089148291028291665": 1787006628347,
+    "https://twitter.com/emollick/status/2089757546064077087": 1787093037662,
+    "https://twitter.com/emollick/status/2089488934082363397": 1787093037662,
+    "https://twitter.com/markchen90/status/2089614833767567458": 1787093037662,
+    "https://twitter.com/thsottiaux/status/2089604619936956778": 1787093037662,
+    "https://twitter.com/thsottiaux/status/2089500941842342287": 1787093037662,
+    "https://twitter.com/polynoamial/status/2089550207172411701": 1787093037662,
+    "https://twitter.com/bcherny/status/2089538781909332210": 1787093037662,
+    "https://twitter.com/bcherny/status/2089537919795212565": 1787093037662,
+    "https://twitter.com/trq212/status/2089529798850969805": 1787093037662,
+    "https://twitter.com/amorriscode/status/2089542297574932763": 1787093037662
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://stratechery.com/": 1785799718985,
-    "https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything": 1785799723844,
-    "https://simonwillison.net/2026/Aug/3/devtools-must-be-open-source-exedev/#atom-everything": 1785799723844,
-    "https://simonwillison.net/2026/Aug/2/condense-json/#atom-everything": 1785799723844,
-    "https://www.rundown.ai/articles/attack-drones-are-coming-to-schools": 1785799723844,
-    "https://www.rundown.ai/articles/openai-astra-solves-10-long-standing-math-problems": 1785799723844,
-    "https://jack-clark.net/2026/08/03/import-ai-467-self-sustaining-ai-viruses-pacing-ai-progress-confusion-about-ai-and-creativity/": 1785799723844,
-    "https://stratechery.com/2026/meta-earnings-metas-timing-problems-the-financial-tail/": 1785799723844,
-    "https://timkellogg.me/blog/2026/08/01/printer-example": 1785799723844,
     "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx/#atom-everything": 1785886077035,
     "https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything": 1785886077035,
     "https://simonwillison.net/2026/Aug/3/dont-be-a-meat-proxy/#atom-everything": 1785886077035,
@@ -214,8 +210,15 @@
     "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/": 1787006628347,
     "https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/": 1787006628347,
     "https://simonwillison.net/2026/Aug/16/qwen-38-27b/": 1787006628347,
-    "https://jack-clark.net/2026/08/17/import-ai-469-science-ai-rsi-simulator-and-zucks-technological-pessimism/": 1787006628348
+    "https://jack-clark.net/2026/08/17/import-ai-469-science-ai-rsi-simulator-and-zucks-technological-pessimism/": 1787006628348,
+    "https://stratechery.com/2026/nvidia-backs-openai-data-center-anthropic-news-google-buys-spirit-airlines-data/": 1787093037663,
+    "https://www.rundown.ai/articles/cursor-origin-hits-github-on-its-worst-day": 1787093037663,
+    "https://www.rundown.ai/articles/robot-vacuums-finally-learn-gestures": 1787093037663,
+    "https://www.rundown.ai/articles/dario-amodei-logs-on-to-answer-the-critics": 1787093037663,
+    "https://lovable.dev/blog/mcp-101": 1787093037663,
+    "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/": 1787093037663,
+    "https://www.tomtunguz.com/test-time-training-impact/": 1787093037663
   },
-  "lastRunKey": "2026-08-18",
-  "lastRunAt": "2026-08-17T22:43:48.354Z"
+  "lastRunKey": "2026-08-19",
+  "lastRunAt": "2026-08-18T22:43:57.668Z"
 }
