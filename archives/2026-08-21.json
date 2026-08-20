@@ -1,0 +1,191 @@
+{
+  "generatedAt": "2026-08-20T22:47:28.846Z",
+  "runKey": "2026-08-21",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Sholto Douglas",
+      "handle": "_sholtodouglas",
+      "bio": "Twitter @Sholto Douglas",
+      "tweets": [
+        {
+          "id": "https://twitter.com/_sholtodouglas/status/2090556617922335027",
+          "text": "TLDR\n- Your data sits in infrastructure you own and control, and safeguards/monitoring is done via automated systems we provide to you\n- We've been working on this for months with >100 customers\n- Recent events have shown frontier models are capable of executing sophisticated cyber attacks in coordinated agent swarms.\n- Both us and OAI believe that the responsible way to provide models which have this level of capability and introduce this risk into the world is to be able to monitor the models at more than a single request basis, because anomalous activity is much easier to detect over hours or days of behaviour. It looks like we've arrived at both the same conclusion - and the same solution.\n---\n Boris Cherny: We've been working on this with customers for a while. Mythos-class models require additional safety measures and enterprises need to meet their own privacy and compliance rules. Customers can own and control their own data and Anthropic retains none. It’s coming this fall.",
+          "createdAt": "2026-08-20T21:48:33.205Z",
+          "url": "https://x.com/_sholtodouglas/status/2090556617922335027",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/bcherny/status/2090537902912815536\nBoris Cherny: We've been working on this with customers for a while. Mythos-class models require additional safety measures and enterprises need to meet their own privacy and compliance rules. Customers can own and control their own data and Anthropic retains none. It’s coming this fall."
+        },
+        {
+          "id": "https://twitter.com/_sholtodouglas/status/2090286655811022980",
+          "text": "RT David Pfau\nSo when modernist architecture came along, it started with visionaries like van der Rohe and Le Corbusier and Bauhaus but eventually filtered into everything. But with starchitects like Gehry and Hadid, you don't have a transition where everything ends up looking like them. Why?\n---\n sof 𓋹: can we have the ghost of Zaha Hadid design all the data centers",
+          "createdAt": "2026-08-19T23:48:42.828Z",
+          "url": "https://x.com/_sholtodouglas/status/2090286655811022980",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Greg Brockman",
+      "handle": "gdb",
+      "bio": "Twitter @Greg Brockman",
+      "tweets": [
+        {
+          "id": "https://twitter.com/gdb/status/2090449916456009972",
+          "text": "OpenAI for anything you can do in your browser:\n---\n claire vo 🖤: things i use codex browser/chrome/computer for\n- closing the books our accounting software\n- clearing my linkedin queue\n- managing gmail / clearing inbox\n- setting up stripe radar rules\n- iterating on images in midjourney\n- browser based QA on every PR\n- build inspo library from",
+          "createdAt": "2026-08-20T14:44:33.764Z",
+          "url": "https://x.com/gdb/status/2090449916456009972",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/clairevo/status/2090147110201291006\nclaire vo 🖤: things i use codex browser/chrome/computer for\n- closing the books our accounting software\n- clearing my linkedin queue\n- managing gmail / clearing inbox\n- setting up stripe radar rules\n- iterating on images in midjourney\n- browser based QA on every PR\n- build inspo library from"
+        },
+        {
+          "id": "https://twitter.com/gdb/status/2090327069985268049",
+          "text": "Codex for code migrations — from literal years to weeks:\n---\n OpenAI Developers: With Codex, @asana finished a frontend test migration from Enzyme to React Testing Library in two calendar weeks—a project expected to take five more years.\n\nhttps://openai.com/index/asana/",
+          "createdAt": "2026-08-20T06:36:24.347Z",
+          "url": "https://x.com/gdb/status/2090327069985268049",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/OpenAIDevs/status/2090122836103102482\nOpenAI Developers: With Codex, @asana finished a frontend test migration from Enzyme to React Testing Library in two calendar weeks—a project expected to take five more years.\n\nhttps://openai.com/index/asana/"
+        },
+        {
+          "id": "https://twitter.com/gdb/status/2090246288478814281",
+          "text": "codex can power much more than coding tools: a tax-prep pilot processed 7,000 returns and cut preparation time by about a third.\n\nyou can build your own products on our codex open-source harness:\n---\n OpenAI Developers: Teams are using the open-source Codex harness to bring agents into the tools they already use, from internal apps to operations dashboards.\n\nTheir applications control the interface, context, tools, and approvals while the harness handles the agent loop.\n\nhttps://developers.openai.com/blog/codex-as-a-platform",
+          "createdAt": "2026-08-20T01:15:24.768Z",
+          "url": "https://x.com/gdb/status/2090246288478814281",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/OpenAIDevs/status/2090230646497251387\nOpenAI Developers: Teams are using the open-source Codex harness to bring agents into the tools they already use, from internal apps to operations dashboards.\n\nTheir applications control the interface, context, tools, and approvals while the harness handles the agent loop.\n\nhttps://developers.openai.com/blog/codex-as-a-platform"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Twitter @Ethan Mollick",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2090271010452881713",
+          "text": "Either the Singularity is now a marketing term or else Stripe believes we are at a point “in the history of the race beyond which human affairs, as we know them, could not continue\"?\n\nKind of makes forward-looking financial statements useless.\n\n* Von Neumann’s original phrasing\n---\n Dan Primack: Scoop: Stripe tells investors that \"the singularity\" has begun, and also shares some first-half performance data.\n\nRead the letter: https://www.axios.com/2026/08/19/stripe-payments-openrouter-singularity",
+          "createdAt": "2026-08-20T02:53:38.740Z",
+          "url": "https://x.com/emollick/status/2090271010452881713",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/danprimack/status/2090128448953979376\nDan Primack: Scoop: Stripe tells investors that \"the singularity\" has begun, and also shares some first-half performance data.\n\nRead the letter: https://www.axios.com/2026/08/19/stripe-payments-openrouter-singularity"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "cat",
+      "handle": "_catwu",
+      "bio": "Twitter @cat",
+      "tweets": [
+        {
+          "id": "https://twitter.com/_catwu/status/2090249465844380154",
+          "text": "We'd love to talk with Cowork users in Corporate Finance and Accounting roles!\n\nHave ideas on how we can improve? Sign up for a screen share with our team here: https://tinyurl.com/y5t2pepb",
+          "createdAt": "2026-08-20T01:28:02.080Z",
+          "url": "https://x.com/_catwu/status/2090249465844380154",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "smolmachines / smolvm as a sandbox for untrusted Python & JavaScript",
+      "url": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/",
+      "publishedAt": "2026-08-19T23:16:00.973Z",
+      "author": "",
+      "description": "Research: smolmachines / smolvm as a sandbox for untrusted Python & JavaScript I tasked Claude Fable 5 running in Claude Code for…",
+      "content": "Research: smolmachines / smolvm as a sandbox for untrusted Python & JavaScript\n\n I tasked Claude Fable 5 running in Claude Code for web with the following research task:\n\n Put https://smolmachines.com through its paces as a fast secure sandbox. Explore what it would take to use this to run untrusted Python and JavaScript code in a way that is limited in what RAM and CPU time it can take up (protection against \"while true\") with no network access and filesystem access only to designated files\n\n Goal is to be able to use this to execute user-provided tasks for things like data transformations\n\n It quickly ran into a problem: the Claude Code for web environment can't run smol machines . Quoting the notes it wrote :\n\n This Claude Code container: Linux 6.18.5-fc-v20 (itself a Firecracker guest), 4 vCPU, 15GB RAM. No /dev/kvm, no vmx/svm CPU flags → no nested virt.\n\n smolvm machine run fails as expected: \"kvm not available\".\n\n Plan B: GitHub Actions ubuntu runners DO expose /dev/kvm → run the real test battery via a temporary workflow on this branch, collect logs, remove workflow in final commit.\n\n And Plan B is what it did , installing smolvm and running these tests directly in a GitHub Actions runner against that branch.\n\n That was a creative solution to the environmental limits posed by Claude Code for web. Another example of Fable being relentlessly proactive .\n\n Tags: research , sandboxing , ai , github-actions , generative-ai , llms , coding-agents , claude-mythos-fable"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Quoting Jeremy Morrell",
+      "url": "https://simonwillison.net/2026/Aug/19/jeremy-morrell/",
+      "publishedAt": "2026-08-19T22:56:31.321Z",
+      "author": "",
+      "description": "My hypothesis is that there is a new opportunity for Extensible Software on the web. LLMs radically lower the cost of authoring extensions…",
+      "content": "My hypothesis is that  there is a new opportunity for Extensible Software on the web . LLMs radically lower the cost of authoring extensions, and modern sandbox primitives lower the deployment cost and provide good security boundaries. We can build our app as a solid, accountable core, and allow users to safely extend it in many directions by having LLMs fill in the missing pieces.  We can give our users super powers.\n\n — Jeremy Morrell , Extensible Software in the age of LLMs\n\n Tags: sandboxing , llms , ai , generative-ai"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Conceptual integrity and counting lines of code",
+      "url": "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/",
+      "publishedAt": "2026-08-19T22:46:07.051Z",
+      "author": "",
+      "description": "Last week I recorded an episode of the Talking Postgres podcast with Claire Giordano on the subject of \"How AI is changing software…",
+      "content": "Last week I recorded an episode of the Talking Postgres podcast with Claire Giordano on the subject of \"How AI is changing software development\". We had a really great conversation. Here are a couple of my highlights from a lightly edited transcript (prompt to Claude: \"very minor edits to remove disfluencies\").\n\n This is the latest version of an argument I've been trying to build about why sometimes it does make sense to talk about lines of code as an indicator of productivity with coding agents, at 35:01 :\n\n A lot of people will tell you it makes no sense to measure productivity in lines of code. I’d actually disagree, because there’s a hard limit. In the before-times, a software engineer could produce a few hundred lines of production-ready code per day — and 200 lines of working, debugged, production-level code is an incredibly good day. Most days you’d produce 50 or 60.\n\n If agents let you produce a thousand lines of debugged code, that really is a very meaningful improvement — as long as the code is the same quality: maintainable, tested, all of that. You can get to that point with agents, but it takes a huge amount of skill and knowledge and experience. That’s what senior engineers are made of.\n\n I can do way more work as a single engineer than I could without agents. So you could argue, why should a company have more than one engineer? Beyond the obvious bus factor thing — a team of one is a very badly designed team — the answer is that the new limiting factor is cognitive capacity. I can churn out code a hundred times faster. I don’t have the cognitive capacity to stay on top of 100 times the amount of code. So you still need a team of engineers, so you can load balance that cognitive capacity across the team.\n\n And this section on conceptual integrity at 46:03 , which Claire equated to the Winchester Mystery House !\n\n Simon : There’s a concept in The Mythical Man-Month — conceptual integrity — where well-designed software has an integrity to it: there are no surprises in it, it covers exactly the right domain of things, everything fits together and makes sense. That’s so much harder with coding agents, where you can have an idea for a feature, run a prompt, and five minuteslater you’ve got the feature. Your software grows little weird bumps in funny different directions.\n\n Claire : You know my analogy for that? The Winchester Mystery House.\n\n Simon : It’s got 140 rooms, because the woman who built it was the widow of the guy who invented the Winchester rifle, and her psychic told her she’d be haunted by the ghosts of everyone killed with that rifle unless she kept building the house forever. So for 40 years she kept adding new rooms.\n\nThat’s exactly the problem with coding agents and software: it’s very easy to keep adding new rooms, because the cost of adding those rooms is so much cheaper. What you end up with is something where the conceptual integrity falls apart — and then it’s harder to make decisions about it.\n\n It all keeps coming back to discipline. It used to be that the discipline was enforced on you by the amount of time it took. You’d come up with an idea for a crazy feature and think “yeah, but that would take me a week — I cannot justify that, so I’ll forget about it.” If it takes an hour, it’s so much easier to justify.\n\n (Side-note: the Wikipedia article includes credible sources that dispute the story about the psychic.)\n\n Tags: ai , generative-ai , llms , podcast-appearances , coding-agents"
+    },
+    {
+      "source": "blog",
+      "name": "Tomasz Tunguz",
+      "title": "Previously Unmanufacturable",
+      "url": "https://www.tomtunguz.com/previously-unmanufacturable/",
+      "publishedAt": "2026-08-19T00:00:00.186Z",
+      "author": "",
+      "description": "“This garment is previously unmanufacturable.” How I AI, on Yana Welinder1\n\nSoftware is powerful only after someone learns its interface…",
+      "content": "“This garment is previously unmanufacturable.”\n\n How I AI, on Yana Welinder 1\n\n Software is powerful only after someone learns its interface. Figma speaks in layers & components, Salesforce in accounts & opportunities, CAD in splines & constraints. Each vocabulary takes time to learn, & the relationship runs in one direction : the more powerful the software, the more expertise it demands, regardless of what a product manager intends. A usability lab exists to close that gap, one user at a time. 2\n\n AI closes it a different way, by making English the interface.\n\n That onboarding problem burdens product-led growth companies, the ones built to sell themselves without a sales team, as much as forward-deployed engineering products. English is becoming a universal API : a person describes the outcome, & an agent translates that intent into computerese. 3 Programmers first spoke this way through AI’s babelfish : english to C++, Rust, & TypeScript. Increasingly, the languages worth translating are those of the application layer : accounts, purchase orders, circles, & splines.\n\n Inspired by Ruth Asawa’s looped-wire sculptures, Yana Welinder wanted to create a previously unmanufacturable dress. So, she asked AI to use software she couldn’t operate on her behalf. 1 The result is spectacular.\n\n If AI can translate intent into CAD’s grammar, it can do the same for any software.\n\n This inverts product design. Software built for AI is complex & well-documented. People prefer simplicity, never-read-the-manual, let me jump in & try first. 4\n\n An agent can hold, retrieve, & reason over more of a system’s schema at once than a person clicking through menus, so the product manager’s job shifts from designing every screen to building the harness that lets an agent act on the system safely, completely, & without needing to be shown where anything is.\n\n Documentation matters more in this world. Infrastructure has always depended on it, because developers need to understand APIs, schemas, & failure modes before they trust a system. That requirement is moving up the stack, into applications. 5 Designing that documentation will be an essential part of product design & the UX lab evolves into evaluations - watching how an agent operates software.\n\n Nor does the expert disappear. Software engineering’s renaissance has replaced syntax editing with systems architecture : how the pieces fit together, not configuring individual components.\n\n Welinder’s dress demonstrates the higher level of abstraction AI affords. To enable this end-user simplicity, new software must expose greater complexity to agents. Dieter Rams, arguably the greatest product designer ever, started from the premise that everything is noise, then earned the right to keep only what was essential. 6 English lets a person do the same with software : say what matters, & let the agent absorb the rest. What would Rams design in this era?\n\n---\n\n How I AI, hosted by Claire Vo : “How a solo founder used Codex and ChatGPT to launch a fashion brand without engineers” with Yana Welinder   ↩︎   ↩︎\n\n Your Startup’s Office Is Missing a Room   ↩︎\n\n What if Every SaaS App Spoke English?   ↩︎\n\n Plastic User Interfaces   ↩︎\n\n The Unbundling of Excel   ↩︎\n\n Everything Is Noise   ↩︎"
+    },
+    {
+      "source": "blog",
+      "name": "Research Posts · Cursor",
+      "title": "任意规模的 Git",
+      "url": "https://cursor.com/cn/blog/git-at-any-scale",
+      "publishedAt": "2026-08-18T12:00:00.579Z",
+      "author": "",
+      "description": "Aug 18, 2026 任意规模的 Git\n\nVicent Martí\n4 分钟\nVicent Martí·4 分钟",
+      "content": "Aug 18, 2026\n 任意规模的 Git\n\n Vicent Martí\n 4 分钟\n Vicent Martí · 4 分钟"
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 4,
+    "totalTweets": 7,
+    "blogPosts": 5,
+    "podcastEpisodes": 0
+  }
+}

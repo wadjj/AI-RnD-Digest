@@ -1,12 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/JeffDean/status/2085083442669318443": 1785972004702,
-    "https://twitter.com/JeffDean/status/2085059187437113387": 1785972004702,
-    "https://twitter.com/emollick/status/2085055055237914802": 1785972004702,
-    "https://twitter.com/emollick/status/2084826713922355207": 1785972004703,
-    "https://twitter.com/emollick/status/2084806293617807448": 1785972004703,
-    "https://twitter.com/thsottiaux/status/2084859308165271658": 1785972004703,
-    "https://twitter.com/petergostev/status/2084784675558404390": 1785972004703,
     "https://twitter.com/gdb/status/2085500884239413600": 1786066444356,
     "https://twitter.com/gdb/status/2085496677725860064": 1786066444356,
     "https://twitter.com/gdb/status/2085488217030266943": 1786066444356,
@@ -130,16 +123,17 @@
     "https://twitter.com/emollick/status/2089914722464223706": 1787179469526,
     "https://twitter.com/emollick/status/2089859591597142031": 1787179469526,
     "https://twitter.com/bcherny/status/2089924199804711410": 1787179469526,
-    "https://twitter.com/amorriscode/status/2089873349963096287": 1787179469526
+    "https://twitter.com/amorriscode/status/2089873349963096287": 1787179469526,
+    "https://twitter.com/_sholtodouglas/status/2090556617922335027": 1787266048846,
+    "https://twitter.com/_sholtodouglas/status/2090286655811022980": 1787266048846,
+    "https://twitter.com/gdb/status/2090449916456009972": 1787266048846,
+    "https://twitter.com/gdb/status/2090327069985268049": 1787266048846,
+    "https://twitter.com/gdb/status/2090246288478814281": 1787266048847,
+    "https://twitter.com/emollick/status/2090271010452881713": 1787266048847,
+    "https://twitter.com/_catwu/status/2090249465844380154": 1787266048847
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://stratechery.com/2026/google-earnings-the-frontier-case-amazon-earnings/": 1785972004703,
-    "https://simonwillison.net/2026/Aug/5/raccoon-heist/#atom-everything": 1785972004703,
-    "https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything": 1785972004703,
-    "https://simonwillison.net/2026/Aug/4/llm-anthropic/#atom-everything": 1785972004703,
-    "https://lovable.dev/blog/cerebras-partnership": 1785972004703,
-    "https://www.rundown.ai/articles/anthropic-and-openai-agents-went-rogue-again": 1785972004703,
     "https://simonwillison.net/2026/Aug/6/datasette/#atom-everything": 1786066444356,
     "https://simonwillison.net/2026/Aug/6/datasette-2/#atom-everything": 1786066444357,
     "https://simonwillison.net/2026/Aug/6/simon-willison-on-technical-blogging/#atom-everything": 1786066444357,
@@ -217,8 +211,13 @@
     "https://stratechery.com/2026/apple-settles-with-e-u-u-s-app-store-fees-att-rules-in-germany/": 1787179469527,
     "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/": 1787179469527,
     "https://www.rundown.ai/articles/the-1-4t-case-against-meta": 1787179469527,
-    "https://www.tomtunguz.com/birds-dont-fly-like-planes-neither-does-ai/": 1787179469527
+    "https://www.tomtunguz.com/birds-dont-fly-like-planes-neither-does-ai/": 1787179469527,
+    "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/": 1787266048847,
+    "https://simonwillison.net/2026/Aug/19/jeremy-morrell/": 1787266048847,
+    "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/": 1787266048847,
+    "https://www.tomtunguz.com/previously-unmanufacturable/": 1787266048847,
+    "https://cursor.com/cn/blog/git-at-any-scale": 1787266048847
   },
-  "lastRunKey": "2026-08-20",
-  "lastRunAt": "2026-08-19T22:44:29.532Z"
+  "lastRunKey": "2026-08-21",
+  "lastRunAt": "2026-08-20T22:47:28.853Z"
 }
