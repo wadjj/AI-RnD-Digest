@@ -1,0 +1,183 @@
+{
+  "generatedAt": "2026-08-21T22:44:32.035Z",
+  "runKey": "2026-08-22",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Peter Gostev (SF 24-28 August)",
+      "handle": "petergostev",
+      "bio": "Twitter @Peter Gostev",
+      "tweets": [
+        {
+          "id": "https://twitter.com/petergostev/status/2090817766051762189",
+          "text": "Given that OpenAI were testing a reset purchase priced between $5 and $80 (plus/pro) - this banked reset cost OpenAI $150-$240m.\n\nObviously not really, since not everyone is draining the limits, but this is likely why Tibo is not throwing banked resets around\n\nI'm also not sure if they are counting free users in their 20m number. If so, maybe this number could be quite a bit lower.\n\n---\n Tibo: It's me again. I come bearing great news.\n\nFirst of all, we have hit 20M active users for Codex some time this week. Second of all, this is cause for celebration and during the day we will credit every Codex and ChatGPT Work user with a BANKED reset that you can use at your own",
+          "createdAt": "2026-08-21T15:06:15.228Z",
+          "url": "https://x.com/petergostev/status/2090817766051762189",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/thsottiaux/status/2090766694897619318\nTibo: It's me again. I come bearing great news.\n\nFirst of all, we have hit 20M active users for Codex some time this week. Second of all, this is cause for celebration and during the day we will credit every Codex and ChatGPT Work user with a BANKED reset that you can use at your own"
+        },
+        {
+          "id": "https://twitter.com/petergostev/status/2090796506018091090",
+          "text": "Codex/Work chart growth, steeper curve in the last 10 days or so than before\n\n---\n Tibo: It's me again. I come bearing great news.\n\nFirst of all, we have hit 20M active users for Codex some time this week. Second of all, this is cause for celebration and during the day we will credit every Codex and ChatGPT Work user with a BANKED reset that you can use at your own",
+          "createdAt": "2026-08-21T13:41:46.740Z",
+          "url": "https://x.com/petergostev/status/2090796506018091090",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/thsottiaux/status/2090766694897619318\nTibo: It's me again. I come bearing great news.\n\nFirst of all, we have hit 20M active users for Codex some time this week. Second of all, this is cause for celebration and during the day we will credit every Codex and ChatGPT Work user with a BANKED reset that you can use at your own"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Twitter @Tibo",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2090766694897619318",
+          "text": "It's me again. I come bearing great news.\n\nFirst of all, we have hit 20M active users for Codex some time this week. Second of all, this is cause for celebration and during the day we will credit every Codex and ChatGPT Work user with a BANKED reset that you can use at your own leisure. And we will have some other good news later too!\n\nNow, on usage limits draining faster, while we're not seeing anything abnormal, we do take it incredibly seriously and there is an ongoing investigation. I will share if we do find anything and my below post is really a clarification on a specific pattern that we did see that I wanted to call out.\n\nGo do something amazing today.\n---\n Tibo: We've investigated a few messages about codex usage limits being different. That's not something we change without engaging the community and being transparent.\n\nWhat we did see is that when talking to affected users many were using sub2api. Converting a subscription into api",
+          "createdAt": "2026-08-21T11:43:19.473Z",
+          "url": "https://x.com/thsottiaux/status/2090766694897619318",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/thsottiaux/status/2090675027670978569\nTibo: We've investigated a few messages about codex usage limits being different. That's not something we change without engaging the community and being transparent.\n\nWhat we did see is that when talking to affected users many were using sub2api. Converting a subscription into api"
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2090675027670978569",
+          "text": "We've investigated a few messages about codex usage limits being different. That's not something we change without engaging the community and being transparent.\n\nWhat we did see is that when talking to affected users many were using sub2api. Converting a subscription into api traffic to then re-serve or share across many users is not something we support and this type of usage gets flagged by our fraud-prevention systems.\n\nYou are completely fine if you use your subscription through Sign in With ChatGPT, either through the official clients or through one of the many OSS clients (Pi, OpenCode, ...) that support signing in with your account and using your included usage.",
+          "createdAt": "2026-08-21T05:39:04.071Z",
+          "url": "https://x.com/thsottiaux/status/2090675027670978569",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2090631723302469995",
+          "text": "Yay, you can now make transparent images in ChatGPT and through the API with GPT-Image-2. Here is a cactus cactus I am about to print and put on my laptop.\n\n---\n OpenAI Developers: Transparent backgrounds are now available in preview for GPT-Image-2 in the API.\n\nGenerate reusable assets you can place on any background—for product imagery, graphic design, website mockups, and marketing campaigns.",
+          "createdAt": "2026-08-21T02:46:59.504Z",
+          "url": "https://x.com/thsottiaux/status/2090631723302469995",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/OpenAIDevs/status/2090536933571330440\nOpenAI Developers: Transparent backgrounds are now available in preview for GPT-Image-2 in the API.\n\nGenerate reusable assets you can place on any background—for product imagery, graphic design, website mockups, and marketing campaigns."
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Twitter @Ethan Mollick",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2090683545068978254",
+          "text": "I asked GPT-5.6 Sol to create the most Claude-y possible parody image and what it came up with is pretty great and dead-on.",
+          "createdAt": "2026-08-21T06:12:54.621Z",
+          "url": "https://x.com/emollick/status/2090683545068978254",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2090593783779860928",
+          "text": "Yes, the CEOs of the AI Labs talked about building AI that would replace all labor & could pose an existential risk because, as far as I could tell, they believed it to be true long before their companies were valuable. The fact that they stopped talking about risk is the PR part\n---\n Matthew Yglesias: I keep hearing people say this, but I think it's to the credit of Altman & Amodei that they told us what leading researchers in this field actually think.\n\nWe should worry more about Mark Zuckerberg and his politically savvy AI reassurances!",
+          "createdAt": "2026-08-21T00:16:14.672Z",
+          "url": "https://x.com/emollick/status/2090593783779860928",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/mattyglesias/status/2090591458365436086\nMatthew Yglesias: I keep hearing people say this, but I think it's to the credit of Altman & Amodei that they told us what leading researchers in this field actually think.\n\nWe should worry more about Mark Zuckerberg and his politically savvy AI reassurances!"
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Stop Making TUIs",
+      "url": "https://simonwillison.net/2026/Aug/21/stop-making-tuis/",
+      "publishedAt": "2026-08-21T16:07:32.545Z",
+      "author": "",
+      "description": "Stop Making TUIs Thomas Ptacek advocates for building real native user interfaces for even the smallest of personal tools, because coding…",
+      "content": "Stop Making TUIs\n\nThomas Ptacek advocates for building real native user interfaces for even the smallest of personal tools, because coding agents have reduced the cost of getting a usable-enough GUI up and running to almost nothing.\n\n I wrote about my vibe-coded bandwidth and GPU monitoring macOS task bar apps back in March , and I'm still using both of those on a daily basis.\n\n I'm not habitually knocking out real UIs for my other projects yet, but I'm running out of excuses!\n\n Thomas:\n\n If you haven’t tried your hand at turning one of your 500 throwaway CLIs into a native app, you’re doing yourself a disservice. Go build a native UI. It’ll probably change the way you think.\n\n Tags: thomas-ptacek , ai , generative-ai , llms , vibe-coding , coding-agents"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Quoting Matt Webb",
+      "url": "https://simonwillison.net/2026/Aug/21/matt-webb/",
+      "publishedAt": "2026-08-21T15:06:26.344Z",
+      "author": "",
+      "description": "After I released version 1.0, I figured I would have to do the rotations myself. So I sat down with ChatGPT and I didn’t get it to write the…",
+      "content": "After I released version 1.0, I figured I would have to do the rotations myself. So I sat down with ChatGPT and I didn’t get it to write the code, but I got it to educate me. With a patient, interactive tutor, I was able to finally do what I hadn’t by reading books and asking mathematician friends – I learnt how to use quaternions just enough to make the app work.\n\n So learning doesn’t stop just because I outsource a bunch of thinking to AI. It pushes me to learn more. I like that as an outcome.\n\n — Matt Webb , Galactic Compass 2: now with new augmented reality mode\n\n Tags: matt-webb , generative-ai , chatgpt , education , ai , llms"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "ChatGPT search now uses the site:operator at scale",
+      "url": "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/",
+      "publishedAt": "2026-08-20T23:57:32.256Z",
+      "author": "",
+      "description": "ChatGPT search now uses the site:operator at scale Promptwatch is part of the emerging \"GEO\" space, for Generative Engine Optimization - the…",
+      "content": "ChatGPT search now uses the site:operator at scale\n\nPromptwatch is part of the emerging \"GEO\" space, for Generative Engine Optimization - the chatbot version of SEO, where companies offer tools and consulting to help your site increase its presence in replies to prompts inside tools like ChatGPT.\n\n The Promptwatch product uses automation to track responses to prompts across end-user chat products like ChatGPT, Claude, and Gemini. They publish aggregate reports on this as part of their own content marketing strategy, which do seem to provide credible hints as to otherwise invisible design changes to those products.\n\n Their own tracking shows a notable change aligned with the GPT-5.6 rollout earlier this month:\n\n The percentage of all ChatGPT Search fanout queries that contain the site:operator, per day. The share hovered between 0.3% and 0.5% for weeks, dipped briefly to 0.15% on August 3 to 5 (consistent with a staged rollout or pre-launch experiment), then jumped to 16-17% on August 8.\n\n It's important to note that these figures only reflect the prompts for which they have automated tracking enabled.\n\n This corresponds to OpenAI's somewhat vague August 6th announcement :\n\n For Plus and Pro users, we’re updating GPT‑5.6 Sol in Chat to be more reliable with facts and provide more focused answers.\n\n Once again I am hampered by OpenAI's decision to actively obscure their system prompts, but from poking at ChatGPT I believe their latest search tool has a shape like search(query, recency, domains) rather than encouraging a site: operator directly.\n\n In a follow-up on August 18th Promptwatch reported that ChatGPT appeared to have greatly reduced the likelihood of Reddit being used in those searches. My own attempts to ascertain if the system prompt has been updated to discourage Reddit sourcing have been unsuccessful - the most thorough leaked system prompt collection I know of doesn't yet show any relevant changes.\n\n Tags: reddit , seo , openai , chatgpt , ai-assisted-search , system-prompts"
+    },
+    {
+      "source": "blog",
+      "name": "Tomasz Tunguz",
+      "title": "Mainframes became personal. So will your data center.",
+      "url": "https://www.tomtunguz.com/intelligence-per-watt/",
+      "publishedAt": "2026-08-21T00:00:00.277Z",
+      "author": "",
+      "description": "Local AI models can already answer 89% of everyday chat & reasoning queries as well as a frontier cloud model, a result that holds broadly…",
+      "content": "Local AI models can already answer 89% of everyday chat & reasoning queries as well as a frontier cloud model, a result that holds broadly across more than a million real queries & 20+ local models tested. 1\n\n That means we’re generating more intelligence per watt of electricity : more work from the same number of electrons. 1\n\n Tracking computing efficiency over time is not new. Koomey’s law found that computing power per watt doubled roughly every 1.5 years for decades, a trend that shrank the power of a mainframe into a laptop’s chassis. 2 3\n\n Just as performance-per-watt guided the mainframe-to-PC transition, intelligence-per-watt will guide AI’s transition to the edge.\n\n — Jon Saad-Falcon, Avanika Narayan, et al., “Intelligence per Watt”\n\n GPUs follow a more languid curve today, doubling efficiency roughly every 2.7 years over the last 15 years, not every 1.5 years. 4\n\n The impact is no less impressive : the best local model’s win/tie rate against a frontier model, rose from 23.2% in 2023 to 71.3% in 2025, adding roughly 20 percentage points a year. In 2026, a local model selected for the task by another local AI bumps that number to nearly 90%. 5\n\n Efficiency improved alongside the trend line : intelligence-per-watt rose 5.3x over the same period, split into a 3.1x gain from better models & a 1.7x gain from better chips. Computers are faster, models are smarter. And the end user benefits.\n\n 5\n\n Cloud remains essential for long multi-step reasoning, the hardest technical domains, & workloads where scale & parallelization matter. Cloud hardware still holds an edge over local hardware in many use cases. Cloud inference delivers a 40% energy efficiency gain relative to local models. 6 Datacenters batch queries, a trick local hardware serving one user at a time cannot use, yet.\n\n But for much of everyday knowledge work, there is no reason to send the query to the data center at all. The combination of local models plus a router is sufficient for the supermajority of work. 7\n\n It also cuts energy 80%, compute 77%, & cost 74% against an all-cloud baseline.\n\n Mainframes became personal. So will your data center.\n\n---\n\n Jon Saad-Falcon, Avanika Narayan, et al., “Intelligence per Watt: Measuring Intelligence Efficiency of Local AI,” Stanford University & Together AI, November 2025. arXiv:2511.07885 . See also the Stanford Hazy Research overview .  ↩︎   ↩︎\n\n Koomey’s law , Wikipedia.  ↩︎\n\n Watts measure power, the rate energy is drawn, & joules measure the energy itself; Koomey’s original metric was computations per joule, but the underlying trend is the same one intelligence per watt now tracks for AI models.  ↩︎\n\n Anson Ho, Ege Erdil & Tamay Besiroglu, “Limits to the Energy Efficiency of CMOS Microprocessors,” 2023. arXiv:2312.08595 .  ↩︎\n\n 71.3% & 89% are two different measurements from the same 2025 data, not the same number at different times. 71.3% is the best single local model’s win/tie rate against a frontier model, the trend line this chart plots (23.2% in 2023, 48.7% in 2024, 71.3% in 2025). 89% is a separate, higher ceiling: routing each query to whichever of the 20+ local models tested handles it best beats any single model by 16.3 to 28.8 percentage points. That gain is a selection effect: the paper notes local routing draws from 20+ diverse models versus three frontier cloud models, so on some benchmarks the best-of-local ensemble even surpasses best-of-cloud. More candidates to choose from, not just smarter routing, is what raises accuracy. Both figures come from the same study & neither supersedes the other.  ↩︎   ↩︎\n\n Jon Saad-Falcon, Avanika Narayan, et al., “Intelligence per Watt: Measuring Intelligence Efficiency of Local AI,” Stanford University & Together AI, November 2025. Cloud accelerators deliver at least 1.4x higher intelligence-per-watt than local chips running the same models, roughly a 40% efficiency premium. arXiv:2511.07885 .  ↩︎\n\n Most AI Work Can Wait , tomtunguz.com.  ↩︎"
+    },
+    {
+      "source": "blog",
+      "name": "Lovable - Inside Lovable",
+      "title": "How to get your app verified for third-party data access",
+      "url": "https://lovable.dev/blog/how-to-get-your-app-verified-for-third-party-data-access",
+      "publishedAt": "2026-08-20T08:00:00.318Z",
+      "author": "",
+      "description": "How to navigate provider review when your Lovable app connects to users' third-party data, using one builder's Google OAuth verification as…",
+      "content": "How to navigate provider review when your Lovable app connects to users' third-party data, using one builder's Google OAuth verification as the example."
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 3,
+    "totalTweets": 7,
+    "blogPosts": 5,
+    "podcastEpisodes": 0
+  }
+}

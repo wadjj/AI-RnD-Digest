@@ -1,16 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/gdb/status/2085500884239413600": 1786066444356,
-    "https://twitter.com/gdb/status/2085496677725860064": 1786066444356,
-    "https://twitter.com/gdb/status/2085488217030266943": 1786066444356,
-    "https://twitter.com/thsottiaux/status/2085432978856083964": 1786066444356,
-    "https://twitter.com/thsottiaux/status/2085221386713198988": 1786066444356,
-    "https://twitter.com/emollick/status/2085430224074760225": 1786066444356,
-    "https://twitter.com/emollick/status/2085219237182726166": 1786066444356,
-    "https://twitter.com/emollick/status/2085182466122272957": 1786066444356,
-    "https://twitter.com/petergostev/status/2085351791038726487": 1786066444356,
-    "https://twitter.com/petergostev/status/2085306053080568079": 1786066444356,
-    "https://twitter.com/_sholtodouglas/status/2085260678680711671": 1786066444356,
     "https://twitter.com/petergostev/status/2085840300329582882": 1786143415179,
     "https://twitter.com/petergostev/status/2085792699169280462": 1786143415179,
     "https://twitter.com/petergostev/status/2085757475664331091": 1786143415179,
@@ -130,16 +119,17 @@
     "https://twitter.com/gdb/status/2090327069985268049": 1787266048846,
     "https://twitter.com/gdb/status/2090246288478814281": 1787266048847,
     "https://twitter.com/emollick/status/2090271010452881713": 1787266048847,
-    "https://twitter.com/_catwu/status/2090249465844380154": 1787266048847
+    "https://twitter.com/_catwu/status/2090249465844380154": 1787266048847,
+    "https://twitter.com/petergostev/status/2090817766051762189": 1787352272036,
+    "https://twitter.com/petergostev/status/2090796506018091090": 1787352272036,
+    "https://twitter.com/thsottiaux/status/2090766694897619318": 1787352272036,
+    "https://twitter.com/thsottiaux/status/2090675027670978569": 1787352272036,
+    "https://twitter.com/thsottiaux/status/2090631723302469995": 1787352272036,
+    "https://twitter.com/emollick/status/2090683545068978254": 1787352272036,
+    "https://twitter.com/emollick/status/2090593783779860928": 1787352272036
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://simonwillison.net/2026/Aug/6/datasette/#atom-everything": 1786066444356,
-    "https://simonwillison.net/2026/Aug/6/datasette-2/#atom-everything": 1786066444357,
-    "https://simonwillison.net/2026/Aug/6/simon-willison-on-technical-blogging/#atom-everything": 1786066444357,
-    "https://www.rundown.ai/articles/musk-moon-factories-need-robots": 1786066444357,
-    "https://www.rundown.ai/articles/google-shakes-up-its-ai-brain-trust": 1786066444357,
-    "https://www.tomtunguz.com/the-newest-hyperscaler/": 1786066444357,
     "https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything": 1786143415180,
     "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/#atom-everything": 1786143415180,
     "https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything": 1786143415180,
@@ -216,8 +206,13 @@
     "https://simonwillison.net/2026/Aug/19/jeremy-morrell/": 1787266048847,
     "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/": 1787266048847,
     "https://www.tomtunguz.com/previously-unmanufacturable/": 1787266048847,
-    "https://cursor.com/cn/blog/git-at-any-scale": 1787266048847
+    "https://cursor.com/cn/blog/git-at-any-scale": 1787266048847,
+    "https://simonwillison.net/2026/Aug/21/stop-making-tuis/": 1787352272036,
+    "https://simonwillison.net/2026/Aug/21/matt-webb/": 1787352272036,
+    "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/": 1787352272036,
+    "https://www.tomtunguz.com/intelligence-per-watt/": 1787352272036,
+    "https://lovable.dev/blog/how-to-get-your-app-verified-for-third-party-data-access": 1787352272036
   },
-  "lastRunKey": "2026-08-21",
-  "lastRunAt": "2026-08-20T22:47:28.853Z"
+  "lastRunKey": "2026-08-22",
+  "lastRunAt": "2026-08-21T22:44:32.041Z"
 }
