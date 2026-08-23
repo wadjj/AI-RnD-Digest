@@ -1,15 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/petergostev/status/2086155066063425852": 1786229384290,
-    "https://twitter.com/petergostev/status/2085993423169822934": 1786229384291,
-    "https://twitter.com/thsottiaux/status/2086153754525712706": 1786229384291,
-    "https://twitter.com/thsottiaux/status/2085932920188072013": 1786229384291,
-    "https://twitter.com/emollick/status/2085956565157253272": 1786229384291,
-    "https://twitter.com/gdb/status/2085927739559911627": 1786229384291,
-    "https://twitter.com/gdb/status/2085926213294727447": 1786229384291,
-    "https://twitter.com/gdb/status/2085901941838844369": 1786229384291,
-    "https://twitter.com/demishassabis/status/2085914742414061886": 1786229384291,
-    "https://twitter.com/trq212/status/2085863307106468143": 1786229384291,
     "https://twitter.com/bcherny/status/2086520950259118464": 1786315947597,
     "https://twitter.com/petergostev/status/2086446145622942025": 1786315947597,
     "https://twitter.com/petergostev/status/2086418286430834863": 1786315947597,
@@ -124,14 +114,12 @@
     "https://twitter.com/thsottiaux/status/2090964822422949999": 1787437662508,
     "https://twitter.com/thsottiaux/status/2090947196107764189": 1787437662508,
     "https://twitter.com/demishassabis/status/2091112833689805214": 1787437662508,
-    "https://twitter.com/gdb/status/2090969732568772909": 1787437662508
+    "https://twitter.com/gdb/status/2090969732568772909": 1787437662508,
+    "https://twitter.com/thsottiaux/status/2091581575108653374": 1787524070394,
+    "https://twitter.com/petergostev/status/2091560707837866153": 1787524070395
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/#atom-everything": 1786229384291,
-    "https://simonwillison.net/2026/Aug/8/john-gruber/#atom-everything": 1786229384291,
-    "https://simonwillison.net/2026/Aug/7/openai-timeline/#atom-everything": 1786229384291,
-    "https://sebastianraschka.com/blog/2026/llms-from-scratch-reaches-100000-github-stars.html": 1786229384291,
     "https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything": 1786315947597,
     "https://stratechery.com/2026/apple-earnings-more-on-amazons-earnings/": 1786402713615,
     "https://www.rundown.ai/articles/uber-10b-answer-to-waymo": 1786402713615,
@@ -207,8 +195,11 @@
     "https://simonwillison.net/2026/Aug/22/llm/": 1787437662508,
     "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/": 1787437662508,
     "https://magazine.sebastianraschka.com/p/claude-watermarking": 1787437662508,
-    "https://stratechery.com/2026/app-snore/": 1787437662508
+    "https://stratechery.com/2026/app-snore/": 1787437662508,
+    "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/": 1787524070395,
+    "https://simonwillison.net/2026/Aug/23/drew-breunig/": 1787524070395,
+    "https://simonwillison.net/2026/Aug/21/llm/": 1787524070395
   },
-  "lastRunKey": "2026-08-23",
-  "lastRunAt": "2026-08-22T22:27:42.513Z"
+  "lastRunKey": "2026-08-24",
+  "lastRunAt": "2026-08-23T22:27:50.400Z"
 }
