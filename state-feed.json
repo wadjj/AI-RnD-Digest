@@ -1,13 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/bcherny/status/2086520950259118464": 1786315947597,
-    "https://twitter.com/petergostev/status/2086446145622942025": 1786315947597,
-    "https://twitter.com/petergostev/status/2086418286430834863": 1786315947597,
-    "https://twitter.com/gdb/status/2086364812326670454": 1786315947597,
-    "https://twitter.com/gdb/status/2086246436690350190": 1786315947597,
-    "https://twitter.com/thsottiaux/status/2086353229894529148": 1786315947597,
-    "https://twitter.com/emollick/status/2086261230889492678": 1786315947597,
-    "https://twitter.com/_sholtodouglas/status/2086313352318661096": 1786315947597,
     "https://twitter.com/trq212/status/2086931648898342914": 1786402713614,
     "https://twitter.com/trq212/status/2086931649938522329": 1786402713614,
     "https://twitter.com/trq212/status/2086931647468097932": 1786402713614,
@@ -116,11 +108,14 @@
     "https://twitter.com/demishassabis/status/2091112833689805214": 1787437662508,
     "https://twitter.com/gdb/status/2090969732568772909": 1787437662508,
     "https://twitter.com/thsottiaux/status/2091581575108653374": 1787524070394,
-    "https://twitter.com/petergostev/status/2091560707837866153": 1787524070395
+    "https://twitter.com/petergostev/status/2091560707837866153": 1787524070395,
+    "https://twitter.com/gdb/status/2091745169221787681": 1787610501566,
+    "https://twitter.com/emollick/status/2091720399406923882": 1787610501566,
+    "https://twitter.com/emollick/status/2091717091791376579": 1787610501566,
+    "https://twitter.com/thsottiaux/status/2091688655828246890": 1787610501567
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything": 1786315947597,
     "https://stratechery.com/2026/apple-earnings-more-on-amazons-earnings/": 1786402713615,
     "https://www.rundown.ai/articles/uber-10b-answer-to-waymo": 1786402713615,
     "https://www.rundown.ai/articles/openai-puts-the-safety-brakes-on-astra": 1786402713615,
@@ -198,8 +193,11 @@
     "https://stratechery.com/2026/app-snore/": 1787437662508,
     "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/": 1787524070395,
     "https://simonwillison.net/2026/Aug/23/drew-breunig/": 1787524070395,
-    "https://simonwillison.net/2026/Aug/21/llm/": 1787524070395
+    "https://simonwillison.net/2026/Aug/21/llm/": 1787524070395,
+    "https://stratechery.com/2026/autonomy-and-innovation/": 1787610501567,
+    "https://jack-clark.net/2026/08/24/import-ai-470-no-rights-for-machines-automating-environment-generation-with-spade-and-building-better-gpu-kernels-with-hawkeye/": 1787610501567,
+    "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/": 1787610501567
   },
-  "lastRunKey": "2026-08-24",
-  "lastRunAt": "2026-08-23T22:27:50.400Z"
+  "lastRunKey": "2026-08-25",
+  "lastRunAt": "2026-08-24T22:28:21.572Z"
 }
