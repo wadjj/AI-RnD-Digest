@@ -1,18 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/trq212/status/2086931648898342914": 1786402713614,
-    "https://twitter.com/trq212/status/2086931649938522329": 1786402713614,
-    "https://twitter.com/trq212/status/2086931647468097932": 1786402713614,
-    "https://twitter.com/emollick/status/2086875820279128574": 1786402713614,
-    "https://twitter.com/emollick/status/2086874631437230225": 1786402713614,
-    "https://twitter.com/emollick/status/2086871954762469691": 1786402713614,
-    "https://twitter.com/thsottiaux/status/2086874565909815403": 1786402713614,
-    "https://twitter.com/gdb/status/2086868041451901009": 1786402713614,
-    "https://twitter.com/gdb/status/2086866967479341305": 1786402713614,
-    "https://twitter.com/amorriscode/status/2086926012252930372": 1786402713614,
-    "https://twitter.com/bcherny/status/2086859917756133459": 1786402713615,
-    "https://twitter.com/JeffDean/status/2086662585508921672": 1786402713615,
-    "https://twitter.com/petergostev/status/2086599803853492284": 1786402713615,
     "https://twitter.com/thsottiaux/status/2087254026232775052": 1786489560439,
     "https://twitter.com/thsottiaux/status/2087252528513814773": 1786489560439,
     "https://twitter.com/koraykv/status/2087253148973060343": 1786489560439,
@@ -112,18 +99,15 @@
     "https://twitter.com/gdb/status/2091745169221787681": 1787610501566,
     "https://twitter.com/emollick/status/2091720399406923882": 1787610501566,
     "https://twitter.com/emollick/status/2091717091791376579": 1787610501566,
-    "https://twitter.com/thsottiaux/status/2091688655828246890": 1787610501567
+    "https://twitter.com/thsottiaux/status/2091688655828246890": 1787610501567,
+    "https://twitter.com/_catwu/status/2092337156455051345": 1787696916604,
+    "https://twitter.com/_sholtodouglas/status/2092310271964619196": 1787696916604,
+    "https://twitter.com/_sholtodouglas/status/2092036883224338743": 1787696916604,
+    "https://twitter.com/thsottiaux/status/2092117461646856505": 1787696916604,
+    "https://twitter.com/thsottiaux/status/2092058556707344708": 1787696916604
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://stratechery.com/2026/apple-earnings-more-on-amazons-earnings/": 1786402713615,
-    "https://www.rundown.ai/articles/uber-10b-answer-to-waymo": 1786402713615,
-    "https://www.rundown.ai/articles/openai-puts-the-safety-brakes-on-astra": 1786402713615,
-    "https://jack-clark.net/2026/08/10/import-ai-468-23-rsi-ideas-posttrainbench-and-how-trust-and-transparency-interplay-with-ai-racing/": 1786402713615,
-    "https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything": 1786402713615,
-    "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything": 1786402713615,
-    "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything": 1786402713615,
-    "https://www.tomtunguz.com/ai-harness-arr-multiples/": 1786402713615,
     "https://www.rundown.ai/articles/apple-almost-glass-iphone": 1786489560440,
     "https://www.rundown.ai/articles/meta-returns-to-its-open-source-roots": 1786489560440,
     "https://stratechery.com/2026/nvidias-risky-business/": 1786489560440,
@@ -196,8 +180,12 @@
     "https://simonwillison.net/2026/Aug/21/llm/": 1787524070395,
     "https://stratechery.com/2026/autonomy-and-innovation/": 1787610501567,
     "https://jack-clark.net/2026/08/24/import-ai-470-no-rights-for-machines-automating-environment-generation-with-spade-and-building-better-gpu-kernels-with-hawkeye/": 1787610501567,
-    "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/": 1787610501567
+    "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/": 1787610501567,
+    "https://stratechery.com/2026/netflix-to-sell-streaming-services-streamers-as-aggregators-revisiting-roku/": 1787696916604,
+    "https://simonwillison.net/2026/Aug/24/llm-anthropic/": 1787696916604,
+    "https://www.tomtunguz.com/how-long-should-an-agent-live/": 1787696916604,
+    "https://www.tomtunguz.com/the-ai-cost-stack/": 1787696916604
   },
-  "lastRunKey": "2026-08-25",
-  "lastRunAt": "2026-08-24T22:28:21.572Z"
+  "lastRunKey": "2026-08-26",
+  "lastRunAt": "2026-08-25T22:28:36.609Z"
 }
