@@ -1,15 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/thsottiaux/status/2087254026232775052": 1786489560439,
-    "https://twitter.com/thsottiaux/status/2087252528513814773": 1786489560439,
-    "https://twitter.com/koraykv/status/2087253148973060343": 1786489560439,
-    "https://twitter.com/demishassabis/status/2087252280886145166": 1786489560439,
-    "https://twitter.com/JeffDean/status/2087038694054072637": 1786489560439,
-    "https://twitter.com/thsottiaux/status/2087614555203809395": 1786575828301,
-    "https://twitter.com/thsottiaux/status/2087423996115681767": 1786575828301,
-    "https://twitter.com/emollick/status/2087556358757609854": 1786575828301,
-    "https://twitter.com/emollick/status/2087368598465745360": 1786575828301,
-    "https://twitter.com/petergostev/status/2087527300975714499": 1786575828301,
     "https://twitter.com/_catwu/status/2088006642189361564": 1786662302355,
     "https://twitter.com/koraykv/status/2087948169552490845": 1786662302355,
     "https://twitter.com/koraykv/status/2087948171230203976": 1786662302355,
@@ -104,25 +94,20 @@
     "https://twitter.com/_sholtodouglas/status/2092310271964619196": 1787696916604,
     "https://twitter.com/_sholtodouglas/status/2092036883224338743": 1787696916604,
     "https://twitter.com/thsottiaux/status/2092117461646856505": 1787696916604,
-    "https://twitter.com/thsottiaux/status/2092058556707344708": 1787696916604
+    "https://twitter.com/thsottiaux/status/2092058556707344708": 1787696916604,
+    "https://twitter.com/gdb/status/2092697786806669515": 1787786676690,
+    "https://twitter.com/gdb/status/2092487630218985867": 1787786676690,
+    "https://twitter.com/gdb/status/2092430694253572216": 1787786676691,
+    "https://twitter.com/trq212/status/2092696449616376140": 1787786676691,
+    "https://twitter.com/polynoamial/status/2092694522954412171": 1787786676691,
+    "https://twitter.com/emollick/status/2092664543948226921": 1787786676691,
+    "https://twitter.com/emollick/status/2092628238421942728": 1787786676691,
+    "https://twitter.com/emollick/status/2092404982012158354": 1787786676691,
+    "https://twitter.com/amorriscode/status/2092644908616356219": 1787786676691,
+    "https://twitter.com/thsottiaux/status/2092487667426738179": 1787786676691
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://www.rundown.ai/articles/apple-almost-glass-iphone": 1786489560440,
-    "https://www.rundown.ai/articles/meta-returns-to-its-open-source-roots": 1786489560440,
-    "https://stratechery.com/2026/nvidias-risky-business/": 1786489560440,
-    "https://sebastianraschka.com/blog/2026/muse-glimmer-30b-architecture-notes.html": 1786489560440,
-    "https://lovable.dev/blog/the-model-picker-is-a-dead-end": 1786489560440,
-    "https://www.tomtunguz.com/a-winner-in-every-category/": 1786489560440,
-    "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/#atom-everything": 1786489560440,
-    "https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything": 1786489560440,
-    "https://simonwillison.net/2026/Aug/12/florian-herrengt/#atom-everything": 1786575828302,
-    "https://simonwillison.net/2026/Aug/12/florian-herrengt/": 1786575828302,
-    "https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/": 1786575828302,
-    "https://www.rundown.ai/articles/anthropic-slips-an-invisible-signature-into-claude": 1786575828302,
-    "https://stratechery.com/2026/anthropics-watermarking-how-it-probably-works-worse-than-it-seems/": 1786575828302,
-    "https://lovable.dev/blog/series-c": 1786575828302,
-    "https://cursor.com/cn/blog/grok-4-6": 1786575828302,
     "https://www.rundown.ai/articles/honor-robot-phone-is-finally-here": 1786662302356,
     "https://www.rundown.ai/articles/grok-4-6-storms-the-ai-frontier": 1786662302356,
     "https://simonwillison.net/2026/Aug/13/alchemy-utils/": 1786662302356,
@@ -184,8 +169,12 @@
     "https://stratechery.com/2026/netflix-to-sell-streaming-services-streamers-as-aggregators-revisiting-roku/": 1787696916604,
     "https://simonwillison.net/2026/Aug/24/llm-anthropic/": 1787696916604,
     "https://www.tomtunguz.com/how-long-should-an-agent-live/": 1787696916604,
-    "https://www.tomtunguz.com/the-ai-cost-stack/": 1787696916604
+    "https://www.tomtunguz.com/the-ai-cost-stack/": 1787696916604,
+    "https://stratechery.com/2026/apple-updates-mini-and-studio-ai-computers-openai-jalapeno/": 1787786676691,
+    "https://simonwillison.net/2026/Aug/26/paul-dix/": 1787786676691,
+    "https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/": 1787786676691,
+    "https://lovable.dev/blog/how-we-made-lovable-apps-work-with-the-rest-of-your-stack": 1787786676691
   },
-  "lastRunKey": "2026-08-26",
-  "lastRunAt": "2026-08-25T22:28:36.609Z"
+  "lastRunKey": "2026-08-27",
+  "lastRunAt": "2026-08-26T23:24:36.696Z"
 }
