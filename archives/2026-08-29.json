@@ -1,0 +1,96 @@
+{
+  "generatedAt": "2026-08-28T22:26:58.385Z",
+  "runKey": "2026-08-29",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Greg Brockman",
+      "handle": "gdb",
+      "bio": "Twitter @Greg Brockman",
+      "tweets": [
+        {
+          "id": "https://twitter.com/gdb/status/2093389388109717989",
+          "text": "Jevons Paradox is counterintuitive and inspiring\n---\n OpenRouter: What happened when GPT 5.6 Terra and Luna were heavily discounted on OpenRouter?\n\nToken usage exploded by 13.8x\n\nJevons Paradox = as technology makes the use of a resource more efficient, total consumption of that resource increases rather than decreases 🧵",
+          "createdAt": "2026-08-28T17:24:58.485Z",
+          "url": "https://x.com/gdb/status/2093389388109717989",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/OpenRouter/status/2093350440792420751\nOpenRouter: What happened when GPT 5.6 Terra and Luna were heavily discounted on OpenRouter?\n\nToken usage exploded by 13.8x\n\nJevons Paradox = as technology makes the use of a resource more efficient, total consumption of that resource increases rather than decreases 🧵"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Twitter @Ethan Mollick",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2093362761925284279",
+          "text": "Aside from waiting for economic impact, we are now at the place where AI video, image & music models are good enough to be real tools for letting more people who never could produce new kinds of art\n\nHow long until we see a creativity boom among the slop flood? Is it happening?",
+          "createdAt": "2026-08-28T15:39:09.778Z",
+          "url": "https://x.com/emollick/status/2093362761925284279",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Twitter @Tibo",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2093354037198696932",
+          "text": "What is the most ambitious task you’ve given ChatGPT Work?",
+          "createdAt": "2026-08-28T15:04:29.493Z",
+          "url": "https://x.com/thsottiaux/status/2093354037198696932",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2093351054834598354",
+          "text": "I do wonder what the record will be of most connected accounts\n---\n Gabriel Chua: This has been a very popular request!\n\nYou can now connect multiple Gmail and Google Cal accounts to Codex and ChatGPT",
+          "createdAt": "2026-08-28T14:52:38.789Z",
+          "url": "https://x.com/thsottiaux/status/2093351054834598354",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/gabrielchua/status/2093228185823687134\nGabriel Chua: This has been a very popular request!\n\nYou can now connect multiple Gmail and Google Cal accounts to Codex and ChatGPT"
+        }
+      ]
+    }
+  ],
+  "blogs": [],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 3,
+    "totalTweets": 4,
+    "blogPosts": 0,
+    "podcastEpisodes": 0
+  }
+}
