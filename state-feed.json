@@ -1,14 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/_catwu/status/2088006642189361564": 1786662302355,
-    "https://twitter.com/koraykv/status/2087948169552490845": 1786662302355,
-    "https://twitter.com/koraykv/status/2087948171230203976": 1786662302355,
-    "https://twitter.com/demishassabis/status/2087885303855944001": 1786662302355,
-    "https://twitter.com/petergostev/status/2087810662248407192": 1786662302355,
-    "https://twitter.com/emollick/status/2087757725572939957": 1786662302355,
-    "https://twitter.com/bcherny/status/2087752313700319456": 1786662302355,
-    "https://twitter.com/amorriscode/status/2087722925164232772": 1786662302355,
-    "https://twitter.com/thsottiaux/status/2087706104814023111": 1786662302356,
     "https://twitter.com/trq212/status/2088339390435377456": 1786747400299,
     "https://twitter.com/trq212/status/2088049989306192106": 1786747400300,
     "https://twitter.com/emollick/status/2088288410670940213": 1786747400300,
@@ -104,15 +95,22 @@
     "https://twitter.com/emollick/status/2092628238421942728": 1787786676691,
     "https://twitter.com/emollick/status/2092404982012158354": 1787786676691,
     "https://twitter.com/amorriscode/status/2092644908616356219": 1787786676691,
-    "https://twitter.com/thsottiaux/status/2092487667426738179": 1787786676691
+    "https://twitter.com/thsottiaux/status/2092487667426738179": 1787786676691,
+    "https://twitter.com/thsottiaux/status/2093074717590921245": 1787879279318,
+    "https://twitter.com/thsottiaux/status/2093014447833116908": 1787879279318,
+    "https://twitter.com/thsottiaux/status/2092862554632826968": 1787879279318,
+    "https://twitter.com/gdb/status/2093065379145019902": 1787879279319,
+    "https://twitter.com/trq212/status/2093046266234351722": 1787879279319,
+    "https://twitter.com/petergostev/status/2092997827463143810": 1787879279319,
+    "https://twitter.com/petergostev/status/2092880434673885203": 1787879279319,
+    "https://twitter.com/_sholtodouglas/status/2093034245988274554": 1787879279319,
+    "https://twitter.com/_sholtodouglas/status/2092833742289338629": 1787879279319,
+    "https://twitter.com/amorriscode/status/2092839825707774457": 1787879279319,
+    "https://twitter.com/emollick/status/2092826292345331773": 1787879279319,
+    "https://twitter.com/koraykv/status/2092791698149810457": 1787879279319
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://www.rundown.ai/articles/honor-robot-phone-is-finally-here": 1786662302356,
-    "https://www.rundown.ai/articles/grok-4-6-storms-the-ai-frontier": 1786662302356,
-    "https://simonwillison.net/2026/Aug/13/alchemy-utils/": 1786662302356,
-    "https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/": 1786662302356,
-    "https://simonwillison.net/2026/Aug/12/alchemy-utils/": 1786662302356,
     "https://stratechery.com/2026/the-capex-train-keeps-rolling/": 1786747400300,
     "https://www.rundown.ai/articles/google-fitbit-gets-a-wild-new-update": 1786747400301,
     "https://www.rundown.ai/articles/openai-feels-the-frontier-need-for-speed": 1786747400301,
@@ -173,8 +171,12 @@
     "https://stratechery.com/2026/apple-updates-mini-and-studio-ai-computers-openai-jalapeno/": 1787786676691,
     "https://simonwillison.net/2026/Aug/26/paul-dix/": 1787786676691,
     "https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/": 1787786676691,
-    "https://lovable.dev/blog/how-we-made-lovable-apps-work-with-the-rest-of-your-stack": 1787786676691
+    "https://lovable.dev/blog/how-we-made-lovable-apps-work-with-the-rest-of-your-stack": 1787786676691,
+    "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/": 1787879279319,
+    "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/": 1787879279319,
+    "https://sebastianraschka.com/blog/2026/glm-5-3-flash-architecture-notes.html": 1787879279319,
+    "https://www.tomtunguz.com/nvidia-q2-fy27-earnings/": 1787879279319
   },
-  "lastRunKey": "2026-08-27",
-  "lastRunAt": "2026-08-26T23:24:36.696Z"
+  "lastRunKey": "2026-08-28",
+  "lastRunAt": "2026-08-28T01:07:59.323Z"
 }
