@@ -1,17 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/trq212/status/2088339390435377456": 1786747400299,
-    "https://twitter.com/trq212/status/2088049989306192106": 1786747400300,
-    "https://twitter.com/emollick/status/2088288410670940213": 1786747400300,
-    "https://twitter.com/petergostev/status/2088237032359215205": 1786747400300,
-    "https://twitter.com/petergostev/status/2088064647203049785": 1786747400300,
-    "https://twitter.com/petergostev/status/2088038815352901697": 1786747400300,
-    "https://twitter.com/thsottiaux/status/2088133823619895712": 1786747400300,
-    "https://twitter.com/thsottiaux/status/2088103609477238858": 1786747400300,
-    "https://twitter.com/gdb/status/2088111733973934346": 1786747400300,
-    "https://twitter.com/gdb/status/2088111005297471894": 1786747400300,
-    "https://twitter.com/_sholtodouglas/status/2088062341732774200": 1786747400300,
-    "https://twitter.com/amorriscode/status/2088034151387791385": 1786747400300,
     "https://twitter.com/trq212/status/2088721023223132213": 1786833648891,
     "https://twitter.com/trq212/status/2088721024825344289": 1786833648891,
     "https://twitter.com/gdb/status/2088658133971509640": 1786833648891,
@@ -111,18 +99,13 @@
     "https://twitter.com/gdb/status/2093389388109717989": 1787956018386,
     "https://twitter.com/emollick/status/2093362761925284279": 1787956018386,
     "https://twitter.com/thsottiaux/status/2093354037198696932": 1787956018386,
-    "https://twitter.com/thsottiaux/status/2093351054834598354": 1787956018386
+    "https://twitter.com/thsottiaux/status/2093351054834598354": 1787956018386,
+    "https://twitter.com/trq212/status/2093541555068182781": 1788042199119,
+    "https://twitter.com/_sholtodouglas/status/2093578044871147960": 1788042199119,
+    "https://twitter.com/emollick/status/2093530834124800046": 1788042199119
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://stratechery.com/2026/the-capex-train-keeps-rolling/": 1786747400300,
-    "https://www.rundown.ai/articles/google-fitbit-gets-a-wild-new-update": 1786747400301,
-    "https://www.rundown.ai/articles/openai-feels-the-frontier-need-for-speed": 1786747400301,
-    "https://simonwillison.net/2026/Aug/13/sqlite-utils-2/": 1786747400301,
-    "https://simonwillison.net/2026/Aug/13/sqlite-utils/": 1786747400301,
-    "https://simonwillison.net/2026/Aug/13/llm-gemini/": 1786747400301,
-    "https://www.tomtunguz.com/openai-hack-ai-intent/": 1786747400301,
-    "https://sebastianraschka.com/blog/2026/build-a-reasoning-model-from-scratch-on-amazon.html": 1786747400301,
     "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch": 1786833648892,
     "https://sebastianraschka.com/blog/2026/claude-text-watermarking.html": 1786833648892,
     "https://simonwillison.net/2026/Aug/15/sighting-391300422/": 1786833648892,
@@ -179,8 +162,10 @@
     "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/": 1787879279319,
     "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/": 1787879279319,
     "https://sebastianraschka.com/blog/2026/glm-5-3-flash-architecture-notes.html": 1787879279319,
-    "https://www.tomtunguz.com/nvidia-q2-fy27-earnings/": 1787879279319
+    "https://www.tomtunguz.com/nvidia-q2-fy27-earnings/": 1787879279319,
+    "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/": 1788042199120,
+    "https://stratechery.com/2026/internet-hype-and-real-world-change/": 1788042199120
   },
-  "lastRunKey": "2026-08-29",
-  "lastRunAt": "2026-08-28T22:26:58.391Z"
+  "lastRunKey": "2026-08-30",
+  "lastRunAt": "2026-08-29T22:23:19.124Z"
 }
