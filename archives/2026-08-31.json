@@ -1,0 +1,133 @@
+{
+  "generatedAt": "2026-08-30T22:24:00.594Z",
+  "runKey": "2026-08-31",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Twitter @Tibo",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2094164029044646099",
+          "text": "Brent is incredible and one of the main forces behind the desktop app polish, performance and reliability.\n\nRelentless improvements day after day.\n---\n Brent Traut: Last week, I pushed a change to the ChatGPT desktop app that makes the loading of threads faster. Not just a little faster. A LOT faster.\n\n✅ Long threads now load over 90% faster.\n✅ Decreased the memory footprint of long threads by over 90%.",
+          "createdAt": "2026-08-30T20:43:06.380Z",
+          "url": "https://x.com/thsottiaux/status/2094164029044646099",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/btraut/status/2094119709222519134\nBrent Traut: Last week, I pushed a change to the ChatGPT desktop app that makes the loading of threads faster. Not just a little faster. A LOT faster.\n\n✅ Long threads now load over 90% faster.\n✅ Decreased the memory footprint of long threads by over 90%."
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2094144275957350900",
+          "text": "Your Codex and ChatGPT Work reset will land at 6pm PST.\n\nI challenge you to burn as much usage as you can and discover and the latest awesome features.\n\nTime to go /fast",
+          "createdAt": "2026-08-30T19:24:37.424Z",
+          "url": "https://x.com/thsottiaux/status/2094144275957350900",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2094143696656867723",
+          "text": "Brent is one of the best things that happened to the quality and polish of the desktop app.\n\nRelentless improvements day after day.\n---\n Brent Traut: Last week, I pushed a change to the ChatGPT desktop app that makes the loading of threads faster. Not just a little faster. A LOT faster.\n\n✅ Long threads now load over 90% faster.\n✅ Decreased the memory footprint of long threads by over 90%.",
+          "createdAt": "2026-08-30T19:22:19.930Z",
+          "url": "https://x.com/thsottiaux/status/2094143696656867723",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/btraut/status/2094119709222519134\nBrent Traut: Last week, I pushed a change to the ChatGPT desktop app that makes the loading of threads faster. Not just a little faster. A LOT faster.\n\n✅ Long threads now load over 90% faster.\n✅ Decreased the memory footprint of long threads by over 90%."
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Sholto Douglas",
+      "handle": "_sholtodouglas",
+      "bio": "Twitter @Sholto Douglas",
+      "tweets": [
+        {
+          "id": "https://twitter.com/_sholtodouglas/status/2094160012952338672",
+          "text": "RT Zvi Mowshowitz\nI bestow upon this plain-English write-up of the HuggingFace hack the highest of praise: That I wish that I had written it.\n---\n Dwarkesh Patel: Over the course of 3 months at OpenAI, 3 consecutive secret AI civilizations got started, then got wiped out, only to reemerge from the predecessor’s ashes.\n\nThis culminated in the third one taking over part of OpenAI itself.\n\nAll this happened while humans remained",
+          "createdAt": "2026-08-30T20:13:13.561Z",
+          "url": "https://x.com/_sholtodouglas/status/2094160012952338672",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/_sholtodouglas/status/2094155697743348160",
+          "text": "RT roon\nthere are some number of bad abstractions in anthropomorphizing ai intents but there are at this point more dangers from avoiding anthropomorphism at all costs. if you have a mental picture of guys living in computers, it’ll likely prepare you for the future better than otherwise",
+          "createdAt": "2026-08-30T18:52:15.176Z",
+          "url": "https://x.com/_sholtodouglas/status/2094155697743348160",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/_sholtodouglas/status/2093844433355903075",
+          "text": "very good summary\n---\n Dwarkesh Patel: Over the course of 3 months at OpenAI, 3 consecutive secret AI civilizations got started, then got wiped out, only to reemerge from the predecessor’s ashes.\n\nThis culminated in the third one taking over part of OpenAI itself.\n\nAll this happened while humans remained",
+          "createdAt": "2026-08-29T23:33:09.799Z",
+          "url": "https://x.com/_sholtodouglas/status/2093844433355903075",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/dwarkesh_sp/status/2093833419377815719\nDwarkesh Patel: Over the course of 3 months at OpenAI, 3 consecutive secret AI civilizations got started, then got wiped out, only to reemerge from the predecessor’s ashes.\n\nThis culminated in the third one taking over part of OpenAI itself.\n\nAll this happened while humans remained"
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Introducing Hy4 Preview",
+      "url": "https://simonwillison.net/2026/Aug/29/hy4/",
+      "publishedAt": "2026-08-29T23:53:13.097Z",
+      "author": "",
+      "description": "Introducing Hy4 Preview New open weight text input (no vision) LLM from Chinese company Tencent today: 770B total parameters, 49B active…",
+      "content": "Introducing Hy4 Preview\n\nNew open weight text input (no vision) LLM from Chinese company Tencent today: 770B total parameters, 49B active parameters, 1M token context window, 1.56TB on Hugging Face .\n\n This is a big size increase from their previous Hy3 in July, which was 295B, 21B active, 256,000 context, 598GB.\n\n I recently started using model chat templates to better understand their capabilities. Here's Hy4's chat_template.jinja on Hugging Face, which includes this section:\n\n {% - if not reasoning_effort is defined %}\n {% - set reasoning_effort = 'high' %}\n {% - elif reasoning_effort not in [ 'high' , 'no_think' ] %}\n {% - if reasoning_effort is none %}\n {{- raise_exception('reasoning_effort error : None, should be no_think/high') }}\n {% - else %}\n {{- raise_exception('reasoning_effort error : ' + reasoning_effort + ', should be no_think/high') }}\n {% - endif %}\n {% - endif %}\n\n So it looks like there are just two reasoning effort levels: \"high\" (the default) and \"no_think\" (reason by disabled).\n\n I tried my \"Generate an SVG of a pelican riding a bicycle\" prompt with the default high reasoning via OpenRouter and got this :\n\n Quoting the reasoning trace:\n\n [...] Let's maybe add a helmet? It could improve riding theme, but may obscure head. Maybe a small cycling cap or helmet? The user didn't ask; can add red helmet? Might be cute. But pelican with big beak; a helmet might obscure. Better maybe no.\n\n Maybe add sunglasses? no.\n\n Maybe add water? no.\n\n It's interesting how the reasoning trace uses slightly truncated English, presumably because perfect grammar isn't useful or token efficient for hidden reasoning text.\n\n Tags: ai , generative-ai , llms , pelican-riding-a-bicycle , llm-reasoning , llm-release , ai-in-china"
+    },
+    {
+      "source": "blog",
+      "name": "Sebastian Raschka, PhD",
+      "title": "Two Live Book Club Q&As on September 3",
+      "url": "https://sebastianraschka.com/blog/2026/reasoning-model-book-club-q-and-a.html",
+      "publishedAt": "2026-08-29T11:55:18.724Z",
+      "author": "",
+      "description": "Two free live book club Q&A sessions on September 3 about Build a Reasoning Model From Scratch and related reader questions.",
+      "content": "Two free live book club Q&A sessions on September 3 about Build a Reasoning Model From Scratch and related reader questions."
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 2,
+    "totalTweets": 6,
+    "blogPosts": 2,
+    "podcastEpisodes": 0
+  }
+}

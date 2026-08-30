@@ -1,13 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/trq212/status/2088721023223132213": 1786833648891,
-    "https://twitter.com/trq212/status/2088721024825344289": 1786833648891,
-    "https://twitter.com/gdb/status/2088658133971509640": 1786833648891,
-    "https://twitter.com/gdb/status/2088489438297133066": 1786833648891,
-    "https://twitter.com/thsottiaux/status/2088500028721832432": 1786833648891,
-    "https://twitter.com/thsottiaux/status/2088493756391768252": 1786833648891,
-    "https://twitter.com/_sholtodouglas/status/2088463770318516734": 1786833648891,
-    "https://twitter.com/petergostev/status/2088408813044916730": 1786833648891,
     "https://twitter.com/thsottiaux/status/2089082893804896524": 1786919998462,
     "https://twitter.com/thsottiaux/status/2089080720396317053": 1786919998462,
     "https://twitter.com/thsottiaux/status/2088877426483036646": 1786919998462,
@@ -102,15 +94,16 @@
     "https://twitter.com/thsottiaux/status/2093351054834598354": 1787956018386,
     "https://twitter.com/trq212/status/2093541555068182781": 1788042199119,
     "https://twitter.com/_sholtodouglas/status/2093578044871147960": 1788042199119,
-    "https://twitter.com/emollick/status/2093530834124800046": 1788042199119
+    "https://twitter.com/emollick/status/2093530834124800046": 1788042199119,
+    "https://twitter.com/thsottiaux/status/2094164029044646099": 1788128640595,
+    "https://twitter.com/thsottiaux/status/2094144275957350900": 1788128640595,
+    "https://twitter.com/thsottiaux/status/2094143696656867723": 1788128640595,
+    "https://twitter.com/_sholtodouglas/status/2094160012952338672": 1788128640595,
+    "https://twitter.com/_sholtodouglas/status/2094155697743348160": 1788128640595,
+    "https://twitter.com/_sholtodouglas/status/2093844433355903075": 1788128640595
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch": 1786833648892,
-    "https://sebastianraschka.com/blog/2026/claude-text-watermarking.html": 1786833648892,
-    "https://simonwillison.net/2026/Aug/15/sighting-391300422/": 1786833648892,
-    "https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/": 1786833648892,
-    "https://www.tomtunguz.com/model-release-exhaustion/": 1786833648892,
     "https://simonwillison.net/2026/Aug/16/dario-amodei/": 1786919998463,
     "https://simonwillison.net/2026/Aug/15/cors-chat/": 1786919998463,
     "https://stratechery.com/2026/stripe-acquiring-openrouter-aggregating-ai-flipping-the-business-model/": 1787006628348,
@@ -164,8 +157,10 @@
     "https://sebastianraschka.com/blog/2026/glm-5-3-flash-architecture-notes.html": 1787879279319,
     "https://www.tomtunguz.com/nvidia-q2-fy27-earnings/": 1787879279319,
     "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/": 1788042199120,
-    "https://stratechery.com/2026/internet-hype-and-real-world-change/": 1788042199120
+    "https://stratechery.com/2026/internet-hype-and-real-world-change/": 1788042199120,
+    "https://simonwillison.net/2026/Aug/29/hy4/": 1788128640596,
+    "https://sebastianraschka.com/blog/2026/reasoning-model-book-club-q-and-a.html": 1788128640596
   },
-  "lastRunKey": "2026-08-30",
-  "lastRunAt": "2026-08-29T22:23:19.124Z"
+  "lastRunKey": "2026-08-31",
+  "lastRunAt": "2026-08-30T22:24:00.601Z"
 }
