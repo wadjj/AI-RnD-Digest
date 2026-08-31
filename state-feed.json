@@ -1,12 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/thsottiaux/status/2089082893804896524": 1786919998462,
-    "https://twitter.com/thsottiaux/status/2089080720396317053": 1786919998462,
-    "https://twitter.com/thsottiaux/status/2088877426483036646": 1786919998462,
-    "https://twitter.com/petergostev/status/2088993721505259983": 1786919998462,
-    "https://twitter.com/_sholtodouglas/status/2089001840033853490": 1786919998462,
-    "https://twitter.com/_sholtodouglas/status/2088771124033372524": 1786919998462,
-    "https://twitter.com/_sholtodouglas/status/2088762852333281775": 1786919998462,
     "https://twitter.com/markchen90/status/2089366892024893445": 1787006628346,
     "https://twitter.com/emollick/status/2089351996016918825": 1787006628347,
     "https://twitter.com/emollick/status/2089334464232968679": 1787006628347,
@@ -100,12 +93,18 @@
     "https://twitter.com/thsottiaux/status/2094143696656867723": 1788128640595,
     "https://twitter.com/_sholtodouglas/status/2094160012952338672": 1788128640595,
     "https://twitter.com/_sholtodouglas/status/2094155697743348160": 1788128640595,
-    "https://twitter.com/_sholtodouglas/status/2093844433355903075": 1788128640595
+    "https://twitter.com/_sholtodouglas/status/2093844433355903075": 1788128640595,
+    "https://twitter.com/petergostev/status/2094376501235876116": 1788215143156,
+    "https://twitter.com/petergostev/status/2094209536647147639": 1788215143156,
+    "https://twitter.com/emollick/status/2094302639072715023": 1788215143156,
+    "https://twitter.com/emollick/status/2094291157098356880": 1788215143156,
+    "https://twitter.com/emollick/status/2094289571521466555": 1788215143156,
+    "https://twitter.com/thsottiaux/status/2094293190945976638": 1788215143156,
+    "https://twitter.com/thsottiaux/status/2094254532020818191": 1788215143156,
+    "https://twitter.com/thsottiaux/status/2094252447271366730": 1788215143156
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://simonwillison.net/2026/Aug/16/dario-amodei/": 1786919998463,
-    "https://simonwillison.net/2026/Aug/15/cors-chat/": 1786919998463,
     "https://stratechery.com/2026/stripe-acquiring-openrouter-aggregating-ai-flipping-the-business-model/": 1787006628348,
     "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/": 1787006628347,
     "https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/": 1787006628347,
@@ -159,8 +158,14 @@
     "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/": 1788042199120,
     "https://stratechery.com/2026/internet-hype-and-real-world-change/": 1788042199120,
     "https://simonwillison.net/2026/Aug/29/hy4/": 1788128640596,
-    "https://sebastianraschka.com/blog/2026/reasoning-model-book-club-q-and-a.html": 1788128640596
+    "https://sebastianraschka.com/blog/2026/reasoning-model-book-club-q-and-a.html": 1788128640596,
+    "https://jack-clark.net/2026/08/31/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai/": 1788215143157,
+    "https://stratechery.com/2026/meta-settles-a-framework-for-regulating-content-the-rest-of-big-tech/": 1788215143157,
+    "https://tomtunguz.com/the-great-segmentation/": 1788215143157,
+    "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/": 1788215143157,
+    "https://hardcoresoftware.learningbyshipping.com/p/242-armageddon-by-anthropomorphism": 1788215143157,
+    "https://sebastianraschka.com/blog/2026/reasoning-models-and-agents-from-scratch.html": 1788215143157
   },
-  "lastRunKey": "2026-08-31",
-  "lastRunAt": "2026-08-30T22:24:00.601Z"
+  "lastRunKey": "2026-09-01",
+  "lastRunAt": "2026-08-31T22:25:43.162Z"
 }

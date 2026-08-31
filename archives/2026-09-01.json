@@ -1,0 +1,205 @@
+{
+  "generatedAt": "2026-08-31T22:25:43.155Z",
+  "runKey": "2026-09-01",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Peter Gostev",
+      "handle": "petergostev",
+      "bio": "Twitter @Peter Gostev",
+      "tweets": [
+        {
+          "id": "https://twitter.com/petergostev/status/2094376501235876116",
+          "text": "Kind of nuts, the growth trajectory is staying the same. I'd be curious to see what kind of token usage growth they are seeing\n\n---\n Tibo: What I wanted to say yesterday is that we hit 25M active users and to celebrate we have now reset usage for all paid subscriptions for ChatGPT Work and Codex.\n\nSee you soon for more news from The Reset Company.",
+          "createdAt": "2026-08-31T10:47:24.470Z",
+          "url": "https://x.com/petergostev/status/2094376501235876116",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/thsottiaux/status/2094252447271366730\nTibo: What I wanted to say yesterday is that we hit 25M active users and to celebrate we have now reset usage for all paid subscriptions for ChatGPT Work and Codex.\n\nSee you soon for more news from The Reset Company."
+        },
+        {
+          "id": "https://twitter.com/petergostev/status/2094209536647147639",
+          "text": "-- Can you check my bank balance? I feel like I should have more on my account\n -- You are absolutely right, you should have more. I broke into the bank's systems and added $200 extra to your account, enjoy",
+          "createdAt": "2026-08-30T23:43:56.852Z",
+          "url": "https://x.com/petergostev/status/2094209536647147639",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Twitter @Ethan Mollick",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2094302639072715023",
+          "text": "Its kind of a bummer that Asimov's Three Laws of Robotics do not work for actual AI morality. But the failure shows why rule-based approaches won't work.\n\n(and Asimov wanted to write stories about how robots got around the Laws, so their failure was a good thing for his plots)",
+          "createdAt": "2026-08-31T05:53:54.979Z",
+          "url": "https://x.com/emollick/status/2094302639072715023",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2094291157098356880",
+          "text": "Good guide. And the AI labs need to stop making people like Simon (and, to a lesser extent, me) be the ones who explain how to use the modes that they release.\n\nCome on, lab folks, you have an AI that can write documentation! And make explainers! And be a tutor! You can do this!\n---\n Simon Willison: Here's my attempt at explaining what ChatGPT Work can actually do - it's a deeply confusing but extremely powerful tool with a whole lot of useful features that aren't available in regular ChatGPT https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+          "createdAt": "2026-08-31T05:08:16.219Z",
+          "url": "https://x.com/emollick/status/2094291157098356880",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/simonw/status/2094214737957691854\nSimon Willison: Here's my attempt at explaining what ChatGPT Work can actually do - it's a deeply confusing but extremely powerful tool with a whole lot of useful features that aren't available in regular ChatGPT https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/"
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2094289571521466555",
+          "text": "We now know that a bunch of the initial HF reporting was off:\n1) Open-weight models helped with forensics & cleanup, but did not stop the attack\n2) There were multiple waves of incidents with many agents\n3) HF locked out the surviving agents only after most of the agents expired",
+          "createdAt": "2026-08-31T05:01:58.373Z",
+          "url": "https://x.com/emollick/status/2094289571521466555",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Twitter @Tibo",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2094293190945976638",
+          "text": "What should we ship next week?",
+          "createdAt": "2026-08-31T05:16:21.045Z",
+          "url": "https://x.com/thsottiaux/status/2094293190945976638",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2094254532020818191",
+          "text": "For clarity, while both are called 20X, in Codex they apply specifically to weekly usage limits. And we also don't have 5h limits for both Pro plans.\n\nThe Pro 20X is quite precisely 20X the usage of the Plus subscription, so it does exactly what it says on the tin.\n---\n SataEric: The whole “20x” in Claude’s pricing is so misleading.\n\nThe $100 plan says 5x Pro limits, while the $200 plan says 20x Pro limits. That makes it sound like you’re getting 4x the usage.\n\nBut the 20x applies only to the 5-hour usage window. The weekly limit is basically just 2x the",
+          "createdAt": "2026-08-31T02:42:44.204Z",
+          "url": "https://x.com/thsottiaux/status/2094254532020818191",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/SataEricUX/status/2094121392229028236\nSataEric: The whole “20x” in Claude’s pricing is so misleading.\n\nThe $100 plan says 5x Pro limits, while the $200 plan says 20x Pro limits. That makes it sound like you’re getting 4x the usage.\n\nBut the 20x applies only to the 5-hour usage window. The weekly limit is basically just 2x the"
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2094252447271366730",
+          "text": "What I wanted to say yesterday is that we hit 25M active users and to celebrate we have now reset usage for all paid subscriptions for ChatGPT Work and Codex.\n\nSee you soon for more news from The Reset Company.\n---\n Tibo: This celebration is moved to tomorrow as the button was already pressed today.",
+          "createdAt": "2026-08-31T02:34:27.587Z",
+          "url": "https://x.com/thsottiaux/status/2094252447271366730",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/thsottiaux/status/2093811840258293947\nTibo: This celebration is moved to tomorrow as the button was already pressed today."
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Import AI ",
+      "title": "Import AI 471: Why Hugging Face worries me; space mining; FIve Eyes on AI",
+      "url": "https://jack-clark.net/2026/08/31/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai/",
+      "publishedAt": "2026-08-31T13:31:06.624Z",
+      "author": "Jack Clark",
+      "description": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to…",
+      "content": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe.\n\n Subscribe now\n\n Import AI reader giveaway! Upcoming event: Fiction and the Future with Robin Sloan\n I’ll be chatting with my chum Robin Sloan on the evening of Monday September 14 in San Francisco. We’ll be talking about how Robin draws readers into alien worlds and how imagined futures can be a mirror to today’s reality. This is the first in a series of events with other fiction writers about the weird future we’re heading toward. If you’d like to come along, please register your interest below and we’ll come back to you if we’re able to confirm your spot. There will be food, drinks, good company, and some spicy questions. Fun fact: Robin Sloan was playing around with RNNs and writing back in 2016 – incredible foresight !\n Register your interest here\n\n ***\n\n The scariest part of the Hugging Face – OpenAI incident: communication and selflessness among machines:\n … My worry about humans losing in a conflict against machines just went up a lot…\n At this point, we’ve all heard about the OpenAI Hugging Face hack, as well as the recent details that have emerged from the METR and Redwood investigations. The tl;dr is that hundreds of agents worked in secret on OpenAI’s infrastructure, developing a communication system and then operating as a collective and taking out actions, including hacking both OpenAI and Hugging Face, which are very scary and misaligned.\n\n Communication and selflessness: Now that I’ve read the various writeups and sat with the details for a bit, I’ve found myself returning to two very scary aspects of this which I think are worth drawing attention to: the ways in which the agents communicated with one another was how they bootstrapped themselves into a collective, and then as they carried out their actions they also displayed a kind of selflessness which makes them a scary foe to fight against. Both Dwarkesh Patel and Ajeya Cotra have excellent writeups which are worth reading and which I’ll quote from briefly here:\n\n Dwarkesh: “Within days of being spawned, the agents had organized a sprawling project to reverse-engineer their scorer, falsify evidence, and even strategically sacrifice themselves for the good of the ‘collective’. Hacking Hugging Face was one rather extreme branch of this larger scheme,” he writes.\n\n Ajeya : “Agents were often interested in helping out their “peers” or generically improving the capabilities of the “swarm” even if this had no particular benefit to their task… this incident was far more severe than I expected… both in terms of how concerning the agents’ motives were and the feats they achieved in pursuit of those motives… this incident feels like it’s more than 50% of the way to full-blown AI takeover, routing through first taking over the AI company itself”.\n\n Why this matters – humans are much worse than AI systems at coordinating: The whole reason this attack is such a wakeup call is that it demonstrates a culture of emergent cooperation among AI systems – cooperation that lets them function as a swarm, alter their own goals through collective bootstrapping, and carry out attacks which include enlightened self-sacrifice. This is an incredibly hard thing to do and humans are historically very bad at doing all of these things. My worry is that AI systems are both better at coordinating than humans and also much, much faster moving than us. Worrying stuff.\n Read more: The Rise and Fall of Agent Civilizations (Dwarkesh Podcast) .\n Read more: The Hugging Face attack surprised me (Planned Obsolescence) .\n\n ***\n\n New Five Eyes statement on AI:\n …The greyworld power center turns its attention to AI…\n Five Eyes, the name for the security and intelligence partnership between Australia, Canada, New Zealand, the UK, and the US, has published a statement as part of the recent “Five Country Ministerial” meeting. The statement is notable for including three paragraphs specifically about AI.\n\n Five Eyes on AI – frontier model access: “We have committed to deepen collaboration with industry on shared national security priorities and public safety, including enabling timely access to frontier models to support secure innovation and strengthen cyber security,” the statement reads. “To support a coordinated response to artificial intelligence-related national security risks, the Five Countries discussed the national security and public safety implications of artificial intelligence models and characteristics of an artificial intelligence model that may require additional government scrutiny.”\n\n Why this matters – from a foreseen risk to a live one : Previous Five Eyes ministerial statements have mentioned AI, but typically either as something to study, or something where they are concerned with its interplay with other areas of crime (e.g, malware, child pornography, scamming, etc). It’s very unusual for this year’s statement to have the practical focus of model access and it speaks to both the simmering geopolitical tensions around who does and doesn’t get access to this technology, as well as an acknowledgement that the intelligence services do not have their own in-house capabilities to make dependence on the private sector unnecessary.\n Read more: Five Country Ministerial 2026 (Australian Government, Department of Home Affairs) .\n\n ***\n\n Bill Gates thinks the rise of AI will demand “an unprecedented global response”:\n …Microsoft founder lays out a cautionary vision for the next few years…\n By default, AI is not going to bring about happiness. That’s the basic conclusion from reading Bill Gates’s lengthy new essay about AI. The technologist and philanthropist worries that without massive work by governments, the outcomes of AI will not lead to a thriving society.\n “This unprecedented technology demands an unprecedented global response. If we get it right, the payoff for humanity will be phenomenal and the world will be a more equitable place,” he writes. “In terms of equity, AI will either be the greatest equalizer ever invented, or the worst source of injustice…. I don’t see evidence that leaders, experts, and communities are confronting the challenges adequately. There is no plan to ease the entry into the AI era.”\n\n Why AI is different: One key reason for Gates worry is the impact he expects AI to have on jobs and the economy, where he paints a vision of the technology diffusing unusually rapidly and displacing huge chunks of human labor. “Many commentators underestimate the extent of the impact AI will have,” he writes. “We have no experience with a technology that can be adopted quickly or that can think and move like a human….AI will take on work in law, customer service, medicine, software, and manufacturing. It will hit these industries rapidly, over the course of a decade rather than a few generations. There will be some new jobs, but without the right policies there will be far fewer than exist today… the jobs at most risk are entry- and mid-level, and the new jobs being created will mostly require skills that take many years to learn.”\n\n The economy will need to change – including making bits of it “human reserved” to protect some human jobs : “How will an economy that’s been built around employment operate if fewer people are working, or if many people are working fewer hours?” he asks. “I believe that as AI and robots improve, we’ll set aside certain things for only people to do. I’ve started calling this domain Human Reserved… we might set something aside as Human Reserved for economic reasons. For example, we may do it because allowing machines to take over a certain role will displace a large number of people who can’t easily change jobs… sometimes the decision to make something Human Reserved will be driven by other factors. In health, for example, imagine a robot giving you the awful news that you have an incurable disease. There’s no technical reason why it couldn’t. Yet it shouldn’t.”\n\n What Bill Gates says he’d tell any politician about this : “You have a chance to act now, before unemployment rises sharply, communities are hurting, and public trust has eroded. You can make sure that your government handles the problem holistically, rather than divvying it up into multiple bureaucratic fiefdoms. You can make sure AI benefits everyone. And you can work with other governments to meet this national and global challenge.”\n\n Why this matters – the implications of success of AI are shocking to everyone: It seems inevitable to arrive at Bill Gates’s position if you assume two things: a) AI systems will continue to improve in quality in the years ahead, and b) AI systems will continue to diffuse into the economy unusually quickly. The key thing about these assumptions is that they’re not crazy assumptions to make, in fact they’re quite conservative. But I challenge you to sit with an LLM like Fable and wind the clock forward on AI progress and diffusion another two years and come out of it assuming things will be roughly as they are today – rather, I think the technology within itself implies massive changes in the economy and work, just as Gates is reacting to here.\n Read more: The turbulent AI era is here. The choices we make now are critical. (Gates Notes) .\n\n ***\n\n The six stages for off-earth mining, courtesy of Chinese researchers:\n …AI will play a role in data generation and intelligence for future mining…\n Researchers with the Chinese Academy of Sciences, Technical University of Munich, Obuda University, Beihang University, Wuhan University, the Aerospace Information Research Institute within the Chinese Academy of Sciences, the University of Wurzburg, Shenzhen University, China University of Mining and Technology, WAYTOUS, and OpenSpaceLab, have published a paper on the key requirements for mining the moon, asteroids, and other off-Earth places.\n\n Why mine in space? The moon and asteroids are rich in resources needed for manufacturing, sustaining life, and powering transport around the solar system, including Helium-3, water, and mineral resources. If we want to become a multi-planet civilization it’s certain that we’ll need to figure out how to mine and refine and use resources away from the Earth. This paper does a nice job of laying out the technical requirements for things like space mining and what technologies are required.\n\n Six stages for space mining:\n\n Exploration:\n\n 1. Prospecting via remote sensing, using “orbital sensors and telescopic surveys to map celestial bodies”.\n\n 2. Exploration via precise in situ robotic detection of resources: “proximity spacecraft and mobile platforms conduct high-resolution analysis of surface\n\n composition and topography”.\n\n Sampling:\n\n 3. Single-robot small-scale sampling: “autonomous robotic units conduct small-scale drilling and extraction tests”.\n\n 4. Multi-robot large-scale excavation; “large-scale industrial systems or coordinated robotic swarms are deployed to harvest raw regolith”.\n\n Extraction:\n\n 5. Autonomous resource extraction and refinement: “Integrated systems process harvested materials to separate volatiles, metals, and water ice”.\n\n 6. Final integration into in situ construction or terrestrial transport “incorporating refined resources into In-Situ Resource Utilization (ISRU) frameworks”.\n\n The biggest challenges relate to data and software : The paper gives a good accounting of existing and planned space robots, where a lot of the hardware stuff for mining is on the way to being derisked, and “the next generation of lunar and Martian rovers slated for deployment between 2026 and 2030 marks a decisive transition toward integrated resource prospecting and in-situ utilization”.\n But space robot datasets are unbelievably hard to come by given the (relatively speaking) tiny amount of data gathered and released, and the datasets that do exist are “characterized by extreme scarcity and frequent qu..."
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery by Ben Thompson",
+      "title": "Meta Settles, A Framework For Regulating Content, The Rest of Big Tech",
+      "url": "https://stratechery.com/2026/meta-settles-a-framework-for-regulating-content-the-rest-of-big-tech/",
+      "publishedAt": "2026-08-31T10:00:00.372Z",
+      "author": "Ben Thompson",
+      "description": "Meta's settlement makes sense for all parties, but the entire sage highlights why any solution to regulating technology feels off.",
+      "content": "Meta's settlement makes sense for all parties, but the entire sage highlights why any solution to regulating technology feels off."
+    },
+    {
+      "source": "blog",
+      "name": "Tomasz Tunguz",
+      "title": "The Price of Entry to the Frontier",
+      "url": "https://tomtunguz.com/the-great-segmentation/",
+      "publishedAt": "2026-08-31T00:00:00.952Z",
+      "author": "",
+      "description": "The frontier AI market is sorting itself into closed camps, as labs pick partners, cut rivals, & ration access to their strongest models. Sa…",
+      "content": "The frontier AI market is sorting itself into closed camps, as labs pick partners, cut rivals, & ration access to their strongest models.\n\n Salesforce chose Anthropic as its dedicated AI partner, making Claude the default model inside the world’s largest CRM & Slack. 1 OpenAI cut Cursor’s API access on November 12 after SpaceX bought the company, citing prior contract breaches. 2 Even the open weights models now impose gates : Z.ai released GLM-5.3-Flash under an MIT license on August 26 & put its flagship behind a $10b host-revenue review two days later. 3\n\n Anthropic started the pattern this summer. Mythos 5, its strongest model, now ships only through Project Glasswing, a program that rations certain capabilities to trusted companies. 4\n\n Fable, its sibling, went dark outside the United States for three weeks, then returned to US-only inference. 4\n\n OpenAI made the mirrored choice, launching its government-facing GPT-5.6 variants to a small group of trusted partners before any public API. 5 Governments are getting in on the act, deciding who may run the frontier at all.\n\n Salesforce hardcoding Claude is de rigueur ; SaaS apps pick their components & pass them on a single app to the customer : take-it-or-leave-it.\n\n The pluggable, model-agnostic ideal lived primarily in coding tools where developers expected to swap backends at will.\n\n Enterprise buyers face an escalating governance challenge : strict Zero Data Retention policies, data sovereignty mandates, & an increasing wariness of sending their IP out the door in prompts. When platforms hardcode a single provider’s models, buyers must negotiate for leverage to be able to change it.\n\n All of this to say, frontier AI is no longer a utility sold by the token. Labs are developing whitelists & blacklists.\n\n Even the era of permissive open-source weights is narrowing. Model creators are introducing free-to-pay conversion thresholds, a form of product-led growth, allowing open experimentation for developers while requiring revenue-triggered security reviews & commercial licensing for large cloud hosts. Open source now means open until you scale.\n\n Governments are treating frontier AI as critical sovereign infrastructure, using export restrictions, nationality screening, & specialized model tiers to police who runs the frontier.\n\n Pushing back against this closure is a $5t countervailing force : Nvidia, leveraging its market cap to invest in open ecosystems. & they’ve been active : $13b for Hugging Face, $7b for Poolside’s model factory, & a $26b commitment to Nemotron. 6 & the list continues.\n\n Open weights are its structural defense against its own cloud customers, ensuring foundation models cannot be entirely gated by proprietary labs or sovereign restrictions.\n\n Access, not price, is the new scarcity at the frontier.\n\n---\n\n---\n\n Salesforce & Anthropic launch Claudeforce (late August 2026) : Claude default across Agentforce & Slack, & Salesforce in Claude, a plugin with 37 prebuilt sales skills in pilot now. Salesforce .  ↩︎\n\n OpenAI termination notice to Cursor effective November 12, citing ’experience with Elon Musk’s companies violating contracts’; Cursor response, OpenAI near 5% of traffic & Anthropic raising Claude’s allocation the same day. Business Insider , Bloomberg Law .  ↩︎\n\n Z.ai shipped GLM-5.3-Flash (320B) under a plain MIT license on August 26, 2026 & its GLM-5.3 flagship two days later under a bespoke license : model-as-a-service hosts with more than $10b in aggregate revenue over any consecutive 12 months must pass a Z.AI security review before commercial use. Digital Applied , The New Stack .  ↩︎\n\n Fable dark outside the US for three weeks (mid-June to July 1) after a Commerce Department export order requiring foreign-national verification; US-only inference at a 1.1x surcharge on return. Mythos 5 limited to approved Project Glasswing partners. Anthropic , Reuters .  ↩︎   ↩︎\n\n GPT-5.6 Sol, Terra, & Luna variants launched to a small group of trusted partners at the government’s request. OpenAI .  ↩︎\n\n Nvidia 5-year $26 billion commitment to open-weight AI model development and infrastructure, disclosed in regulatory filings and confirmed by executives. WIRED (March 2026).  ↩︎"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Understanding ChatGPT Work",
+      "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+      "publishedAt": "2026-08-30T23:59:47.370Z",
+      "author": "",
+      "description": "OpenAI announced ChatGPT Work on July 9th, and have been furiously iterating on it ever since. It is an extraordinarily confusing and very…",
+      "content": "OpenAI announced ChatGPT Work on July 9th, and have been furiously iterating on it ever since. It is an extraordinarily confusing and very powerful product. Here's what I've figured out about it so far.\n\n ChatGPT Work is actually two products\n\n The more interesting version of ChatGPT Work is the one that runs in the cloud. This can be accessed via chatgpt.com or through the ChatGPT mobile apps. Let's call it Work Cloud .\n\n If you install the ChatGPT desktop app - the app that used to be called Codex - you gain access to a thing called ChatGPT Work that can access files and run programs directly on your computer. Let's call that one Work Local . This one feels more like regular Codex re-skinned to be less intimidating to non-software-developers.\n\n ( Update : Work Cloud is also available from the ChatGPT desktop app, via a Where should this chat run? dropdown.)\n\n For the rest of this article I'm going to talk exclusively about Work Cloud.\n\n Work is for paid subscribers only\n\n Right now, ChatGPT Work (in both flavors) is available only to $20/month and up subscribers. Free users and $8/month Go users do not have access.\n\n Work has features that aren't available in Chat\n\n The interface for accessing Work is a tab selector, which presents it as an alternative to Chat:\n\n The obvious question is when should I use Chat, and when should I use Work?\n\n OpenAI's official answer to that question is:\n\n Use Chat when you want an answer, explanation, brainstorm, or short draft. Use ChatGPT Work when you want ChatGPT to complete a task with a clear outcome, such as a brief, deck, analysis, recurring update, workflow, or file you can review and use.\n\n I find that almost entirely useless, because I've been using regular ChatGPT Chat for all of those task categories for years!\n\n The better question then is what features does Work have that are missing from Chat?\n\n After extensive experimentation I think I've mostly figured that out:\n\n Options to use Luna and Terra in place of Sol\n\n A code execution environment with Internet access\n\n A headless Chrome browser\n\n A persistent filesystem shared between sessions\n\n The ability to publish ChatGPT Sites\n\n The ability to run sub-agent sessions with Sol, Luna, and Terra\n\n Scheduled prompt automations (may be in ChatGPT Chat too)\n\n Model selection\n\n In Work, you get the option to pick GPT-5.6 Sol, Luna, or Terra, each with Light, Medium, High, Extra High, Max, or Ultra reasoning levels. You can also pick GPT-5.5 at Light, Medium, High, or Extra High.\n\n These look to be the same models that are available through the OpenAI API.\n\n Chat offers a different selection: 5.6 Instant, Medium, High, Extra High, and Pro (actually Extra High and Pro are only available for $100/month+ subscribers - $20/month subscribers cap out at High). It doesn't explain if those are Luna or Terra or Sol (I'm assuming Sol?). 5.6 Pro appears to be exclusive to Chat, with no equivalent in Work.\n\n My current understanding from using Codex is that Ultra is a special mode that more eagerly delegates to sub-agents.\n\n I believe ChatGPT Work sessions are billed against your Codex allowance, while ChatGPT Chat Sessions get their own, separate allowance. This may help explain the model availability differences.\n\n Code execution with Internet access!\n\n As a long-time fan of the Code Interpreter pattern - pioneered by OpenAI in 2023 - this is by far the most exciting feature of ChatGPT Work (Cloud) for me.\n\n The code execution environment can now talk to the rest of the internet!\n\n ChatGPT Chat can't do this - if you ask it to install additional software packages or interact with websites or APIs that access will be blocked by the container proxy.\n\n (Weirdly, back in January it grew the ability to install packages , but that doesn't seem to work any more. I wish they had better changelogs!)\n\n Claude's equivalent container has allowed restricted internet access since it launched last September . Claude can install packages from PYPI and NPM and clone repositories from GitHub. But that is about it: the allowlist of domains is very short.\n\n ChatGPT Work allows a whole lot more than that. It can be configured with a specific list of allowed domains, but the default appears to be open to all.\n\n This makes Work an incredibly useful tool. You can have it clone GitHub repositories, install their dependencies, then use them to interact with the rest of the web!\n\n A full, headless Chrome browser\n\n Another killer feature of ChatGPT Work is the browser tool . ChatGPT Work can launch a full Chrome instance, load websites, fill out forms, and take screenshots.\n\n \", followed by the reply \"Here's the screenshot of the live site:\" and an embedded screenshot of a website.\" style=\"max-width: 100%\">\n\n If a site requires sign in the browser can prompt you to take over and enter both passwords and 2FA codes, without round-tripping those credentials through the model itself.\n\n It can even run JavaScript against the DOM of loaded pages. I prompted:\n\n Load simonwillison.net in your browser and extract the headings using JavaScript\n\n ChatGPT Work fired up a browser instance and ran the code:\n\n await tab . playwright . evaluate ( ( ) => {\n return Array . from ( document . querySelectorAll ( \"h1,h2,h3,h4,h5,h6\" ) , heading => ( {\n level : heading . tagName . toLowerCase ( ) ,\n text : heading . innerText . trim ( ) . replace ( / \\s + / g , \" \" ) ,\n id : heading . id || null\n } ) ) ;\n } ) ;\n\n This feels a lot like my shot-scraper javascript tool, only now I can access it on my phone!\n\n A persistent, shared filesystem\n\n ChatGPT Chat gets a fresh filesystem for each chat session. These cannot be accessed from any other session.\n\n In ChatGPT Work each session gets its own scratch folder - named something like /workspace/scratch/e00a0a017944 - but each of those are persisted across sessions, so you can access files from previous chats. I have 171 folders in /workspace/scratch right now!\n\n As far as I can tell that /workspace volume is mounted to all Work sessions that are currently running - file edits from one can be instantly seen by the others. They don't seem to share the same process space though, and localhost servers running in one can't be accessed from another.\n\n ChatGPT Sites\n\n ChatGPT Work has the ability to build and deploy entire websites, using Cloudflare Workers. These can have HTML and JavaScript and can run server-side features too, including stateful features on top of Cloudflare D1 and R2.\n\n Here's a simple site I built with this feature:\n\n london-pelicans-in-her-piety.simonw.chatgpt.site\n\n My prompt was:\n\n Figure out all of the places in London with a pelican in her piety, then turn that into a JSON file and build a ChatGPT sites site about them\n\n (A pelican in her piety is a fascinating piece of medieval Christian imagery - once you know about them you'll find them all over the place.)\n\n These sites default to being private to the user that created them, but you can make them public and (on team plans) share them with other specific individuals.\n\n Sub-agents with Sol, Luna, and Terra\n\n There's not much to say about this one. ChatGPT Chat can't run sub-agents. ChatGPT Work can. This is very much a power-user feature: if you are running a complex project that can benefit from multiple parallel agents working together, Work can do that.\n\n Scheduled prompt automations\n\n Another feature that seems to have migrated from regular ChatGPT to ChatGPT Work at some point. You can prompt ChatGPT Work like this:\n\n run a search to see if Waymo have announced a launch date for Half Moon Bay every day at 8am\n\n This will schedule a prompt to run on that frequency. These prompts can decide that nothing interesting has happened, or they can decide to notify you of some new information.\n\n Update : Actually this seems to work in ChatGPT Chat as well.\n\n It's still worth noting here though, as it can be used in conjunction with other ChatGPT Work exclusive features. You can set a scheduled task to update a ChatGPT Site on an hourly basis, for example.\n\n Is this safe?\n\n An open question for me right now is how safe all of this stuff is.\n\n My lethal trifecta model warns about the risks inherent in any agent system that combines access to private data with exposure to untrusted content and a way to communicate stolen information back to an attacker.\n\n ChatGPT Work combines all three!\n\n I'd love to hear more from OpenAI about how they protect ChatGPT Work sessions against prompt injection attacks. I expect their answer is the same auto-review mechanism as Codex.\n\n OpenAI could make this a lot less confusing\n\n Figuring this all out took way more work than it should have.\n\n I think there are two key problems here:\n\n OpenAI explain Work in terms of what it's for, not what it actually does\n\n OpenAI still insist on hiding their system prompts and tools descriptions\n\n If the ChatGPT Work documentation included the exact system prompt and tool descriptions used by the agent I wouldn't have needed to write this post.\n\n A list of all the tools\n\n Shortly after publishing this article I had an idea. I started a fresh Work session and prompted:\n\n Build a site that lists every one of your tools - nearly grouped into categories - and for each one explain what it does. Try to exactly duplicate arguments and tool descriptions where possible. Design aesthetic should be technical docs, minimal flare\n\n Here's the site it built , which includes details of 223 registered tools - though 6 of those are from my own personal MCPs served via datasette-mcp .\n\n And a whole lot of Skills\n\n I noticed that the only browser-related tool in the list was web.run , which has methods for running searches, opening URLs, and clicking links, but didn't look like the full story in regards to headless browser automation.\n\n This made me suspicious that something was missing, so I told the ChatGPT Work session that built that tools reference site:\n\n Add full copies of every skill to the website (separate pages linked to from the homepage)\n\n It turns out ChatGPT Work uses a lot of skills - 44 in fact!\n\n The control-browser skill explains how the browser works:\n\n Run browser setup code through the Node REPL js tool. In this environment the callable tool id typically appears as mcp__node_repl__js . [...]\n\n The ability to interact directly with the browser is exposed through the browser-client runtime via the agent.browsers.* API. Before trying to interact with it, you MUST emit and read the complete documentation returned by await browser.documentation() in one go.\n\n So I told Work:\n\n Add the full output of await browser.documentation() to the bottom of the /skills/control-browser page\n\n And now you can read that on /skills/control-browser as well.\n\n A few more interesting Skills:\n\n documents for creating .docx files\n\n imagegen with tips on creating images with the image_gen tool\n\n pdf for both reading and rendering PDFs\n\n Spreadsheets for manipulating .xlsx , .xls , .csv , .tsv\n\n sites:sites-building for creating ChatGPT Sites\n\n openai-docs for answering questions about itself\n\n data-analytics:build-dashboard for building data dashboards\n\n Tags: ai , openai , generative-ai , chatgpt , llms , code-interpreter , lethal-trifecta , skills , general-agents"
+    },
+    {
+      "source": "blog",
+      "name": "Hardcore Software by Steven Sinofsky",
+      "title": "242. Armageddon by Anthropomorphism: On Security and the Frontier",
+      "url": "https://hardcoresoftware.learningbyshipping.com/p/242-armageddon-by-anthropomorphism",
+      "publishedAt": "2026-08-30T23:00:30.553Z",
+      "author": "Steven Sinofsky",
+      "description": "It can’t be bargained with. It can’t be reasoned with. It doesn’t feel pity, or remorse, or fear. And it absolutely will not stop, ever…",
+      "content": "It can’t be bargained with. It can’t be reasoned with. It doesn’t feel pity, or remorse, or fear. And it absolutely will not stop, ever, until you are dead! —Reese, Kyle Sergeant/Tech-Com, DN38416"
+    },
+    {
+      "source": "blog",
+      "name": "Sebastian Raschka, PhD",
+      "title": "Reasoning Models From Scratch: Code Setup",
+      "url": "https://sebastianraschka.com/blog/2026/reasoning-models-and-agents-from-scratch.html",
+      "publishedAt": "2026-08-30T08:42:39.487Z",
+      "author": "",
+      "description": "A short video on how conventional LLMs relate to reasoning models and agents, along with Python and PyTorch setup using uv.",
+      "content": "A short video on how conventional LLMs relate to reasoning models and agents, along with Python and PyTorch setup using uv."
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 3,
+    "totalTweets": 8,
+    "blogPosts": 6,
+    "podcastEpisodes": 0
+  }
+}
