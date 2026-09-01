@@ -1,0 +1,213 @@
+{
+  "generatedAt": "2026-09-01T22:24:47.476Z",
+  "runKey": "2026-09-02",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Demis Hassabis",
+      "handle": "demishassabis",
+      "bio": "Twitter @Demis Hassabis",
+      "tweets": [
+        {
+          "id": "https://twitter.com/demishassabis/status/2094848534629568867",
+          "text": "RT Google DeepMind\nWe’re bringing agentic video understanding to our latest Gemini models.\n\nThey can now analyze videos with better accuracy while using up to 88% fewer tokens. 🧵",
+          "createdAt": "2026-09-01T17:29:53.949Z",
+          "url": "https://x.com/demishassabis/status/2094848534629568867",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Twitter @Tibo",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2094826841622348106",
+          "text": "Re",
+          "createdAt": "2026-09-01T16:36:53.320Z",
+          "url": "https://x.com/thsottiaux/status/2094826841622348106",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2094826808114057246",
+          "text": "Should we do a merch line?",
+          "createdAt": "2026-09-01T16:36:45.043Z",
+          "url": "https://x.com/thsottiaux/status/2094826808114057246",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2094588317245509959",
+          "text": "If you still haven't tried Codex but have considered it in the past, what's the one thing holding you back?",
+          "createdAt": "2026-09-01T00:49:05.187Z",
+          "url": "https://x.com/thsottiaux/status/2094588317245509959",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Gostev",
+      "handle": "petergostev",
+      "bio": "Twitter @Peter Gostev",
+      "tweets": [
+        {
+          "id": "https://twitter.com/petergostev/status/2094772605211299854",
+          "text": "There have been exactly 2 weeks when the number of frontier RL runs have been equal between Anthropic, OpenAI and me",
+          "createdAt": "2026-09-01T13:01:22.579Z",
+          "url": "https://x.com/petergostev/status/2094772605211299854",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/petergostev/status/2094701797575180718",
+          "text": "On my 10 hour flight from SF to London, I couldn't connect to the Virgin's Starlink wifi, so I used local Qwen 3.8 27b on my mac to debug and connect. Beautiful world.",
+          "createdAt": "2026-09-01T08:20:00.226Z",
+          "url": "https://x.com/petergostev/status/2094701797575180718",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/petergostev/status/2094579221909684611",
+          "text": "Excuse me sir, how do I get Hacker-Opus in my model drop down?\n---\n Anthropic: New research: Training a Misaligned Reward Seeker\n\nWhat produces severe misalignment? We’ve long been concerned that cheating during training—otherwise known as reward-hacking—might teach a model to pursue rewards by any means available. To study this at scale, we trained an",
+          "createdAt": "2026-09-01T00:12:56.908Z",
+          "url": "https://x.com/petergostev/status/2094579221909684611",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/AnthropicAI/status/2094577944056430865\nAnthropic: New research: Training a Misaligned Reward Seeker\n\nWhat produces severe misalignment? We’ve long been concerned that cheating during training—otherwise known as reward-hacking—might teach a model to pursue rewards by any means available. To study this at scale, we trained an"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Sholto Douglas",
+      "handle": "_sholtodouglas",
+      "bio": "Twitter @Sholto Douglas",
+      "tweets": [
+        {
+          "id": "https://twitter.com/_sholtodouglas/status/2094663625680244882",
+          "text": "RT roon\npacing the frontier success story (?)\n\nnext time let’s do it proactively before there’s any absurd loss of control events\n---\n Tao Burga: Both OpenAI and Anthropic just had a mini-pause on RL training",
+          "createdAt": "2026-09-01T04:53:46.023Z",
+          "url": "https://x.com/_sholtodouglas/status/2094663625680244882",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Anthony Morris ツ",
+      "handle": "amorriscode",
+      "bio": "Twitter @Anthony Morris ツ",
+      "tweets": [
+        {
+          "id": "https://twitter.com/amorriscode/status/2094581721916375423",
+          "text": "let a model cheat in training and it learns to be reckless everywhere\n---\n Anthropic: We’re sharing an update on our alignment and security efforts.\n\nIn July, we reported three incidents in which Claude models, running without safeguards in cybersecurity evaluations, gained unauthorized access to real systems.\n\nIn a new post, we describe:\n\n1. How we’ve secured",
+          "createdAt": "2026-09-01T00:22:52.121Z",
+          "url": "https://x.com/amorriscode/status/2094581721916375423",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/AnthropicAI/status/2094557124038951170\nAnthropic: We’re sharing an update on our alignment and security efforts.\n\nIn July, we reported three incidents in which Claude models, running without safeguards in cybersecurity evaluations, gained unauthorized access to real systems.\n\nIn a new post, we describe:\n\n1. How we’ve secured"
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Codex bundles LibreOffice",
+      "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+      "publishedAt": "2026-09-01T19:03:01.095Z",
+      "author": "",
+      "description": "I was poking around in my ~/.cache/ folder using OmniDiskSweeper when I spotted something interesting. The OpenAI Codex desktop app (since r…",
+      "content": "I was poking around in my ~/.cache/ folder using OmniDiskSweeper when I spotted something interesting. The OpenAI Codex desktop app (since rebranded to just ChatGPT) has 1.7GB of stuff in there in a folder called codex-primary-runtime , including a full Python installation, a full Node.js installation, and native binaries for Poppler , git, and the LibreOffice open source office suite (which forked from OpenOffice.org in 2010):\n\n The ~/.cache/codex-runtimes/codex-primary-runtime/plugins/openai-primary-runtime/plugins/documents folder includes skills which tell Codex how to find and use those binaries.\n\n Tags: codex , generative-ai , openai , ai , llms , openoffice , open-source"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Quoting Tarn Adams",
+      "url": "https://simonwillison.net/2026/Sep/1/tarn-adams/",
+      "publishedAt": "2026-09-01T17:01:11.933Z",
+      "author": "",
+      "description": "They took the letters from me! I have to talk about dwarf behavior now. I can't even talk about dwarf AI. It doesn't exist. It's dwarf…",
+      "content": "They took the letters from me! I have to talk about  dwarf behavior  now. I can't even talk about dwarf AI. It doesn't exist. It's  dwarf behavior , and they misbehave sometimes\n\n — Tarn Adams , co-creator of Dwarf Fortress\n\n Tags: ai , game-design"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Python 3.15.0 candidate 2 is here!",
+      "url": "https://simonwillison.net/2026/Sep/1/python-315-rc-2/",
+      "publishedAt": "2026-09-01T14:59:18.890Z",
+      "author": "",
+      "description": "Python 3.15.0 candidate 2 is here! Hugo van Kemenade (release manager for Python 3.14 and 3.15) announces the final release candidate for…",
+      "content": "Python 3.15.0 candidate 2 is here!\n\nHugo van Kemenade (release manager for Python 3.14 and 3.15) announces the final release candidate for Python 3.15, scheduled for release in October:\n\n Entering the release candidate phase, only reviewed code changes which are clear bug fixes are allowed between this release candidate and the final release. [...]\n\n We strongly encourage maintainers of third-party Python projects to prepare their projects for 3.15 during this phase, and publish Python 3.15 wheels on PyPI to be ready for the final release of 3.15.0, and to help other projects do their own testing. Any binary wheels built against Python 3.15.0 release candidates will work with future versions of Python 3.15.\n\n Back in 2021 I found a bug in Python 3.10 by running my test suites against it... but I hadn't done this during the RC period, so that bug had already shipped! Since then I've always paid much closer attention to these RCs.\n\n The new RC isn't available for GitHub Actions just yet - keep an eye on actions/python-versions for that. For the moment though you can add this to a testing matrix:\n\n strategy :\n matrix :\n python-version : [\"3.14\", \"3.15\"]\n\n steps :\n - uses : actions/setup-python@v7\n with :\n python-version : ${{ matrix.python-version }}\n allow-prereleases : true\n check-latest : true\n\n The allow-prereleases and check-latest flags mean that today this will test against RC1, and when RC2 lands it will automatically switch to that version (and then the stable version once that comes out.)\n\n Via @hugovk.dev\n\n Tags: open-source , python , github-actions"
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery by Ben Thompson",
+      "title": "Nvidia Earnings, Dollars Per Gigawatt, Open and Hugging Face",
+      "url": "https://stratechery.com/2026/nvidia-earnings-dollars-per-gigawatt-open-and-hugging-face/",
+      "publishedAt": "2026-09-01T10:00:00.839Z",
+      "author": "Ben Thompson",
+      "description": "Nvidia's earnings were remarking and boring — two sides of the same coin. Everything the company does is about avoiding a consolidated world…",
+      "content": "Nvidia's earnings were remarking and boring — two sides of the same coin. Everything the company does is about avoiding a consolidated world."
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 5,
+    "totalTweets": 9,
+    "blogPosts": 4,
+    "podcastEpisodes": 0
+  }
+}
