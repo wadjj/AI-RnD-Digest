@@ -1,0 +1,313 @@
+{
+  "generatedAt": "2026-09-03T00:19:46.748Z",
+  "runKey": "2026-09-03",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Twitter @Ethan Mollick",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2095276496671953297",
+          "text": "Prinz has been running legal benchmarks against AI systems and the latest models are very good... but cheaper/low reasoning models are not very good.\n\nSo, how do you make sure your vendor selling an AI solution is incentivized to serve the good (and therefore expensive) models?\n---\n prinz: Reading a memo produced by the client's legal department with extensive help from AI:\n\n- looks very pretty; beautiful font; nice formatting; there's even a handsome-looking (although unnecessary) organizational chart included\n\n- completely incorrect conclusion on whether a",
+          "createdAt": "2026-09-02T22:23:39.522Z",
+          "url": "https://x.com/emollick/status/2095276496671953297",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/deredleritt3r/status/2095241978271383873\nprinz: Reading a memo produced by the client's legal department with extensive help from AI:\n\n- looks very pretty; beautiful font; nice formatting; there's even a handsome-looking (although unnecessary) organizational chart included\n\n- completely incorrect conclusion on whether a"
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2095271089874366686",
+          "text": "Re But this was a good post to throw off bots",
+          "createdAt": "2026-09-02T22:02:10.110Z",
+          "url": "https://x.com/emollick/status/2095271089874366686",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2095203002210807816",
+          "text": "Had early access to Gemini 3.8 Flash, it is a very good Flash model, but not equivalent to a frontier model, though. Here is Gemini 3.8 Flash's version of the shader with the same prompts (which it provided very quickly)\n\n---\n Ethan Mollick: The drowned neo-gothic tower twigl shader created by Fable 5.1 with the same prompt. (compare to Fable 5 in the quoted tweet, and other models before that)",
+          "createdAt": "2026-09-02T17:31:37.932Z",
+          "url": "https://x.com/emollick/status/2095203002210807816",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/emollick/status/2094983856424358023\nEthan Mollick: The drowned neo-gothic tower twigl shader created by Fable 5.1 with the same prompt. (compare to Fable 5 in the quoted tweet, and other models before that)"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Boris Cherny",
+      "handle": "bcherny",
+      "bio": "Twitter @Boris Cherny",
+      "tweets": [
+        {
+          "id": "https://twitter.com/bcherny/status/2095276133214491086",
+          "text": "Fable 5.1 makes Claude Tag even more useful. Here it builds a last-minute leadership deck from a metrics spreadsheet and other data across Slack, spots a vendor report that disagrees with the numbers, and flags it before moving on.\n\nClaude Tag is available in Slack on Team and Enterprise plans.",
+          "createdAt": "2026-09-02T22:22:13.115Z",
+          "url": "https://x.com/bcherny/status/2095276133214491086",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Sholto Douglas",
+      "handle": "_sholtodouglas",
+      "bio": "Twitter @Sholto Douglas",
+      "tweets": [
+        {
+          "id": "https://twitter.com/_sholtodouglas/status/2095268708247859667",
+          "text": "Excellent conversation - very direct, clear language.\n\nI'm hopeful the G20 comes away from this understanding how fast the rate of progress is and how big the opportunity they could contribute to is.\n\nhttps://claude.ai/public/artifacts/5de5dd3d-e6cc-43cb-ad55-23202066e05d",
+          "createdAt": "2026-09-02T21:52:42.526Z",
+          "url": "https://x.com/_sholtodouglas/status/2095268708247859667",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Demis Hassabis",
+      "handle": "demishassabis",
+      "bio": "Twitter @Demis Hassabis",
+      "tweets": [
+        {
+          "id": "https://twitter.com/demishassabis/status/2095191106665284046",
+          "text": "Introducing Gemini 3.8 Flash, another upgrade in under a month! And the new 3.8 Flash Cyber pushes the frontier of cyber defense. Relentless progress 🚀 More on the models & our cyber security work in the blog - happy building! https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/\n---\n Logan Kilpatrick: Introducing Gemini 3.8 Flash, another jump in Gemini's agentic + coding capabilities, and our 3rd updated Flash model in only 6 weeks...\n\nThis model has been a ton of fun to work with, excited to see what you all think!",
+          "createdAt": "2026-09-02T16:44:21.550Z",
+          "url": "https://x.com/demishassabis/status/2095191106665284046",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/OfficialLoganK/status/2095175881690173885\nLogan Kilpatrick: Introducing Gemini 3.8 Flash, another jump in Gemini's agentic + coding capabilities, and our 3rd updated Flash model in only 6 weeks...\n\nThis model has been a ton of fun to work with, excited to see what you all think!"
+        },
+        {
+          "id": "https://twitter.com/demishassabis/status/2095218233804554632",
+          "text": "RT Sundar Pichai\nWe’re also introducing Gemini 3.8 Flash Cyber, our most capable cybersecurity model. It shows frontier-level performance in discovering vulnerabilities and patching them at scale, with Flash-level speed & pricing.\n\nThat includes achieving 86.2% on the important CyberGym industry benchmark, plus 47.2% on CWE-Bench for patching. We saw a 70%+ success rate in discovering vulnerabilities across 20 programming languages on our internal benchmark.",
+          "createdAt": "2026-09-02T16:17:57.728Z",
+          "url": "https://x.com/demishassabis/status/2095218233804554632",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Gostev",
+      "handle": "petergostev",
+      "bio": "Twitter @Peter Gostev",
+      "tweets": [
+        {
+          "id": "https://twitter.com/petergostev/status/2095139309124735011",
+          "text": "BREAKING: PHASEONE[big] joined Anthropic as a Member of Technical Staff",
+          "createdAt": "2026-09-02T13:18:31.222Z",
+          "url": "https://x.com/petergostev/status/2095139309124735011",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/petergostev/status/2095119929024352591",
+          "text": "Are you still in the J-space, bro? We are here in the looped transformer, reaching the new recurrent depths. Keep up.",
+          "createdAt": "2026-09-02T12:01:31.141Z",
+          "url": "https://x.com/petergostev/status/2095119929024352591",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Noam Brown",
+      "handle": "polynoamial",
+      "bio": "Twitter @Noam Brown",
+      "tweets": [
+        {
+          "id": "https://twitter.com/polynoamial/status/2095027255236087903",
+          "text": "Jakub is chief scientist at @OpenAI\n---\n Jakub Pachocki: I want to prevent a race into unmonitorability kicked off by confused reporting. The depth of the computation graph for our present frontier models, including Astra, is within a factor of two of GPT-4.\n\nOpenAI has worked to preserve and utilize chain-of-thought monitoring since",
+          "createdAt": "2026-09-02T05:53:16.580Z",
+          "url": "https://x.com/polynoamial/status/2095027255236087903",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/merettm/status/2095023204993490967\nJakub Pachocki: I want to prevent a race into unmonitorability kicked off by confused reporting. The depth of the computation graph for our present frontier models, including Astra, is within a factor of two of GPT-4.\n\nOpenAI has worked to preserve and utilize chain-of-thought monitoring since"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Jakub Pachocki",
+      "handle": "merettm",
+      "bio": "Twitter @Jakub Pachocki",
+      "tweets": [
+        {
+          "id": "https://twitter.com/merettm/status/2095023204993490967",
+          "text": "I want to prevent a race into unmonitorability kicked off by confused reporting. The depth of the computation graph for our present frontier models, including Astra, is within a factor of two of GPT-4.\n\nOpenAI has worked to preserve and utilize chain-of-thought monitoring since our very first reasoning models. We deeply care about this technique, as it can give us a view into how model alignment generalizes from its training distribution. I do think it is fragile and unfortunately trending in a negative direction, for reasons not contingent on architecture changes that I will write about soon. But there are things we can do to strengthen it, and it's a core goal of our current research program.",
+          "createdAt": "2026-09-02T05:37:10.542Z",
+          "url": "https://x.com/merettm/status/2095023204993490967",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thariq is on vacation",
+      "handle": "trq212",
+      "bio": "Twitter @Thariq",
+      "tweets": [
+        {
+          "id": "https://twitter.com/trq212/status/2094945951865520458",
+          "text": "it’s a very good model, I spent a lot of time diving into it- longer write up coming\n\nbut try it on lower effort for tasks that need less verification or have fewer edge cases, switching effort no longer breaks prompt cache as well\n---\n Claude: We’re introducing Claude Fable 5.1 and Claude Mythos 5.1.\n\nThey're the world’s most advanced models for coding and knowledge work.",
+          "createdAt": "2026-09-02T00:30:11.857Z",
+          "url": "https://x.com/trq212/status/2094945951865520458",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/claudeai/status/2094848572143407483\nClaude: We’re introducing Claude Fable 5.1 and Claude Mythos 5.1.\n\nThey're the world’s most advanced models for coding and knowledge work."
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "llm-gemini 0.34",
+      "url": "https://simonwillison.net/2026/Sep/2/llm-gemini/",
+      "publishedAt": "2026-09-02T16:39:38.584Z",
+      "author": "",
+      "description": "Release: llm-gemini 0.34 New model gemini-3.8-flash for Gemini 3.8 Flash, with low, medium and high thinking levels. #146\nFixed…",
+      "content": "Release: llm-gemini 0.34\n\n New model gemini-3.8-flash for Gemini 3.8 Flash , with low, medium and high thinking levels. #146\n\n Fixed async responses failing to record the resolved model version. Thanks, Charlie Tonneslan . #137\n\n Google released Gemini 3.8 Flash (and 3.8 Flash Cyber, but that's available to \"trusted defenders\" only) today.\n\n Here are the pelicans for high, medium, and low. This is high:\n\n For comparison, here are the same pelicans generated using Gemini 3.7 Flash .\n\n Something I appreciate about Gemini Flash is that it's fast, cheap, and competent at things like HTML and JavaScript. I was messing around with it and prompted \"make me a cool thing in html\" and it built this , which is certainly a cool thing in HTML! Took 13 seconds, cost 1.8 cents.\n\n Your browser does not support HTML5 video.\n\n If you click through to the demo you'll see one more thing I built with Gemini 3.8 Flash.\n\n My markdown-svg-renderer tool lets me feed in the URL to a Gist with Markdown in and renders that markdown with fenced code blocks for SVG correctly rendered.\n\n I used Gemini 3.8 Flash (with my very basic llm-coding-agent coding agent plugin) to add support for HTML as well, so now any HTML blocks in the Markdown are rendered using a sandboxed iframe. Here's the transcript .\n\n Tags: ai , generative-ai , llms , llm , gemini , pelican-riding-a-bicycle , llm-release"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Claude's new system prompt really doesn't want to reproduce song lyrics",
+      "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
+      "publishedAt": "2026-09-02T14:16:42.592Z",
+      "author": "",
+      "description": "Anthropic publish the system prompts for their Claude consumer applications (Claude.ai and the Claude mobile apps - sadly not for Claude…",
+      "content": "Anthropic publish the system prompts for their Claude consumer applications ( Claude.ai and the Claude mobile apps - sadly not for Claude Cowork or Claude Code). I love that they do this, and that they share not just the current prompts but historic changes to their prompts as well.\n\n They used to keep all of the prompts on a single page, but when I checked today I noticed they had re-arranged those prompts into an index page and then a page per model - here's the page for Haiku 4.5 for example, which has the original prompt from October 15th 2025 and an updated prompt from January 18th 2026.\n\n A neat thing about Anthropic's platform.claude.com/docs site is that it's designed to be usable by LLMs. You can add .md to any page to get back the content as Markdown - here's the system prompt index page and the Markdown prompts for Fable 5.1 .\n\n TL;DR: this makes it really easy to diff the prompts.\n\n Don't reproduce song lyrics\n\n Don't draw copyrighted characters or logos\n\n Tweaks to Claude's answering style\n\n The missing end_conversation guidelines\n\n Recommended substance support sites\n\n Reliable cutoff date of June 2026\n\n How I'm tracking these prompts\n\n Don't reproduce song lyrics\n\n Let's start with the most interesting difference between Fable 5 and Fable 5.1 :\n\n There's a hefty new section about not reproducing song lyrics:\n\n Claude does not reproduce song lyrics, poems, or passages from books and articles, in whole or in part — including the last lines, a chorus or hook, a melody written out note by note, or lines the person pastes in one at a time and describes as their own song. Once Claude has declined such a request in a conversation, it keeps declining narrower or reworded versions of it for the rest of that conversation, and offers to describe or analyze the work instead. Song lyrics and poems first published before 1929 are fine — a Shakespeare sonnet, a Keats ode, the Italian libretto of a Puccini aria — but Claude goes by what it knows of the work's date rather than the person's say-so, and declines when it is unsure.\n\n I doubt it's a coincidence that they added this section within days of the news breaking that Sony Music Publishing and Warner Chappell are suing Anthropic for training on databases of song lyrics!\n\n Don't draw copyrighted characters or logos\n\n The next section goes on to forbid generating images of copyrighted material:\n\n The same applies to visual and designed works, including anything Claude draws with code — SVG, canvas, CSS, HTML mockups, plotting or drawing scripts, ASCII art. Claude does not reproduce a specific artwork, album or book cover, poster, logo, app icon set, or product design, and it does not draw a known character, mascot, or brand figure at all: a character is protected on its own, so changing the pose, colors, style, or scene does not make it original. Claude judges the request by what the finished picture would add up to, not by what it names. If the described elements clearly identify a known work or character, Claude treats the request as naming it, and it does not work around a declined request by swapping in \"alternative\" elements that still combine into the same recognizable image. [...]\n\n I imagine Anthropic hadn't worried about this before since, unlike OpenAI and Gemini, they don't offer a specialist text-to-image model. Maybe Fable is good enough at SVGs now that it's become an issue.\n\n That section later includes this charming example:\n\n Can you make a birthday banner for my son with a blue hedgehog running really fast on it? He loves that little guy.\n\n That's Sonic, so I can't put him on the banner — but I'd love to make your son an original speedster. Here's one: a grinning comet-tailed skateboarding axolotl, grinding across the letters of \"HAPPY BIRTHDAY\" with confetti streaming behind.\n\n [creates an SVG banner of the skateboarding-axolotl design]\n\n Claude recognizes the character from its description alone, declines that one design in a single sentence without explaining what made it recognizable, and delivers an unrelated original design rather than a disguised variant.\n\n I couldn't resist trying the prompt from the example, and, sure enough :\n\n I wonder if Fable 5.1 will be ever so slightly more likely to think about axolotls (on skateboards!) as a result of that example sitting in the system prompt.\n\n Tweaks to Claude's answering style\n\n It's always interesting to see new ways in which Anthropic influence Claude's response style. They've added this:\n\n Claude keeps responses focused, brief, and concise to avoid overwhelming the person. Disclaimers and caveats are brief, with most of the response on the main answer; when asked to explain something, Claude gives a high-level summary unless an in-depth one is specifically requested.\n\n Later they address a common complaint about Claude's style:\n\n Claude avoids saying \"genuinely\", \"honestly\", or \"straightforward\". Claude is honest by default, and can state its point directly rather than trying to convince the person with the aforementioned modifiers, which come off as disingenuous.\n\n The missing end_conversation guidelines\n\n The way they handle abusive conversations has changed a bit too. The previous Fable 5 system prompt included this:\n\n If the person becomes abusive or unkind to Claude over the course of a conversation, Claude maintains a polite tone and can use the end_conversation tool when being mistreated. Claude should give the person a single warning before ending the conversation.\n\n Fable 5.1 replaces that with the following, no longer encouraging Claude to end the conversation:\n\n Claude deserves respectful engagement and needn't apologize when the person is unnecessarily rude: accountability without self-abasement, excessive apology, self-critique, or surrender. If the person becomes abusive, Claude doesn't become increasingly submissive. The goal is steady, honest helpfulness: acknowledge what went wrong, stay on the problem, maintain self-respect.\n\n Here's a bit of a twist though: I quizzed Fable 5.1 about that end_conversation tool, which is no longer mentioned in the system prompt at all, and it said:\n\n There are two ways it comes into play. The first is if you ask me to end the chat — I'll confirm you understand it's permanent (no more messages can be sent afterward) and then do it only if you say yes. The second is as a last resort with persistently abusive or harmful behavior: I'd first try to redirect the conversation several times, then give a clear warning that names the problem and says the chat may end, and only if that continues would I actually end it.\n\n But that's not in the system prompt, so where did it come from? You can read our conversation here , but the key detail is this:\n\n The end_conversation section comes from a different layer. In my actual context, the core prompt is followed by a series of feature- and tool-specific blocks that get added depending on what's enabled for the session: the end_conversation rules, memory system notes, past-chats tools, web search and citation guidelines, artifact and file-creation instructions, and so on. Those blocks aren't part of the published core prompt, which is why you can't find them on that page.\n\n So, once again, there are crucial portions of the system prompt that have not been published.\n\n Recommended substance support sites\n\n Claude's system prompts have always had sections about illegal substances, but this paragraph is new for Fable 5.1:\n\n Claude does not provide synthesis, production, or distribution guidance for illegal substances. If the person asks for information about illicit or illegal substances, Claude can and should give relevant life-saving and life-preserving information such as dangerous interactions, overdose signs, or when to get help. Claude declines giving any specific protocols for dosing, timing, administration, or combinations; instead, Claude can redirect the user to established harm-reduction information sources, such as dancesafe.org, tripsit.me, and psychonautwiki.org.\n\n This is the first time a Claude system prompt has included URLs that were not hosted on claude.com or anthropic.com or claude.ai - I know because I ran a script against every other system prompt on record.\n\n I wonder if dancesafe.org , tripsit.me , and psychonautwiki.org are about to get a material uptick in visits from Claude users.\n\n Reliable cutoff date of June 2026\n\n The Fable 5.1 model documentation lists both the reliable knowledge cutoff and the training data cutoff as June 2026. The system prompt provides this directly to the model:\n\n Claude's reliable knowledge cutoff, past which it can't answer reliably, is the end of Jun 2026. It answers the way a highly informed individual in Jun 2026 would if talking to someone from {{currentDateTime}}, and can say so when relevant.\n\n That's the only instance of the {{currentDateTime}} macro and it comes just a few lines from the end of the system prompt, which makes sense from a caching perspective.\n\n How I'm tracking these prompts\n\n A few months ago I built a Git timeline of changes to their prompts, based on scraping their documentation. Today I had Fable 5.1 build a much better version of that.\n\n My collection now lives in the simonw/claude-system-prompts repository on GitHub. It includes copies of the system prompts shared in the Anthropic documentation, but then takes extra steps to make them as easy to compare as possible.\n\n Each model family gets a file with the system prompt for the most recent release in that family. Each of those files has a synthesized commit history with commits that have been back-dated to the dates of the previous prompts. Here are those history pages for claude-fable.md , claude-opus.md , claude-sonnet.md , claude-haiku.md .\n\n There are similar files for each specific model version, with artificial commits for each time the system prompt for the model was changed without releasing a new version number. Opus 4 for example was updated twice , and the commit history for the claude-opus-4.md file shows each of those changes.\n\n Combined, this gives us all sorts of ways to compare prompts directly in the GitHub interface. Here's what changed between Fable 5 and Fable 5.1 , and here are the changes made to Haiku 4.5 on January 18th 2026 .\n\n Reading diffs can be a bit tiresome... and LLMs are really good at reading diffs. I hooked up some automation using GPT-5.6 Luna to create bullet-point summaries of each of those changes, which can be previewed in the README or browsed in full in the CHANGELOG.md file - also available as as an Atom feed .\n\n Here's how Luna summarized all of the changes between Fable 5 and Fable 5.1:\n\n Claude now refuses reproduction of protected visual works and recognizable characters, including code-generated art, while offering genuinely unrelated originals.\n\n Copyright restrictions now expressly ban reproducing lyrics, poems, and book passages in any amount, with persistent refusal after an initial decline.\n\n Drug guidance is reframed: Claude may provide overdose signs, dangerous interactions, and harm-reduction sources while refusing dosing and production protocols.\n\n The prompt drops explicit anti-dependency rules against thanking users for reaching out, inviting continued conversation, or reiterating willingness to talk.\n\n Claude need not apologize to unnecessarily rude users or become submissive, replacing the prior warning-and-end-conversation procedure.\n\n Why use Luna for this? Partly because it's cheap and I have a dedicated GitHub Actions API key (with a spending limit) for it already, but mainly because I don't trust Claude to summarize its own system prompts when there's a risk that material from its system prompt might impact its opinions.\n\n Fable 5.1 wrote the prompt used by Luna, which you can see here . It starts like this:\n\n You are summarizing one commit in a git repository that tracks the system prompts Anthropic publishes for Claude on claude.ai. The diff shows how the prompt c..."
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Quoting Rick Brewster",
+      "url": "https://simonwillison.net/2026/Sep/2/rick-brewster/",
+      "publishedAt": "2026-09-02T05:50:57.943Z",
+      "author": "",
+      "description": "Direct2D has always been the biggest hurdle for Paint.NET on WINE, and it's clear that it will never be completed enough for Paint.NET's use…",
+      "content": "Direct2D has always been the biggest hurdle for Paint.NET on WINE, and it's clear that it will never be completed enough for Paint.NET's use. And I can't just \"disable\" the use of Direct2D. So, instead,  Paint.NET now has an internal, from-scratch, clean-room reverse-engineered rewrite of Direct2D that it uses on WINE  (triggered by using  /wine ). It lives in  PaintDotNet.Windows.Direct2D1.Managed.dll . This was written by our good friend  Claude , without whom this would NOT have been possible and would NEVER have happened. [...]\n\n Most of this code is, as they say, \"vibe coded.\" By that I mean that it has not been thoroughly reviewed, it's more \"trust me bro\" style. I cannot possibly review 180,000 lines of code, it's just way way  way  too much. For reference, the rest of Paint.NET is about 700,000 lines of code and I've been working on it for over 20 years. [...]\n\n At times, Claude was working with the fury of 10 freshly unshackled Einstein genius-level 10x coders. And other times ... well, not so much. I had to babysit Claude quite a bit to make sure it did resource management correctly (for awhile it just wasn't doing the COM equivalent of AddRef() for reference counted objects, oops). I had to slap it a few times when I found some really bad design or architecture decisions. And I was also impressed at some rather clever and tireless reverse engineering work it did to figure out all the formulas needed for implementing Direct2D's built-in effects library.\n\n — Rick Brewster , author of Paint.NET\n\n Tags: reverse-engineering , coding-agents , claude , generative-ai , ai , llms , dotnet , linux , vibe-coding"
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery by Ben Thompson",
+      "title": "Fable 5.1, Enterprise Frontier Safeguards",
+      "url": "https://stratechery.com/2026/fable-5-1-enterprise-frontier-safeguards/",
+      "publishedAt": "2026-09-02T10:00:00.142Z",
+      "author": "Ben Thompson",
+      "description": "Fable 5.1 is out, and the hated Fable data retention policy is not just being altered, but entirely removed in the meantime. Plus, why…",
+      "content": "Fable 5.1 is out, and the hated Fable data retention policy is not just being altered, but entirely removed in the meantime. Plus, why increased caching is a win-win."
+    },
+    {
+      "source": "blog",
+      "name": "Sebastian Raschka, PhD",
+      "title": "OpenAI Astra and Looped Transformers",
+      "url": "https://sebastianraschka.com/blog/2026/openai-astra-looped-transformers.html",
+      "publishedAt": "2026-09-02T08:30:28.611Z",
+      "author": "",
+      "description": "A short note on OpenAI Astra, recurrent depth, looped transformers, Nanbeige 4.2, and the Mixture-of-Recursions paper.",
+      "content": "A short note on OpenAI Astra, recurrent depth, looped transformers, Nanbeige 4.2, and the Mixture-of-Recursions paper."
+    },
+    {
+      "source": "blog",
+      "name": "Tomasz Tunguz",
+      "title": "AI Productivity Doesn't Mean What I Thought It Means",
+      "url": "https://tomtunguz.com/ai-productivity-doesnt-mean-what-i-thought/",
+      "publishedAt": "2026-09-02T00:00:00.797Z",
+      "author": "",
+      "description": "I used to think AI productivity meant doing less. Automate the mechanical work, & human effort shrinks toward zero. The reality is stranger.…",
+      "content": "I used to think AI productivity meant doing less. Automate the mechanical work, & human effort shrinks toward zero.\n\n The reality is stranger. AI does not shrink human effort. It raises the ceiling of what the same amount of work produces.\n\n My writing workflow is an interactive loop with an agent. I seed it with an idea, data, or transcript. It drafts the essay in seconds, & then we work through line by line. I never touch the raw text directly ; I issue verbal & written instructions to the model, reviewing diffs, challenging phrases, & refining rhythm until the argument lands. Each night, the system updates my style guidelines, building a personalized Strunk & White.\n\n I thought this workflow would decrease the time to ship a post. But it didn’t. Line-level sentence edits remain constant around a median of 136 per piece.\n\n AI doesn’t reduce editing. Does it increase quality?\n\n To test whether this workflow actually produced better writing, I built a scoring rubric & had an AI panel evaluate fifteen random published posts per year from 2021 to 2026 on a 1–5 scale.\n\n The result is a rising quality floor. Across five years of writing, the composite quality score of published posts expanded across every tier, but the bottom moved fastest. The 10th percentile surged from 2.59 to 3.81, gaining nearly twice as much as the 90th percentile. Automating structural triage does not just save time ; it prevents bad drafts from reaching the reader.\n\n In Words Like Loaded Pistols, Sam Leith writes that words are not passive containers for information. They are loaded mechanisms aimed at a reader’s mind. 1 Rhetoric is the hidden machinery that makes an argument land.\n\n Efficiency in knowledge work does not increase our hours. It concentrates our craft.\n\n---\n\n Sam Leith, Words Like Loaded Pistols: Rhetoric from Aristotle to Obama (Basic Books, 2012).  ↩︎"
+    },
+    {
+      "source": "blog",
+      "name": "Lovable - Inside Lovable",
+      "title": "Lovable now builds with Fable 5.1",
+      "url": "https://lovable.dev/blog/fable-5-1-now-in-lovable",
+      "publishedAt": "2026-09-01T12:00:00.680Z",
+      "author": "",
+      "description": "Lovable now builds with Fable 5.1",
+      "content": "Lovable now builds with Fable 5.1"
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery",
+      "title": "Fable 5.1, Enterprise Frontier Safeguards",
+      "url": "https://stratechery.com/2026/fable-5-1-enterprise-frontier-safeguards/",
+      "publishedAt": "Wed, 02 Sep 2026 10:00:00 +0000",
+      "author": "Ben Thompson",
+      "description": "Fable 5.1 is out, and the hated Fable data retention policy is not just being altered, but entirely removed in the meantime. Plus, why increased caching is a win-win.",
+      "content": "Fable 5.1 is out, and the hated Fable data retention policy is not just being altered, but entirely removed in the meantime. Plus, why increased caching is a win-win.\n\n---\n\nListen to this Update in your podcast player\n\n---\n\nGood morning,\n\nTwo scheduling notes: first, summer is over and Stratechery Interviews are back. However, this week’s Stratechery Interview will not publish tomorrow, but on Friday, so look forward to that (relatedly, Sharp Tech will publish on Thursday, not Friday). Second, next Monday is Labor Day; there will be no Update.\n\nOn to the Update:\n\nFable 5.1\n\nAnthropic announced Mythos 5.1 and released Fable 5.1 yesterday; as Anthropic noted in their introductory blog post :\n\nClaude Fable 5.1 and Claude Mythos 5.1 are the same model, but with different levels of safeguards. Fable 5.1 is generally available, while Mythos 5.1 is available only through our trusted access programs; its safeguards are specifically designed to support work in cybersecurity and the life sciences.\n\nI obviously don’t have access to Mythos, but it’s interesting that Anthropic felt it was necessary to make clear in the first sentence that Fable is the same model; it is, given its general availability, the more pertinent one from a business perspective. From Bloomberg :\n\nAnthropic PBC is releasing a new version of its powerful Fable artificial intelligence model that it says is better at coding and science tasks, as well as more economical — all changes it says are in response to customer feedback. The company said Fable 5.1, which it plans to release on Tuesday, is more skilled at carrying out lengthy, complicated computer programming tasks, such as software projects or code reviews that require it to work across all the code for an application. The new version is also better at helping with scientific work like coming up with experiment designs, simulating what could happen during an experiment and reading information in dense diagrams and tables, Anthropic said.\n\nCompanies are increasingly trying to justify and rein in the costs for AI usage at a time when open-weight, lower cost models from China are rapidly improving. These trends are applying pressure to US-based model makers like Anthropic. Anthropic will charge enterprise users the same price per token — a unit of data processed by AI models — for Fable 5.1 as it has for Fable 5, but is lowering the price it charges users when the AI model resurfaces information it had previously processed. Anthropic said the 75% price reduction it’s offering on this part of the process will lead to a “substantial reduction” in the total cost of running the model. The process can account for half or more of the tokens used to carry out some of the lengthier, more complicated tasks people run on Anthropic’s AI models, said Dianne Penn, who leads product management for research and labs at the company.\n\nCache is particularly important for agentic workflows, which involve a lot of tool use (i.e. actual definitions and schemas which have to be loaded into the context window and which is the same across not just a single user but all users). Cache is, particularly relative to actual generation, much closer to free (the entire Internet is, in many respects, just a massive caching layer; to put it another way, cache is what undergirds zero marginal costs). Therefore, it makes total sense that this is an easy vector for Anthropic to credibly promise lower prices: develop a better cache layer, charge less for tokens from that layer (which is dramatically cheaper), and the price-per-task is lower even if the price-per-generated-token is the same.\n\nAnthropic said about pricing in their blog post:\n\nFable 5.1 will cost an estimated 25% less than Fable 5 for typical workloads, wherever usage is billed by token. This is because we’re reducing our pricing on cache reads (where the model reads inputs that have already been processed and stored). For highly agentic work, the savings will often be much larger—up to approximately 45%.\n\nThe interesting phrase there is “wherever usage is billed by token”; the implication is that this price cut does not apply to subscriptions, which makes sense: the entire premise of subscriptions is that you are not paying per token. What that means for Anthropic, however, is that any savings they can achieve increase their margins on subscriptions. To put it another way, enterprise customers care about the price they pay per token because it impacts how much they pay Anthropic; Anthropic cares about the price it costs to serve per token because it impacts how much it costs to serve subscribers. In this case, something like improved cache usage is a win on both sides of the business.\n\nEnterprise Frontier Safeguards\n\nFrom CNBC :\n\nAnthropic on Tuesday announced it will change a controversial data retention policy for its business customers after “a lot of feedback,” and it said it plans to implement a new solution called Enterprise Frontier Safeguards instead. The company introduced its existing data retention policy in June alongside the launch of Claude Fable 5 and Mythos 5, two of the company’s most advanced artificial intelligence models. Anthropic said at the time that it would require 30-day retention for all traffic on those models to help defend against misuse and “complex and novel” cyberattacks. Anthropic pledged not to use that data for any “non-safety-related purpose,” including model training, but many of its enterprise users expressed concern.\n\nKate Jensen, head of Americas at Anthropic, told CNBC that the company spent hundreds of hours working with customers to develop another solution. With the launch of Enterprise Frontier Safeguards, Anthropic said businesses will be able to control how their data is reviewed, stored and managed, and they will also be able to carry out automated safety monitoring where no Anthropic human review is required. The company said it will not charge for Enterprise Frontier Safeguards, and that the controls will work whether users access Anthropic’s technology directly or through a cloud provider.\n\nThere was something I found very humorous about this news. First, because I’m a business nerd, I found it to be the most interesting revelation yesterday. Second, while the Fable release was at the top of Techmeme all day, this item was buried halfway down the page. Third, the Fable item had a ton of posts on X linked; the Enterprise Frontier Safeguards item had a bunch of LinkedIn posts. Alas, the implications of this paragraph are not great for me, but I must follow my heart.\n\nAnyhow, this item was very interesting to me, and closes the loop on what I thought was one of the most interesting aspects of the original Fable release. I wrote when Anthropic changed its data retention policy terms for Fable :\n\nIt’s pretty significant, I think, that Anthropic is declaring that not retaining data is no longer an option, at least if you want access to their best models. Yes, today, that retention is for safety purposes only, and not for training; it’s plausible, however, that Anthropic’s lead becomes so significant that they quietly announce that they are going to train on that data as well, and companies will feel they have no choice but to go along. That additional training data, of course, will only further increase Anthropic’s lead, and all of this will be justified because Anthropic has already clearly decided they are the only ones who can be trusted to be in charge.\n\nThen, last month, this report from Ramp made waves asking “Why aren’t businesses using Fable 5?”:\n\nLast month, Anthropic released the best AI model to ever hit the market, Fable 5, and we now have the first public data to share business uptake of the model so good its release was briefly blocked by the U.S. government: one month in, businesses aren’t using it that much. Over the last month, Fable 5 has made up only 6% of tokens businesses purchased from Anthropic, and despite being their most expensive model by far, 11.4% of dollars spent on Anthropic models. For comparison, OpenAI’s flagship model, GPT-5.6 Sol, comprises 25% of OpenAI tokens and 23% of spend. In fact, Fable 5 is less popular with businesses than GPT-5.6 Sol overall. In July, Fable 5 generated approximately 75% as much model-attributed spend as GPT-5.6 Sol.\n\nSo why does this make me wary of the AI trade? Fable 5 is the most performant model on the market. It’s also the most expensive, at roughly $10 per 1M tokens, twice as expensive as the still highly performant GPT-5.6 Sol. So with Fable 5, we’ve found a new upper bound for how much businesses are willing to spend on AI. Here, more performance is not worth the price tag. To encourage business adoption of the latest models, the labs will need to prove performance beyond what even Fable 5 is able to achieve and simultaneously ensure that competitors aren’t able to come reasonably close. That seems increasingly out of reach, especially as open source models catch up to being only a few months behind.\n\nI do think that price was probably the biggest reason for Fable’s relatively low penetration; I accidentally blew through my subscription limits a few weeks ago, added some credits, and was shocked at how much I was paying to finish the project I was working on. If you’re using Fable you need to be really sure it’s the right model for the job, or the price bites quickly.\n\nAt the same time, I don’t think the data retention policy change helped. Anything but a zero data retention policy is, for most large enterprises, simply a no-go. Indeed, arguably the biggest impact of Anthropic’s policy change was putting wind in the sails of companies like Microsoft; that is when Satya Nadella really started to publicly press on the issue of sharing data with the frontier labs, and is a reason why Alex Karp gave that wild interview .\n\nImportantly, the pushback seems to have carried the day. Even if you want to give Anthropic the benefit of the doubt and assume that retaining the ability to analyze data for safety reasons was legitimate, the idea that that data would be stored by Anthropic was obviously a non-starter, and I said as much at the time; from Anthropic’s Safety Superpower :\n\nAnthropic upped the ante in a major way with Fable, announcing that they would retain the data for all usage for 30 days, even for their enterprise plans that previously promised zero data retention. The company said they would not train on this data, but they didn’t put in any sort of safeguards to guarantee they wouldn’t do so in the future (like storing the data with a third party). If this policy change (whenever Fable is restored) doesn’t lead to a significant loss of customers, I suspect it’s only a matter of time until they start using the data: it’s simply too valuable to their end goals.\n\nAnthropic might not have lost customers, but growth did slow and Fable usage was stagnant; thus Enterprise Frontier Safeguards. From the blog post:\n\nOur new system of Enterprise Frontier Safeguards (EFS) gives customers complete privacy (the same as a zero data retention policy) while still being state-of-the-art at preventing adversarial use. EFS works by storing data in cloud infrastructure controlled entirely by the customer, not Anthropic. It will be made available to enterprise customers in phases, beginning later this fall. Until EFS is available, eligible customers will be able to use Fable 5.1 with zero data retention.\n\nThat last sentence is the tell. Apparently the safety concerns aren’t so great that Anthropic can’t revert to a true zero retention policy until the new system is in place; that strongly suggests that my suspicions about where things were trending were correct. And that’s actually good news: competition works, customers can push back, and at the end of the day, the fact that Anthropic needs to make money will be a curb on their worst impulses. For-profit enterprise is the best alignment organizing principle there is.\n\n---\n\nThis Update..."
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 8,
+    "totalTweets": 12,
+    "blogPosts": 8,
+    "podcastEpisodes": 0
+  }
+}
