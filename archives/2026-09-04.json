@@ -1,0 +1,341 @@
+{
+  "generatedAt": "2026-09-04T00:13:06.921Z",
+  "runKey": "2026-09-04",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Thariq is on vacation",
+      "handle": "trq212",
+      "bio": "Twitter @Thariq",
+      "tweets": [
+        {
+          "id": "https://twitter.com/trq212/status/2095653053282292013",
+          "text": "We’re working on making Claude Code way more hackable, give us feedback!\n---\n ClaudeDevs: We're exploring a new way to let you extend and customize Claude Code: Function Hooks.\n\nHere's a couple videos showing what you'd be able to do. It hasn't shipped yet, we'd love feedback on this on our GitHub issue.",
+          "createdAt": "2026-09-03T23:19:57.984Z",
+          "url": "https://x.com/trq212/status/2095653053282292013",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/ClaudeDevs/status/2095572891941351550\nClaudeDevs: We're exploring a new way to let you extend and customize Claude Code: Function Hooks.\n\nHere's a couple videos showing what you'd be able to do. It hasn't shipped yet, we'd love feedback on this on our GitHub issue."
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Greg Brockman",
+      "handle": "gdb",
+      "bio": "Twitter @Greg Brockman",
+      "tweets": [
+        {
+          "id": "https://twitter.com/gdb/status/2095629409017614390",
+          "text": "arc-agi-3 is now saturated\n---\n ARC Prize: GPT-6 Astra by @OpenAI achieves SOTA on ARC-AGI:\n\n- Astra scores 63% on ARC-AGI-3, 99% via a new provider adapter harness\n- It surpasses human performance on 96% of ARC-AGI-3 levels\n- It builds the most precise symbolic model of novel environments we've seen\n\nOur analysis:",
+          "createdAt": "2026-09-03T21:46:00.906Z",
+          "url": "https://x.com/gdb/status/2095629409017614390",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/arcprize/status/2095597602545025138\nARC Prize: GPT-6 Astra by @OpenAI achieves SOTA on ARC-AGI:\n\n- Astra scores 63% on ARC-AGI-3, 99% via a new provider adapter harness\n- It surpasses human performance on 96% of ARC-AGI-3 levels\n- It builds the most precise symbolic model of novel environments we've seen\n\nOur analysis:"
+        },
+        {
+          "id": "https://twitter.com/gdb/status/2095598855073255644",
+          "text": "Introducing GPT-6 Astra: https://openai.com/index/gpt-6-astra/",
+          "createdAt": "2026-09-03T19:44:36.807Z",
+          "url": "https://x.com/gdb/status/2095598855073255644",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Twitter @Ethan Mollick",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2095606622055760159",
+          "text": "An example of useful knowledge work: I assigned GPT-6 to read through tens of thousands of my emails, my writings, my calendar appointments and more to assemble a personal knowledge base of research, contacts, ideas, relationships, and tasks over my recent career. GPT-6 downloaded the appropriate software, figured out a strategy, and built a multi-gigabyte personal wiki without any further intervention from me over the course of five days of uninterrupted work.\n\nTwice a day, the AI now goes through my emails, cross-references them with this extensive knowledge base, and sends me a summary of things I should be paying attention to, things I might be interested in, etc.\n\n(Two questions you may have: Yes, I gave the AI access to my computer and this involves risks, and you should be careful before you do the same. And I do not take money from any AI lab and pay for my own usage, but during the trial period, I was not charged for tokens, so I cannot tell you how much this process would have cost, but it likely would have been very substantial. The ongoing briefings do not use substantial amounts of token)",
+          "createdAt": "2026-09-03T20:15:27.973Z",
+          "url": "https://x.com/emollick/status/2095606622055760159",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2095604776822083629",
+          "text": "One of the most subtle valuable things about Astra is that it maintains better theory-of-mind: you don't get nearly as many weird references in the final product to previous drafts or work you did during building, and there less drift as it runs long. Not perfect, but very good.",
+          "createdAt": "2026-09-03T20:08:07.903Z",
+          "url": "https://x.com/emollick/status/2095604776822083629",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2095601539066777748",
+          "text": "I had early access, and a longer post is coming, but GPT-6 is stunning & is good enough that it actually does complex meaningful work for me autonomously for days.\n\nAs a more fun example, it made a historically-based simulation of the Library of Alexandria: https://alexandria-mouseion.netlify.app",
+          "createdAt": "2026-09-03T19:55:15.664Z",
+          "url": "https://x.com/emollick/status/2095601539066777748",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Twitter @Tibo",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2095601101701820752",
+          "text": "We are going to need a different AGI benchmark. Where is the goalpost moving next?",
+          "createdAt": "2026-09-03T19:53:31.813Z",
+          "url": "https://x.com/thsottiaux/status/2095601101701820752",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2095538856296898868",
+          "text": "Something was felt across the internet today",
+          "createdAt": "2026-09-03T15:46:11.044Z",
+          "url": "https://x.com/thsottiaux/status/2095538856296898868",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2095369901137654271",
+          "text": "I think the best way to describe OpenAI's culture is as a mega startup. It's hard to believe unless you see it from the inside. Extreme ownership, care and pace.",
+          "createdAt": "2026-09-03T04:34:49.650Z",
+          "url": "https://x.com/thsottiaux/status/2095369901137654271",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Mark Chen",
+      "handle": "markchen90",
+      "bio": "Twitter @Mark Chen",
+      "tweets": [
+        {
+          "id": "https://twitter.com/markchen90/status/2095597534412673109",
+          "text": "GPT-6 Astra is here! This is a big moment for our research team - years of work on pretraining, reinforcement learning, and post-training have come together in our most capable and aligned model yet. It can build and test software, work across apps on your computer, and even help you take a crack at open scientific problems!\n\nCapabilities that felt like grand challenges a few years ago have become tools people can actually use. One example is Computer Use - if you’ve tried this before and felt like it was too slow or not good enough, I encourage you to give it another shot. We’ve come a long way since Operator, and it “just works” now.\n\nWe’re also asking these systems to act on your behalf for more consequential work. Agents needs to stay aligned with your goals and values, think transparently, and respond to oversight even when tasks become difficult. We’ve made substantial progress on these behaviors in Astra, alongside stronger monitoring that can stop potentially unauthorized actions. That work is part of what makes this release possible.\n\nI think alignment is one of the most important research frontiers in AI, and it remains far from solved. Our ability to understand and align models has to keep pace with model capabilities. We want to give people more room to think, build, and discover with increasingly powerful tools that remain *under their control*.\n\nHuge thanks to the researchers and teams who got us here. There’s a lot more work ahead, and I’m incredibly excited about what we can make possible in the near future!\n---\n OpenAI: This is GPT-6 Astra.\n\nAnything you can do on a computer, Astra can do for you. Fast.",
+          "createdAt": "2026-09-03T19:39:21.861Z",
+          "url": "https://x.com/markchen90/status/2095597534412673109",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/OpenAI/status/2095595741528125780\nOpenAI: This is GPT-6 Astra.\n\nAnything you can do on a computer, Astra can do for you. Fast."
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Boris Cherny",
+      "handle": "bcherny",
+      "bio": "Twitter @Boris Cherny",
+      "tweets": [
+        {
+          "id": "https://twitter.com/bcherny/status/2095590515765060076",
+          "text": "Your input needed: would you use this?\n\nThis is an early look at how we're thinking about making Claude Code way more extensible. It's a little crazy, and very exciting.\n\nMore details here: https://github.com/anthropics/claude-code/issues/91870\n---\n ClaudeDevs: We're exploring a new way to let you extend and customize Claude Code: Function Hooks.\n\nHere's a couple videos showing what you'd be able to do. It hasn't shipped yet, we'd love feedback on this on our GitHub issue.",
+          "createdAt": "2026-09-03T19:11:27.989Z",
+          "url": "https://x.com/bcherny/status/2095590515765060076",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/ClaudeDevs/status/2095572891941351550\nClaudeDevs: We're exploring a new way to let you extend and customize Claude Code: Function Hooks.\n\nHere's a couple videos showing what you'd be able to do. It hasn't shipped yet, we'd love feedback on this on our GitHub issue."
+        },
+        {
+          "id": "https://twitter.com/bcherny/status/2095378890370019683",
+          "text": "Background computer use is underrated\n---\n Claude: Claude can now use your computer in the background in Claude Cowork and Claude Code.\n\nGive it something to do on your desktop and Claude clicks, types, and opens apps just like you would, while you work on something else.",
+          "createdAt": "2026-09-03T05:10:32.680Z",
+          "url": "https://x.com/bcherny/status/2095378890370019683",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/claudeai/status/2095226833293685100\nClaude: Claude can now use your computer in the background in Claude Cowork and Claude Code.\n\nGive it something to do on your desktop and Claude clicks, types, and opens apps just like you would, while you work on something else."
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Noam Brown",
+      "handle": "polynoamial",
+      "bio": "Twitter @Noam Brown",
+      "tweets": [
+        {
+          "id": "https://twitter.com/polynoamial/status/2095583211950833768",
+          "text": "Of all the use cases for GPT-6 Astra, I'm most excited for scientific discovery. We at @OpenAI have not pushed it to its limits on math and science.\n\nI look forward to waking up every morning and seeing what new scientific breakthrough someone has made with this model!\n---\n Lisan al Gaib: New OpenAI repo with a Lean formalization by GPT-6-Astra proves that there are infinitely many pairs of consecutive primes whose distance is at most 186\n\nhttps://github.com/openai/PrimeGaps186",
+          "createdAt": "2026-09-03T18:42:26.406Z",
+          "url": "https://x.com/polynoamial/status/2095583211950833768",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/scaling01/status/2095558841509318673\nLisan al Gaib: New OpenAI repo with a Lean formalization by GPT-6-Astra proves that there are infinitely many pairs of consecutive primes whose distance is at most 186\n\nhttps://github.com/openai/PrimeGaps186"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Gostev",
+      "handle": "petergostev",
+      "bio": "Twitter @Peter Gostev",
+      "tweets": [
+        {
+          "id": "https://twitter.com/petergostev/status/2095574166942732335",
+          "text": "LIVE: GPT-6 release party + Fable-5.1 + Spark-1.3 + Qwen-3.8 - HUGE Week in AI! https://x.com/i/broadcasts/1pKdRDPNdvdJW",
+          "createdAt": "2026-09-03T18:06:29.634Z",
+          "url": "https://x.com/petergostev/status/2095574166942732335",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/petergostev/status/2095530995940233659",
+          "text": "RT Arena.ai\nFor a limited time, you can test Claude Fable 5.1 by @AnthropicAI directly in Arena!\n\nHead to Direct Mode, and select it from the dropdown menu. Find the link below.\n\n@claudeai Fable 5.1 is available in Direct Mode through Sept. 5 at 8am PT. It will remain available in Battle and Agent Mode after that, as it already is today.\n\n---\n Claude: We’re introducing Claude Fable 5.1 and Claude Mythos 5.1.\n\nThey're the world’s most advanced models for coding and knowledge work.",
+          "createdAt": "2026-09-03T15:01:13.616Z",
+          "url": "https://x.com/petergostev/status/2095530995940233659",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/petergostev/status/2095519296189239324",
+          "text": "My favourite sound is not the birds chirping or a child laughing, but the fan noises from my linux box, makes me happy how hard my agents are working",
+          "createdAt": "2026-09-03T14:28:27.366Z",
+          "url": "https://x.com/petergostev/status/2095519296189239324",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Essays - Benedict Evans",
+      "title": "AI, tools and transformation",
+      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+      "publishedAt": "2026-09-03T21:26:04.735Z",
+      "author": "Benedict Evans",
+      "description": "The typical big American company today has hundreds, and perhaps thousands, of different pieces of software. It has giant ‘big iron…",
+      "content": "The typical big American company today has hundreds, and perhaps thousands, of different pieces of software. It has giant ‘big iron’ horizontal systems of record like SAP and Workday, it has hundreds of vertical SaaS applications, and then there are hundreds more workflows, scripts, automations and databases, right down to the 10 meg spreadsheet running a department. Very often, the company doesn’t even know quite how much it has, what’s actually being used, and what it’s paying for. And yet, with all this software, the company is full of boring, repetitive tasks.\n It can be very tempting to think that AI will sweep most of this away. There’s an old joke that an engineer is someone who’ll spend an hour building a tool to automate a task that would take 10 minutes. But with AI, now you can make that tool in five minutes, and you don't need to be an engineer, and you don’t need to write code. You can just ask the model to make the tool for you, or, more fundamentally, just do the task for you itself . Instead of having to create those tools one at a time, software might be dynamic, generative, free-form, and spontaneous. Massively more tasks can be automated, with massively less software.\n If you’re a tool-builder, and everybody in Silicon Valley is a tool-builder, this is intoxicating. But I think it misunderstands where software comes from and how people use it, and I think it misses how companies change.\n First of all, most people are not tool builders, and most people don’t instinctively think about how their job could be done in a different way. If you spend all your time in the Silicon Valley bubble, it can be easy to forget this, because your entire world is about creating tools that change how things are done. But if you’re a really great matrimonial lawyer, you spend all your day thinking about your cases and your clients, not about what great legal discovery software would do; if you’re a really great enterprise salesperson, you spend all your time thinking about your product and your clients and your competitors, not about how great sales enablement software could make you more productive.\n Narrowly, that means that the task to be automated might be sitting in plain sight but the people with that task don’t see it. This is what leads to the idea of the ‘forward-deployed engineer’ - someone who is a builder, and knows what AI can build, can ‘just’ walk around a law firm or an architecture office and see the opportunities lying on the table that the lawyer or the architect doesn't see. (This is also the experience of a lot of people in tech when they were 15, wandering around an internship or their parents’s office - “um, daddy, did you realise you could just do it like this?”)\n However, most of what we’ve automated in the last few decades wasn’t obvious, and didn’t have an obvious solution either. We can all think of examples of stuff we use every day where our first reaction was “Why would I want that?” Very often, it's not obvious that the problem exists, and very often it's embedded or bundled or hidden inside something else. Equally, even if you can see the problem, or think you can, the right way to fix it often isn’t clear either, and the way to fix it is to redefine it or unbundle it, and working that out is hard. For many successful software companies, there were half a dozen failed attempts that came before and didn't find quite the right approach or the right problem.\n None of this is solved by making easier to write code - by making it easier to make tools. The hard part is knowing that you need a tool for this in the first place, and then knowing what the tool should do.\n But even once you reach that point, you have to get everybody else to use it, too. Many of the problems, workflows and tasks that we might want to automate touch 50 or 500 people across five different departments, three different systems of record, and four different regulatory regimes. You might have a great idea for doing an accounts payable differently, but you yourself can't change how everybody in the company does it. That has to be a purchase, and a decision, and an 18-month sales process.\n Second, all of this means that software is bought or chosen or created on a spectrum from top-down to bottom-up - the company buys SAP and the user makes a spreadsheet - and I think it’s useful to think of this also as a spectrum from institutionalised to improvised.\n You have tasks that are easy to do in the dedicated tools you already have, whether it’s SAP, Carta or Rippling. These tasks and workflows have been institutionalized - a bunch of people in those companies and your company have spent a lot of time working out the correct way to do that task, and it’s important that everyone do it the same way with the same tools. But then you have edge cases, exceptions and one-off questions, that are hard or impossible to do in those tools. Your users, bottom-up and creating their own solutions, manage these in a fuzzy, improvised space of freeform substrates like Excel, email, shared folders, Tableau, Powerpoint and CSVs, screenshots, PDFs and conference calls.\n But once this task becomes something that you're doing all the time, in the same way every time, and that lots of people are doing, and becomes important and has revenue and risk attached to it, then, at a certain point, the company has to institutionalize it. You need audit, security, maintenance and accountability. You pave the desire path and pay someone to set it in stone. As above, you might not realize that the path is there - you might not realise that you have hundreds of people wasting an hour a day doing this - and it might be hard to work out the right way to fix that, but that process is why the company has hundreds of apps.\n We went though a lot of this with the shift to SaaS, which was another order-of-magnitude change in how much software we had, along with a new operating model and a new cycle time, and that killed a lot of incumbents that couldn’t make the jump (the real rationale for the ‘SaaSpocalypse’). It’s a continuous and organic flow of bundling and unbundling. All of those SaaS apps do something that you could do in SAP or Excel or email - Carta is a $4bn company that manages one spreadsheet for your CFO -  and sometimes tasks move back. A few years ago I spoke to a consultant who said that half of their jobs were telling people who used Excel to use a database and the other half were the other way around.\n Hence, if you’re PwC and you hire 3-4,000 graduates every year, you use dedicated, ‘institutionalised’ software to manage that. If you’re a small firm and you hire five or ten, you use email, a shared folder and Google Sheets. As that small firm grows, at a certain point it will outgrow that, and maybe move to Notion, or to an SME-focused SaaS HCM. But a small team inside PwC might also be using Google Sheets to track candidates to fill a role because Workday is too inflexible - the unbundling begins again.\n Now AI rolls across all that. AI will expand all of the existing apps, and there’ll be many new vertical apps, and Excel, and Tableau, Google Sheets, email and all the other freeform spaces for improvising solutions will gain new capabilities. With that cycle, the chatbot itself is a new freeform space that sits next to Excel and email, taking over tasks from them and from your apps, and also losing tasks to those apps.\n Now that small company hiring ten graduates might stick in Google sheets a lot longer because AI makes it more scalable, or you might use it as a data store for Gemini, and you might ask “should we get Claude to make something or move this to Notion?”… and then you see there’s a new SaaS app aimed right at you that solves this plus some other problem you hasn’t thought of. AI doesn’t change the question: it creates new choices and moves the thresholds.\n I think you can see all of this in the experience of enterprise AI deployment in the last three years. Every big company gave everyone Copilot (or maybe ChatGPT or Claude) and a small number of people are using this a lot (some of whom actually increased their productivity), while a larger set of people are using it a couple of times a week and a lot of the rest of your company isn't really using it at all. This is partly a change management and a training problem, but it's mostly the same problem that you would have had if you'd given everyone in the company a PC and Lotus 123 in 1983, or an internet connection and a web browser in 1997. How exactly does this map to everybody's tasks and the problems they actually have this week? Yes, you did give everybody a PC and Lotus, but that wasn’t how you transformed the efficiency of your invoice processing. Yes, you gave everybody a web browser, but that wasn't how you rebuilt your supply chain management around the internet, and it certainly wasn't how a retailer managed e-commerce.\n Narrowly, the way that companies think about changing those kinds of structural processes is to start doing pilots. You run trials of products (both bought and built internal) that use the new capabilities of AI to automate processes that you couldn't automate before. There’s now all sorts of data around how many of these pilots there are, how many work (roughly half, as is normal - this is why they’re pilots !) and what can go wrong.\n But again, this is a very old-fashioned CIO conversation around use cases, lighthouses, pilots, heroes, quick wins and measurable results. Meanwhile, the CEO and the board scratch their heads and say “Wait, but we've got 100s of workflows and we've done five or 10 pilots. That doesn’t seem to scale?” Giving everyone in the company ChatGPT does scale theoretically, except that most people aren't really finding ways to use it.\n Going back to a hypothetical bank giving everyone spreadsheets in the 1980s, or a retailer giving everyone a web browser in the 1990s, yes, of course you should do that, and yes, of course, you need to think about training and change management and all the other good stuff that KPMG can tell you about. But that isn’t how you think about transforming the way your company works around a generational new technology.\n Stepping back, it seems to me that with each new transformative technology, every company has to ask three kinds of questions. First, how do we buy, build and deploy this? Do we do pilots? Should we take the product that's bundled from Microsoft/Google/Oracle, build something ourselves, pay someone to build something, or buy this new thing from a startup? Second, they have to ask how far this changes their operations. What does it mean? What does email mean for us? What does spreadsheets mean for us? The answer to that might be radically different if you were an insurance company or a law firm. And third, you have to ask whether this creates new challenges to your business’s economics, new competitive pressures, or, perhaps, some kind of existential threat.\n You don’t answer those questions by giving everyone Claude for X. Indeed, all of this means lots of new pitches for professional services (which is ironical given how many questions AI poses to their own business models). Do you want to work out how to deploy an LLM-enabled voice analytics tool in your call center? You're probably going to call Accenture. The vendors themselves have always been happy to help, and now the big labs have their own ‘deploycos’ - we used to joke that a ‘machine learning scientist’ is a statistician who lives in San Francisco, so maybe a ‘forward deployed engineer’ is anyone that OpenAI hired from a systems integrator. On the other side, your startup is building a great new tool and you want to go to market quickly? You'll probably call the Big Four. You're frustrated with how hard it is to sell AI software into law firms or accountancy firms. Okay - go start an ‘AI-enabled’ law firm and work out if that can be a key point of leverage (or whether it's like starting a..."
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "GPT‑6 Astra",
+      "url": "https://simonwillison.net/2026/Sep/3/gpt6-astra/",
+      "publishedAt": "2026-09-03T20:18:41.325Z",
+      "author": "",
+      "description": "GPT‑6 Astra GPT-6 Astra is \"rolling out today to a limited set of organizations and over the coming days will become available to all…",
+      "content": "GPT‑6 Astra\n\nGPT-6 Astra is \"rolling out today to a limited set of organizations and over the coming days will become available to all ChatGPT Plus, Pro, Business, and Enterprise users, as well as through the OpenAI API and AWS\" - I've not tried it yet myself, so I don't have a great deal to say about it yet.\n\n It's going to be API priced at the same rate as Claude Fable 5 and 5.1: $10/million input and $50/million output. This is clearly OpenAI's Fable competitor, and appears to score higher than Fable on most of OpenAI's self-reported benchmarks.\n\n Most impressively, Astra scores 99.9% on the recent (released in March) ARC-AGI 3 benchmark - though notably Fable 5 does not yet have a published result, and the ARC-AGI blog notes that the 99.9% score was achieved for $19K using OpenAI's custom \"Provider Adapter harness\", while the default ARC-AGI harness scored 62.7% for $26K.\n\n The Provider Adapter harness preserves opaque reasoning state between requests and uses compaction for longer conversations, allowing the model to reuse prior work.\n\n Unsurprisingly, given the recent Hugging Face incident , Astra is a beast at security tasks. It scores 100% on ExploitBench (GPT-5.6 Sol got 78.5%), 42.4% on ExploitGym (Sol got 30.3%), and 99.2% within four attempts on SRE-Bench binary reverse engineering compared to Sol's 68.7%.\n\n It's also better at long context: on OpenAI's eight-needle benchmark it got 100% at 256K–512K tokens and 96.3% at 512K–1M tokens. OpenAI may have vanquished one of the ongoing challenges with long context processing.\n\n It doesn't win at everything though. Artificial Analysis note that Astra is still beaten by Fable on their Intelligence Index:\n\n Sits beside GPT-5.6 Sol in Intelligence : GPT-6 Astra scores equal to GPT-5.6 Sol in the Index at 61. This is 5 points lower than Claude Fable 5.1 (max with fallback). The model also trails Meta’s newly released Muse Spark 1.3 (max).\n\n It did better on their Coding Agent Index:\n\n Leads Coding Agent Index cost efficiency frontier : At max effort, GPT-6 Astra costs about the same as GPT-5.6 Sol (max) while scoring 2 points higher on the Index. Per task, the model is less than half the cost of Claude Fable 5, for the same score.\n\n I'll write more about Astra once I get access to it. The API model label once it rolls out will be gpt-6-astra .\n\n Via Hacker News\n\n Tags: ai , openai , generative-ai , llms , llm-release"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Claude Fable 5.1 made me a really nice animated pelican",
+      "url": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
+      "publishedAt": "2026-09-01T23:57:28.425Z",
+      "author": "",
+      "description": "Today is Claude Fable (and Mythos) 5.1 day. Anthropic say that Fable 5.1 \"sets a new standard for coding, knowledge work, and long-running…",
+      "content": "Today is Claude Fable (and Mythos) 5.1 day . Anthropic say that Fable 5.1 \"sets a new standard for coding, knowledge work, and long-running problem-solving tasks\". Their announcement spends a notable amount of time on scientific research, boasting of a 52.6% score on the brand new Terminal-Bench-Science 0.1 benchmark (first announced on August 27th ), up from 24.7% for Fable 5, 29.0% for Opus 5 and 22.4% for GPT-5.6 Sol. Other benchmarks show slightly improved scores, but none as impressive as the Science one.\n\n But how well can it pelican?\n\n Back in July I wrote about how I was losing faith in the pelican benchmark - its connection to how good the models were at other tasks didn't seem to hold as strongly as it did back in 2025 . The most interesting insights I get from it now are comparisons within model families, and particularly comparisons for the same prompt at different reasoning effort levels.\n\n Fable 5.1 has five reasoning levels: low, medium, high, xhigh, max - and no option to turn off reasoning entirely.\n\n I fixed an issue in llm-anthropic which caused reasoning traces not to be correctly recorded, then ran some prompts.\n\n Here's the full set of pelicans for all of the reasoning levels, each with the full reasoning transcript. I'll replicate them here:\n\n Low and medium, both without reasoning?\n\n Next, a bit of a mystery. This is what I got for effort low :\n\n The transcript doesn't show any summarized reasoning tokens, and the output token count is 1,998. With Claude that output token count includes reasoning tokens. It took 23.8 seconds and cost 10.017 cents .\n\n I bumped that up to medium and got this:\n\n Weirdly, that one also shows no reasoning text and used 1,977 output tokens - 21 tokens less than low . It took 23 seconds and cost 9.912 cents .\n\n So for this particular prompt (\"Generate an SVG of a pelican riding a bicycle\") Fable 5.1 appeared to skip reasoning entirely at both low and medium settings.\n\n High\n\n Here's high - 29.6 seconds, 2,612 output tokens, 13.087 cents :\n\n This one did do a bit of reasoning, summary here :\n\n I'm planning the SVG layout for a pelican riding a bicycle, with a sky and ground background, a bicycle with two spoked wheels, frame, seat and handlebars, and a white-bodied pelican with a long neck and orange beak positioned on top.\n\n Really not much difference from low and medium , though.\n\n Extra High\n\n At xhigh things got radically different. 36,767 output tokens, 7 minutes 51 seconds, $1.83 !\n\n The reasoning trace is pretty lengthy , and includes details like this:\n\n Adding the eye, wings stretching down to the handlebar grip, orange legs reaching to the pedals, and a small tail feather, while keeping the pelican intentionally oversized compared to the bike for comic effect. [...]\n\n I'll accept the slight thickness as charming rather than overengineering it.\n\n Max\n\n Setting effort to max gave me the best pelican I've seen from any of Anthropic's models. 65,927 output tokens, 13 minutes and 54 seconds, $3.30 :\n\n There's a lot to like about this. The background is tasteful, the legs are clearly on either side of the frame, the feet are on the pedals, the wing is on the handlebars, the pelican has a cute blue hat and there's a basket with a fish.\n\n It's still not showing nearly the same level of flair as Gemini 3.7 Flash , but I didn't ask for flair - I asked for an SVG, and that's what I got.\n\n Some highlights from that reasoning trace :\n\n Adding pedal shapes near both feet, with the far foot on the second leg partially visible behind the frame. I'm considering whether to add a small scarf or cap for extra character, but leaning toward keeping it simple to avoid clutter.\n\n Now I'm debating a bicycle helmet on the head versus the pelican's signature crest—the beak and pouch already read clearly as \"pelican,\" so a helmet could reinforce the bicycle theme without losing identity, though it might compete with the crest for visual space.\n\n I realize the beak at (484,84) would overlap with the dome helmet, so I need to shrink the helmet so it only covers the top of the head, adjusting its arc endpoints to sit higher and narrower so the beak can attach cleanly at the front without collision. [...]\n\n I'm adding a darker tip region to represent the primary feathers, then reconsidering the trailing edge to include scalloped feather curves instead of one smooth line for a more natural look. [...]\n\n Now I'm checking the vent line placements on the helmet, making sure they sit far enough inside the helmet's edge given the stroke width and rounded caps, and confirming each vent stays within the helmet's circular boundary. [...]\n\n I decide skipping a handlebar bell and tire highlights since they're unnecessary additions. Now I'm reconsidering the front fork's curve — the current control point pulls the shape backward when it should bow forward for a proper rake, so I need to shift the control point rightward to fix the fork's lean.\n\n OK, let's animate it\n\n On Hacker News, swalsh commented on that Max pelican:\n\n Now that it's a solved benchmark, can we get the animated version?\n\n I didn't want to spend another $3 so I took the Max pelican and piped it into the default thinking level of High:\n\n llm logs -cx | llm -m claude-fable-5.1 -s ' animate this '\n\n 6,121 input, 26,201 output = $1.37 . The result looked like this , exported here as video since some people have trouble viewing animated SVGs:\n\n Your browser does not support HTML5 video.\n\n The wheels in the video are rotating in the wrong direction, but I think that's an artifact of the conversion to MP4 - they seem to be going in the correct direction in the original SVG.\n\n Tags: ai , generative-ai , llms , anthropic , claude , pelican-riding-a-bicycle , llm-reasoning , llm-release"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "GeoJSON Map Viewer",
+      "url": "https://simonwillison.net/2026/Sep/1/geojson/",
+      "publishedAt": "2026-09-01T18:05:45.760Z",
+      "author": "",
+      "description": "Tool: GeoJSON Map Viewer I was helping Natalie gather some maps of local political boundaries (for the Granada Community Services…",
+      "content": "Tool: GeoJSON Map Viewer\n\n I was helping Natalie gather some maps of local political boundaries (for the Granada Community Services District and the Midcoast Community Council ) and found a need to display some GeoJSON files on a map and export that as a PNG. I asked GPT-5.6-Sol for suggestions of tools and it proactively built one. After some iterations using Claude Code for web and Fable 5.1 we got to this finished tool.\n\n As for the GeoJSON.. it turns out if you ask ChatGPT Work to provide boundaries for almost anything it will churn away extracting and combining files from different Government data sources and build exactly what you need.\n\n I got this polygon from:\n\n I want a polygon that represents the exact boundary of the El Granada GCSD\n\n And this one from:\n\n Get me a GeoJSON file for the boundary (or boundaries if that makes sense) for the MCC - Midcoast Community Council - that operates near Half Moon Bay CA\n\n Here's a link that displays both of them at the same time on the new GeoJSON map viewing tool.\n\n Tags: geospatial , tools , geojson , chatgpt"
+    },
+    {
+      "source": "blog",
+      "name": "Tomasz Tunguz",
+      "title": "The Ads Model for Prompts Vertically Integrates AI",
+      "url": "https://tomtunguz.com/the-ads-model-for-prompts-vertically-integrates-ai/",
+      "publishedAt": "2026-09-03T00:00:00.289Z",
+      "author": "",
+      "description": "Meta launched two things yesterday : a state-of-the-art model & a new pricing system for foundation models.1 Muse Spark propels US open…",
+      "content": "Meta launched two things yesterday : a state-of-the-art model & a new pricing system for foundation models. 1 Muse Spark propels US open source models to the frontier. Meanwhile, the pricing system resets the industry’s economics.\n\n For thirty years, enterprise software operated on strict licensing fees with a guarantee of total privacy & zero data retention. 2 Consumer technology operated on the opposite principle : free software in exchange for behavioral data. Consumers trade queries for convenience, but enterprises fiercely protect their intellectual property.\n\n Now that model is coming to AI with a twist.\n\n Meta’s new pricing makes the barter explicit through a two-tier pricing structure with & without privacy : 3\n\n The Standard Tier ( muse-spark-1.3 ) : $1.25/m input tokens & $4.25/m output tokens. Your prompts & completions are never used to train Meta’s foundation models.\n\n The Contributor Tier ( muse-spark-1.3-contributor ) : $0.10/m input tokens & $0.20/m output tokens. In exchange for a 92% discount on input & a 95% discount on output, Meta retains the right to train future models on your data.\n\n No other foundation model provider currently offers this kind of explicit barter on its API. This is the ads model coming to AI.\n\n As Michael Mauboussin writes in Expectations Investing, there is information in prices. 4 When Meta charges two radically different prices for the same AI, the difference in price tells us the value of the data.\n\n At an agentic 30:1 input-to-output ratio, 5 the blended standard tier costs $1.35/m tokens, while the contributor tier costs $0.103/m. The difference is a $1.24/m token spread, an effective 92.3% subsidy.\n\n Daily Token Volume\n Monthly Tokens\n Annual Cost (Private / ZDR)\n Annual Cost (Data Sharing)\n Annual Data Dividend\n\n 10m tokens / day\n 300m\n $4,916\n $377\n $4,539\n\n 100m tokens / day\n 3b\n $49,157\n $3,768\n $45,389\n\n 1b tokens / day\n 30b\n $491,573\n $37,677\n $453,895\n\n For an enterprise processing 1b tokens per day, opting into Zero Data Retention (ZDR) is a $454,000 annual privacy surcharge. That difference is how Meta values incoming customer data : $1.24/m tokens.\n\n This unbundles the $20 monthly consumer subscription. Labs absorbed compute losses on flat-rate consumer plans because default terms granted training rights, an implicit data subsidy that Meta has now formalized per token. 6\n\n Why surrender 92% of inference revenue? It is not out of altruism.\n\n The public web has been exhaustively crawled ; frontier gains now come from post-training, reinforcement learning from AI feedback, & user usage patterns. Estimates place the market for training data & human labeling at $10b in annual revenue. 7\n\n Meta’s pricing model bypasses this intermediary. Just as search & social platforms vertically integrated the digital advertising supply chain by capturing behavioral data directly from users, Meta is vertically integrating the AI data supply chain. Instead of paying labeling vendors to simulate human behavior, Meta turns its inference network into a self-funding data flywheel.\n\n At $1.24/m tokens of subsidy, 8 Meta acquires organic reasoning traces at pennies on the dollar compared to specialized data labs, while undercutting closed foundation models on inference price.\n\n Compute is no longer sold simply as an infrastructure utility. It has become a currency traded directly for the training tokens needed to build the next frontier model.\n\n Ultimately, this solves the business model for American open source. Just like ads, the barter is simple : subsidized access in exchange for data.\n\n---\n\n Open Models Tack Toward the Frontier .  ↩︎\n\n Enterprise master services agreements & compliance frameworks (SOC 2, ISO 27001, HIPAA) require zero data retention & prohibit vendor model training on customer data.  ↩︎\n\n Meta Model API, Pricing & Data Terms .  ↩︎\n\n Michael Mauboussin, Expectations Investing .  ↩︎\n\n The Hungry, Hungry AI Model .  ↩︎\n\n At an individual volume of 10m tokens/month, the $1.24/m spread yields a $12/month subsidy. For power users consuming 20m–50m tokens/month, the data subsidy reaches $25–$62/month, matching the consumer subscription discount.  ↩︎\n\n @deedydas on X, Every Single Startup Selling AI Training Data .  ↩︎\n\n At $1.24 per million tokens, Meta’s effective subsidy is $0.0037 per 3,000-token interaction trace. By comparison, specialized human labeling vendors charge $25 to $100+ per hour for domain experts, yielding $5 to $50 per verified reasoning trajectory.  ↩︎"
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery",
+      "title": "Nvidia Earnings, Dollars Per Gigawatt, Open and Hugging Face",
+      "url": "https://stratechery.com/",
+      "publishedAt": "Tue, 01 Sep 2026 10:00:00 +0000",
+      "author": "Ben Thompson",
+      "description": "Nvidia's earnings were remarking and boring — two sides of the same coin. Everything the company does is about avoiding a consolidated world.",
+      "content": "Nvidia's earnings were remarking and boring — two sides of the same coin. Everything the company does is about avoiding a consolidated world.\n\n---\n\nListen to this Update in your podcast player\n\n---\n\nGood morning,\n\nOver on Asianometry , Jon has a delightful video about The Little Ceiling Robots Inside a Semiconductor Fab .\n\nOn to the Update:\n\nNvidia Earnings\n\nFrom Bloomberg :\n\nNvidia Corp., the chipmaker at the heart of the artificial intelligence boom, projected sales growth of 70% for the next fiscal year, sending its shares on their biggest one-day rally since April 2025. The forecast far outstripped the average analyst estimate of 45%, according to data compiled by Bloomberg. And Nvidia would be growing even faster if it had access to more supplies, Chief Financial Officer Colette Kress said during a post-earnings conference call.\n\n“Incredibly, we are seeing demand acceleration even at our scale,” she said. “Customers’ forecasts point to our growth doubling next year.” Nvidia shares rose 8.7% to $227.98 in New York on Thursday, adding about $442 billion in market value. That left the stock up 22% for 2026.\n\nThe upbeat outlook offered relief to investors concerned about a bubble in the AI economy. Nvidia, the world’s most valuable company, is the leading provider of AI accelerators, a key component for training and running artificial intelligence models. That status has turned its quarterly earnings into a barometer on the state of the wider industry.\n\nEvery time I think I’m insufficiently bullish, by virtue of being exposed to tech exuberance, I read summaries like this and remember that I am certainly very far down the curve of believing in AI. Way back in February 2024, I wrote in response to Nvidia’s earnings :\n\nHere’s the key point: if Nvidia demand exceeds supply then the company’s sales are, in some respect, controlled by Nvidia’s suppliers, from TSMC on down. Now that’s not completely true, because Nvidia can raise its prices, and it appears they did just that: the company achieved its highest gross margins ever, and forecasted the same thing this quarter. That, though, only accentuates the fact that the company is supply-constrained in a world of astronomical demand.\n\nHere we are two-and-a-half years later and Nvidia is without question still limited by supply. That is the subtext of the company providing a forecast for not just the next quarter but for its entire next fiscal year. Here was CEO Jensen Huang on the earnings call :\n\nIt is also the case that you can no longer procure technology per se and stand up this infrastructure. You’ve got to go secure the land, power and shell, which oftentimes is a couple 2, 3 years out. All of the rest of the supply chain necessary to align the construction, the power, the cooling, all of the labor that’s necessary. AI infrastructure is creating so many jobs all over the United States and all around the world. It just takes a lot more planning. And so we’re involved in securing infrastructure now further down the pipeline. Just as a long time ago, people asked me why is it that we’re working with memory suppliers when we’re a chip company. And today, people understand it’s really quite genius that we were working on our supply chain so far upstream. We work with power generator companies, we work with land, power and shell companies all around the world. And that helps prepare all of this computing that’s going to be built that will ultimately deploy for our ecosystem and our customers. And so, we just have a lot greater visibility now upstream and downstream.\n\nIt is the case that we’ve never forecasted or never guided to a year in advance. And even though our demand is much greater than 70%, our supply allows us to confidently deliver 70%. And we’re going to continue to work with our supply chain to increase on that. But what we wanted to do is to be consistent with everybody, from our customers, our shareholders, our supply chain, everybody sees the same view. And the reason why that’s important is because everybody is putting a lot of resources at play. And so we wanted to make sure that everybody has the same set of information. And we’ve got a huge year coming up next year, and it’s going to be pretty extraordinary.\n\nI’ve made this analogy before, so bear with me, but Nvidia right now continues to be like Apple in the early years of the iPhone: for years forecasting was easy and reliable, because the company’s revenue was a function of how many phones they could make and how many carriers they supported; we didn’t truly know what iPhone demand was until the iPhone 6S generation, when supply was sufficient and every carrier had the iPhone.\n\nWe’re seeing the same story here: Nvidia’s earnings really ought to be quite boring, because the top-line revenue number is a function of how much supply the company will have in terms of components; we won’t know what demand truly is until supply is abundant. And, to that end, I think that the company was trying to send that exact message with this longer-range forecast: not only does Nvidia have better visibility and access to its supply chain than anyone else, it also is not even close to seeing demand being met.\n\nThis is, to be clear, pretty extraordinary. Yes, the iPhone run was longer, but it wasn’t at these revenue levels. Nvidia grew 100% and is forecasting growth of “only” 70%, but that number is unquestionably a function of supply not demand — and we’re coming up on the four-year anniversary of ChatGPT. There is no sign any of this is slowing down, and when you consider the explosion in capability that has happened just this year, it’s fair to assume that Nvidia would still be accelerating if it could actually meet demand.\n\nDollars Per Gigawatt\n\nNvidia tends to approach these calls with a specific message management wants to land, and this call was all about the company capturing an ever greater percentage of data center TAM, which, combined with the increased value of AI, meant that Nvidia’s growth should be understood as a function of $/GW. Secondly, this increase in TAM was most pronounced outside of the hyperscalers — the sub-theme of this call was that Nvidia’s market opportunity extended beyond Big Tech.\n\nHere’s CFO Colette Kress on the first point:\n\nOur full-stack AI factory platform…is expanding our share of the data center TAM. Since Hopper, our revenue opportunity has grown from roughly $18 billion per gigawatt to $25 billion with Blackwell, to $40 billion with Vera Rubin, which now spans Vera CPU, Rubin GPU, NVLink, InfiniBand or Ethernet and Groq LPU announced earlier this week. Our ability to extreme co-design across GPU, CPU, NVLink scale-up networking, scale-out networking, systems, algorithms and software enables us to deliver X factor performance gain every generation. Vera Rubin exemplifies this, delivering 30x higher throughput per megawatt and 35x lower token costs relative to Grace Blackwell Ultra.\n\nHuang made the point — repeatedly — that this level of integration was underpinning the entire non-hyperscaler market:\n\nThe part that people don’t see about our growth because we’re practically singular because of the nature of how we deliver products. I mean we’re the only company in the world that creates and builds, offers an entire AI factory platform, a full-stack system. Customers can still mix and match. However, most companies just don’t have the skills to do that or desire to do that. And so there’s an entire part of the market that we experienced growth. There is sovereign AI, there are regional AIs, there are neoclouds, there are AI start-ups, there are enterprises, which represents about half of our business, and that’s growing 100% a year. That part of the world’s computing is likely to be larger over time than even what we’re currently experiencing in the cloud. And so I think the demand that we see is driven by all of those factors. It is also the case that you can no longer procure technology per se and stand up this infrastructure. You’ve got to go secure the land, power and shell, which oftentimes is a couple 2, 3 years out. All of the rest of the supply chain necessary to align the construction, the power, the cooling, all of the labor that’s necessary.\n\nThe last sentence is a compelling argument: when you have so many other problems to solve, worrying about Nvidia’s margins is often at the bottom of the list. To put it another way, when there are many difficult pieces, the integrated piece that solves multiple problems at once is particularly valuable.\n\nUnless, of course, you have the sort of scale that makes it possible and profitable to solve every problem you have — including Nvidia’s margins. That’s the hyperscalers. Or, in the case of the frontier labs, have so much demand and such high costs that you both have to figure out a way to capture more margin and have the potential payoff to justify it. To that end, I thought Huang’s answer about OpenAI’s new chip wasn’t particularly convincing:\n\nWell, we’re building something very different. Whereas many of these XPUs are inference-specific chips for one cloud or one service, Nvidia is a platform, an entire AI factory platform that spans the entire AI life cycle that you can use in any cloud, it’s in every cloud. You can run anywhere. We’ll help you set it up anywhere. And so we built something very different. All of the AI services at some point are going to want to go around the world. And those data centers won’t necessarily be just built by them. And also, I think they’re going to run on NVIDIA all around the world. And of course, I think our technology, I have 100% confidence that our technology will continue to be extraordinary for them, and that the economics of using our technology, whether it’s from data processing to training to post training to agentic processing, our technology is going to be extraordinary for them. They’re going to use it. And so I’m very confident that they’re going to be customers and partners of ours for a very long time.\n\nThat’s about five different answers, none of them particularly compelling in a potential world where the frontier labs just win everything ; perhaps that is why Huang followed up his answer salad by reminding investors that Nvidia holds huge stakes in both companies. And then he went back to talking about $/GW.\n\nOpen and Hugging Face\n\nThis was Huang’s answer about open source models (i.e. open weights):\n\nThe world will need both closed models and open models. And both closed models and open models are skyrocketing in use. Near most, I would say, nearly all open models run on Nvidia, and the reason for that is because Nvidia’s footprint around the world is the highest, and our architecture is the most fungible. It’s everywhere. It’s in PCs and edge devices like DGX Spark, which is doing great, all the way to robots and workstations and your on-prem data centers. Open models are doing incredibly well. Closed models, we know are doing incredibly well. The frontier labs, their scale, their sales are skyrocketing, their margins are fantastic. They’re generating profitable tokens. They are only limited by the amount of compute. That is equally true for open models. And our position in open models is very good because the CUDA ecosystem is literally everywhere.\n\nOpen weights are the model equivalent to Nvidia’s ACIE segment. As long as the world is fragmented Nvidia wins; the only way its margins come under pressure is if there are a limited number of buyers who have the means to take only part of Nvidia’s stack or replace them completely. In a world of choices, however, the most fungible architecture with the deepest developer pool has a huge advantage, and Nvidia continues to pull out all of the stops, particularly from a capital perspective, to make that happen.\n\nWhat hasn’t happened officially — although it was reported as such by The Information — is Nvidia buying Hugging Face, the open model hosting service. Again, this deal hasn’t be..."
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 8,
+    "totalTweets": 16,
+    "blogPosts": 6,
+    "podcastEpisodes": 0
+  }
+}

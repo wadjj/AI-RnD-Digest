@@ -1,12 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/_sholtodouglas/status/2090556617922335027": 1787266048846,
-    "https://twitter.com/_sholtodouglas/status/2090286655811022980": 1787266048846,
-    "https://twitter.com/gdb/status/2090449916456009972": 1787266048846,
-    "https://twitter.com/gdb/status/2090327069985268049": 1787266048846,
-    "https://twitter.com/gdb/status/2090246288478814281": 1787266048847,
-    "https://twitter.com/emollick/status/2090271010452881713": 1787266048847,
-    "https://twitter.com/_catwu/status/2090249465844380154": 1787266048847,
     "https://twitter.com/petergostev/status/2090817766051762189": 1787352272036,
     "https://twitter.com/petergostev/status/2090796506018091090": 1787352272036,
     "https://twitter.com/thsottiaux/status/2090766694897619318": 1787352272036,
@@ -96,15 +89,26 @@
     "https://twitter.com/petergostev/status/2095119929024352591": 1788394786749,
     "https://twitter.com/polynoamial/status/2095027255236087903": 1788394786749,
     "https://twitter.com/merettm/status/2095023204993490967": 1788394786749,
-    "https://twitter.com/trq212/status/2094945951865520458": 1788394786749
+    "https://twitter.com/trq212/status/2094945951865520458": 1788394786749,
+    "https://twitter.com/trq212/status/2095653053282292013": 1788480786922,
+    "https://twitter.com/gdb/status/2095629409017614390": 1788480786922,
+    "https://twitter.com/gdb/status/2095598855073255644": 1788480786922,
+    "https://twitter.com/emollick/status/2095606622055760159": 1788480786922,
+    "https://twitter.com/emollick/status/2095604776822083629": 1788480786922,
+    "https://twitter.com/emollick/status/2095601539066777748": 1788480786922,
+    "https://twitter.com/thsottiaux/status/2095601101701820752": 1788480786922,
+    "https://twitter.com/thsottiaux/status/2095538856296898868": 1788480786922,
+    "https://twitter.com/thsottiaux/status/2095369901137654271": 1788480786922,
+    "https://twitter.com/markchen90/status/2095597534412673109": 1788480786922,
+    "https://twitter.com/bcherny/status/2095590515765060076": 1788480786922,
+    "https://twitter.com/bcherny/status/2095378890370019683": 1788480786922,
+    "https://twitter.com/polynoamial/status/2095583211950833768": 1788480786922,
+    "https://twitter.com/petergostev/status/2095574166942732335": 1788480786922,
+    "https://twitter.com/petergostev/status/2095530995940233659": 1788480786922,
+    "https://twitter.com/petergostev/status/2095519296189239324": 1788480786922
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/": 1787266048847,
-    "https://simonwillison.net/2026/Aug/19/jeremy-morrell/": 1787266048847,
-    "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/": 1787266048847,
-    "https://www.tomtunguz.com/previously-unmanufacturable/": 1787266048847,
-    "https://cursor.com/cn/blog/git-at-any-scale": 1787266048847,
     "https://simonwillison.net/2026/Aug/21/stop-making-tuis/": 1787352272036,
     "https://simonwillison.net/2026/Aug/21/matt-webb/": 1787352272036,
     "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/": 1787352272036,
@@ -153,8 +157,14 @@
     "https://simonwillison.net/2026/Sep/2/rick-brewster/": 1788394786750,
     "https://sebastianraschka.com/blog/2026/openai-astra-looped-transformers.html": 1788394786750,
     "https://tomtunguz.com/ai-productivity-doesnt-mean-what-i-thought/": 1788394786750,
-    "https://lovable.dev/blog/fable-5-1-now-in-lovable": 1788394786750
+    "https://lovable.dev/blog/fable-5-1-now-in-lovable": 1788394786750,
+    "https://stratechery.com/": 1788480779748,
+    "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation": 1788480786923,
+    "https://simonwillison.net/2026/Sep/3/gpt6-astra/": 1788480786923,
+    "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/": 1788480786923,
+    "https://simonwillison.net/2026/Sep/1/geojson/": 1788480786923,
+    "https://tomtunguz.com/the-ads-model-for-prompts-vertically-integrates-ai/": 1788480786923
   },
-  "lastRunKey": "2026-09-03",
-  "lastRunAt": "2026-09-03T00:19:46.756Z"
+  "lastRunKey": "2026-09-04",
+  "lastRunAt": "2026-09-04T00:13:06.930Z"
 }
