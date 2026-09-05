@@ -1,12 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/petergostev/status/2090817766051762189": 1787352272036,
-    "https://twitter.com/petergostev/status/2090796506018091090": 1787352272036,
-    "https://twitter.com/thsottiaux/status/2090766694897619318": 1787352272036,
-    "https://twitter.com/thsottiaux/status/2090675027670978569": 1787352272036,
-    "https://twitter.com/thsottiaux/status/2090631723302469995": 1787352272036,
-    "https://twitter.com/emollick/status/2090683545068978254": 1787352272036,
-    "https://twitter.com/emollick/status/2090593783779860928": 1787352272036,
     "https://twitter.com/petergostev/status/2091233527983378770": 1787437662507,
     "https://twitter.com/petergostev/status/2091191083787042965": 1787437662507,
     "https://twitter.com/petergostev/status/2091073911412662740": 1787437662508,
@@ -105,15 +98,18 @@
     "https://twitter.com/polynoamial/status/2095583211950833768": 1788480786922,
     "https://twitter.com/petergostev/status/2095574166942732335": 1788480786922,
     "https://twitter.com/petergostev/status/2095530995940233659": 1788480786922,
-    "https://twitter.com/petergostev/status/2095519296189239324": 1788480786922
+    "https://twitter.com/petergostev/status/2095519296189239324": 1788480786922,
+    "https://twitter.com/emollick/status/2095983680598528497": 1788566953151,
+    "https://twitter.com/emollick/status/2095957821644763561": 1788566953151,
+    "https://twitter.com/emollick/status/2095881294949253191": 1788566953151,
+    "https://twitter.com/gdb/status/2095982009550082387": 1788566953151,
+    "https://twitter.com/gdb/status/2095730639094079594": 1788566953151,
+    "https://twitter.com/thsottiaux/status/2095979536043401428": 1788566953151,
+    "https://twitter.com/thsottiaux/status/2095961185262997556": 1788566953151,
+    "https://twitter.com/merettm/status/2095912873864147029": 1788566953151
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://simonwillison.net/2026/Aug/21/stop-making-tuis/": 1787352272036,
-    "https://simonwillison.net/2026/Aug/21/matt-webb/": 1787352272036,
-    "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/": 1787352272036,
-    "https://www.tomtunguz.com/intelligence-per-watt/": 1787352272036,
-    "https://lovable.dev/blog/how-to-get-your-app-verified-for-third-party-data-access": 1787352272036,
     "https://simonwillison.net/2026/Aug/22/linus-torvalds/": 1787437662508,
     "https://simonwillison.net/2026/Aug/22/llm/": 1787437662508,
     "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/": 1787437662508,
@@ -163,8 +159,13 @@
     "https://simonwillison.net/2026/Sep/3/gpt6-astra/": 1788480786923,
     "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/": 1788480786923,
     "https://simonwillison.net/2026/Sep/1/geojson/": 1788480786923,
-    "https://tomtunguz.com/the-ads-model-for-prompts-vertically-integrates-ai/": 1788480786923
+    "https://tomtunguz.com/the-ads-model-for-prompts-vertically-integrates-ai/": 1788480786923,
+    "https://stratechery.com/2026/an-interview-with-openai-president-greg-brockman-about-astra-and-alignment/": 1788566953153,
+    "https://stratechery.com/2026/friction-and-feedback/": 1788566953152,
+    "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/": 1788566953153,
+    "https://simonwillison.net/2026/Sep/4/august-newsletter/": 1788566953153,
+    "https://tomtunguz.com/the-4-trillion-dollar-ai-data-center-debt-wave/": 1788566953153
   },
-  "lastRunKey": "2026-09-04",
-  "lastRunAt": "2026-09-04T00:13:06.930Z"
+  "lastRunKey": "2026-09-05",
+  "lastRunAt": "2026-09-05T00:09:13.159Z"
 }
