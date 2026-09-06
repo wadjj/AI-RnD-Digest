@@ -1,0 +1,243 @@
+{
+  "generatedAt": "2026-09-06T23:58:56.989Z",
+  "runKey": "2026-09-07",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Twitter @Ethan Mollick",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2096723670706086212",
+          "text": "I would buy that we are in an AGI era for \"jagged AGI\" (better than human in many areas, worse in others) but is that AGI? If you mean better than a human expert at most human tasks, we aren't there (yet?).\n\nBut it is still astonishing that AI is where it is & got there so fast.",
+          "createdAt": "2026-09-06T22:14:12.612Z",
+          "url": "https://x.com/emollick/status/2096723670706086212",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2096645299309625474",
+          "text": "This is both an interesting experiment and a sign of a tsunami coming for academia. AIs retroactively reading the research and finding both opportunities and issues with published papers, then sharing those judgements publicly. https://d3jhl7jsny6f2h.cloudfront.net/",
+          "createdAt": "2026-09-06T17:02:47.927Z",
+          "url": "https://x.com/emollick/status/2096645299309625474",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2096605475794014536",
+          "text": "AI rewards expertise (at least for now). Expertise lets you judge AI output quality and find the shape of the jagged frontier quickly. It also gives you more options for how to try to improve quality by knowing what changes to ask for. Non-experts are often stuck with defaults.",
+          "createdAt": "2026-09-06T14:24:33.901Z",
+          "url": "https://x.com/emollick/status/2096605475794014536",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Twitter @Tibo",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2096717905614524491",
+          "text": "We've made some improvements that improve usage on the long tail for power users of Astra when logged in with your ChatGPT account.\n\nNo change in quality and a pure win that on the long tail can result in up to 3-4X less usage being drawn from the subscription.",
+          "createdAt": "2026-09-06T21:51:18.948Z",
+          "url": "https://x.com/thsottiaux/status/2096717905614524491",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2096688770523467947",
+          "text": "To calibrate you all on which reasoning effort to use for Astra, know that GPT-6 Astra on low performs better than GPT-5.6 Sol on high.\n\nIf you were using high reasoning efforts with Sol and were happy, I suggest you move down to low or medium for Astra.",
+          "createdAt": "2026-09-06T19:55:32.061Z",
+          "url": "https://x.com/thsottiaux/status/2096688770523467947",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Sholto Douglas",
+      "handle": "_sholtodouglas",
+      "bio": "Twitter @Sholto Douglas",
+      "tweets": [
+        {
+          "id": "https://twitter.com/_sholtodouglas/status/2096680344171041147",
+          "text": "Great post - we are lucky to have such competitors\n---\n Jakub Pachocki: I wrote about the state of AI, why I’m concerned about the next few years, and the choices we need to make to keep the future in humanity’s hands.\n\nAn Alien Mind: https://openai.com/index/an-alien-mind/",
+          "createdAt": "2026-09-06T19:22:03.213Z",
+          "url": "https://x.com/_sholtodouglas/status/2096680344171041147",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/merettm/status/2096630018495377464\nJakub Pachocki: I wrote about the state of AI, why I’m concerned about the next few years, and the choices we need to make to keep the future in humanity’s hands.\n\nAn Alien Mind: https://openai.com/index/an-alien-mind/"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Noam Brown",
+      "handle": "polynoamial",
+      "bio": "Twitter @Noam Brown",
+      "tweets": [
+        {
+          "id": "https://twitter.com/polynoamial/status/2096638670703055312",
+          "text": "One of the most interesting blog posts we've released: details on internal research acceleration at @OpenAI. I expect these trends to continue.\n\nWe also share some details on how we've paced model development to prioritize monitoring, alignment, and security.\n\n---\n Kevin Liu: Today we're releasing data on models accelerating research at OpenAI.\n\nRecursive self-improvement could be the most important contributor to AI capabilities over the next few years, but by default it will only be seen inside a few frontier AI labs. Being transparent is more",
+          "createdAt": "2026-09-06T16:36:27.425Z",
+          "url": "https://x.com/polynoamial/status/2096638670703055312",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/kliu128/status/2096616468851097811\nKevin Liu: Today we're releasing data on models accelerating research at OpenAI.\n\nRecursive self-improvement could be the most important contributor to AI capabilities over the next few years, but by default it will only be seen inside a few frontier AI labs. Being transparent is more"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Jakub Pachocki",
+      "handle": "merettm",
+      "bio": "Twitter @Jakub Pachocki",
+      "tweets": [
+        {
+          "id": "https://twitter.com/merettm/status/2096630018495377464",
+          "text": "I wrote about the state of AI, why I’m concerned about the next few years, and the choices we need to make to keep the future in humanity’s hands.\n\nAn Alien Mind: https://openai.com/index/an-alien-mind/",
+          "createdAt": "2026-09-06T16:02:04.637Z",
+          "url": "https://x.com/merettm/status/2096630018495377464",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Gostev",
+      "handle": "petergostev",
+      "bio": "Twitter @Peter Gostev",
+      "tweets": [
+        {
+          "id": "https://twitter.com/petergostev/status/2096598515963080803",
+          "text": "What's mad about OpenAI's Jalapeño chip is that if AI really helped develop it, it was mostly MUCH weaker models than Astra, considering how long the process takes. And yet, they still beat Nvidia.\n\nThey would have started only when o1-ish model was around and would have done most of the core design by GPT-5.\n\nSo imagine what kind of chip you could build with a special version of Astra in the loop, RL'd to do chip design. I bet we haven't yet seen even 1% of what AI can really do for problems like these.\n\nEstimated Jalapeño timeline:\n- Oct 2024: Chip architecture. o1 era.\n- Feb 2025: Circuit design begins. o3 era.\n- Jul 2025: Chip logic frozen. GPT‑5 era. AI optimisation: matrix unit 10% smaller, vector unit 8% smaller.\n- Nov 2025: Design sent for manufacturing, nine months after circuit design began.\n- Summer 2026: Codex with Astra helps port three models in two months. Selected kernels run 1.5–1.8× faster than expert-written versions.",
+          "createdAt": "2026-09-06T13:56:53.388Z",
+          "url": "https://x.com/petergostev/status/2096598515963080803",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Greg Brockman",
+      "handle": "gdb",
+      "bio": "Twitter @Greg Brockman",
+      "tweets": [
+        {
+          "id": "https://twitter.com/gdb/status/2096486220918657164",
+          "text": "Astra for checking scientific papers\n---\n Crémieux: I sicced Astra on a bunch of replication packages, and it found a huge number of coding errors.\n\nMost of these were inconsequential, but some of them overturn central results for papers in high-ranking journals.\n\nAstra also discovered that many models weren't even run properly.",
+          "createdAt": "2026-09-06T06:30:40.519Z",
+          "url": "https://x.com/gdb/status/2096486220918657164",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/cremieuxrecueil/status/2096313266901270548\nCrémieux: I sicced Astra on a bunch of replication packages, and it found a huge number of coding errors.\n\nMost of these were inconsequential, but some of them overturn central results for papers in high-ranking journals.\n\nAstra also discovered that many models weren't even run properly."
+        },
+        {
+          "id": "https://twitter.com/gdb/status/2096485443667890228",
+          "text": "Astra for applications to medicine\n---\n Brian Pridgen, MD: I'm totally floored!\n\nThis resulted from a single prompt telling Astra (medium) to make a video of a tendon transfer surgery we do as hand surgeons (EIP to EPL tendon transfer).\n\nExcited to keep exploring this for surgical education, patient education, and robotic simulation!",
+          "createdAt": "2026-09-06T06:27:35.474Z",
+          "url": "https://x.com/gdb/status/2096485443667890228",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/HandEManAI/status/2096317393450762369\nBrian Pridgen, MD: I'm totally floored!\n\nThis resulted from a single prompt telling Astra (medium) to make a video of a tendon transfer surgery we do as hand surgeons (EIP to EPL tendon transfer).\n\nExcited to keep exploring this for surgical education, patient education, and robotic simulation!"
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "The purpose of DNS is to spread scams",
+      "url": "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/",
+      "publishedAt": "2026-09-06T14:40:07.383Z",
+      "author": "",
+      "description": "The purpose of DNS is to spread scams Terence Eden shares some daunting statistics in support of his take that \"the Domain Name System's…",
+      "content": "The purpose of DNS is to spread scams\n\nTerence Eden shares some daunting statistics in support of his take that \"the Domain Name System's purpose seems to be a vector for criminals to run scams on people at a terrifyingly high rate\".\n\n On this Interisle report ( via Andrew Campling ), Terence says:\n\n It says 85 million new registrations of gTLDs were made in 2025. Of those 8.5 million were added to blocklists by May 2025. It reckons that a 10% abuse rate is the likely floor for these numbers and it's probably closer to 20%. One in five newly registered domains with a gTLD are scams. That's a bloody crisis.\n\n I had no idea. Apparently ICANN have been discussing this problem for years.\n\n Tags: dns , scams , terence-eden"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "There's No Limit to How Bad Code Can Get",
+      "url": "https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/",
+      "publishedAt": "2026-09-06T09:08:06.767Z",
+      "author": "",
+      "description": "My comment on There's No Limit to How Bad Code Can Get — Lobste.rs. [In reply to a comment about burning it down to start from scratch when…",
+      "content": "My comment on There's No Limit to How Bad Code Can Get — Lobste.rs.\n [In reply to a comment about burning it down to start from scratch when technical debt becomes overwhelming]\n\n In my experience it's  so rare  for that to work.\n\n You announce the old thing is irrecoverably drowning in tech debt. You spin up a team to rewrite it from scratch. Work begins.\n\n Meanwhile the old thing remains a moving target: it's running the core business, so changes are still necessary. The developers working on it know that it's going to be made obsolete by the new thing soon, so they don't have any incentive to go beyond the smallest effort possible to add the new features. Technical debt continues to mount.\n\n Meanwhile, the team working on the new thing are ambitious and probably a little naive. They start out at a great pace - it's greenfield after all - but as time progresses it becomes apparent that nobody fully understands the behavior and scope of the thing they are replacing. If it was well documented and tested it wouldn't  need  to be replaced, after all...\n\n After months (or even years) without delivering value, the pressure is on to \"ship it\", so the new system is launched to handle a subset of what the old system handled - or often for some new feature that was too hard to build with the now mostly unmaintained old system.\n\n ... so now you have TWO systems in production - the janky old system that nobody wants to touch, and a new system which handles just a few production features and is 80% inactive code that is meant to replace the old system, eventually.\n\n If you're  really lucky  the company won't have lost patience with the new system and will allow that work to continue. The longer this all takes, and the longer the old system stays in production and stubbornly continues to work, the higher the risk that \"priorities have changed\" and the new system total replacement work is abandoned, leaving you with two systems where you used to have one.\n\n The best article I've read about completing this process responsibly is  Migrations: the sole scalable fix to tech debt  by Will Larson.\n\n If I run into a situation like this in the future, my strong recommendation will be to shore up the old system with as much automated testing as possible and then seeing if targeted refactors can get it to the desired shape. My hunch is that in many cases that will have a much higher chance of success than the siren call of a greenfield replacement.\n\n Tags: migrations , technical-debt"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Quoting Zach Kehs",
+      "url": "https://simonwillison.net/2026/Sep/6/zach-kehs/",
+      "publishedAt": "2026-09-06T08:42:49.333Z",
+      "author": "",
+      "description": "If you continue to add floors and rooms to a building forever, it will collapse. Software faces no such constraint. The code can always get…",
+      "content": "If you continue to add floors and rooms to a building forever, it will collapse. Software faces no such constraint. The code can  always  get worse. There can  always  be a new layer of indirection or a reduction in performance.\n\n — Zach Kehs , There's No Limit to How Bad Code Can Get\n\n Tags: technical-debt"
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 7,
+    "totalTweets": 11,
+    "blogPosts": 3,
+    "podcastEpisodes": 0
+  }
+}

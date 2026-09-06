@@ -1,7 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/thsottiaux/status/2091581575108653374": 1787524070394,
-    "https://twitter.com/petergostev/status/2091560707837866153": 1787524070395,
     "https://twitter.com/gdb/status/2091745169221787681": 1787610501566,
     "https://twitter.com/emollick/status/2091720399406923882": 1787610501566,
     "https://twitter.com/emollick/status/2091717091791376579": 1787610501566,
@@ -106,13 +104,21 @@
     "https://twitter.com/petergostev/status/2096158086717120837": 1788652610403,
     "https://twitter.com/gdb/status/2096159589771485299": 1788652610404,
     "https://twitter.com/thsottiaux/status/2096101429832552872": 1788652610404,
-    "https://twitter.com/amorriscode/status/2096071090183532923": 1788652610404
+    "https://twitter.com/amorriscode/status/2096071090183532923": 1788652610404,
+    "https://twitter.com/emollick/status/2096723670706086212": 1788739136989,
+    "https://twitter.com/emollick/status/2096645299309625474": 1788739136989,
+    "https://twitter.com/emollick/status/2096605475794014536": 1788739136989,
+    "https://twitter.com/thsottiaux/status/2096717905614524491": 1788739136989,
+    "https://twitter.com/thsottiaux/status/2096688770523467947": 1788739136990,
+    "https://twitter.com/_sholtodouglas/status/2096680344171041147": 1788739136990,
+    "https://twitter.com/polynoamial/status/2096638670703055312": 1788739136990,
+    "https://twitter.com/merettm/status/2096630018495377464": 1788739136990,
+    "https://twitter.com/petergostev/status/2096598515963080803": 1788739136990,
+    "https://twitter.com/gdb/status/2096486220918657164": 1788739136990,
+    "https://twitter.com/gdb/status/2096485443667890228": 1788739136990
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/": 1787524070395,
-    "https://simonwillison.net/2026/Aug/23/drew-breunig/": 1787524070395,
-    "https://simonwillison.net/2026/Aug/21/llm/": 1787524070395,
     "https://stratechery.com/2026/autonomy-and-innovation/": 1787610501567,
     "https://jack-clark.net/2026/08/24/import-ai-470-no-rights-for-machines-automating-environment-generation-with-spade-and-building-better-gpu-kernels-with-hawkeye/": 1787610501567,
     "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/": 1787610501567,
@@ -161,8 +167,11 @@
     "https://simonwillison.net/2026/Sep/4/august-newsletter/": 1788566953153,
     "https://tomtunguz.com/the-4-trillion-dollar-ai-data-center-debt-wave/": 1788566953153,
     "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/": 1788652610404,
-    "https://simonwillison.net/2026/Sep/4/astra-pelicans/": 1788652610404
+    "https://simonwillison.net/2026/Sep/4/astra-pelicans/": 1788652610404,
+    "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/": 1788739136990,
+    "https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/": 1788739136990,
+    "https://simonwillison.net/2026/Sep/6/zach-kehs/": 1788739136990
   },
-  "lastRunKey": "2026-09-06",
-  "lastRunAt": "2026-09-05T23:56:50.409Z"
+  "lastRunKey": "2026-09-07",
+  "lastRunAt": "2026-09-06T23:58:56.996Z"
 }
