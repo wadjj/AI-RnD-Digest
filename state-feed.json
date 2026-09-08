@@ -1,9 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/gdb/status/2091745169221787681": 1787610501566,
-    "https://twitter.com/emollick/status/2091720399406923882": 1787610501566,
-    "https://twitter.com/emollick/status/2091717091791376579": 1787610501566,
-    "https://twitter.com/thsottiaux/status/2091688655828246890": 1787610501567,
     "https://twitter.com/_catwu/status/2092337156455051345": 1787696916604,
     "https://twitter.com/_sholtodouglas/status/2092310271964619196": 1787696916604,
     "https://twitter.com/_sholtodouglas/status/2092036883224338743": 1787696916604,
@@ -115,13 +111,21 @@
     "https://twitter.com/merettm/status/2096630018495377464": 1788739136990,
     "https://twitter.com/petergostev/status/2096598515963080803": 1788739136990,
     "https://twitter.com/gdb/status/2096486220918657164": 1788739136990,
-    "https://twitter.com/gdb/status/2096485443667890228": 1788739136990
+    "https://twitter.com/gdb/status/2096485443667890228": 1788739136990,
+    "https://twitter.com/thsottiaux/status/2097088586843816330": 1788827268150,
+    "https://twitter.com/thsottiaux/status/2097043464538264003": 1788827268150,
+    "https://twitter.com/emollick/status/2097049592785187228": 1788827268151,
+    "https://twitter.com/emollick/status/2097030869609263166": 1788827268151,
+    "https://twitter.com/emollick/status/2096997239281385549": 1788827268151,
+    "https://twitter.com/gdb/status/2096998038443348263": 1788827268151,
+    "https://twitter.com/gdb/status/2096794565499883839": 1788827268151,
+    "https://twitter.com/petergostev/status/2096978277533434273": 1788827268151,
+    "https://twitter.com/petergostev/status/2096974473673015426": 1788827268151,
+    "https://twitter.com/petergostev/status/2096808064586244488": 1788827268151,
+    "https://twitter.com/trq212/status/2096949412878540891": 1788827268151
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://stratechery.com/2026/autonomy-and-innovation/": 1787610501567,
-    "https://jack-clark.net/2026/08/24/import-ai-470-no-rights-for-machines-automating-environment-generation-with-spade-and-building-better-gpu-kernels-with-hawkeye/": 1787610501567,
-    "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/": 1787610501567,
     "https://stratechery.com/2026/netflix-to-sell-streaming-services-streamers-as-aggregators-revisiting-roku/": 1787696916604,
     "https://simonwillison.net/2026/Aug/24/llm-anthropic/": 1787696916604,
     "https://www.tomtunguz.com/how-long-should-an-agent-live/": 1787696916604,
@@ -170,8 +174,13 @@
     "https://simonwillison.net/2026/Sep/4/astra-pelicans/": 1788652610404,
     "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/": 1788739136990,
     "https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/": 1788739136990,
-    "https://simonwillison.net/2026/Sep/6/zach-kehs/": 1788739136990
+    "https://simonwillison.net/2026/Sep/6/zach-kehs/": 1788739136990,
+    "https://simonwillison.net/2026/Sep/7/creepy-crawlies/": 1788827268151,
+    "https://simonwillison.net/2026/Sep/7/jakub-pachocki/": 1788827268151,
+    "https://simonwillison.net/2026/Sep/7/video-compressor/": 1788827268151,
+    "https://jack-clark.net/2026/09/07/import-ai-472-deepminds-cheating-math-agents-populist-ai-policies-and-forethought-theorizes-a-nightwatchman/": 1788827268151,
+    "https://lovable.dev/blog/introducing-drafts": 1788827268151
   },
-  "lastRunKey": "2026-09-07",
-  "lastRunAt": "2026-09-06T23:58:56.996Z"
+  "lastRunKey": "2026-09-08",
+  "lastRunAt": "2026-09-08T00:27:48.157Z"
 }
