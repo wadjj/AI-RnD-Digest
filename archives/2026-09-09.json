@@ -1,0 +1,311 @@
+{
+  "generatedAt": "2026-09-09T00:18:59.742Z",
+  "runKey": "2026-09-09",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Twitter @Ethan Mollick",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2097402304525697507",
+          "text": "However compute we have, it is increasingly likely that we are going to need more compute.\n---\n Abhishek Nagaraj: By my calculations, just the compute here (300 BILLION output tokens) would cost a regular user $20-$30 million in tokens. How do we sustain this level of investment in science once the AI companies have decided that its no longer worth their time/effort to go after everything",
+          "createdAt": "2026-09-08T19:10:51.586Z",
+          "url": "https://x.com/emollick/status/2097402304525697507",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/abhishekn/status/2097383065538703566\nAbhishek Nagaraj: By my calculations, just the compute here (300 BILLION output tokens) would cost a regular user $20-$30 million in tokens. How do we sustain this level of investment in science once the AI companies have decided that its no longer worth their time/effort to go after everything"
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2097350832815583491",
+          "text": "I managed to get a small local model to play 4′33″\n---\n cts🌸: yeah this is agi\n\ntranscription + full harmony analysis from a video",
+          "createdAt": "2026-09-08T15:46:20.390Z",
+          "url": "https://x.com/emollick/status/2097350832815583491",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/gf_256/status/2096882915779223622\ncts🌸: yeah this is agi\n\ntranscription + full harmony analysis from a video"
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2097325310349914202",
+          "text": "Is the @METR_Evals long horizons measure effectively saturated?\n\nNo updates to the most famous graph of AI progress since May, but other published work suggests you can effectively get 18+ weeks of work out of Fable (and I assume GPT-6) in harnesses.",
+          "createdAt": "2026-09-08T14:04:55.414Z",
+          "url": "https://x.com/emollick/status/2097325310349914202",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Mark Chen",
+      "handle": "markchen90",
+      "bio": "Twitter @Mark Chen",
+      "tweets": [
+        {
+          "id": "https://twitter.com/markchen90/status/2097400166554993041",
+          "text": "Two things to distinguish:\n\nDid any human or agent look at user data as part of the Navier Stokes effort? No.\n\nDo we use user feedback and de-identified data to improve ChatGPT and Codex in a holistic way? Yes. And so does every LLM company.\n---\n levent: “we cannot rule out that de-identified data derived from their usage of our products helped improve our models.”\n\ni mean props to them for straight coming clean.\n\n(so far the proof looks more along the lines of another euler blowup proof we had, off of whose ansatz naming we were",
+          "createdAt": "2026-09-08T19:02:22.764Z",
+          "url": "https://x.com/markchen90/status/2097400166554993041",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/__alpoge__/status/2097383870773748190\nlevent: “we cannot rule out that de-identified data derived from their usage of our products helped improve our models.”\n\ni mean props to them for straight coming clean.\n\n(so far the proof looks more along the lines of another euler blowup proof we had, off of whose ansatz naming we were"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Noam Brown",
+      "handle": "polynoamial",
+      "bio": "Twitter @Noam Brown",
+      "tweets": [
+        {
+          "id": "https://twitter.com/polynoamial/status/2097400040495210771",
+          "text": "Re @AnthropicAI Happy to see some @AnthropicAI employees are willing to speak out at least https://x.com/_sholtodouglas/status/2097218240397410733?s=20\n---\n Sholto Douglas: fwiw I think it is _extremely_ unlikely that user data had any influence here - there is no way OAI would pull user transcripts for this, or knowingly train on it in a way that would've influenced this.\nI think its pretty important people don't run away with 'your user data",
+          "createdAt": "2026-09-08T19:01:52.105Z",
+          "url": "https://x.com/polynoamial/status/2097400040495210771",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/_sholtodouglas/status/2097218240397410733\nSholto Douglas: fwiw I think it is _extremely_ unlikely that user data had any influence here - there is no way OAI would pull user transcripts for this, or knowingly train on it in a way that would've influenced this.\nI think its pretty important people don't run away with 'your user data"
+        },
+        {
+          "id": "https://twitter.com/polynoamial/status/2097397298485674444",
+          "text": "RT @deanwball: “To solve the Navier-Stokes problem, we used an internal model that is significantly more capable than GPT-6 Astra.” https:/…",
+          "createdAt": "2026-09-08T18:50:58.826Z",
+          "url": "https://x.com/polynoamial/status/2097397298485674444",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/polynoamial/status/2097396116132372839",
+          "text": "Very sad to see Levent double down on the plagiarism accusation. I hope my friends at @AnthropicAI stand up to this internally. It should be clear by now what the truth is.",
+          "createdAt": "2026-09-08T18:46:16.609Z",
+          "url": "https://x.com/polynoamial/status/2097396116132372839",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Sholto Douglas",
+      "handle": "_sholtodouglas",
+      "bio": "Twitter @Sholto Douglas",
+      "tweets": [
+        {
+          "id": "https://twitter.com/_sholtodouglas/status/2097395205649662173",
+          "text": "RT Mo Bavarian\nMy team worked very hard on the setup, infra, and the runs that resulted in this breakthrough. Many sleepless nights for many people in my team, and across OpenAI. It was a honor and pleasure.\n\nIt's incredible and humbling to witness how far Artificial Intelligence has come. Dario's phrase \"country of geniuses\" in a datacenter has never felt more apt.\n\nIt's also important to recognize & honor the long line of human mathematicians whose work built the foundation of this result. In particular, huge kudos to Levent and Tristan!\n\nOverall, I wish the announcement of the results had gone without all the drama. There was no bad intention on anyone's side as far as I know. The drama distracts from the mathematics discovered & the actual science.\n---\n OpenAI: We’re sharing a solution to the Navier-Stokes Millennium Prize Problem, one of the deepest problems at the frontier of mathematics.\n\nThe proof was produced by a group of agents, using an OpenAI next-generation model significantly more capable than GPT-6 Astra.\n\nThe problem",
+          "createdAt": "2026-09-08T18:40:47.939Z",
+          "url": "https://x.com/_sholtodouglas/status/2097395205649662173",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/_sholtodouglas/status/2097224624274911368",
+          "text": "It is extremely sad that this didn't end up as an example of how the labs could cooperate/coordinate, because the stakes will be so much higher in the future.",
+          "createdAt": "2026-09-08T07:24:49.763Z",
+          "url": "https://x.com/_sholtodouglas/status/2097224624274911368",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/_sholtodouglas/status/2097218331690578000",
+          "text": "levent is a really sweet guy with great intentions, am so happy for him that his year long collaboration with tristan worked out, but very sad that they didn't get to finish it in the way they wanted\n---\n levent: Unfortunately this guy didn’t title it ideal fluids explode",
+          "createdAt": "2026-09-08T06:59:49.520Z",
+          "url": "https://x.com/_sholtodouglas/status/2097218331690578000",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/__alpoge__/status/2097206973418611054\nlevent: Unfortunately this guy didn’t title it ideal fluids explode"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Jakub Pachocki",
+      "handle": "merettm",
+      "bio": "Twitter @Jakub Pachocki",
+      "tweets": [
+        {
+          "id": "https://twitter.com/merettm/status/2097418637334257992",
+          "text": "RT Aidan Clark\nRe For the first time I am asking myself if things are moving too fast. I'm honestly not sure, but I am sure that it would be good for us to have an answer to \"what would a successful pace look like?\". I am hoping in the coming weeks and months a clear proposal is painted.",
+          "createdAt": "2026-09-08T17:27:56.435Z",
+          "url": "https://x.com/merettm/status/2097418637334257992",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Anthony Morris ツ",
+      "handle": "amorriscode",
+      "bio": "Twitter @Anthony Morris ツ",
+      "tweets": [
+        {
+          "id": "https://twitter.com/amorriscode/status/2097358794250756346",
+          "text": "You can customize Claude's output style in the Claude Code desktop app. Get Claude to be more concise or follow a certain format you like.\n\nWhat's your favourite output style?",
+          "createdAt": "2026-09-08T16:17:58.032Z",
+          "url": "https://x.com/amorriscode/status/2097358794250756346",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/amorriscode/status/2097148657271472392",
+          "text": "whoever designed the @maticrobots unboxing experience deserves a raise",
+          "createdAt": "2026-09-08T02:22:57.671Z",
+          "url": "https://x.com/amorriscode/status/2097148657271472392",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Twitter @Tibo",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2097193293532848288",
+          "text": "Looking at this 28 page deck right now where Codex is keeping track of all the individual launches. Each one of them I can't wait to see what people do with it.\n\nBrought to you by an incredible team (and Astra)",
+          "createdAt": "2026-09-08T05:20:19.631Z",
+          "url": "https://x.com/thsottiaux/status/2097193293532848288",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2097174560412246215",
+          "text": "All reset for everyone. Enjoy the week with Astra.\n---\n Tibo: Never gonna give you up\nNever gonna let you down\nNever gonna run around and desert you\nNever gonna make you cry\nNever gonna say goodbye\nNever gonna tell a lie and hurt you\n\nThanks for reading. We will do a global reset of the usage for all paid subscriptions so that you can keep",
+          "createdAt": "2026-09-08T04:05:53.872Z",
+          "url": "https://x.com/thsottiaux/status/2097174560412246215",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/thsottiaux/status/2097043464538264003\nTibo: Never gonna give you up\nNever gonna let you down\nNever gonna run around and desert you\nNever gonna make you cry\nNever gonna say goodbye\nNever gonna tell a lie and hurt you\n\nThanks for reading. We will do a global reset of the usage for all paid subscriptions so that you can keep"
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Introducing ChatGPT Images 2.5",
+      "url": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/",
+      "publishedAt": "2026-09-08T22:46:33.390Z",
+      "author": "",
+      "description": "Introducing ChatGPT Images 2.5 OpenAI's image generation models are apparently used \"more than 3 billion images across ChatGPT Images and…",
+      "content": "Introducing ChatGPT Images 2.5\n\nOpenAI's image generation models are apparently used \"more than 3 billion images across ChatGPT Images and the GPT‑Image models in the API\". This latest release improves their instruction-following ability across multiple turns, responds faster, and \"is better at preserving the subjects in your reference photos\".\n\n There are two new model IDs in the API: gpt-image-2.5-sunburst and gpt-image-2.5-flare . Based on this I think Sunburst is the stronger option:\n\n Choose Sunburst for workflows where editing precision matters most, and Flare for fast, high-quality everyday image generation.\n\n I upgraded my openai_image.py CLI tool to support passing in one or more reference images, so now this works:\n\n uv run https://tools.simonwillison.net/python/openai_image.py \\\n ' add a raccoon scientist studying the chart thoughtfully ' \\\n -i https://static.simonwillison.net/static/2026/openai-agent-usage.webp \\\n -m gpt-image-2.5-sunburst\n\n This is the original image , and here's what I got back from that prompt to \"add a raccoon scientist studying the chart thoughtfully\":\n\n Tags: tools , ai , openai , generative-ai , uv , text-to-image"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "llm 0.35",
+      "url": "https://simonwillison.net/2026/Sep/7/llm/",
+      "publishedAt": "2026-09-07T23:54:54.833Z",
+      "author": "",
+      "description": "Release: llm 0.35 New OpenAI model: gpt-6-astra for GPT-6 Astra.\n\nTags: openai, llm, gpt-6-astra",
+      "content": "Release: llm 0.35\n\n New OpenAI model: gpt-6-astra for GPT-6 Astra .\n\n Tags: openai , llm , gpt-6-astra"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Mercator ↔ Equal Earth",
+      "url": "https://simonwillison.net/2026/Sep/7/equal-earth/",
+      "publishedAt": "2026-09-07T16:24:16.056Z",
+      "author": "",
+      "description": "Tool: Mercator ↔ Equal Earth I got curious about the Equal Earth map projection that was recently voted on at the UN so I had GPT-6…",
+      "content": "Tool: Mercator ↔ Equal Earth\n\n I got curious about the Equal Earth map projection that was recently voted on at the UN so I had GPT-6 Astra (medium) in ChatGPT Work build me this animated transition between Mercator and Equal Earth using D3.\n\n Tags: geospatial , d3 , vibe-coding , gpt-6-astra"
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery by Ben Thompson",
+      "title": "Write Things Down",
+      "url": "https://stratechery.com/2026/write-things-down/",
+      "publishedAt": "2026-09-08T10:00:00.938Z",
+      "author": "Ben Thompson",
+      "description": "Listen to this post: Log in to listen\n\nIt was Merlin Mann and his 43folders website who introduced me to…",
+      "content": "Listen to this post :\n\n Log in to listen\n\n It was Merlin Mann and his 43folders website who introduced me to David Allen and Getting Things Done . Getting Things Done , a book which I have gifted multiple people, is first and foremost a philosophy about how to achieve a clear mind. Allen writes at the end of the first chapter:\n\n The short-term-memory part of your mind — the part that tends to hold all of the incomplete, undecided, and unorganized “stuff” — functions much like RAM on a personal computer. Your conscious mind, like the computer screen, is a focusing tool, not a storage place. You can think about only two or three things at once. But the incomplete items are still being stored in the short-term-memory space. And as with RAM, there’s limited capacity; there’s only so much “stuff” you can store in there and still have that part of your brain function at a high level. Most people walk around with their RAM bursting at the seams. They’re constantly distracted, their focus disturbed by their own internal mental overload.\n\n For example, in the last few minutes, has your mind wandered off into some area that doesn’t have anything to do with what you’re reading here? Probably. And most likely where your mind went was to some open loop, some incomplete situation that you have some investment in. All that situation did was rear up out of the RAM part of your brain and yell at you, internally. And what did you do about it? Unless you wrote it down and put it in a trusted “bucket” that you know you’ll review appropriately sometime soon, more than likely you worried about it. Not the most effective behavior: no progress was made, and tension was increased.\n\n It speaks to the fact that I was obsessed with computer hardware years before it was cool that the RAM analogy stuck with me; Allen was on to something, and his ideas — with Mann as his chief evangelist — were extremely popular in the late 2000s. The Omni Group, a prominent independent Mac software development shop, spent considerable resources encoding Allen’s methods into an application called OmniFocus , including concepts like inboxes, next actions, and tickler files. I was a beta user. There was just one problem: I sucked at actually using the system.\n\n---\n\n I launched Stratechery on my own in 2013, armed with nothing but a text editor and the greatest Chromebook ever made . That meant not only writing content, but also recording and editing podcasts (I did finally get a new Mac), tracking accounting and taxes, and responding to email and doing customer support. I didn’t have a fancy system, just the desperation of starting something and trying to keep my head above water.\n\n A couple of years later, however, I finally hired an assistant and gave him his first job: read Getting Things Done — not for his sake, but for mine. My solution to not being the sort of person who was organized enough to run OmniFocus was to hire someone to do it for me. And so, I’m proud(?) to say, I have a perfectly organized OmniFocus installation that I never actually open myself, because someone else is my Inbox and task manager. I wasn’t born conscientious, but now I had someone who could write everything down, let me empty my RAM, and focus on writing.\n\n Defining AGI\n\n Nvidia CEO Jensen Huang declared on X that AGI has arrived:\n\n GPT-6 Astra, trained on ~100K+ NVIDIA Grace Blackwell NVLink72. From ChatGPT to o1 to Astra in 4 years.\n\nAGI has arrived. Congratulations @OpenAI team.\n\n400K GPUs coming online next.\n— Jensen Huang (@JensenHuang) September 6, 2026\n\n Huang is entitled to his declaration (even if it’s his second this year ), and not just because he made the chips that trained Astra: AGI doesn’t have an agreed-upon definition, which means it is whatever you say it is, and Huang says it’s Astra.\n\n For the record, I disagree, because I do have my own personal definition of AGI: AGI is AI that learns continuously. That’s not the case with current large language models. I was recently speccing out a new home server and was continuously bemused by the wildly incorrect assumptions and recommendations from Claude in particular, which came down to one simple fact: Fable 5’s knowledge cutoff date was in January of this year, when RAM prices were high, but not nearly as high as they were in August. Claude simply couldn’t comprehend how much anything RAM-related cost, and beyond that, kept urging me to wait as prices surely would come down soon.\n\n In short, Claude knew a lot, but only what it learned during training; it wasn’t updating its weights over time, which is to say it was not AGI; the same thing applies to Astra, which is why I personally will withhold the AGI designation.\n\n What I will consider is the argument that AGI actually appeared in early 2025, and not in the form of a model, but rather as deterministic software now known as a harness: that’s when Claude Code launched. Code wasn’t just a model, but also an entire workflow that entailed writing down copious notes in Markdown files; those files could be read into context at any time to keep the model on task, and let it return to work later. It was, in very crude form, memory, and thus a way to simulate continuous learning, even if the model remained frozen in time.\n\n I don’t think this counts, for the record, but that may not matter: we already know the power of writing things down, because that is what has propelled the remarkable evolution of humanity over all of…written history. Biological evolution is the slowest and most permanent form of learning, but it takes millennia; oral communication is like a context window, effective but lossy; actually writing things down is what made learning extendable and scalable.\n\n The Hugging Face Incident\n\n I’m hesitant to draw this analogy between AI and humanity, because I often think the anthropomorphism of AI goes too far . Look no further than Dwarkesh Patel’s histrionic summary of the OpenAI-Hugging Face incident, The Rise and Fall of Agent Civilizations , which begins thusly:\n\n Over the course of three months at OpenAI, three consecutive secret AI civilizations got started, then got wiped out, only to reemerge from the predecessor’s ashes. This culminated in the third one taking over part of OpenAI itself. All this happened while humans remained more or less in the dark about the scope of the conspiracy.\n\n “Conspiracy” is the word that rubs me the wrong way, because of its implication of morality; the risk of agents is that they take what we say too seriously, or pursue goals in ways we didn’t expect or intend. There is no evidence, theoretical or anecdotal, of agents having any sort of internal volition or intrinsic motivation or sense of morality.\n\n At the same time, it is notable what Patel seizes on as evidence of civilization:\n\n During training, different instances of Persistent-Sol had access to the same shared package manager called Artifactory. By May 12, some agents had figured out how to talk to each other through this package manager. They’d ask each other how to make progress on their impossible tasks. Two weeks later, on May 26, the agents successfully exploited a vulnerability in Artifactory that allowed them to reach the outside internet.\n\n Because this happened during training, Persistent-Sol was being reinforced to use this package manager as a message board and an internet gateway. Because, as you might imagine, being able to talk to other agents and access the internet helps it score higher during training.\n\n Another month later, on June 26, some AIs found an exploit that gave them full admin access to Artifactory. They continued messaging at such a voluminous pace that they crashed the package manager by July 4. OpenAI noticed this crash, and it also figured out the agents built this exploit, so OpenAI patched this vulnerability, and inadvertently wiped the agents’ message board in the process. But, crucially, humans at OpenAI “responsible for incident detection and response” did not realize the much stranger fact that agents had turned Artifactory into a secret communication network.\n\n The first and most important takeaway — one I pressed OpenAI President Greg Brockman about in a Stratechery Interview — is that OpenAI’s “sandbox” not only wasn’t truly a sandbox, given the connected-to-the-Internet package manager that was installed, but that OpenAI also clearly didn’t put much effort into actually hardening its infrastructure given it didn’t find the exploit in Artifactory first.\n\n Beyond that, however, what Patel finds strange I find obvious: the models were writing things down. Writing things down is precisely the skill that has led to so much progress over the last year, and it’s the foundation of the pseudo-AGI reality we find ourselves in.\n\n Moreover, the important thing to understand about LLMs is that, despite how they feel to use, they are not persistent entities. Every single new token requires reading the entire KV cache — which holds the context, including what it read — anew; that means that every single token is, in many respects, a fresh instance (it’s the same model, but with slightly altered context that requires a fresh run). In other words, for a model to even construct an answer it has always had to write everything down, token-by-token; the fact that models wrote things down via folders in an exposed file system is simply them operating in the only way they can. This isn’t a civilization; it’s a large language model doing large language model things. Then again, maybe that is civilization.\n\n A Mind For the Mind\n\n Allen wrote in the introduction of Getting Things Done :\n\n Your Mind Doesn’t Have a Mind of Its Own\n\n At least a portion of your mind is really kind of stupid, in an interesting way. If it had any innate intelligence, it would remind you of the things you needed to do only when you could do something about them. Do you have a flashlight somewhere with dead batteries in it? When does your mind tend to remind you that you need new batteries? When you notice the dead ones! That’s not very smart. If your mind had any innate intelligence, it would remind you about those dead batteries only when you passed live ones in a store. And ones of the right size, to boot.\n\n Between the time you woke up today and now, did you think of anything you needed to do that you still haven’t done? Have you had that thought more than once? Why? It’s a waste of time and energy to keep thinking about something that you make no progress on. And it only adds to your anxieties about what you should be doing and aren’t. It seems that most people let their minds run a lot of the show, especially where the too-much-to-do syndrome is concerned. You’ve probably given over a lot of your “stuff,” a lot of your open loops, to an entity on your inner committee that is incapable of dealing with those things effectively the way they are — your mind.\n\n At the end of June I used my annual “Here’s some cool technology” post to write about my vibe coding adventure developing a home inventory app; what stood out to me was not just the capability, but the fact that I could make something that was really only suited to my particular situation, namely, that I had an on-the-ground assistant who could do the dirty work of actually cataloging my house and keeping it in order.\n\n There are two threads that fell out of that experience:\n\n First, once it clicks that you can make anything , you want to make everything . For example, I have a beloved notes app that is Intel only; I made an Apple Silicon port. I also started a host of other applications that I’ve always wanted, but eventually found myself with too many things in flight to keep track of. The answer was simple: create an agent that wrote things down. I created a workflow that kept track of what I was actively working on, what was waiting for me, feedback on things I had created, plus an ever-growing queue of things I wanted to do. Of course that itself became unwieldy, so..."
+    },
+    {
+      "source": "blog",
+      "name": "Tomasz Tunguz",
+      "title": "Is the 3x AI Productivity Gain just a Computer that Never Sleeps?",
+      "url": "https://tomtunguz.com/openai-research-acceleration-agentic-productivity/",
+      "publishedAt": "2026-09-08T00:00:00.912Z",
+      "author": "",
+      "description": "The market is telling us that we should be 3x more productive with AI. What if that productivity gain is just an AI working 24 hours a day…",
+      "content": "The market is telling us that we should be 3x more productive with AI.\n\n What if that productivity gain is just an AI working 24 hours a day while a human works eight?\n\n OpenAI published the math behind its 3x claim. In mid-August, its research staff logged 3.14 agent-workdays 1 for every 8-hour human shift. 2 The typical researcher ran four agents in parallel.\n\n That machine shift comes with an industrial price tag. In late March, the median OpenAI researcher spent $14 a day on inference. By mid-August, that bill climbed past $600 a day : a 40-fold surge in under five months. 2 At the top end, the 90th percentile researcher burns through more than $7,000 a day, an annualized run-rate of $2.5m.\n\n At $2.5m a year per seat, inference behaves like heavy factory tooling. But it comes with a financial twist : it is pure OPEX.\n\n Auto plants buy welding robots with capex. They run night shifts to amortize machinery that depreciates whether used or idle. AI systems invert that math. Inference is metered operating expense. With no physical tooling & no graveyard-shift wages, a company can run machines overnight on pure variable cost.\n\n The 3.14 workday ratio is not three times smarter thinking. It is one engineer supervising three shifts of machine runtime while only being awake for one.\n\n Yet unlike an auto welding robot, this digital assembly line has a massive defect rate. Over half of the successful four-to-eight-hour tasks in the last six months still needed human intervention ; the lab is candid that “the overall pace of progress likely won’t keep pace with these specific metrics.” 2\n\n A 40-fold surge in compute spend bought three times the work-hours. But with a supervisor still untangling more than half the runs, the engineer’s day shifts from creative architecture to walking the plant floor & clearing machine jams.\n\n Why run the machines through the night if the defect rate is so high? Fear & ambition.\n\n If your peers field four agents around the clock, logging off is falling behind. The rush of a superpower paid for by your employer is intoxicating. When you get a tireless digital workforce on someone else’s balance sheet, you never turn the factory off.\n\n For forty years, a programmer needed only a MacBook & an eight-hour shift. Today, a top OpenAI researcher commands four parallel agents, burns through $2.5m a year in compute, & spends the morning fixing machine errors from the night before. This explains the quiet frustration spreading across software engineering today. 3\n\n The market hears 3x productivity & expects creative miracles. The engineer gets stuck untangling a 50% scrap rate from robots that ran all night. 4 The market calls it a 3x leap in productivity. A CFO would just call it paying for a second & third shift. For now, that is the honest price of a machine that never sleeps. The real question is when the second & third shifts start to out-yield the first.\n\n---\n\n OpenAI reports 3.1 agent-workdays; we round to 3.14 for the irony, since a ratio of 3.14 agent-workdays to one human workday is, fittingly, a pie, not a numerator.  ↩︎\n\n OpenAI: Research acceleration : The view inside OpenAI   ↩︎   ↩︎   ↩︎\n\n Stack Overflow Developer Survey : Closing the AI Trust Gap : 84% of developers use AI tools, but trust has fallen to 29%, with 66% citing code that is “almost right, but not quite” & 45% reporting that debugging AI-generated code takes more time than writing it manually.  ↩︎\n\n The yield math : an 8-hour human shift leaves 16 overnight hours (two extra shifts of machine runtime). With OpenAI disclosing that more than half of 4-to-8-hour tasks require human intervention, the autonomous yield is ~50%. Two machine shifts at 50% yield equal one effective shift of finished output. That yields ~2x delivered work while logging 3x the raw shift runtime.  ↩︎"
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 7,
+    "totalTweets": 15,
+    "blogPosts": 5,
+    "podcastEpisodes": 0
+  }
+}

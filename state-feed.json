@@ -1,10 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/_catwu/status/2092337156455051345": 1787696916604,
-    "https://twitter.com/_sholtodouglas/status/2092310271964619196": 1787696916604,
-    "https://twitter.com/_sholtodouglas/status/2092036883224338743": 1787696916604,
-    "https://twitter.com/thsottiaux/status/2092117461646856505": 1787696916604,
-    "https://twitter.com/thsottiaux/status/2092058556707344708": 1787696916604,
     "https://twitter.com/gdb/status/2092697786806669515": 1787786676690,
     "https://twitter.com/gdb/status/2092487630218985867": 1787786676690,
     "https://twitter.com/gdb/status/2092430694253572216": 1787786676691,
@@ -122,14 +117,25 @@
     "https://twitter.com/petergostev/status/2096978277533434273": 1788827268151,
     "https://twitter.com/petergostev/status/2096974473673015426": 1788827268151,
     "https://twitter.com/petergostev/status/2096808064586244488": 1788827268151,
-    "https://twitter.com/trq212/status/2096949412878540891": 1788827268151
+    "https://twitter.com/trq212/status/2096949412878540891": 1788827268151,
+    "https://twitter.com/emollick/status/2097402304525697507": 1788913139742,
+    "https://twitter.com/emollick/status/2097350832815583491": 1788913139742,
+    "https://twitter.com/emollick/status/2097325310349914202": 1788913139743,
+    "https://twitter.com/markchen90/status/2097400166554993041": 1788913139743,
+    "https://twitter.com/polynoamial/status/2097400040495210771": 1788913139743,
+    "https://twitter.com/polynoamial/status/2097397298485674444": 1788913139743,
+    "https://twitter.com/polynoamial/status/2097396116132372839": 1788913139743,
+    "https://twitter.com/_sholtodouglas/status/2097395205649662173": 1788913139743,
+    "https://twitter.com/_sholtodouglas/status/2097224624274911368": 1788913139743,
+    "https://twitter.com/_sholtodouglas/status/2097218331690578000": 1788913139743,
+    "https://twitter.com/merettm/status/2097418637334257992": 1788913139743,
+    "https://twitter.com/amorriscode/status/2097358794250756346": 1788913139743,
+    "https://twitter.com/amorriscode/status/2097148657271472392": 1788913139743,
+    "https://twitter.com/thsottiaux/status/2097193293532848288": 1788913139743,
+    "https://twitter.com/thsottiaux/status/2097174560412246215": 1788913139743
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://stratechery.com/2026/netflix-to-sell-streaming-services-streamers-as-aggregators-revisiting-roku/": 1787696916604,
-    "https://simonwillison.net/2026/Aug/24/llm-anthropic/": 1787696916604,
-    "https://www.tomtunguz.com/how-long-should-an-agent-live/": 1787696916604,
-    "https://www.tomtunguz.com/the-ai-cost-stack/": 1787696916604,
     "https://stratechery.com/2026/apple-updates-mini-and-studio-ai-computers-openai-jalapeno/": 1787786676691,
     "https://simonwillison.net/2026/Aug/26/paul-dix/": 1787786676691,
     "https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/": 1787786676691,
@@ -179,8 +185,13 @@
     "https://simonwillison.net/2026/Sep/7/jakub-pachocki/": 1788827268151,
     "https://simonwillison.net/2026/Sep/7/video-compressor/": 1788827268151,
     "https://jack-clark.net/2026/09/07/import-ai-472-deepminds-cheating-math-agents-populist-ai-policies-and-forethought-theorizes-a-nightwatchman/": 1788827268151,
-    "https://lovable.dev/blog/introducing-drafts": 1788827268151
+    "https://lovable.dev/blog/introducing-drafts": 1788827268151,
+    "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/": 1788913139744,
+    "https://simonwillison.net/2026/Sep/7/llm/": 1788913139744,
+    "https://simonwillison.net/2026/Sep/7/equal-earth/": 1788913139744,
+    "https://stratechery.com/2026/write-things-down/": 1788913139744,
+    "https://tomtunguz.com/openai-research-acceleration-agentic-productivity/": 1788913139744
   },
-  "lastRunKey": "2026-09-08",
-  "lastRunAt": "2026-09-08T00:27:48.157Z"
+  "lastRunKey": "2026-09-09",
+  "lastRunAt": "2026-09-09T00:18:59.750Z"
 }
