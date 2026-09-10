@@ -1,15 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/gdb/status/2092697786806669515": 1787786676690,
-    "https://twitter.com/gdb/status/2092487630218985867": 1787786676690,
-    "https://twitter.com/gdb/status/2092430694253572216": 1787786676691,
-    "https://twitter.com/trq212/status/2092696449616376140": 1787786676691,
-    "https://twitter.com/polynoamial/status/2092694522954412171": 1787786676691,
-    "https://twitter.com/emollick/status/2092664543948226921": 1787786676691,
-    "https://twitter.com/emollick/status/2092628238421942728": 1787786676691,
-    "https://twitter.com/emollick/status/2092404982012158354": 1787786676691,
-    "https://twitter.com/amorriscode/status/2092644908616356219": 1787786676691,
-    "https://twitter.com/thsottiaux/status/2092487667426738179": 1787786676691,
     "https://twitter.com/thsottiaux/status/2093074717590921245": 1787879279318,
     "https://twitter.com/thsottiaux/status/2093014447833116908": 1787879279318,
     "https://twitter.com/thsottiaux/status/2092862554632826968": 1787879279318,
@@ -132,14 +122,22 @@
     "https://twitter.com/amorriscode/status/2097358794250756346": 1788913139743,
     "https://twitter.com/amorriscode/status/2097148657271472392": 1788913139743,
     "https://twitter.com/thsottiaux/status/2097193293532848288": 1788913139743,
-    "https://twitter.com/thsottiaux/status/2097174560412246215": 1788913139743
+    "https://twitter.com/thsottiaux/status/2097174560412246215": 1788913139743,
+    "https://twitter.com/emollick/status/2097797992904282134": 1788999458727,
+    "https://twitter.com/emollick/status/2097767414435844099": 1788999458727,
+    "https://twitter.com/emollick/status/2097765662965846210": 1788999458727,
+    "https://twitter.com/gdb/status/2097789885591802350": 1788999458727,
+    "https://twitter.com/gdb/status/2097769891013280241": 1788999458728,
+    "https://twitter.com/gdb/status/2097530009447813400": 1788999458728,
+    "https://twitter.com/merettm/status/2097758971876483248": 1788999458728,
+    "https://twitter.com/JeffDean/status/2097785973514150263": 1788999458728,
+    "https://twitter.com/thsottiaux/status/2097559315150426222": 1788999458728,
+    "https://twitter.com/thsottiaux/status/2097492424474165293": 1788999458728,
+    "https://twitter.com/_sholtodouglas/status/2097547846618869964": 1788999458728,
+    "https://twitter.com/polynoamial/status/2097538536866238810": 1788999458728
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://stratechery.com/2026/apple-updates-mini-and-studio-ai-computers-openai-jalapeno/": 1787786676691,
-    "https://simonwillison.net/2026/Aug/26/paul-dix/": 1787786676691,
-    "https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/": 1787786676691,
-    "https://lovable.dev/blog/how-we-made-lovable-apps-work-with-the-rest-of-your-stack": 1787786676691,
     "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/": 1787879279319,
     "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/": 1787879279319,
     "https://sebastianraschka.com/blog/2026/glm-5-3-flash-architecture-notes.html": 1787879279319,
@@ -190,8 +188,13 @@
     "https://simonwillison.net/2026/Sep/7/llm/": 1788913139744,
     "https://simonwillison.net/2026/Sep/7/equal-earth/": 1788913139744,
     "https://stratechery.com/2026/write-things-down/": 1788913139744,
-    "https://tomtunguz.com/openai-research-acceleration-agentic-productivity/": 1788913139744
+    "https://tomtunguz.com/openai-research-acceleration-agentic-productivity/": 1788913139744,
+    "https://lovable.dev/blog/introducing-lovable-partner-program": 1788999458728,
+    "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and": 1788999458728,
+    "https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent/": 1788999458728,
+    "https://simonwillison.net/2026/Sep/9/terence-tao/": 1788999458728,
+    "https://simonwillison.net/2026/Sep/8/on-navier-stokes/": 1788999458728
   },
-  "lastRunKey": "2026-09-09",
-  "lastRunAt": "2026-09-09T00:18:59.750Z"
+  "lastRunKey": "2026-09-10",
+  "lastRunAt": "2026-09-10T00:17:38.734Z"
 }

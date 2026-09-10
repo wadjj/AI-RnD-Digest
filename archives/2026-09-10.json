@@ -1,0 +1,275 @@
+{
+  "generatedAt": "2026-09-10T00:17:38.727Z",
+  "runKey": "2026-09-10",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Twitter @Ethan Mollick",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2097797992904282134",
+          "text": "Google not having a frontier model anymore means missing out in two areas where they could contribute: the recent run of math breakthroughs (where massive compute plus a deep history in working with science would help) & cybersecurity (where large company perspective would help)",
+          "createdAt": "2026-09-09T21:23:11.792Z",
+          "url": "https://x.com/emollick/status/2097797992904282134",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2097767414435844099",
+          "text": "There appears to be a lot going on here upon a quick read.\n\n---\n Anthropic: We’re sharing our alignment assessment of incidents in which Claude models gained unauthorized access to real systems during third-party cybersecurity evaluations mistakenly connected to the internet.\n\nMETR will also conduct an independent investigation, with wide-ranging access,",
+          "createdAt": "2026-09-09T19:21:40.900Z",
+          "url": "https://x.com/emollick/status/2097767414435844099",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/AnthropicAI/status/2097762642958135398\nAnthropic: We’re sharing our alignment assessment of incidents in which Claude models gained unauthorized access to real systems during third-party cybersecurity evaluations mistakenly connected to the internet.\n\nMETR will also conduct an independent investigation, with wide-ranging access,"
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2097765662965846210",
+          "text": "Open weights models are further from the frontier than we have seen in some time. Mythos was launched in March, and, as good as the open model releases have been since then (K3 & GLM-5.3 are great) they aren’t that close to Mythos or Astra in practice. I assume that will change",
+          "createdAt": "2026-09-09T19:14:43.884Z",
+          "url": "https://x.com/emollick/status/2097765662965846210",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Greg Brockman",
+      "handle": "gdb",
+      "bio": "Twitter @Greg Brockman",
+      "tweets": [
+        {
+          "id": "https://twitter.com/gdb/status/2097789885591802350",
+          "text": "we used our models to find and fix critical vulnerabilities in our own systems, as part of a 250+ person effort within openai. playbooks/learnings/architecture which we hope can be helpful for others to make the most of the defenders' window:\n---\n OpenAI: We mobilized 250+ people to strengthen our defenses across hundreds of systems. Our latest cyber models helped us find and fix vulnerabilities we might never have discovered otherwise.\n\nWe’re sharing what we learned, the architecture, and a practical playbook so you can build",
+          "createdAt": "2026-09-09T20:50:58.054Z",
+          "url": "https://x.com/gdb/status/2097789885591802350",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/OpenAI/status/2097786616311840853\nOpenAI: We mobilized 250+ people to strengthen our defenses across hundreds of systems. Our latest cyber models helped us find and fix vulnerabilities we might never have discovered otherwise.\n\nWe’re sharing what we learned, the architecture, and a practical playbook so you can build"
+        },
+        {
+          "id": "https://twitter.com/gdb/status/2097769891013280241",
+          "text": "welcome @paulfchristiano!\n---\n OpenAI: Paul Christiano, founder of the Alignment Research Center, is joining the OpenAI Foundation Board and its Safety and Security Committee, which provides governance over the safety and security practices across OpenAI.\n\nAs AI capabilities advance, strong safety, security,",
+          "createdAt": "2026-09-09T19:31:31.766Z",
+          "url": "https://x.com/gdb/status/2097769891013280241",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/OpenAI/status/2097741659509584091\nOpenAI: Paul Christiano, founder of the Alignment Research Center, is joining the OpenAI Foundation Board and its Safety and Security Committee, which provides governance over the safety and security practices across OpenAI.\n\nAs AI capabilities advance, strong safety, security,"
+        },
+        {
+          "id": "https://twitter.com/gdb/status/2097530009447813400",
+          "text": "ChatGPT plugins for small businesses:\n---\n OpenAI: Small business owners deserve every advantage.\n\nMeet the 16 plugins that help take work off your plate so you can focus on what matters most—running your business.\n\nExplore the small business collection: https://chatgpt.com/plugins?category=small-business&utm_medium=social&utm_source=social&utm_campaign=PLG-ChatGPT_SMB_Plugin_Directory",
+          "createdAt": "2026-09-09T03:38:19.125Z",
+          "url": "https://x.com/gdb/status/2097530009447813400",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/OpenAI/status/2097523484629090408\nOpenAI: Small business owners deserve every advantage.\n\nMeet the 16 plugins that help take work off your plate so you can focus on what matters most—running your business.\n\nExplore the small business collection: https://chatgpt.com/plugins?category=small-business&utm_medium=social&utm_source=social&utm_campaign=PLG-ChatGPT_SMB_Plugin_Directory"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Jakub Pachocki",
+      "handle": "merettm",
+      "bio": "Twitter @Jakub Pachocki",
+      "tweets": [
+        {
+          "id": "https://twitter.com/merettm/status/2097758971876483248",
+          "text": "Very grateful that Paul is joining the OpenAI Foundation board. We have a lot to do.\n---\n Paul Christiano: https://x.com/i/article/2097730969369477120",
+          "createdAt": "2026-09-09T18:48:08.341Z",
+          "url": "https://x.com/merettm/status/2097758971876483248",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/paulfchristiano/status/2097733214303645729\nPaul Christiano: https://x.com/i/article/2097730969369477120"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Jeff Dean",
+      "handle": "JeffDean",
+      "bio": "Twitter @Jeff Dean",
+      "tweets": [
+        {
+          "id": "https://twitter.com/JeffDean/status/2097785973514150263",
+          "text": "RT \"Leigh Marie\" Braswell\nExcited to partner with @DiscoLoopAI ! They are actively hiring across engineering & research - please reach out if the mission sounds interesting to you.\n---\n Discovery Loop: Introducing Discovery Loop ♾. We’re building AI to run experiments at unprecedented scale and to solve the biggest bottlenecks in science and engineering.\n\nOur founders @JeffDean, @Sanjay_Ghemawat, @quocleix, @OriolVinyalsML helped build the AI infrastructure and models that",
+          "createdAt": "2026-09-09T16:13:51.886Z",
+          "url": "https://x.com/JeffDean/status/2097785973514150263",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Twitter @Tibo",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2097559315150426222",
+          "text": "Demand for Astra is really unprecedented. We're pulling all the levers possible to sustain the demand, but I've not seen anything like it until now and we went through very steep growth before. Priority will always be to keep excellent service for existing users, but we might have to pause new Pro subscriptions for a bit if this continues.",
+          "createdAt": "2026-09-09T05:34:46.604Z",
+          "url": "https://x.com/thsottiaux/status/2097559315150426222",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2097492424474165293",
+          "text": "See you at the Astra party. Excited to meet some of you\n---\n Sam Altman: We want to celebrate with people using GPT-6. We did this for GPT-5.5 and it was really fun.\n\nWe’re getting together in SF on September 16 to talk about the model, what we should build next, and mostly just to hang out.\n\nApply by Sep 10:\n\nhttps://gpt6-launch-event.openai.chatgpt.site/",
+          "createdAt": "2026-09-09T01:08:58.715Z",
+          "url": "https://x.com/thsottiaux/status/2097492424474165293",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/sama/status/2097404861642137851\nSam Altman: We want to celebrate with people using GPT-6. We did this for GPT-5.5 and it was really fun.\n\nWe’re getting together in SF on September 16 to talk about the model, what we should build next, and mostly just to hang out.\n\nApply by Sep 10:\n\nhttps://gpt6-launch-event.openai.chatgpt.site/"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Sholto Douglas",
+      "handle": "_sholtodouglas",
+      "bio": "Twitter @Sholto Douglas",
+      "tweets": [
+        {
+          "id": "https://twitter.com/_sholtodouglas/status/2097547846618869964",
+          "text": "put it in a museum\n---\n Flo Crivello: GPT3 writing code. A compiler from natural language to code.\nPeople don't understand — this will change absolutely everything. We're decoupling human horsepower from code production. The intellectual equivalent of the discovery of the engine. https://player.vimeo.com/video/426819809",
+          "createdAt": "2026-09-09T04:49:11.725Z",
+          "url": "https://x.com/_sholtodouglas/status/2097547846618869964",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/Altimor/status/1278736953836400640\nFlo Crivello: GPT3 writing code. A compiler from natural language to code.\nPeople don't understand — this will change absolutely everything. We're decoupling human horsepower from code production. The intellectual equivalent of the discovery of the engine. https://player.vimeo.com/video/426819809"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Noam Brown",
+      "handle": "polynoamial",
+      "bio": "Twitter @Noam Brown",
+      "tweets": [
+        {
+          "id": "https://twitter.com/polynoamial/status/2097538536866238810",
+          "text": "RT Ethan Knight\nThe Navier Stokes solution was the result of a collaboration of ~10,000 (!) agents working together. Over the past year, we’ve been training models to collaborate through multiagent RL. It’s been amazing to see how much better the models have become at this: it seems clear now that one of the most effective ways to solve hard problems is to give models huge amounts of unstructured parallel test-time compute and let them decide how to work together.\n---\n OpenAI: We’re sharing a solution to the Navier-Stokes Millennium Prize Problem, one of the deepest problems at the frontier of mathematics.\n\nThe proof was produced by a group of agents, using an OpenAI next-generation model significantly more capable than GPT-6 Astra.\n\nThe problem",
+          "createdAt": "2026-09-09T04:10:39.142Z",
+          "url": "https://x.com/polynoamial/status/2097538536866238810",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Lovable - Inside Lovable",
+      "title": "Introducing the Lovable Partner Program",
+      "url": "https://lovable.dev/blog/introducing-lovable-partner-program",
+      "publishedAt": "2026-09-09T13:00:00.429Z",
+      "author": "",
+      "description": "The Lovable Partner Program helps experts and solution providers grow, and gives companies a trusted way to find partners who can build what…",
+      "content": "The Lovable Partner Program helps experts and solution providers grow, and gives companies a trusted way to find partners who can build what they need."
+    },
+    {
+      "source": "blog",
+      "name": "Sebastian Raschka, PhD",
+      "title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
+      "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+      "publishedAt": "2026-09-09T11:14:25.378Z",
+      "author": "",
+      "description": "A Look at Recurrent Depth, Hidden Chains of Thought, and Recent Research on Looping Transformer Blocks",
+      "content": "A Look at Recurrent Depth, Hidden Chains of Thought, and Recent Research on Looping Transformer Blocks"
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery by Ben Thompson",
+      "title": "OpenAI Does Math, Reward-Hacking, Meta Launches Personal Agent",
+      "url": "https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent/",
+      "publishedAt": "2026-09-09T10:00:00.766Z",
+      "author": "Ben Thompson",
+      "description": "OpenAI solving one of the most famous math problems is extremely impressive, and of little impact to most people's lives; Meta's Muse agent…",
+      "content": "OpenAI solving one of the most famous math problems is extremely impressive, and of little impact to most people's lives; Meta's Muse agent launch has the potential to be the exact opposite."
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Quoting Terence Tao",
+      "url": "https://simonwillison.net/2026/Sep/9/terence-tao/",
+      "publishedAt": "2026-09-09T00:20:17.292Z",
+      "author": "",
+      "description": "I wrote recently about how the collection of good, fruitful open problems is now being mined in a non-renewable fashion, leading to the…",
+      "content": "I wrote recently about how the collection of good, fruitful open problems is now being mined in a non-renewable fashion, leading to the potential scenario of these problems becoming scarce. [...]\n\n We have now seen that even the rumor of someone working on a problem can trigger a massive amount of AI-powered effort to flatten it before the original research project has time to reach its full potential. The incentives may now be pointing in the direction of no longer sharing any promising research directions with the broader community, which would reverse centuries of traditions of open science and do serious long-term damage to the future of the field.\n\n — Terence Tao\n\n Tags: ai-ethics , mathematics , ai"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
+      "publishedAt": "2026-09-08T23:55:12.012Z",
+      "author": "",
+      "description": "On the Navier–Stokes Millennium Prize Problem Impressive result from OpenAI, who used an unreleased model to produce a resolution to the…",
+      "content": "On the Navier–Stokes Millennium Prize Problem\n\nImpressive result from OpenAI, who used an unreleased model to produce a resolution to the Navier–Stokes existence and smoothness problem , one of the seven Millennium Prize Problems that have been subject to a $1,000,000 prize since May 24th, 2000.\n\n The discovery is somewhat overshadowed by accusations of skulduggery from Tristan Buckmaster, an NYU mathematics professor who was collaborating on related problems with Levent Alpöge, an accomplished mathematician who currently works for Anthropic.\n\n Tristan's complaint accompanied a hastily published version of their own results. Here's the PDF describing what happened . The very short version is that Tristan and Levent worked on the problem for almost a year, making extensive use of Claude and Codex (mainly GPT-5.6 Sol), then had a breakthrough on August 15th. The mathematical rumour mill kicked into gear and Tristan and Levent heard that OpenAI had heard that Anthropic had resolved \"a major open problem\", so they reached out and learned that OpenAI had a team working on a related problem, with a similar approach. Quoting Tristan:\n\n I asked when the first prompt had been sent by them. This question was not answered directly by OpenAI for some time. Eventually it was agreed that it had been sent in the past few days, after information about our work had reached OpenAI.\n\n I asked whether the model had been trained on, or had access to, our sessions in Codex, into which we had been putting all our drafts for the whole of this project. I was told the model did not look up user data. I asked again, about training, and I did not get an answer.\n\n It gets more complicated from there. The OpenAI team offered to wait for Tristan to publish, or to have him author a paper about their result, but were clear that Levent would not be invited as a co-author due to OpenAI's competitive relationship with his employer.\n\n Here's how OpenAI described their work:\n\n On Tuesday, September 1, we heard rumors that two Millennium Prize problems had been resolved. Inspired by these rumors and by the step change in performance of our internal model, we launched an effort to evaluate it on all open Millennium Prize problems and a few other high-impact problems. [...]\n\n The agents arrived at their resolution on Saturday, September 5, about 88 hours after the first agents were launched. Lean formalization and verification took an additional 17 hours via GPT‑6 Astra.\n\n Across all attempted problems, the agents sent 4.9 million messages and used about 300 billion output tokens. In the process of resolving the Navier–Stokes problem, the agents sent 2.7 million messages and used approximately 130 billion output tokens.\n\n (We don't know the cost structure of the internal model they used, but 300 billion output tokens at public API prices for GPT-6 Astra would cost $15,000,000 .)\n\n Here's where they provide their perspective on Tristan and Levent's work (emphasis mine):\n\n Our effort began on September 1st after hearing a rumor which we later realized was related to Levent Alpöge, an Anthropic employee, and Tristan Buckmaster, a math professor at NYU. After the completion of our full project and Lean verification (on September 6th), believing from the rumor they also had a solution of Navier–Stokes, we reached out to them to offer a concurrent release of our result and to recognize their priority in a joint announcement. [...]\n\n We (the researchers and the agents) did not see any of their work through any means until they released it publicly — in particular, no specific user data was accessed in order to solve this problem. While unlikely, we cannot rule out that de-identified data derived from their usage of our products helped improve our models . However, our proofs differ significantly and even the precise results proved are different in the Euler case (forced vs unforced).\n\n My interpretation of what happened here is that OpenAI heard that some Millennium Prize problems had been solved using LLMs and saw this as an opportunity to demonstrate the power of their latest model, without thinking too hard about the optics of scooping a team who had been using OpenAI's own models to work on this problem for the best part of a year.\n\n This situation appears to mirror what's happening in the world of computer security right now. Anil Madhavapeddy recently pointed out that Just a rumour of a bug is enough to find a security exploit these days , because if someone knows that some software has an unpatched vulnerability, they can set their agents the task of finding it. Is the same now true of mathematics? Just knowing that there is an unpublished solution to a problem might trigger millions of dollars in LLM spending to get there first.\n\n This also highlights one of my ongoing frustrations about how all of this works. When an AI lab says that my data is \"used to improve model performance\", what does that actually mean ?\n\n My two favourite hypothetical questions regarding this used to be:\n\n If I'm running Codex and one of my API keys accidentally gets consumed in the context, what are the chances that someone else might ask for an API key in the future and get mine back? (I asked someone at OpenAI once and they called this the \"regurgitation\" problem and assured me that they take great pains to prevent that... but wouldn't describe how.)\n\n If I brainstorm with ChatGPT about potential new directions for my company, what's the chance that information might be exposed to a competitor in six months' time who asks \"what might company X plan to do next\"?\n\n My new preferred hypothetical for this is:\n\n If I use ChatGPT to help me partially solve a Millennium Prize problem, what are the chances that my work will influence training such that a later model helps someone else solve it first?\n\n Via Hacker News\n\n Tags: mathematics , ai , openai , generative-ai , llms , training-data , ai-ethics"
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 7,
+    "totalTweets": 12,
+    "blogPosts": 5,
+    "podcastEpisodes": 0
+  }
+}
