@@ -134,7 +134,18 @@
     "https://twitter.com/thsottiaux/status/2097559315150426222": 1788999458728,
     "https://twitter.com/thsottiaux/status/2097492424474165293": 1788999458728,
     "https://twitter.com/_sholtodouglas/status/2097547846618869964": 1788999458728,
-    "https://twitter.com/polynoamial/status/2097538536866238810": 1788999458728
+    "https://twitter.com/polynoamial/status/2097538536866238810": 1788999458728,
+    "https://twitter.com/emollick/status/2098165335975231502": 1789085610126,
+    "https://twitter.com/emollick/status/2098086824191099214": 1789085610126,
+    "https://twitter.com/bcherny/status/2098165206296011059": 1789085610127,
+    "https://twitter.com/gdb/status/2098157918906384676": 1789085610127,
+    "https://twitter.com/gdb/status/2098157627838480705": 1789085610127,
+    "https://twitter.com/trq212/status/2098157600361861579": 1789085610127,
+    "https://twitter.com/thsottiaux/status/2098113585683808624": 1789085610127,
+    "https://twitter.com/thsottiaux/status/2098105060186374280": 1789085610127,
+    "https://twitter.com/thsottiaux/status/2097912273264095536": 1789085610127,
+    "https://twitter.com/karpathy/status/2098187194024476764": 1789085610127,
+    "https://twitter.com/petergostev/status/2098043156428152952": 1789085610127
   },
   "seenVideos": {},
   "seenArticles": {
@@ -193,8 +204,12 @@
     "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and": 1788999458728,
     "https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent/": 1788999458728,
     "https://simonwillison.net/2026/Sep/9/terence-tao/": 1788999458728,
-    "https://simonwillison.net/2026/Sep/8/on-navier-stokes/": 1788999458728
+    "https://simonwillison.net/2026/Sep/8/on-navier-stokes/": 1788999458728,
+    "https://simonwillison.net/2026/Sep/10/trynix/": 1789085610127,
+    "https://simonwillison.net/2026/Sep/10/shopify-react-native/": 1789085610127,
+    "https://simonwillison.net/2026/Sep/10/calif-research/": 1789085610127,
+    "https://stratechery.com/2026/the-iphone-duo-the-intelligent-personal-hub-apple-watch-audio-intelligence/": 1789085610127
   },
-  "lastRunKey": "2026-09-10",
-  "lastRunAt": "2026-09-10T00:17:38.734Z"
+  "lastRunKey": "2026-09-11",
+  "lastRunAt": "2026-09-11T00:13:30.133Z"
 }
