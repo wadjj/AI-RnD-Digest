@@ -1,13 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/petergostev/status/2094376501235876116": 1788215143156,
-    "https://twitter.com/petergostev/status/2094209536647147639": 1788215143156,
-    "https://twitter.com/emollick/status/2094302639072715023": 1788215143156,
-    "https://twitter.com/emollick/status/2094291157098356880": 1788215143156,
-    "https://twitter.com/emollick/status/2094289571521466555": 1788215143156,
-    "https://twitter.com/thsottiaux/status/2094293190945976638": 1788215143156,
-    "https://twitter.com/thsottiaux/status/2094254532020818191": 1788215143156,
-    "https://twitter.com/thsottiaux/status/2094252447271366730": 1788215143156,
     "https://twitter.com/demishassabis/status/2094848534629568867": 1788301487476,
     "https://twitter.com/thsottiaux/status/2094826841622348106": 1788301487477,
     "https://twitter.com/thsottiaux/status/2094826808114057246": 1788301487477,
@@ -154,16 +146,21 @@
     "https://twitter.com/petergostev/status/2099032556729410031": 1789344924323,
     "https://twitter.com/petergostev/status/2098996162392961195": 1789344924323,
     "https://twitter.com/_sholtodouglas/status/2098958977937944954": 1789344924323,
-    "https://twitter.com/_sholtodouglas/status/2098957771530227727": 1789344924323
+    "https://twitter.com/_sholtodouglas/status/2098957771530227727": 1789344924323,
+    "https://twitter.com/gdb/status/2099602912645452021": 1789432873672,
+    "https://twitter.com/petergostev/status/2099595849500152238": 1789432873672,
+    "https://twitter.com/petergostev/status/2099585069409079629": 1789432873672,
+    "https://twitter.com/petergostev/status/2099501150605029593": 1789432873672,
+    "https://twitter.com/demishassabis/status/2099577735127429451": 1789432873672,
+    "https://twitter.com/demishassabis/status/2099566537753403533": 1789432873672,
+    "https://twitter.com/bcherny/status/2099551291601248485": 1789432873672,
+    "https://twitter.com/bcherny/status/2099322487603634395": 1789432873672,
+    "https://twitter.com/trq212/status/2099551141621329994": 1789432873672,
+    "https://twitter.com/emollick/status/2099465393857307092": 1789432873673,
+    "https://twitter.com/thsottiaux/status/2099393115241300166": 1789432873673
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://jack-clark.net/2026/08/31/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai/": 1788215143157,
-    "https://stratechery.com/2026/meta-settles-a-framework-for-regulating-content-the-rest-of-big-tech/": 1788215143157,
-    "https://tomtunguz.com/the-great-segmentation/": 1788215143157,
-    "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/": 1788215143157,
-    "https://hardcoresoftware.learningbyshipping.com/p/242-armageddon-by-anthropomorphism": 1788215143157,
-    "https://sebastianraschka.com/blog/2026/reasoning-models-and-agents-from-scratch.html": 1788215143157,
     "https://simonwillison.net/2026/Sep/1/codex-libreoffice/": 1788301487477,
     "https://simonwillison.net/2026/Sep/1/tarn-adams/": 1788301487477,
     "https://simonwillison.net/2026/Sep/1/python-315-rc-2/": 1788301487477,
@@ -221,8 +218,14 @@
     "https://sebastianraschka.com/blog/2026/ai-reasoning-models-course.html": 1789344924323,
     "https://simonwillison.net/2026/Sep/12/astra-running-routes/": 1789344924324,
     "https://simonwillison.net/2026/Sep/12/sighting-399708714/": 1789344924324,
-    "https://simonwillison.net/2026/Sep/11/soft-deprecating-re-match/": 1789344924324
+    "https://simonwillison.net/2026/Sep/11/soft-deprecating-re-match/": 1789344924324,
+    "https://stratechery.com/2026/pacing-the-frontier-ais-digital-limits-ai-commissars/": 1789432873673,
+    "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/": 1789432873673,
+    "https://simonwillison.net/2026/Sep/14/influences/": 1789432873673,
+    "https://simonwillison.net/2026/Sep/14/laurie-voss/": 1789432873673,
+    "https://sebastianraschka.com/blog/2026/pacing-development.html": 1789432873673,
+    "https://tomtunguz.com/what-does-the-pause-mean/": 1789432873673
   },
-  "lastRunKey": "2026-09-14",
-  "lastRunAt": "2026-09-14T00:15:24.328Z"
+  "lastRunKey": "2026-09-15",
+  "lastRunAt": "2026-09-15T00:41:13.677Z"
 }
