@@ -1,14 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/demishassabis/status/2094848534629568867": 1788301487476,
-    "https://twitter.com/thsottiaux/status/2094826841622348106": 1788301487477,
-    "https://twitter.com/thsottiaux/status/2094826808114057246": 1788301487477,
-    "https://twitter.com/thsottiaux/status/2094588317245509959": 1788301487477,
-    "https://twitter.com/petergostev/status/2094772605211299854": 1788301487477,
-    "https://twitter.com/petergostev/status/2094701797575180718": 1788301487477,
-    "https://twitter.com/petergostev/status/2094579221909684611": 1788301487477,
-    "https://twitter.com/_sholtodouglas/status/2094663625680244882": 1788301487477,
-    "https://twitter.com/amorriscode/status/2094581721916375423": 1788301487477,
     "https://twitter.com/emollick/status/2095276496671953297": 1788394786749,
     "https://twitter.com/emollick/status/2095271089874366686": 1788394786749,
     "https://twitter.com/emollick/status/2095203002210807816": 1788394786749,
@@ -157,14 +148,22 @@
     "https://twitter.com/bcherny/status/2099322487603634395": 1789432873672,
     "https://twitter.com/trq212/status/2099551141621329994": 1789432873672,
     "https://twitter.com/emollick/status/2099465393857307092": 1789432873673,
-    "https://twitter.com/thsottiaux/status/2099393115241300166": 1789432873673
+    "https://twitter.com/thsottiaux/status/2099393115241300166": 1789432873673,
+    "https://twitter.com/trq212/status/2099958388230873165": 1789518377720,
+    "https://twitter.com/trq212/status/2099671266068496802": 1789518377720,
+    "https://twitter.com/gdb/status/2099928683226218570": 1789518377720,
+    "https://twitter.com/gdb/status/2099919674544898298": 1789518377720,
+    "https://twitter.com/thsottiaux/status/2099922755655479624": 1789518377720,
+    "https://twitter.com/thsottiaux/status/2099744972195131850": 1789518377720,
+    "https://twitter.com/demishassabis/status/2099977615083700576": 1789518377720,
+    "https://twitter.com/emollick/status/2099859873076764764": 1789518377721,
+    "https://twitter.com/emollick/status/2099713891567579575": 1789518377721,
+    "https://twitter.com/emollick/status/2099701841743237317": 1789518377721,
+    "https://twitter.com/petergostev/status/2099770594799530099": 1789518377721,
+    "https://twitter.com/markchen90/status/2099865158009139224": 1789518377721
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://simonwillison.net/2026/Sep/1/codex-libreoffice/": 1788301487477,
-    "https://simonwillison.net/2026/Sep/1/tarn-adams/": 1788301487477,
-    "https://simonwillison.net/2026/Sep/1/python-315-rc-2/": 1788301487477,
-    "https://stratechery.com/2026/nvidia-earnings-dollars-per-gigawatt-open-and-hugging-face/": 1788301487477,
     "https://stratechery.com/2026/fable-5-1-enterprise-frontier-safeguards/": 1788394786750,
     "https://simonwillison.net/2026/Sep/2/llm-gemini/": 1788394786750,
     "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/": 1788394786750,
@@ -224,8 +223,14 @@
     "https://simonwillison.net/2026/Sep/14/influences/": 1789432873673,
     "https://simonwillison.net/2026/Sep/14/laurie-voss/": 1789432873673,
     "https://sebastianraschka.com/blog/2026/pacing-development.html": 1789432873673,
-    "https://tomtunguz.com/what-does-the-pause-mean/": 1789432873673
+    "https://tomtunguz.com/what-does-the-pause-mean/": 1789432873673,
+    "https://stratechery.com/2026/openai-ads-amazon-ads-in-chatgpt-walmart-to-accept-apple-pay/": 1789518377721,
+    "https://lovable.dev/blog/salesforce-partnership": 1789518377721,
+    "https://lovable.dev/blog/faster-previews-oj": 1789518377721,
+    "https://tomtunguz.com/single-digit-thousand-dollar-ai-sdr/": 1789518377721,
+    "https://simonwillison.net/2026/Sep/14/commit-rewriter/": 1789518377721,
+    "https://simonwillison.net/2026/Sep/13/shot-scraper/": 1789518377721
   },
-  "lastRunKey": "2026-09-15",
-  "lastRunAt": "2026-09-15T00:41:13.677Z"
+  "lastRunKey": "2026-09-16",
+  "lastRunAt": "2026-09-16T00:26:17.726Z"
 }
