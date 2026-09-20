@@ -1,13 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/emollick/status/2096320688265044038": 1788652610403,
-    "https://twitter.com/emollick/status/2096312830903337184": 1788652610403,
-    "https://twitter.com/emollick/status/2096110458830782902": 1788652610403,
-    "https://twitter.com/petergostev/status/2096247411123323107": 1788652610403,
-    "https://twitter.com/petergostev/status/2096158086717120837": 1788652610403,
-    "https://twitter.com/gdb/status/2096159589771485299": 1788652610404,
-    "https://twitter.com/thsottiaux/status/2096101429832552872": 1788652610404,
-    "https://twitter.com/amorriscode/status/2096071090183532923": 1788652610404,
     "https://twitter.com/emollick/status/2096723670706086212": 1788739136989,
     "https://twitter.com/emollick/status/2096645299309625474": 1788739136989,
     "https://twitter.com/emollick/status/2096605475794014536": 1788739136989,
@@ -166,12 +158,19 @@
     "https://twitter.com/emollick/status/2100744220562673683": 1789777449937,
     "https://twitter.com/trq212/status/2101009395052343462": 1789777449937,
     "https://twitter.com/bcherny/status/2101014069608395196": 1789777449937,
-    "https://twitter.com/_sholtodouglas/status/2100999297747861690": 1789777449937
+    "https://twitter.com/_sholtodouglas/status/2100999297747861690": 1789777449937,
+    "https://twitter.com/_sholtodouglas/status/2101450852498280680": 1789863008573,
+    "https://twitter.com/thsottiaux/status/2101431497437950458": 1789863008573,
+    "https://twitter.com/thsottiaux/status/2101157729037586694": 1789863008573,
+    "https://twitter.com/emollick/status/2101426783430074758": 1789863008573,
+    "https://twitter.com/emollick/status/2101106479411687489": 1789863008573,
+    "https://twitter.com/petergostev/status/2101404600914034990": 1789863008574,
+    "https://twitter.com/petergostev/status/2101311158791934313": 1789863008574,
+    "https://twitter.com/petergostev/status/2101160009455583582": 1789863008574,
+    "https://twitter.com/amorriscode/status/2101128256883929105": 1789863008574
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/": 1788652610404,
-    "https://simonwillison.net/2026/Sep/4/astra-pelicans/": 1788652610404,
     "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/": 1788739136990,
     "https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/": 1788739136990,
     "https://simonwillison.net/2026/Sep/6/zach-kehs/": 1788739136990,
@@ -231,8 +230,11 @@
     "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/": 1789777449937,
     "https://simonwillison.net/2026/Sep/18/thariq-shihipar/": 1789777449937,
     "https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit/": 1789777449937,
-    "https://lovable.dev/blog/lovable-acquires-sutro-to-make-software-easier-to-explain-and-easier-to-trust": 1789777449938
+    "https://lovable.dev/blog/lovable-acquires-sutro-to-make-software-easier-to-explain-and-easier-to-trust": 1789777449938,
+    "https://simonwillison.net/2026/Sep/19/datasette-auth-github/": 1789863008574,
+    "https://simonwillison.net/2026/Sep/19/sighting-401567341/": 1789863008574,
+    "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/": 1789863008574
   },
-  "lastRunKey": "2026-09-19",
-  "lastRunAt": "2026-09-19T00:24:09.942Z"
+  "lastRunKey": "2026-09-20",
+  "lastRunAt": "2026-09-20T00:10:08.579Z"
 }

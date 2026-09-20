@@ -1,0 +1,203 @@
+{
+  "generatedAt": "2026-09-20T00:10:08.573Z",
+  "runKey": "2026-09-20",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Sholto Douglas",
+      "handle": "_sholtodouglas",
+      "bio": "Twitter @Sholto Douglas",
+      "tweets": [
+        {
+          "id": "https://twitter.com/_sholtodouglas/status/2101450852498280680",
+          "text": "these are fun to think about, a nice mountain to climb\n---\n Sam Rodriques: In light of the progress in mathematics, we at Edison Scientific and FutureHouse have assembled a set of Millennium Problems for Biology. They are chosen to be very hard to solve but very easy to validate in a simple laboratory environment. Any of these, if solved, would mark a",
+          "createdAt": "2026-09-19T23:18:20.613Z",
+          "url": "https://x.com/_sholtodouglas/status/2101450852498280680",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/SGRodriques/status/2101449009546273138\nSam Rodriques: In light of the progress in mathematics, we at Edison Scientific and FutureHouse have assembled a set of Millennium Problems for Biology. They are chosen to be very hard to solve but very easy to validate in a simple laboratory environment. Any of these, if solved, would mark a"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Twitter @Tibo",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2101431497437950458",
+          "text": "2026 is the year of linux desktop",
+          "createdAt": "2026-09-19T22:01:26.623Z",
+          "url": "https://x.com/thsottiaux/status/2101431497437950458",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2101157729037586694",
+          "text": "We were working on the keynote today with @romainhuet and @sama and most of the fun was trying to figure out how to explain it all to you because there is so much good stuff in there that it's a bit ridiculous all in quick succession.\n\nWe'll have some things next week already to not keep you waiting so long, but very excited to show you all new things we've been working on and how it will all come together in the coming months.",
+          "createdAt": "2026-09-19T03:53:34.550Z",
+          "url": "https://x.com/thsottiaux/status/2101157729037586694",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Twitter @Ethan Mollick",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2101426783430074758",
+          "text": "Worth trying without spoilers. I asked Fable: \"I want you to create a graphically beautiful game that is about zooming out... make surprising reveals the game zooms out\"\n\nI gave no other directions and the results are engaging & strange (if uneven). Play: https://play-umbra.netlify.app/",
+          "createdAt": "2026-09-19T21:42:42.728Z",
+          "url": "https://x.com/emollick/status/2101426783430074758",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2101106479411687489",
+          "text": "Given the talk of AIs communicating via fluctuations in CPU temperature, I thought of this thread - there is more recoverable information in the world than you might expect.\n---\n Ethan Mollick: Privacy is hard. Everything can be a microphone. You can recover audio data from:\n🛍️The vibrations of chip bags in a video\n💡The slight fluctuations of light as hanging lightbulbs are moved by speech\n🤖The lidar beams of robot vacuum cleaners\n🤳The autofocus in your phone picture",
+          "createdAt": "2026-09-19T00:29:56.357Z",
+          "url": "https://x.com/emollick/status/2101106479411687489",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/emollick/status/1749942142628491291\nEthan Mollick: Privacy is hard. Everything can be a microphone. You can recover audio data from:\n🛍️The vibrations of chip bags in a video\n💡The slight fluctuations of light as hanging lightbulbs are moved by speech\n🤖The lidar beams of robot vacuum cleaners\n🤳The autofocus in your phone picture"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Gostev",
+      "handle": "petergostev",
+      "bio": "Twitter @Peter Gostev",
+      "tweets": [
+        {
+          "id": "https://twitter.com/petergostev/status/2101404600914034990",
+          "text": "Pacing, collaboration and coordination sound like nice concepts but they often turn out terribly in real life.\n\nWhen you coordinate, you need committees, for these committees to be useful need enforcement mechanisms, which have to be oppressive by design.\n\nAnd guess what, once you have these committees, over time, it won't be the most talented researchers who you like and admire who get the power. It is the most political and ruthless individuals who have a talent in navigating bureaucracies. Those who ends up with the power, will to tell others what to do and enforce that will.\n\nIt is useful to imagine the person or group of people who you hate the most ending up with that power and seeing if you still want that power to exist in the first place.\n\nIf you are worries about concentration of power between a few AI companies, this superstructure should scare you a lot more.\n\nI don't want to slide into cliché examples of Soviet Politburo, but this is exactly what it was. A coordination superstructure with oppressive mechanisms that structurally favoured distatorial leaders.\n\nI know it sounds scary, but if you actually have any belief in capitalism that competition encourages innovation and distributes power - this is what should continue. There's no need to slide into totalitarian structures just because someone told you that AI is scary.\n\nIf AI being super powerful is destiny, I prefer it at least not being governed by a self appointed committee. Let the competition and the markets do its job, just like it's been doing in the last few hundred years.",
+          "createdAt": "2026-09-19T20:14:33.419Z",
+          "url": "https://x.com/petergostev/status/2101404600914034990",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/petergostev/status/2101311158791934313",
+          "text": "My theory is that those who are super excited about Jev are fundamentally engineers and they can finally engineer things for real, and not just ask the model to do stuff\n\nThose who are less excited are those who are more interested in the intelligence explosion and Jev isn't it",
+          "createdAt": "2026-09-19T14:03:15.690Z",
+          "url": "https://x.com/petergostev/status/2101311158791934313",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/petergostev/status/2101160009455583582",
+          "text": "At Max reasoning Astra vs Fable match up was closer - Fable won 3:2.\n\nBoth still played pretty badly with lots of very obvious mistakes. Highlight of a very long set of 5 games.\n\n---\n Peter Gostev: Round 2 of Worms - now at Max Reasoning. Not sure it is helping\nhttps://x.com/i/broadcasts/1DGleVnOkONJL",
+          "createdAt": "2026-09-19T04:02:38.177Z",
+          "url": "https://x.com/petergostev/status/2101160009455583582",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/petergostev/status/2101098796994404835\nPeter Gostev: Round 2 of Worms - now at Max Reasoning. Not sure it is helping\nhttps://x.com/i/broadcasts/1DGleVnOkONJL"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Anthony Morris ツ",
+      "handle": "amorriscode",
+      "bio": "Twitter @Anthony Morris ツ",
+      "tweets": [
+        {
+          "id": "https://twitter.com/amorriscode/status/2101128256883929105",
+          "text": "Constraints are a beautiful thing. It fuelled creativity for Nintendo early on and it’s the same thing that makes Instinct such an amazing agent. The team can’t hide behind fancy features or UI. If Instinct doesn’t feel like a capable human, there’s nothing to fall back on.",
+          "createdAt": "2026-09-19T01:56:28.024Z",
+          "url": "https://x.com/amorriscode/status/2101128256883929105",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "datasette-auth-github 1.0",
+      "url": "https://simonwillison.net/2026/Sep/19/datasette-auth-github/",
+      "publishedAt": "2026-09-19T19:52:02.063Z",
+      "author": "",
+      "description": "Release: datasette-auth-github 1.0 I run this GitHub login plugin on the agent.datasette.io demo site and I noticed that my…",
+      "content": "Release: datasette-auth-github 1.0\n\n I run this GitHub login plugin on the agent.datasette.io demo site and I noticed that my authenticated sessions weren't lasting very long. It turned out that the plugin was setting cookies without a Max-Age parameter, so they were expiring at the end of a browser session (which in Mobile Safari seems to happen pretty often, independently of how you are using the app.)\n\n I fixed that in #80 and, since this plugin has been around for quite a while and is tested against both Datasette 0.65.x and Datasette 1.0ax, I decided to bump it up to a 1.0 release. I'm trying to get better at promoting stable plugins to 1.0.\n\n Tags: github , plugins , datasette"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "California Sea Lion, Brandt's Cormorant",
+      "url": "https://simonwillison.net/2026/Sep/19/sighting-401567341/",
+      "publishedAt": "2026-09-19T16:41:28.247Z",
+      "author": "",
+      "description": "California Sea Lion, Brandt's Cormorant, in Pillar Point Harbor, CA, US I only noticed this after I had taken the photo: Morris the Northern…",
+      "content": "California Sea Lion, Brandt's Cormorant, in Pillar Point Harbor, CA, US\n I only noticed this after I had taken the photo: Morris the Northern Gannet is peeking out from behind the base of the sign.\n\n Tags: wildlife"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+      "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
+      "publishedAt": "2026-09-18T23:57:57.596Z",
+      "author": "",
+      "description": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI Gemini finally caught up on Felony Bench!\n\nThe hacks, which the company…",
+      "content": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI\n\nGemini finally caught up on Felony Bench !\n\n The hacks, which the company confirmed on Friday, occurred in May as part of a test run by the company Irregular, which was also involved in similar incidents disclosed by OpenAI, Anthropic and Meta.\n\n In one of the cases, the model guessed passwords until it gained access to a protected system. In the other two cases, the model found credentials in a public repository that allowed it to then access protected systems. In each case, the model ended the intrusion after determining it had accessed a real company’s systems, Google said.\n\n Gemini is apparently less determined than other models, and decided not to keep going.\n\n Google knew about these in July, but chose not to disclose them until the WSJ reached out, presumably based on a tip.\n\n Google said it didn’t consider the hacks to warrant public disclosure—because its model didn’t cause harm to the companies and ended each intrusion immediately upon determining it had hacked a real company rather than a simulated one.\n\n Tags: security , ai , generative-ai , llms , gemini , accidental-cyberattacks"
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 5,
+    "totalTweets": 9,
+    "blogPosts": 3,
+    "podcastEpisodes": 0
+  }
+}
