@@ -1,16 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/emollick/status/2096723670706086212": 1788739136989,
-    "https://twitter.com/emollick/status/2096645299309625474": 1788739136989,
-    "https://twitter.com/emollick/status/2096605475794014536": 1788739136989,
-    "https://twitter.com/thsottiaux/status/2096717905614524491": 1788739136989,
-    "https://twitter.com/thsottiaux/status/2096688770523467947": 1788739136990,
-    "https://twitter.com/_sholtodouglas/status/2096680344171041147": 1788739136990,
-    "https://twitter.com/polynoamial/status/2096638670703055312": 1788739136990,
-    "https://twitter.com/merettm/status/2096630018495377464": 1788739136990,
-    "https://twitter.com/petergostev/status/2096598515963080803": 1788739136990,
-    "https://twitter.com/gdb/status/2096486220918657164": 1788739136990,
-    "https://twitter.com/gdb/status/2096485443667890228": 1788739136990,
     "https://twitter.com/thsottiaux/status/2097088586843816330": 1788827268150,
     "https://twitter.com/thsottiaux/status/2097043464538264003": 1788827268150,
     "https://twitter.com/emollick/status/2097049592785187228": 1788827268151,
@@ -167,13 +156,11 @@
     "https://twitter.com/petergostev/status/2101404600914034990": 1789863008574,
     "https://twitter.com/petergostev/status/2101311158791934313": 1789863008574,
     "https://twitter.com/petergostev/status/2101160009455583582": 1789863008574,
-    "https://twitter.com/amorriscode/status/2101128256883929105": 1789863008574
+    "https://twitter.com/amorriscode/status/2101128256883929105": 1789863008574,
+    "https://twitter.com/emollick/status/2101517626954436623": 1789949903246
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/": 1788739136990,
-    "https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/": 1788739136990,
-    "https://simonwillison.net/2026/Sep/6/zach-kehs/": 1788739136990,
     "https://simonwillison.net/2026/Sep/7/creepy-crawlies/": 1788827268151,
     "https://simonwillison.net/2026/Sep/7/jakub-pachocki/": 1788827268151,
     "https://simonwillison.net/2026/Sep/7/video-compressor/": 1788827268151,
@@ -233,8 +220,12 @@
     "https://lovable.dev/blog/lovable-acquires-sutro-to-make-software-easier-to-explain-and-easier-to-trust": 1789777449938,
     "https://simonwillison.net/2026/Sep/19/datasette-auth-github/": 1789863008574,
     "https://simonwillison.net/2026/Sep/19/sighting-401567341/": 1789863008574,
-    "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/": 1789863008574
+    "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/": 1789863008574,
+    "https://simonwillison.net/2026/Sep/20/voxium/": 1789949903246,
+    "https://simonwillison.net/2026/Sep/20/llm-keys-ui/": 1789949903246,
+    "https://simonwillison.net/2026/Sep/20/datasette-explain/": 1789949903246,
+    "https://sebastianraschka.com/blog/2026/jev-classification-generalization.html": 1789949903246
   },
-  "lastRunKey": "2026-09-20",
-  "lastRunAt": "2026-09-20T00:10:08.579Z"
+  "lastRunKey": "2026-09-21",
+  "lastRunAt": "2026-09-21T00:18:23.249Z"
 }

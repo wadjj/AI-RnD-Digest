@@ -1,0 +1,85 @@
+{
+  "generatedAt": "2026-09-21T00:18:23.245Z",
+  "runKey": "2026-09-21",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Twitter @Ethan Mollick",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2101517626954436623",
+          "text": "Same question to Astra, slick results.\n\nIt was notable that there was less simulated curiosity here. Like Astra ran the numbers (everything it shows come from its actual simulations), but didn't seem to be \"interested\" in the results the way Fable did, for better or worse.\n\n---\n Ethan Mollick: Hey Claude, \"Pick a problem or mystery that obsesses you and solve it as best you can & make a movie we can share on social media about it\"\n\nSo it took a crack at the Voynich Manuscript & failed. Then it made this movie, which is pretty interesting to watch and a good explainer.",
+          "createdAt": "2026-09-20T03:43:41.807Z",
+          "url": "https://x.com/emollick/status/2101517626954436623",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/emollick/status/2100767116819325141\nEthan Mollick: Hey Claude, \"Pick a problem or mystery that obsesses you and solve it as best you can & make a movie we can share on social media about it\"\n\nSo it took a crack at the Voynich Manuscript & failed. Then it made this movie, which is pretty interesting to watch and a good explainer."
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Quoting voxium",
+      "url": "https://simonwillison.net/2026/Sep/20/voxium/",
+      "publishedAt": "2026-09-20T21:06:43.883Z",
+      "author": "",
+      "description": "It has been half a month since I started a new role at a big company. Nobody knows anything here. The specs, code, tests, PRDs, tickets…",
+      "content": "It has been half a month since I started a new role at a big company. Nobody knows anything here. The specs, code, tests, PRDs, tickets, resolution of those tickets, reports, etc., everything is made by Claude Code. Nobody on my team likes this. They are being forced to ship as much as they can. I have heard multiple times from higher management that pushing code is not a bottleneck, so why are we slow? People are working 12 to 13 hours a day just to press enter. Nobody is reading anything. Everyone, literally everyone, from an L1 to an L7 engineer here is doing the same thing. Talk to Claude.\n\n — voxium\n\n Tags: ai-misuse , llms , ai , generative-ai"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "llm-keys-ui 0.1",
+      "url": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/",
+      "publishedAt": "2026-09-20T19:22:19.710Z",
+      "author": "",
+      "description": "Release: llm-keys-ui 0.1 This plugin solves a very specific problem.\n\nI've started using Codex Remote to run coding agents on various…",
+      "content": "Release: llm-keys-ui 0.1\n\n This plugin solves a very specific problem.\n\n I've started using Codex Remote to run coding agents on various machines while controlling them from my phone.\n\n Sometimes I use those machines to hack on LLM projects, and occasionally that means I need to configure an API key.\n\n I don't like pasting API keys into agent sessions, so I wanted a way to get those keys onto a machine without pasting them into the ChatGPT app directly.\n\n With this plugin, I can tell Codex to run:\n\n uvx --with llm-keys-ui llm keys-ui --all\n\n Then have it tell me the URL - including local network or Tailscale device IPs - for an interface to save additional API keys.\n\n Then later it can use a command like llm keys get anthropic as part of a shell command when it needs to use a key.\n\n Tags: llm , coding-agents , codex"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "datasette-explain 0.2.2",
+      "url": "https://simonwillison.net/2026/Sep/20/datasette-explain/",
+      "publishedAt": "2026-09-20T00:22:04.925Z",
+      "author": "",
+      "description": "Release: datasette-explain 0.2.2 Explain plans now work on read-only stored-query pages.\n\nI upgraded datasette.simonwillison.net…",
+      "content": "Release: datasette-explain 0.2.2\n\n Explain plans now work on read-only stored-query pages.\n\n I upgraded datasette.simonwillison.net to Datasette 1.0a40, which inspired me to ship a new version of this explain plugin.\n\n Tags: sqlite , datasette"
+    },
+    {
+      "source": "blog",
+      "name": "Sebastian Raschka, PhD",
+      "title": "It's Easy to Dismiss Jev as Just a Classifier",
+      "url": "https://sebastianraschka.com/blog/2026/jev-classification-generalization.html",
+      "publishedAt": "2026-09-20T15:17:40.908Z",
+      "author": "",
+      "description": "A short note on Jev's generalization, possible encoder-style architecture and training, and Choice and Noul API examples.",
+      "content": "A short note on Jev's generalization, possible encoder-style architecture and training, and Choice and Noul API examples."
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 1,
+    "totalTweets": 1,
+    "blogPosts": 4,
+    "podcastEpisodes": 0
+  }
+}
