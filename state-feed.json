@@ -1,16 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/thsottiaux/status/2097088586843816330": 1788827268150,
-    "https://twitter.com/thsottiaux/status/2097043464538264003": 1788827268150,
-    "https://twitter.com/emollick/status/2097049592785187228": 1788827268151,
-    "https://twitter.com/emollick/status/2097030869609263166": 1788827268151,
-    "https://twitter.com/emollick/status/2096997239281385549": 1788827268151,
-    "https://twitter.com/gdb/status/2096998038443348263": 1788827268151,
-    "https://twitter.com/gdb/status/2096794565499883839": 1788827268151,
-    "https://twitter.com/petergostev/status/2096978277533434273": 1788827268151,
-    "https://twitter.com/petergostev/status/2096974473673015426": 1788827268151,
-    "https://twitter.com/petergostev/status/2096808064586244488": 1788827268151,
-    "https://twitter.com/trq212/status/2096949412878540891": 1788827268151,
     "https://twitter.com/emollick/status/2097402304525697507": 1788913139742,
     "https://twitter.com/emollick/status/2097350832815583491": 1788913139742,
     "https://twitter.com/emollick/status/2097325310349914202": 1788913139743,
@@ -157,15 +146,17 @@
     "https://twitter.com/petergostev/status/2101311158791934313": 1789863008574,
     "https://twitter.com/petergostev/status/2101160009455583582": 1789863008574,
     "https://twitter.com/amorriscode/status/2101128256883929105": 1789863008574,
-    "https://twitter.com/emollick/status/2101517626954436623": 1789949903246
+    "https://twitter.com/emollick/status/2101517626954436623": 1789949903246,
+    "https://twitter.com/petergostev/status/2102104455508271538": 1790038384798,
+    "https://twitter.com/petergostev/status/2102100063661015382": 1790038384798,
+    "https://twitter.com/petergostev/status/2102075015080419342": 1790038384798,
+    "https://twitter.com/amorriscode/status/2102068455713521915": 1790038384798,
+    "https://twitter.com/emollick/status/2102062111585145053": 1790038384798,
+    "https://twitter.com/polynoamial/status/2101905885438111788": 1790038384798,
+    "https://twitter.com/trq212/status/2101844435353145452": 1790038384798
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://simonwillison.net/2026/Sep/7/creepy-crawlies/": 1788827268151,
-    "https://simonwillison.net/2026/Sep/7/jakub-pachocki/": 1788827268151,
-    "https://simonwillison.net/2026/Sep/7/video-compressor/": 1788827268151,
-    "https://jack-clark.net/2026/09/07/import-ai-472-deepminds-cheating-math-agents-populist-ai-policies-and-forethought-theorizes-a-nightwatchman/": 1788827268151,
-    "https://lovable.dev/blog/introducing-drafts": 1788827268151,
     "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/": 1788913139744,
     "https://simonwillison.net/2026/Sep/7/llm/": 1788913139744,
     "https://simonwillison.net/2026/Sep/7/equal-earth/": 1788913139744,
@@ -224,8 +215,15 @@
     "https://simonwillison.net/2026/Sep/20/voxium/": 1789949903246,
     "https://simonwillison.net/2026/Sep/20/llm-keys-ui/": 1789949903246,
     "https://simonwillison.net/2026/Sep/20/datasette-explain/": 1789949903246,
-    "https://sebastianraschka.com/blog/2026/jev-classification-generalization.html": 1789949903246
+    "https://sebastianraschka.com/blog/2026/jev-classification-generalization.html": 1789949903246,
+    "https://stratechery.com/2026/frontier-overhangs/": 1790038384799,
+    "https://simonwillison.net/2026/Sep/21/jev/": 1790038384798,
+    "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/": 1790038384798,
+    "https://simonwillison.net/2026/Sep/20/hn-49779718/": 1790038384799,
+    "https://jack-clark.net/2026/09/21/import-ai-473-the-uss-superintelligence-strategy-human-brain-in-a-mouse-skull-and-machine-hermeneutics/": 1790038384799,
+    "https://tomtunguz.com/ai-comes-for-the-if-statement/": 1790038384799,
+    "https://x.ai/news/grok-4-7": 1790038384799
   },
-  "lastRunKey": "2026-09-21",
-  "lastRunAt": "2026-09-21T00:18:23.249Z"
+  "lastRunKey": "2026-09-22",
+  "lastRunAt": "2026-09-22T00:53:04.806Z"
 }
