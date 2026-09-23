@@ -1,0 +1,329 @@
+{
+  "generatedAt": "2026-09-23T00:38:58.295Z",
+  "runKey": "2026-09-23",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Twitter @Tibo",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2102509507415048245",
+          "text": "Maybe our cutest launch so far. But still packing the biggest punch.\n---\n OpenAI: Please welcome GPT-6 Sol and GPT-6 Luna to the GPT-6 universe.\n\nGPT-6 Sol and Luna build on the advances behind GPT-6 Astra, bringing much of its strengths into faster and more affordable models to support work at scale.\n\nWe’ve also made caching and inference more efficient, and",
+          "createdAt": "2026-09-22T21:25:03.920Z",
+          "url": "https://x.com/thsottiaux/status/2102509507415048245",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/OpenAI/status/2102460975790137662\nOpenAI: Please welcome GPT-6 Sol and GPT-6 Luna to the GPT-6 universe.\n\nGPT-6 Sol and Luna build on the advances behind GPT-6 Astra, bringing much of its strengths into faster and more affordable models to support work at scale.\n\nWe’ve also made caching and inference more efficient, and"
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2102463847714247142",
+          "text": "GPT-6 Sol and Luna are out. Not only are they a very significant improvement across the board, but also in writing and general \"you know when you try it\" quality.\n\nWe are also permanently reducing the API price by 50% making both of them viable for a ton of new usecases and making your usage go further too, even on the subscriptions.\n\nAnd one more thing. We are loading a banked reset into all accounts of our Plus, Pro and Business users. Let's go!\n\nhttps://openai.com/index/introducing-gpt-6-sol-and-luna/\n---\n Tibo: We have been focusing on efficiency and intelligence for all.\n\nVery proud of the team. Only possible when you have incredible models at the top end of the capability that you can then use to make a big difference in everything else.",
+          "createdAt": "2026-09-22T18:23:37.550Z",
+          "url": "https://x.com/thsottiaux/status/2102463847714247142",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/thsottiaux/status/2102440619616682120\nTibo: We have been focusing on efficiency and intelligence for all.\n\nVery proud of the team. Only possible when you have incredible models at the top end of the capability that you can then use to make a big difference in everything else."
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2102440619616682120",
+          "text": "We have been focusing on efficiency and intelligence for all.\n\nVery proud of the team. Only possible when you have incredible models at the top end of the capability that you can then use to make a big difference in everything else.",
+          "createdAt": "2026-09-22T16:51:19.888Z",
+          "url": "https://x.com/thsottiaux/status/2102440619616682120",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Sholto Douglas",
+      "handle": "_sholtodouglas",
+      "bio": "Twitter @Sholto Douglas",
+      "tweets": [
+        {
+          "id": "https://twitter.com/_sholtodouglas/status/2102472212582420729",
+          "text": "RT Claude\nA thread of early explorations with Claude Opus 5.5:\n\nA short story about a watermelon created by @kevin_t_ngo.",
+          "createdAt": "2026-09-22T18:55:29.258Z",
+          "url": "https://x.com/_sholtodouglas/status/2102472212582420729",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/_sholtodouglas/status/2102475493329326094",
+          "text": "RT zach\nhow it felt before opus 5.5",
+          "createdAt": "2026-09-22T18:52:44.784Z",
+          "url": "https://x.com/_sholtodouglas/status/2102475493329326094",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/_sholtodouglas/status/2102473082204234191",
+          "text": "RT Cognition\nGPT-6 Sol and Luna are now available in Devin.\n\nOn FrontierCode 1.1, GPT-6 Sol matches GPT-5.6 Sol’s score at 61% lower cost per task. GPT-6 Luna scores above GPT-5.6 Luna at about a quarter of the cost. At under $0.10 per task, it is the cheapest model on the leaderboard.",
+          "createdAt": "2026-09-22T18:22:56.008Z",
+          "url": "https://x.com/_sholtodouglas/status/2102473082204234191",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Gostev",
+      "handle": "petergostev",
+      "bio": "Twitter @Peter Gostev",
+      "tweets": [
+        {
+          "id": "https://twitter.com/petergostev/status/2102453439934443732",
+          "text": "I gotta say, my bet was on:\n\nAI = American Intelligence",
+          "createdAt": "2026-09-22T17:42:16.099Z",
+          "url": "https://x.com/petergostev/status/2102453439934443732",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Twitter @Ethan Mollick",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2102441628661080384",
+          "text": "Opus 5.5 was a good model in my early tests, first non-Fable/Astra model to feel like a Fable-class model, but still hasn't fully solved the dense language issue of the recent Claudes.\n\nIts version of the same shader (broken towers are a nice touch): https://twigl.app?ol=true&ss=-P291BpUn5JvZhohk-c0\n\n---\n Ethan Mollick: The drowned neo-gothic tower twigl shader created by Fable 5.1 with the same prompt. (compare to Fable 5 in the quoted tweet, and other models before that)",
+          "createdAt": "2026-09-22T16:55:20.199Z",
+          "url": "https://x.com/emollick/status/2102441628661080384",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/emollick/status/2094983856424358023\nEthan Mollick: The drowned neo-gothic tower twigl shader created by Fable 5.1 with the same prompt. (compare to Fable 5 in the quoted tweet, and other models before that)"
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2102414040178036740",
+          "text": "For all the tension between AI & the arts, I have received enthusiastic receptions from the William Carlos Williams Society, the TS Eliot Society & others about the AI interpretations of their work that I have posted here. It is possible to use AI as a bridge to arts appreciation",
+          "createdAt": "2026-09-22T15:05:42.720Z",
+          "url": "https://x.com/emollick/status/2102414040178036740",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2102415934699065439",
+          "text": "RT Kevin A. Bryan\nPeople got upset at me for saying this, but there are no companies outside the US and China even *trying* to build frontier AI (perhaps Korea and UK are close), despite marketing claims. Governments saying \"sovereign AI\" need to understand this.\n---\n Thibault Schrepel: GREAT piece of journalism. I sum up:\n- @MistralAI is moving away from the desire to be a frontier lab\n- The company is now focusing on deployment within big companies (including the deployment of Chinese models).\n- These companies CEOs find Mistral strategy hard to follow…",
+          "createdAt": "2026-09-22T11:54:32.877Z",
+          "url": "https://x.com/emollick/status/2102415934699065439",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Sam Bowman",
+      "handle": "sleepinyourhat",
+      "bio": "Twitter @Sam Bowman",
+      "tweets": [
+        {
+          "id": "https://twitter.com/sleepinyourhat/status/2102442714419830796",
+          "text": "RT Sholto Douglas\nalso important news we fixed the writing\n---\n Claude: Introducing Claude Opus 5.5, the first model in our new Claude 5.5 family.\n\nIt performs at the level of Claude Fable 5.1 for most tasks, and costs 40% less to run than Opus 5.",
+          "createdAt": "2026-09-22T16:51:05.355Z",
+          "url": "https://x.com/sleepinyourhat/status/2102442714419830796",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Boris Cherny",
+      "handle": "bcherny",
+      "bio": "Twitter @Boris Cherny",
+      "tweets": [
+        {
+          "id": "https://twitter.com/bcherny/status/2102439069053747549",
+          "text": "Opus 5.5 is a really good model. It's been my daily driver the last few weeks.\n\nWe had Opus 5.5 and Fable 5.1 each port HAProxy from C to Rust. Both passed nearly all of HAProxy's tests, but Opus 5.5 finished in 9.5 hours compared to Fable 5.1's 12 hours, and for 51% less cost.\n---\n Claude: Introducing Claude Opus 5.5, the first model in our new Claude 5.5 family.\n\nIt performs at the level of Claude Fable 5.1 for most tasks, and costs 40% less to run than Opus 5.",
+          "createdAt": "2026-09-22T16:45:10.689Z",
+          "url": "https://x.com/bcherny/status/2102439069053747549",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/claudeai/status/2102435511222890900\nClaude: Introducing Claude Opus 5.5, the first model in our new Claude 5.5 family.\n\nIt performs at the level of Claude Fable 5.1 for most tasks, and costs 40% less to run than Opus 5."
+        },
+        {
+          "id": "https://twitter.com/bcherny/status/2102440012331814944",
+          "text": "RT Thariq\nOpus 5.5 is the result of your feedback.\n\nIt communicates clearly, it's cheaper per token than Opus 5.0 with the intelligence of Fable 5.1, it’s very token efficient and works across every effort level.\n\nWe're also increasing 5h rate limits & giving you a banked reset.\n---\n Claude: Introducing Claude Opus 5.5, the first model in our new Claude 5.5 family.\n\nIt performs at the level of Claude Fable 5.1 for most tasks, and costs 40% less to run than Opus 5.",
+          "createdAt": "2026-09-22T16:39:40.609Z",
+          "url": "https://x.com/bcherny/status/2102440012331814944",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "cat",
+      "handle": "_catwu",
+      "bio": "Twitter @cat",
+      "tweets": [
+        {
+          "id": "https://twitter.com/_catwu/status/2102437713781944397",
+          "text": "Claude Opus 5.5 is now the default model in Claude Code and the Claude app, including Cowork, for Pro, Max, and Team plans. I’ve been using Opus 5.5 as a daily driver and love its clear communication skills and ability to write in my style.\n\nWe’re defaulting to effort medium across products, which is comparable to Fable 5.1 on intelligence but faster. Your rate limits will go 25% further on Opus 5.5 compared to Opus 5.\n\nGive Opus 5.5 an ambitious task and let us know what you think!\n---\n Claude: Introducing Claude Opus 5.5, the first model in our new Claude 5.5 family.\n\nIt performs at the level of Claude Fable 5.1 for most tasks, and costs 40% less to run than Opus 5.",
+          "createdAt": "2026-09-22T16:39:47.641Z",
+          "url": "https://x.com/_catwu/status/2102437713781944397",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/claudeai/status/2102435511222890900\nClaude: Introducing Claude Opus 5.5, the first model in our new Claude 5.5 family.\n\nIt performs at the level of Claude Fable 5.1 for most tasks, and costs 40% less to run than Opus 5."
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Mark Chen",
+      "handle": "markchen90",
+      "bio": "Twitter @Mark Chen",
+      "tweets": [
+        {
+          "id": "https://twitter.com/markchen90/status/2102315801730564516",
+          "text": "It’s hard to overstate @michpokrass's impact on our consumer products. ChatGPT has had a rebirth under her leadership, and a lot of what we've built has been driven by her vision and conviction.\n\nReally grateful to work with her!\n---\n Michelle Pokrass: just crossed four years at openai!\n\nthe special thing about this place is the constant capacity for rebirth. for all its faults, there is nowhere quite like it. the team makes high conviction, contrarian bets over and over, and they are mostly right. it's a new company every",
+          "createdAt": "2026-09-22T08:35:20.965Z",
+          "url": "https://x.com/markchen90/status/2102315801730564516",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/michpokrass/status/2102226720073896367\nMichelle Pokrass: just crossed four years at openai!\n\nthe special thing about this place is the constant capacity for rebirth. for all its faults, there is nowhere quite like it. the team makes high conviction, contrarian bets over and over, and they are mostly right. it's a new company every"
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Quoting @therealcornpop",
+      "url": "https://simonwillison.net/2026/Sep/22/therealcornpop/",
+      "publishedAt": "2026-09-22T18:03:21.990Z",
+      "author": "",
+      "description": "Hey, you know it's like super obvious if you're using AI to write your scripts for TikTok and YouTube, right? [...] It's not just the…",
+      "content": "Hey, you know it's like super obvious if you're using AI to write your scripts for TikTok and YouTube, right? [...] It's not just the general AI-isms of \"it's not X, it's Y\", or the rule of three, or the really weird broken staccato-like way of writing where you just say a lot of things with all these punctuation marks. and it sounds really deep, but it's not.\n\n It's the lack of anything . It's the lack of a definitive sort of spear of your voice. It's the fact I can tell you don't have opinions about the thing that you're talking about.\n\n — @therealcornpop , on TikTok\n\n Tags: tiktok , ai , ai-misuse"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "llm-typesafe 0.1a0",
+      "url": "https://simonwillison.net/2026/Sep/22/llm-typesafe/",
+      "publishedAt": "2026-09-22T15:54:16.229Z",
+      "author": "",
+      "description": "Release: llm-typesafe 0.1a0 I built this new plugin for LLM to add support for TypeSafe AI's new Jev model. Install it like this:\n\nll…",
+      "content": "Release: llm-typesafe 0.1a0\n\n I built this new plugin for LLM to add support for TypeSafe AI's new Jev model . Install it like this:\n\n llm install llm-typesafe\n\n Then set an API key ( get one here , the waitlist seems to move pretty fast):\n\n llm keys set typesafe\n# Paste key\n\n And now you can ask yes/no \"noul\" questions like this:\n\n llm -m jev 'Please refund my last payment.' \\\n -s 'Does this message explicitly request a refund?'\n\n Output:\n\n {\"type\": \"noul\", \"noul\": 0.99}\n\n Or choice questions like this:\n\n cat message.txt | llm -m jev \\\n -s ' Which team should handle this message? If billing and technical issues both occur, choose billing. ' \\\n -o answer_type choice \\\n -o criteria ' {\n \"billing\":\"Charges, invoices, payments, or refunds\",\n \"technical\":\"Problems installing or using the product\",\n \"other\":\"Neither category fits\"\n } '\n\n Or scoring questions like this:\n\n cat report.txt | llm -m jev \\\n -s ' How reproducible is the problem described in this report? ' \\\n -o answer_type score \\\n -o criteria ' [\n \"No reproduction instructions\",\n \"Some instructions, but important steps are missing\",\n \"Complete steps with expected and actual results\"\n ] '\n\n See the README for more details.\n\n Tags: projects , llm , jev"
+    },
+    {
+      "source": "blog",
+      "name": "Sebastian Raschka, PhD",
+      "title": "MiMo-V2.6 Pro Architecture and Training Notes",
+      "url": "https://sebastianraschka.com/blog/2026/mimo-v2-6-pro-architecture-training-notes.html",
+      "publishedAt": "2026-09-22T13:47:58.918Z",
+      "author": "",
+      "description": "Notes on MiMo-V2.6 Pro's GQA and sliding-window attention, agent training tasks, reward signals, and large RL batches.",
+      "content": "Notes on MiMo-V2.6 Pro's GQA and sliding-window attention, agent training tasks, reward signals, and large RL batches."
+    },
+    {
+      "source": "blog",
+      "name": "Lovable - Inside Lovable",
+      "title": "Lovable is a founding member of the Blueprint Alliance",
+      "url": "https://lovable.dev/blog/lovable-founding-member-blueprint-alliance",
+      "publishedAt": "2026-09-22T12:00:00.452Z",
+      "author": "",
+      "description": "Lovable joins AWS, CrowdStrike, Databricks, Docker, Google Cloud, Okta, Proofpoint, Salesforce, ServiceNow, Wiz, and Zscaler as a founding…",
+      "content": "Lovable joins AWS, CrowdStrike, Databricks, Docker, Google Cloud, Okta, Proofpoint, Salesforce, ServiceNow, Wiz, and Zscaler as a founding member of the Blueprint Alliance."
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery by Ben Thompson",
+      "title": "Amazon Blocks Muse, Amazon’s Moat, Aggregator v Aggregator",
+      "url": "https://stratechery.com/2026/amazon-blocks-muse-amazons-moat-aggregator-v-aggregator/",
+      "publishedAt": "2026-09-22T10:00:00.808Z",
+      "author": "Ben Thompson",
+      "description": "Amazon predictably blocked Muse, but there is room for a deal based on the reality that Amazon's physical world investments are an AI moat.",
+      "content": "Amazon predictably blocked Muse, but there is room for a deal based on the reality that Amazon's physical world investments are an AI moat."
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery",
+      "title": "Amazon Blocks Muse, Amazon’s Moat, Aggregator v Aggregator",
+      "url": "https://stratechery.com/",
+      "publishedAt": "Tue, 22 Sep 2026 10:00:00 +0000",
+      "author": "Ben Thompson",
+      "description": "Amazon predictably blocked Muse, but there is room for a deal based on the reality that Amazon's physical world investments are an AI moat.",
+      "content": "Amazon predictably blocked Muse, but there is room for a deal based on the reality that Amazon's physical world investments are an AI moat.\n\n---\n\nListen to this Update in your podcast player\n\n---\n\nGood morning,\n\nOn Thursday’s episode of Sharp Tech , we discussed Andrew’s article on Sharp Text about the AI doom debate, why China risks falling into a familiar trap with distillation, and Walmart’s Apple Pay capitulation.\n\nOne bit of clarity on yesterday’s Article Frontier Overhangs : I heard from a trusted source that if you do incorporate past training (i.e. the training that created models that are being served for revenue) into Anthropic’s financials via depreciation, they are definitely still profitable (setting aside stock-based compensation) and healthily so. That is clarifying, although it doesn’t change the overall takeaway about the need for continued revenue growth to pay for future training.\n\nOn to the Update:\n\nAmazon Blocks Muse\n\nFrom GeekWire :\n\nAmazon says it has cut off Meta’s new Muse personal AI agent from shopping on Amazon.com on behalf of customers, after attempting unsuccessfully to get the Facebook parent company to voluntarily exclude the e-commerce site from the experience. The problem, Amazon says, is that it never agreed to any of it. Meta didn’t tell Amazon that Muse would access its store, the agent doesn’t identify itself when it browses, and it appears to capture and store customer credentials, which the company says could create privacy and security risks.\n\nAs of Sunday night, people trying to use Muse to shop on Amazon were seeing the popup, “Continued access by an unauthorized AI agent violates Amazon’s Conditions of Use, to which our customers have agreed.” “We think it’s fairly straightforward that third-party applications that offer to make purchases on behalf of customers from other businesses should operate openly and respect service provider decisions about whether or not to participate,” an Amazon spokesperson said in a statement.\n\nThis was a very predictable outcome; Amazon started blocking agents over a year ago , and is suing Perplexity to stop the service from circumventing its robots.txt file. The company also never signed up for OpenAI’s Instant Checkout initiative, which was eventually canceled; instead the companies just last week agreed to a deal in which OpenAI will serve ads from Amazon’s demand-side platform.\n\nAmazon’s Moat\n\nOne of the reasons why tech became fairly boring by the time the 2020s rolled around is not only were we firmly in the age of Aggregators, but the biggest Aggregators had by-and-large come to a detente around who owned what. Apple shared devices and App Stores with Google, Google had search (which it shared with Apple), Meta had social, Microsoft had enterprise (including the cloud), and Amazon had e-commerce. The latter two competed for the cloud, but that is a platform competition; Aggregation is about owning demand, i.e. the consumer touchpoints in their respective domains.\n\nIt’s interesting in retrospect to see what each company was doing with their advantage in terms of preparing for the future; Apple invested in its own chips, Google in its own cloud service, Meta in the Metaverse, Microsoft in its cloud (and OpenAI), and Amazon in logistics. This tells its own story about the companies’ positions in AI: Apple is focused on its advantage in edge inference, Google is leaning into the cloud, and Microsoft is doing the same while repositioning itself as a neutral harness provider after its relationship with OpenAI fell apart. Meta, meanwhile, had to pivot and spent a lot of money to do so, but the early success of Muse suggests it just might work.\n\nAnd yet, of all of these companies, you could make the case that Amazon made the most important investments for an AI world, counterintuitive though it may seem. The reality is that everything that is digital is up for grabs; Muse is impressive and getting early traction , but it’s easy enough to envision a world where the entire personal-agent-in-an-app concept feels quaint.\n\nWhat will endure far longer is anything touching the physical world, and that is exactly where Amazon has spent a tremendous amount of time and money. It’s hard to believe, but it’s only been 10 years since I wrote The Amazon Tax ; that is of course a long time in terms of blog years, but it’s a very short amount of time in terms of one of the key predictions in that Article:\n\nIt seems increasingly clear that Amazon intends to repeat the model when it comes to logistics: after experimenting with six planes last year the company recently leased 20 more to flesh out its private logistics network; this is on top of registering its China subsidiary as an ocean freight forwarder. No surprise that, as the Wall Street Journal noted :\n\nIn a securities filing, Amazon for the first time identified “companies that provide fulfillment and logistics services for themselves or for third parties, whether online or offline” as competition. And it referred to itself as a “transportation service provider.” In both cases, it marked the first time Amazon included such language in its annual report, known as a 10-K.\n\nSo how might this play out? Well, start with the fact that Amazon itself would be this logistics network’s first-and-best customer, just as was the case with AWS. This justifies the massive expenditure necessary to build out a logistics network that competes with UPS, Fedex, et al, and most outlets are framing these moves as a way for Amazon to rein in shipping costs and improve reliability, especially around the holidays.\n\nHowever, I think it is a mistake to think that Amazon will stop there: just as they have with AWS and e-commerce distribution I expect the company to offer its logistics network to third parties, which will increase the returns to scale, and, by extension, deepen Amazon’s eventual moat.\n\nThat moat has been built, and this is its biggest test yet; one way to think about Muse is that it is Meta’s play for a new Aggregation service. In this case, however, the company isn’t looking to own a user’s social network, or entertainment more broadly; Muse is seeking to be the user’s interaction layer for the entire Internet, including e-commerce.\n\nAmazon, needless to say, has no desire to give up its position as the primary user interface for e-commerce. That privileged position has all of the advantages that accrue to an Aggregator:\n\nAmazon gets a huge amount of data about users and what they want.\n\nAmazon gets the opportunity to recommend things to users, increasing cart size.\n\nAmazon gains power over suppliers who have no choice but to accede to Amazon’s terms of business in order to reach demand, i.e. Amazon’s users.\n\nAnd, most critically, Amazon has the surface to advertise to end users. Advertising is the most natural Aggregator business model, and is the key to being a Super-Aggregator ; when I defined that term in 2017 the only two companies I mentioned were Google and Facebook, but now there is very clearly a triumvirate. After all, it’s not just that Amazon’s ad business is large; it’s also critical to Amazon’s profitability. Last year Amazon sold $68 billion worth of ads, almost exactly double the $34 billion in profit that Amazon made from its e-commerce business; without ads Amazon’s retail business would run at a loss.\n\nAggregator v Aggregator\n\nThis is all essential context for understanding this dispute, and gives hints as to how it will play out.\n\nFirst, Amazon is not moved by appeals to the customer experience. The reality of Amazon’s ads is that they are a skim; indeed, while I put Google in this category — most monetized searches have what you are looking for at the top of the search results — Amazon is worse, given the fact that not only search results but also product pages are overwhelmingly filled with ads. In other words, the entire ad experience on Amazon is detrimental to the customer experience; the motivation here is making money, not making customers happy.\n\nSecond, Amazon has a business imperative to protect its ad business. Sure, agents are cool and all, but Amazon isn’t in a position to cater to them without carefully considering the impact on its bottom line. That means the company is not going to easily fold on this question.\n\nThird, it’s worth pointing out that all available evidence is that for large retailers, agentic shopping doesn’t just mean no ads to show, but also smaller cart sizes that are less likely to convert. Walmart, Amazon’s most direct competitor in terms of both catalog size and delivery speed (the hour delivery times if you live relatively close to a Walmart store are amazing), jumped in feet first to OpenAI’s Instant Checkout program, only to bail a few months later when Instant Checkout converted at 1/3 the rate of customers on Walmart’s site or app, and with materially smaller cart sizes as well. Now it’s possible that is an implementation issue, but I wouldn’t necessarily expect Walmart to pick up the slack here.\n\nFourth, Amazon still has a trump card: at the end of the day your purchase needs to make it to your house, and ideally make it to your house the same day or the next day, or at worst in two days. Amazon can credibly make the promise that they will do just that thanks to the last decade of investment; that’s why I find myself regularly ignoring ChatGPT or Claude’s e-commerce links, and instead simply searching for the item in question on Amazon. Yeah, having to be a copy-and-paste bot is annoying, but what is really annoying is not getting my package in a prompt manner.\n\nNow it is true that Shopify is leaning in. However, read this tweet from CEO Tobi Lütke carefully:\n\nWe are excited to announce we are partnering deeply with Muse to enable agentic checkout with Shop Pay on all Shopify stores, offering people an easy and delightful way to shop and check out with Muse. pic.twitter.com/KmRlKjoLoq\n\n— tobi lutke (@tobi) September 21, 2026\n\nShopify does not have an ad business to protect; what they do care about is owning the transaction, which is why this integration is about preserving Shop Pay’s position. And, while Shopify does own the long tail — I’ve been consistently optimistic about Shopify’s prospects in the AI era — it’s not an Amazon or Walmart replacement.\n\nAll of that noted, Meta does care very much about the user experience, and if a user can’t shop for anything and everything, the experience is worse, so there is a high level of motivation to figure this out. Moreover, Meta might be willing to give more than you might think at this specific moment in time. First, Muse is the company’s highest priority, particularly since it already has the makings of a hit. Second, I didn’t highlight it at launch , but Meta is taking a pretty restrained approach to the data you put into Muse. From the announcement post :\n\nMuse doesn’t share a person’s conversations or the data in their VM with Meta’s ad systems.\n\nThat Meta made this promise speaks to how important Muse usage is to the company: Muse data is obviously going to be a goldmine, and because of that Meta potentially using it is a reason for end users to be wary — thus the promise not to. What is interesting is that very few people seem to have picked up on this promise — I’m not sure how much slower Muse’s takeoff would have been without it — but the fact of the matter is that it exists.\n\nTo that end, is there room to extend the deal that Meta already has with Amazon? Back in 2023 Meta and Amazon agreed to allow users to link their Meta and Amazon accounts and make purchases directly from Amazon ads in Facebook and Instagram; I actually don’t really remember hearing much about this deal since then — Meta moved away from in-app checkout last year, which may or may not be related — but it’s interesting to consider how the general outline might apply here.\n\nSpecifically, is it possible that the first way that Meta monetizes Muse is not through its own data, but throu..."
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 8,
+    "totalTweets": 15,
+    "blogPosts": 6,
+    "podcastEpisodes": 0
+  }
+}
