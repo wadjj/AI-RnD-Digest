@@ -1,0 +1,309 @@
+{
+  "generatedAt": "2026-09-24T00:32:33.068Z",
+  "runKey": "2026-09-24",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "cat",
+      "handle": "_catwu",
+      "bio": "Twitter @cat",
+      "tweets": [
+        {
+          "id": "https://twitter.com/_catwu/status/2102868666740351021",
+          "text": "RT ClaudeDevs\nWe made claude.ai 3x faster in two weeks.\n\nHere’s how we use Claude to measure, debug and improve performance. Prompts and methods included.\n\nhttps://claude.dev/blog/how-we-made-claude-ai-faster/",
+          "createdAt": "2026-09-23T19:17:05.447Z",
+          "url": "https://x.com/_catwu/status/2102868666740351021",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/_catwu/status/2102569951974584612",
+          "text": "If you’re looking for ways to try Opus 5.5 and Claude Tag in Slack…\n---\n Boris Cherny: I used Opus 5.5 to formally verify the Claude Agent SDK using Lean. A couple short prompts = 16 PRs fixing various bugs and race conditions. Video attached.\n\nTLA+ also works well. I sometimes combine Lean and TLA+ to look for issues around data flow, concurrency, and state mgmt.",
+          "createdAt": "2026-09-23T01:25:15.861Z",
+          "url": "https://x.com/_catwu/status/2102569951974584612",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/bcherny/status/2102543349102338309\nBoris Cherny: I used Opus 5.5 to formally verify the Claude Agent SDK using Lean. A couple short prompts = 16 PRs fixing various bugs and race conditions. Video attached.\n\nTLA+ also works well. I sometimes combine Lean and TLA+ to look for issues around data flow, concurrency, and state mgmt."
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Sholto Douglas",
+      "handle": "_sholtodouglas",
+      "bio": "Twitter @Sholto Douglas",
+      "tweets": [
+        {
+          "id": "https://twitter.com/_sholtodouglas/status/2102834342766727411",
+          "text": "RT Logan Graham\nBuilding a bio-shield for humanity by ~2030 is one of the great quests (to use @_sholtodouglas' term) of our time. It's one of the biggest, most exciting technological challenges ever\n\nThis is why I'm excited about @pilgrimlabs\n---\n Jake Adler: 1/ Biological threats can bring a country to a halt without a single shot being fired. Yet much of our biodefense infrastructure has barely changed in decades, even as America’s institutions produce extraordinary scientific breakthroughs.",
+          "createdAt": "2026-09-23T18:09:24.787Z",
+          "url": "https://x.com/_sholtodouglas/status/2102834342766727411",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/_sholtodouglas/status/2102821591227002953",
+          "text": "We can get to a defence dominant world if we build it\n---\n Jake Adler: 1/ Biological threats can bring a country to a halt without a single shot being fired. Yet much of our biodefense infrastructure has barely changed in decades, even as America’s institutions produce extraordinary scientific breakthroughs.",
+          "createdAt": "2026-09-23T18:05:10.312Z",
+          "url": "https://x.com/_sholtodouglas/status/2102821591227002953",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/jakeadler/status/2102812430808363433\nJake Adler: 1/ Biological threats can bring a country to a halt without a single shot being fired. Yet much of our biodefense infrastructure has barely changed in decades, even as America’s institutions produce extraordinary scientific breakthroughs."
+        },
+        {
+          "id": "https://twitter.com/_sholtodouglas/status/2102774089534628187",
+          "text": "RT Eric Abrams\nToday we launched Opus 5.5, which matches and even beats Mythos 5.1 on many bio-related tasks. We launched Opus 5.5 with the same safeguards as Fable 5.1, which means that most bio-related queries fall back to Opus 5. To use Opus 5.5 for life sciences work, enroll in our Life Science Verification Program (LSVP).\n\nI imagine that many in the bio community will be frustrated by this decision and I want to share more context on how I think about these things. I also want to say upfront—bio is one of our most significant areas of focus, and it’s why I’m here. When we set about designing the new LSVP, it was with the goal of providing broad access for life sciences professionals with far fewer annoying classifier misfires, while also protecting against many of the more sophisticated risks.\n\nNaively, it would seem that we have to choose between enabling broad access and protecting against misuse—I view this as a false choice. The key is to think of developing these safeguards as an engineering problem that requires the same level of investment, ingenuity, and ops execution as developing our frontier models, or any other large scale technical project.\n\nThe risks we’re defending against—which, as we shared in our threat report a few weeks ago, are no longer hypothetical—were certainly not obvious to me until recently, and I imagine are also not top of mind for most biologists. When most people picture bio risk, they imagine a small group trying to develop a bioweapon in a single session, from their own account. The threats that we need to defend against are much more sophisticated than that. They include malicious work split over hundreds of distinct benign-looking sessions run from different accounts, and legitimate organizations’ accounts being hacked by a well-resourced actor or misused by a rogue employee.\n\nTo protect against these risks and provide a better experience for our users who are doing legitimate life sciences work, in the LSVP we’ve introduced the concept of use-case grants. While it isn’t always possible to distinguish benign from harmful usage in isolation, it becomes much easier when comparing activity against a team’s own description of intended usage. You describe what your team works on at a high level, without revealing anything sensitive. Data are retained for 30 days, and automated offline review compares usage against that description and flags notable mismatches for a strictly compartmentalized review team. My team, the life sciences org, can never access this data. Because of these additional safeguards, for users in the LSVP we're able to tune down the classifiers so that they misfire far less often, without sacrificing on safety.\n\nI’ve described why I believe that the LSVP provides a better way for people to use our most capable models in bio, but one can still wonder: why are we implementing this now? There is no unambiguous threshold for when model capabilities reach a point that they start posing grave risks. But capabilities in bio, as in most other domains, progress very quickly and we should not be in the business of trying to time it perfectly. When in doubt, we’ll always choose to proceed with caution, and I’d much rather implement this new system too early than too late.\n\nThe LSVP is currently in beta, which means that there are lots of improvements that we’re working on. We’re working to expand it so that individuals can get access—for example, for people developing or identifying treatments for a family member’s cancer or rare disease. Personally, I feel both the urgency to get our models into the hands of the broader life sciences community and a visceral sense of the stakes in getting it right. I think this is the right balance, and I look forward to seeing what people do with our most capable models.\n\nhttps://www.anthropic.com/news/life-sciences-verification-program",
+          "createdAt": "2026-09-23T09:27:02.611Z",
+          "url": "https://x.com/_sholtodouglas/status/2102774089534628187",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Twitter @Ethan Mollick",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2102814884111249872",
+          "text": "This is both fun and a useful measure of how much better multimodal AI has gotten\nIn a short time.\n---\n Epoch AI: Can AI tell if you've built your IKEA furniture wrong? Our new benchmark, the Furniture Assembly Benchmark (FAB), gives models the manual and a photo of a half-completed piece of furniture and asks them to spot the mistake.\n\nThe top score has gone from 28% to 80% in just 10",
+          "createdAt": "2026-09-23T17:38:31.045Z",
+          "url": "https://x.com/emollick/status/2102814884111249872",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/EpochAIResearch/status/2102810709868617731\nEpoch AI: Can AI tell if you've built your IKEA furniture wrong? Our new benchmark, the Furniture Assembly Benchmark (FAB), gives models the manual and a photo of a half-completed piece of furniture and asks them to spot the mistake.\n\nThe top score has gone from 28% to 80% in just 10"
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2102594959618736317",
+          "text": "Re Open source here: https://github.com/emollick/orbital-declaration\n\nAnd if you like this, the most realistic space game I have played is Children of a Dead Earth (I have no connection to the game, except as a player): https://www.childrenofadeadearth.com/\n\nAlso I had the AI research here: https://projectrho.com/public_html/rocket/",
+          "createdAt": "2026-09-23T03:04:37.402Z",
+          "url": "https://x.com/emollick/status/2102594959618736317",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2102593821376696785",
+          "text": "I had Fable/Opus build a hard science fiction starship combat game, with orbital mechanics, delta-v, heat, and realistic tactics, but simplified for 2D space with the hard math done by the game.\n\nIts quite fun to play (if you like this kind of thing): https://orbital-declaration.netlify.app/",
+          "createdAt": "2026-09-23T03:00:05.718Z",
+          "url": "https://x.com/emollick/status/2102593821376696785",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Twitter @Tibo",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2102814202117411196",
+          "text": "Voice! I've gotten so used to just call ChatGPT and talk about all the work, check on emails, do some coding, manage my calendar and it works across the full ecosystem of plugins, including 3P developed plugins.\n---\n OpenAI: We heard you loud and clear. ChatGPT Voice can now:\n\n- Use plugins like your email, calendar, and Slack.\n\n- Be powered by GPT-6 Astra, Sol, and Luna.\n\n- Be used in ChatGPT Work on web and mobile, so you can create docs, decks, sites, and spreadsheets or tackle complex tasks in",
+          "createdAt": "2026-09-23T17:35:48.563Z",
+          "url": "https://x.com/thsottiaux/status/2102814202117411196",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/OpenAI/status/2102808325742322002\nOpenAI: We heard you loud and clear. ChatGPT Voice can now:\n\n- Use plugins like your email, calendar, and Slack.\n\n- Be powered by GPT-6 Astra, Sol, and Luna.\n\n- Be used in ChatGPT Work on web and mobile, so you can create docs, decks, sites, and spreadsheets or tackle complex tasks in"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Gostev",
+      "handle": "petergostev",
+      "bio": "Twitter @Peter Gostev",
+      "tweets": [
+        {
+          "id": "https://twitter.com/petergostev/status/2102795881749840363",
+          "text": "RT The Information\nToday on TITV:\n\n-OpenAI, Anthropic release cheaper AI models | @petergostev, AI Capability Lead at Arena AI\n\n-Investors visit China as country’s AI prowess rises | @julia_hornstein\n\n-China probes DeepSeek and Moonshot AI | @jingyanghk\n\n-a16z unveils AI college alternative | @gaganbiyani, CEO at The Horowitz Andreessen Academy\n\n📺 Tune in at 10 am PT / 1 pm ET on https://thein.fo/4y6afqk",
+          "createdAt": "2026-09-23T16:10:59.849Z",
+          "url": "https://x.com/petergostev/status/2102795881749840363",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/petergostev/status/2102795956320178220",
+          "text": "RT Lisan al Gaib\nJust dropped my new article. Hope you enjoy it :)\n\nhttps://scaling01.substack.com/p/accidental-scaling",
+          "createdAt": "2026-09-23T15:53:49.235Z",
+          "url": "https://x.com/petergostev/status/2102795956320178220",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/petergostev/status/2102731092503695588",
+          "text": "Worms Armageddon — GPT-6 Astra vs Claude Fable 5.1 — Max Reasoning https://x.com/i/broadcasts/1XxygwXdoPdGM",
+          "createdAt": "2026-09-23T12:05:33.917Z",
+          "url": "https://x.com/petergostev/status/2102731092503695588",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Jeff Dean",
+      "handle": "JeffDean",
+      "bio": "Twitter @Jeff Dean",
+      "tweets": [
+        {
+          "id": "https://twitter.com/JeffDean/status/2102794572057461131",
+          "text": "RT Lucas Bleme 🌯\nLuiz André Barroso’s work influenced me a lot in how I think about systems, and even about my career.\n\nI decided to write about his work with @JeffDean on some topics that interest me a lot: tail latency and the systems behind the modern internet. https://andreybleme.com/2026-09-22/luiz-andre-barroso/",
+          "createdAt": "2026-09-23T14:47:00.568Z",
+          "url": "https://x.com/JeffDean/status/2102794572057461131",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Demis Hassabis",
+      "handle": "demishassabis",
+      "bio": "Twitter @Demis Hassabis",
+      "tweets": [
+        {
+          "id": "https://twitter.com/demishassabis/status/2102586395424600545",
+          "text": "RT Shane Legg\nMy 2008 PhD thesis was well ahead of its time :-)",
+          "createdAt": "2026-09-23T02:11:27.626Z",
+          "url": "https://x.com/demishassabis/status/2102586395424600545",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Gemini 3.8 TTS Playground",
+      "url": "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/",
+      "publishedAt": "2026-09-23T17:12:27.229Z",
+      "author": "",
+      "description": "Tool: Gemini 3.8 TTS Playground Google released two new Gemini text-to-speech models today - gemini-3.8-flash-tts and gemini-3.8…",
+      "content": "Tool: Gemini 3.8 TTS Playground\n\n Google released two new Gemini text-to-speech models today - gemini-3.8-flash-tts and gemini-3.8-flash-lite-tts .\n\n They come with a library of over 2,000 voices, plus the ability to create a custom voice with \"just a 30-second audio sample of your voice or a voice you have the rights to use\".\n\n I vibe coded this bring-your-own-key playground interface with GPT-6 Astra, taking advantage of the open CORS policy of the underlying Gemini API.\n\n A notable feature of the API is that it makes it easy to define a full conversation between multiple characters, each with different voices and voice style instructions.\n\n Here's a short demo clip of a conversation between two pelicans debating if they should move to the Pacifica Pier . I had Claude 4.5 Opus write the script and generate a URL to render it using the tool .\n\n Your browser does not support the audio element.\n\n It took ~20 seconds to generate 1m 18s of audio using Gemini 3.8 Flash TTS (not the cheaper Flash-Lite), at a cost of 2.74 cents.\n\n Tags: text-to-speech , gemini"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Shadow roots, explained with live examples",
+      "url": "https://simonwillison.net/2026/Sep/23/shadow-roots/",
+      "publishedAt": "2026-09-23T16:37:18.395Z",
+      "author": "",
+      "description": "Tool: Shadow roots, explained with live examples Prompt to Fable 5.1 Medium:\n\nBuild an artifact to explain shadow roots in CSS with…",
+      "content": "Tool: Shadow roots, explained with live examples\n\n Prompt to Fable 5.1 Medium:\n\n Build an artifact to explain shadow roots in CSS with interactive examples\n\n Tags: css"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "SF October 14th: A Birds of a Feather Session on Agentic Engineering",
+      "url": "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/",
+      "publishedAt": "2026-09-23T02:53:19.607Z",
+      "author": "",
+      "description": "SF October 14th: A Birds of a Feather Session on Agentic Engineering I'm hosting an evening event with Jesse Vincent in San Francisco on…",
+      "content": "SF October 14th: A Birds of a Feather Session on Agentic Engineering\n\nI'm hosting an evening event with Jesse Vincent in San Francisco on Wednesday 14th October for people who are building weird and interesting things with and on top of coding agents.\n\n Think of it as an agentic show-and-tell:\n\n ​Compare notes with other builders and experimenters on things you’re trying, what you're learning, and what you haven’t figured out yet. We’re especially interested in work you haven’t discussed publicly, odd experiments, or unfinished projects that don’t have an obvious market.\n\n ​Expect one flowing conversation with an informal show-and-tell. Sharing something you’re working on is encouraged but no presentation is required.\n\n This isn't about product pitches, it's about much earlier explorations than that. This agentic AI stuff is weird! Let's celebrate and lean into that weirdness.\n\n Tags: events , ai , generative-ai , llms , coding-agents , jesse-vincent , agentic-engineering"
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery by Ben Thompson",
+      "title": "More on Muse, Amazon, and Walmart; Muse and Expedia; Whither Google?",
+      "url": "https://stratechery.com/2026/more-on-muse-amazon-and-walmart-muse-and-expedia-whither-google/",
+      "publishedAt": "2026-09-23T10:00:00.428Z",
+      "author": "Ben Thompson",
+      "description": "Meta needs Walmart to wait out Amazon; Expedia seeks to keep its middleware position; meanwhile, where is Google?",
+      "content": "Meta needs Walmart to wait out Amazon; Expedia seeks to keep its middleware position; meanwhile, where is Google?"
+    },
+    {
+      "source": "blog",
+      "name": "Tomasz Tunguz",
+      "title": "The Most Important Market in AI is the Middle",
+      "url": "https://tomtunguz.com/the-most-important-market-in-ai-is-the-middle/",
+      "publishedAt": "2026-09-23T00:00:00.887Z",
+      "author": "",
+      "description": "Yesterday, Anthropic released a new model & cut its price. Ninety minutes later, OpenAI did the same. Most business AI use is the messy…",
+      "content": "Yesterday, Anthropic released a new model & cut its price. Ninety minutes later, OpenAI did the same.\n\n Most business AI use is the messy middle: multi-step workflows that need a smart enough model at a price a company can afford. It is the most important part of the market today, & it is where the competition is fiercest. The price cuts are the evidence.\n\n In June, Anthropic set the frontier price at $10 & $50 per million tokens with Fable 5. In July, OpenAI answered with GPT-5.6 Sol at $5 & $30, matching that capability at a third of the cost per task.\n\n The Opus line had never moved. Opus 4.5, 4, 4.8 & 5 all listed at $5 & $25 per million tokens. Yesterday’s cut was the first.\n\n It is even more extreme at the low end. OpenAI cut Luna by 80% in July, then cut it another 50% yesterday.\n\n More than just closed source rivalry, open models deflate prices too. The generics on the AI grocery aisle run a majority of token volume on the gateways that publish data, at an 86% discount to the blended price of closed models.\n\n Large customers pursue even greater savings with fine tuning. Cursor’s Composer 2 fine tuned Kimi K2.5, an open-weight base, cutting its overall cost 86% against its previous in-house model. Harvey did the same, cutting cost per cell 55% against Sonnet 5 while scoring higher than Fable 5.\n\n But the right tail of the market is thinner than almost anyone forecast. Anthropic’s Fable 5.1, its most capable & most expensive model, commanded only 3.7% of gateway spending in its first twelve days. Its predecessor peaked at 13.2% when access was restored in July, then fell to 4.9% a month later when Opus 5 shipped at half the price. Among large corporate accounts, frontier models fell from 53% of token consumption in early August to 45% by September.\n\n Demand for intelligence is not a pyramid with a small, wealthy peak paying for everything beneath it. It is a normal distribution with a fat middle. The middle buys intelligence per dollar.\n\n Intelligence costs keep plummeting. What enterprises demand from AI does not change nearly as fast. So the tier that satisfies a fixed requirement keeps getting cheaper.\n\n As intelligence per dollar explodes, the distribution of tokens may shift to commodity. Whether that happens will determine the economics of the AI market."
+    },
+    {
+      "source": "blog",
+      "name": "Lovable - Inside Lovable",
+      "title": "Faster builds, same quality: Opus 5.5 now in Lovable",
+      "url": "https://lovable.dev/blog/opus-5-5-now-in-lovable",
+      "publishedAt": "2026-09-22T16:30:00.395Z",
+      "author": "",
+      "description": "Faster builds, same quality: Opus 5.5 now in Lovable",
+      "content": "Faster builds, same quality: Opus 5.5 now in Lovable"
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 7,
+    "totalTweets": 14,
+    "blogPosts": 6,
+    "podcastEpisodes": 0
+  }
+}

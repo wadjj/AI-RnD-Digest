@@ -1,17 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/emollick/status/2097797992904282134": 1788999458727,
-    "https://twitter.com/emollick/status/2097767414435844099": 1788999458727,
-    "https://twitter.com/emollick/status/2097765662965846210": 1788999458727,
-    "https://twitter.com/gdb/status/2097789885591802350": 1788999458727,
-    "https://twitter.com/gdb/status/2097769891013280241": 1788999458728,
-    "https://twitter.com/gdb/status/2097530009447813400": 1788999458728,
-    "https://twitter.com/merettm/status/2097758971876483248": 1788999458728,
-    "https://twitter.com/JeffDean/status/2097785973514150263": 1788999458728,
-    "https://twitter.com/thsottiaux/status/2097559315150426222": 1788999458728,
-    "https://twitter.com/thsottiaux/status/2097492424474165293": 1788999458728,
-    "https://twitter.com/_sholtodouglas/status/2097547846618869964": 1788999458728,
-    "https://twitter.com/polynoamial/status/2097538536866238810": 1788999458728,
     "https://twitter.com/emollick/status/2098165335975231502": 1789085610126,
     "https://twitter.com/emollick/status/2098086824191099214": 1789085610126,
     "https://twitter.com/bcherny/status/2098165206296011059": 1789085610127,
@@ -153,15 +141,24 @@
     "https://twitter.com/bcherny/status/2102439069053747549": 1790123938296,
     "https://twitter.com/bcherny/status/2102440012331814944": 1790123938296,
     "https://twitter.com/_catwu/status/2102437713781944397": 1790123938296,
-    "https://twitter.com/markchen90/status/2102315801730564516": 1790123938296
+    "https://twitter.com/markchen90/status/2102315801730564516": 1790123938296,
+    "https://twitter.com/_catwu/status/2102868666740351021": 1790209953068,
+    "https://twitter.com/_catwu/status/2102569951974584612": 1790209953069,
+    "https://twitter.com/_sholtodouglas/status/2102834342766727411": 1790209953069,
+    "https://twitter.com/_sholtodouglas/status/2102821591227002953": 1790209953069,
+    "https://twitter.com/_sholtodouglas/status/2102774089534628187": 1790209953069,
+    "https://twitter.com/emollick/status/2102814884111249872": 1790209953069,
+    "https://twitter.com/emollick/status/2102594959618736317": 1790209953069,
+    "https://twitter.com/emollick/status/2102593821376696785": 1790209953069,
+    "https://twitter.com/thsottiaux/status/2102814202117411196": 1790209953069,
+    "https://twitter.com/petergostev/status/2102795881749840363": 1790209953069,
+    "https://twitter.com/petergostev/status/2102795956320178220": 1790209953069,
+    "https://twitter.com/petergostev/status/2102731092503695588": 1790209953069,
+    "https://twitter.com/JeffDean/status/2102794572057461131": 1790209953069,
+    "https://twitter.com/demishassabis/status/2102586395424600545": 1790209953069
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://lovable.dev/blog/introducing-lovable-partner-program": 1788999458728,
-    "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and": 1788999458728,
-    "https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent/": 1788999458728,
-    "https://simonwillison.net/2026/Sep/9/terence-tao/": 1788999458728,
-    "https://simonwillison.net/2026/Sep/8/on-navier-stokes/": 1788999458728,
     "https://simonwillison.net/2026/Sep/10/trynix/": 1789085610127,
     "https://simonwillison.net/2026/Sep/10/shopify-react-native/": 1789085610127,
     "https://simonwillison.net/2026/Sep/10/calif-research/": 1789085610127,
@@ -223,8 +220,14 @@
     "https://simonwillison.net/2026/Sep/22/llm-typesafe/": 1790123938296,
     "https://sebastianraschka.com/blog/2026/mimo-v2-6-pro-architecture-training-notes.html": 1790123938296,
     "https://lovable.dev/blog/lovable-founding-member-blueprint-alliance": 1790123938296,
-    "https://stratechery.com/2026/amazon-blocks-muse-amazons-moat-aggregator-v-aggregator/": 1790123938296
+    "https://stratechery.com/2026/amazon-blocks-muse-amazons-moat-aggregator-v-aggregator/": 1790123938296,
+    "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/": 1790209953069,
+    "https://simonwillison.net/2026/Sep/23/shadow-roots/": 1790209953069,
+    "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/": 1790209953069,
+    "https://stratechery.com/2026/more-on-muse-amazon-and-walmart-muse-and-expedia-whither-google/": 1790209953069,
+    "https://tomtunguz.com/the-most-important-market-in-ai-is-the-middle/": 1790209953069,
+    "https://lovable.dev/blog/opus-5-5-now-in-lovable": 1790209953069
   },
-  "lastRunKey": "2026-09-23",
-  "lastRunAt": "2026-09-23T00:38:58.302Z"
+  "lastRunKey": "2026-09-24",
+  "lastRunAt": "2026-09-24T00:32:33.075Z"
 }
