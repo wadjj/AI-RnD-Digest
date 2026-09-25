@@ -1,16 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/emollick/status/2098165335975231502": 1789085610126,
-    "https://twitter.com/emollick/status/2098086824191099214": 1789085610126,
-    "https://twitter.com/bcherny/status/2098165206296011059": 1789085610127,
-    "https://twitter.com/gdb/status/2098157918906384676": 1789085610127,
-    "https://twitter.com/gdb/status/2098157627838480705": 1789085610127,
-    "https://twitter.com/trq212/status/2098157600361861579": 1789085610127,
-    "https://twitter.com/thsottiaux/status/2098113585683808624": 1789085610127,
-    "https://twitter.com/thsottiaux/status/2098105060186374280": 1789085610127,
-    "https://twitter.com/thsottiaux/status/2097912273264095536": 1789085610127,
-    "https://twitter.com/karpathy/status/2098187194024476764": 1789085610127,
-    "https://twitter.com/petergostev/status/2098043156428152952": 1789085610127,
     "https://twitter.com/trq212/status/2098531560643539440": 1789172463928,
     "https://twitter.com/trq212/status/2098490139798655427": 1789172463928,
     "https://twitter.com/demishassabis/status/2098512214898376809": 1789172463928,
@@ -155,14 +144,21 @@
     "https://twitter.com/petergostev/status/2102795956320178220": 1790209953069,
     "https://twitter.com/petergostev/status/2102731092503695588": 1790209953069,
     "https://twitter.com/JeffDean/status/2102794572057461131": 1790209953069,
-    "https://twitter.com/demishassabis/status/2102586395424600545": 1790209953069
+    "https://twitter.com/demishassabis/status/2102586395424600545": 1790209953069,
+    "https://twitter.com/emollick/status/2103272686570918334": 1790296503082,
+    "https://twitter.com/emollick/status/2103259638145704260": 1790296503083,
+    "https://twitter.com/emollick/status/2103180095930196037": 1790296503083,
+    "https://twitter.com/demishassabis/status/2103213024668721308": 1790296503083,
+    "https://twitter.com/demishassabis/status/2103179817185407312": 1790296503083,
+    "https://twitter.com/petergostev/status/2103158843962196348": 1790296503083,
+    "https://twitter.com/petergostev/status/2103144606351372584": 1790296503083,
+    "https://twitter.com/JeffDean/status/2102996487596916786": 1790296503083,
+    "https://twitter.com/thsottiaux/status/2102996313780736363": 1790296503083,
+    "https://twitter.com/bcherny/status/2102971275543216623": 1790296503083,
+    "https://twitter.com/koraykv/status/2102964957587632555": 1790296503083
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://simonwillison.net/2026/Sep/10/trynix/": 1789085610127,
-    "https://simonwillison.net/2026/Sep/10/shopify-react-native/": 1789085610127,
-    "https://simonwillison.net/2026/Sep/10/calif-research/": 1789085610127,
-    "https://stratechery.com/2026/the-iphone-duo-the-intelligent-personal-hub-apple-watch-audio-intelligence/": 1789085610127,
     "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/": 1789172463929,
     "https://simonwillison.net/2026/Sep/11/boris-cherny/": 1789172463929,
     "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/": 1789172463929,
@@ -226,8 +222,16 @@
     "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/": 1790209953069,
     "https://stratechery.com/2026/more-on-muse-amazon-and-walmart-muse-and-expedia-whither-google/": 1790209953069,
     "https://tomtunguz.com/the-most-important-market-in-ai-is-the-middle/": 1790209953069,
-    "https://lovable.dev/blog/opus-5-5-now-in-lovable": 1790209953069
+    "https://lovable.dev/blog/opus-5-5-now-in-lovable": 1790209953069,
+    "https://stratechery.com/2026/an-interview-with-colossus-eic-jeremy-stern-about-profiling-mark-zuckerberg/": 1790296503083,
+    "https://simonwillison.net/2026/Sep/24/commit-rewriter/": 1790296503083,
+    "https://simonwillison.net/2026/Sep/24/datasette/": 1790296503083,
+    "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/": 1790296503083,
+    "https://lovable.dev/blog/chat-for-free": 1790296503083,
+    "https://lovable.dev/blog/how-lovable-agents-work-together": 1790296503083,
+    "https://tomtunguz.com/thinking-in-systems/": 1790296503083,
+    "https://cursor.com/cn/blog/improved-token-efficiency": 1790296503083
   },
-  "lastRunKey": "2026-09-24",
-  "lastRunAt": "2026-09-24T00:32:33.075Z"
+  "lastRunKey": "2026-09-25",
+  "lastRunAt": "2026-09-25T00:35:03.089Z"
 }

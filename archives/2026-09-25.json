@@ -1,0 +1,303 @@
+{
+  "generatedAt": "2026-09-25T00:35:03.082Z",
+  "runKey": "2026-09-25",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Twitter @Ethan Mollick",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2103272686570918334",
+          "text": "Um, wow?\n\nOpus 5.5: \"make the same message much more interesting to a social media audience that loves anime and quick clips and compressed learning\"\n\nOne shot.\n\nAlso, please do stay for the closing song.\n\n---\n Ethan Mollick: Hey Claude, \"Pick a problem or mystery that obsesses you and solve it as best you can & make a movie we can share on social media about it\"\n\nSo it took a crack at the Voynich Manuscript & failed. Then it made this movie, which is pretty interesting to watch and a good explainer.",
+          "createdAt": "2026-09-24T23:57:40.005Z",
+          "url": "https://x.com/emollick/status/2103272686570918334",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/emollick/status/2100767116819325141\nEthan Mollick: Hey Claude, \"Pick a problem or mystery that obsesses you and solve it as best you can & make a movie we can share on social media about it\"\n\nSo it took a crack at the Voynich Manuscript & failed. Then it made this movie, which is pretty interesting to watch and a good explainer."
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2103259638145704260",
+          "text": "All of this effort from the AI labs pouring into proofs, but there are so many other interesting problems in other fields\n\nFor example, this historian used AI to make progress on the cyphers of John Dee & the intellectual antecedents that Darwin drew from. https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+          "createdAt": "2026-09-24T23:05:49.430Z",
+          "url": "https://x.com/emollick/status/2103259638145704260",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2103180095930196037",
+          "text": "I propose this as the official replacement for the famous (and now saturated) METR Long Task Horizon chart that used to be in every AI presentation.",
+          "createdAt": "2026-09-24T17:49:44.027Z",
+          "url": "https://x.com/emollick/status/2103180095930196037",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Demis Hassabis",
+      "handle": "demishassabis",
+      "bio": "Twitter @Demis Hassabis",
+      "tweets": [
+        {
+          "id": "https://twitter.com/demishassabis/status/2103213024668721308",
+          "text": "RT Sundar Pichai\nCan our TPUs survive and operate in space? Well, we're going to find out.\n\nProject Suncatcher is hitching a ride aboard @SpaceX's Transporter-18 mission, testing a prototype satellite built in partnership with @planet\n\nOne small step for TPUs....",
+          "createdAt": "2026-09-24T19:45:15.691Z",
+          "url": "https://x.com/demishassabis/status/2103213024668721308",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/demishassabis/status/2103179817185407312",
+          "text": "RT Shane Legg\nToday we have 3 new DeepMind Institute essays:\n\nHow can we control misbehaviour in agent swarms?\nHow should we orchestrate complex networks of AIs and people?\nThe case for making AGI’s benefits equitably distributed.\n\nGet them here -> https://bit.ly/deepmind-institute",
+          "createdAt": "2026-09-24T14:05:33.553Z",
+          "url": "https://x.com/demishassabis/status/2103179817185407312",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Gostev",
+      "handle": "petergostev",
+      "bio": "Twitter @Peter Gostev",
+      "tweets": [
+        {
+          "id": "https://twitter.com/petergostev/status/2103158843962196348",
+          "text": "xAI <> Anthropic 6-months compute deal expires in a month. Given how the direction of both labs are going, my prediction is that xAI either takes the compute back or doubles the price.",
+          "createdAt": "2026-09-24T16:25:17.087Z",
+          "url": "https://x.com/petergostev/status/2103158843962196348",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/petergostev/status/2103144606351372584",
+          "text": "LIVE: Opus 5.5, GPT 6 Sol/Luna, Muse, Gemini 3.8 TTS & more AI news https://x.com/i/broadcasts/1AxRnZEmBdRxl",
+          "createdAt": "2026-09-24T15:28:43.360Z",
+          "url": "https://x.com/petergostev/status/2103144606351372584",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Jeff Dean",
+      "handle": "JeffDean",
+      "bio": "Twitter @Jeff Dean",
+      "tweets": [
+        {
+          "id": "https://twitter.com/JeffDean/status/2102996487596916786",
+          "text": "Did you know you can learn interesting things from computations in real rat neurons? I love what @AlexKsendzovsky and team are doing at @BioComputingCo are doing.\n---\n Alex Ksendzovsky: What happens when neurons meet silicon? A new world emerges.\n\nPartnering with Amazon to bring it to customers. DM me for early access.",
+          "createdAt": "2026-09-24T05:40:09.093Z",
+          "url": "https://x.com/JeffDean/status/2102996487596916786",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/AlexKsendzovsky/status/2102506511939559566\nAlex Ksendzovsky: What happens when neurons meet silicon? A new world emerges.\n\nPartnering with Amazon to bring it to customers. DM me for early access."
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Twitter @Tibo",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2102996313780736363",
+          "text": "Can't wait for DevDay next Tuesday.\n\nSome really fun stuff, but also many many things that should change the way you work. It's been our most ambitious sprint and Astra has really made new things possible in such short amounts of time.",
+          "createdAt": "2026-09-24T05:39:27.449Z",
+          "url": "https://x.com/thsottiaux/status/2102996313780736363",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Boris Cherny",
+      "handle": "bcherny",
+      "bio": "Twitter @Boris Cherny",
+      "tweets": [
+        {
+          "id": "https://twitter.com/bcherny/status/2102971275543216623",
+          "text": "It was an honor to meet Donald Knuth at the Computer History Museum today",
+          "createdAt": "2026-09-24T03:59:58.891Z",
+          "url": "https://x.com/bcherny/status/2102971275543216623",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "koray kavukcuoglu",
+      "handle": "koraykv",
+      "bio": "Twitter @koray kavukcuoglu",
+      "tweets": [
+        {
+          "id": "https://twitter.com/koraykv/status/2102964957587632555",
+          "text": "Thanks for having me, It was great chatting with you!\n---\n Jessica Lessin: @koraykv and I just had a wide ranging conversation at @theinformation AI Summit in his first interview since running all of DeepMind and I can’t wait to share the video with all of you.\n\nWhat struck me (and these are based on scribbles while interviewing him)\n\n- Gemini 4 coming",
+          "createdAt": "2026-09-24T03:34:51.053Z",
+          "url": "https://x.com/koraykv/status/2102964957587632555",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/Jessicalessin/status/2102930493666898012\nJessica Lessin: @koraykv and I just had a wide ranging conversation at @theinformation AI Summit in his first interview since running all of DeepMind and I can’t wait to share the video with all of you.\n\nWhat struck me (and these are based on scribbles while interviewing him)\n\n- Gemini 4 coming"
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "commit-rewriter 0.2",
+      "url": "https://simonwillison.net/2026/Sep/24/commit-rewriter/",
+      "publishedAt": "2026-09-24T20:06:53.694Z",
+      "author": "",
+      "description": "Release: commit-rewriter 0.2 Support for branches other than the default branch. Use uvx commit-rewriter --branch other to run…",
+      "content": "Release: commit-rewriter 0.2\n\n Support for branches other than the default branch. Use uvx commit-rewriter --branch other to run against another branch. #3\n\n Tags: git"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "datasette 1.0a41",
+      "url": "https://simonwillison.net/2026/Sep/24/datasette/",
+      "publishedAt": "2026-09-24T19:15:23.556Z",
+      "author": "",
+      "description": "Release: datasette 1.0a41 Alec Garcia added support for OpenTelemetry to Datasette in this release.\n\nI've also refactored all of…",
+      "content": "Release: datasette 1.0a41\n\n Alec Garcia added support for OpenTelemetry to Datasette in this release.\n\n I've also refactored all of Datasette's modal dialogs to a single Web Component, which is now documented for other plugins to use .\n\n Tags: javascript , datasette , web-components , alex-garcia , opentelemetry"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
+      "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
+      "publishedAt": "2026-09-22T23:46:41.380Z",
+      "author": "",
+      "description": "Yesterday was Grok 4.7 (pelicans) and MiMo v2.6 Flash/Pro (more pelicans). Today Anthropic released Claude Opus 5.5, and around an hour…",
+      "content": "Yesterday was Grok 4.7 ( pelicans ) and MiMo v2.6 Flash/Pro ( more pelicans ). Today Anthropic released Claude Opus 5.5 , and around an hour later OpenAI released GPT-6 Sol and GPT-6 Luna . It's going to take a while to get a good read on all of these new models, but here are my impressions so far.\n\n GPT-6 Sol and Luna are half the price of their GPT-5.6 equivalents\n\n GPT-5.6 Luna was already my favorite model for building applications against, because it combined excellent performance with being really cheap . Somehow GPT-6 Luna is half the price of that again - and GPT-6 Sol had a similar reduction compared to GPT-5.6 Sol.\n\n Here's what the pricing landscape looks like today:\n\n Model\n Input\n Cached input\n Output\n\n GPT-6 Luna\n $0.10/M\n $0.01/M\n $0.50/M\n\n GPT-5.6 Luna\n $0.20/M\n $0.02/M\n $1.20/M\n\n Grok 4.7\n $2/M\n $0.50/M\n $6/M\n\n GPT-6 Sol\n $2/M\n $0.20/M\n $10/M\n\n GPT-5.6 Terra\n $2/M\n $0.20/M\n $12/M\n\n Claude Opus 5.5\n $4/M\n $0.20/M\n $20/M\n\n GPT-5.6 Sol\n $4/M\n $0.40/M\n $20/M\n\n Claude Fable 5.1\n $10/M\n $0.25/M\n $50/M\n\n GPT-6 Astra\n $10/M\n $1/M\n $50/M\n\n Note that GPT-5.6 has a scheduled 25% price increase for November, so GPT-6 is half the price of the promotional pricing for those models.\n\n (With GPT-5.6 Terra priced the same as GPT-6 Sol, any remaining reasons to use Terra just evaporated.)\n\n It's hard to overstate how competitive this pricing is. Grok 4.7 priced itself at $2/$6, less than half the price of GPT-5.6 Sol, but is now equally priced to GPT-6 Sol on input and closer on output.\n At $0.10/$0.50 GPT-6 Luna is one of the cheapest models OpenAI have ever released, beaten only by the far weaker GPT-4.1 Nano ($0.10/$0.40, April 2025) and GPT-5 Nano ($0.05/$0.40, August 2025).\n\n I rendered pelicans for GPT-6 Luna and for GPT-6 Sol , then I combined them all together in this comparison grid along with the GPT-5.6 pelicans. I like how you can instantly see that the 5.6 family chose bolder, brighter colors, while the 6 family is a lot more muted. I still think GPT-6 Astra on max produced the best pelican.\n\n Claude Opus 5.5 got a price cut too\n\n Opus 5.5 looks like it addresses the biggest complaints people had about Opus in terms of its communication style. Thariq Shihipar :\n\n Opus 5.5 is the result of your feedback.\n\n It communicates clearly, it's cheaper per token than Opus 5.0 with the intelligence of Fable 5.1 it's very token efficient and works across every effort level.\n\n It's also meant to be better at Blender . I'm looking forward to putting it through its paces there.\n\n Opus 4.5, 4.6, 4.7, 4.8, and 5 all shared the same price: $5/million tokens for input and $25/million for output. 5.5 is a 20% reduction - $4/million and $20/million.\n\n The price for cache reads fell 60%. That's significant for longer agentic conversations, where 90%+ of input tokens are processed at cached token prices.\n\n The new price for Opus 5.5 is the same as the price for GPT-5.6 Sol, but that was before OpenAI dropped their Sol prices by half.\n\n GPT-6 Astra and Claude Fable 5.1 are both priced at $10/million input and $50/million output. The price war currently affects the next tier of models below that.\n\n Anthropic say that Sonnet 5.5 and Haiku 5.5 are coming soon. It's going to be interesting to see if Haiku can regain its price competitiveness at the lower end, given current Haiku 4.5 is $1/$5 while the latest GPT-6 Luna is one tenth of that price at $0.10/$0.50.\n\n Claude Opus 5.5 max over-thinks to the point of breaking\n\n In a first for my \" Generate an SVG of a pelican riding a bicycle \" test, Claude Opus 5.5 at \"max\" thinking level failed to return a response!\n\n It started by calling this \"a classic test request\", and then thought really, really hard about what it was doing:\n\n This is a classic test request, so I want to plan out a well-composed pelican with its distinctive beak and pouch riding a bicycle with proper wheels, frame, and pedals, set against a simple sky and ground backdrop. [...]\n\n Verifying the shin length checks out at roughly 95.2, close enough. Now I'm working out the near leg path from hip to knee to ankle, then sketching the foot shape resting on the pedal — outlining the heel, toe tips, and sole contour with a path using lines and curves to sit naturally on the pedal surface around y=478-494. [...]\n\n I like the fish sticking prominently out of the basket with the pelican eyeing it as a fun detail worth keeping. I'm also confirming the eye placement near the bill base matches typical pelican anatomy, and considering giving it a slightly happier expression. [...]\n\n The far leg reads correctly as passing behind the frame, so I'm moving on to check the chainring teeth and confirm layer ordering—the far crank arm should be mostly hidden by the seat tube and chainring. I'm settling on the final SVG's width and height attributes alongside the viewBox to ensure proper scaling, noting there's no text so no font-family is needed. [...]\n\n I was so excited to see this pelican... but then it stopped . Opus 5.5 has a 128,000 maximum output token limit (as do the other Claude models), and it hit that while it was still reasoning about the SVG!\n\n I tried a second time and got the same result. This makes me suspect that \"max\" is effectively useless - if it over-thinks to breaking point on a stupid SVG prompt I don't trust it not to do the same for more interesting work.\n\n (Those two failures each cost me $2.56 and took nearly 20 minutes.)\n\n Fable 5.1 on \"max\" didn't over-think and did give me the best pelican I've seen from any Anthropic model.\n\n Here are the Opus 5.5 pelicans , excluding 5.5 max.\n\n I also built this comparison grid comparing them with pelicans by Opus 5, Fable 5.1, and Sonnet 5:\n\n Comparing different model vendors by how well they draw a pelican riding a bicycle may not make much sense now (if it ever did), but I'm still finding value in using them for comparisons of the same model families at different reasoning levels.\n\n I'm now using GPT-6 Sol and Claude Opus 5.5 as my default models in Codex and Claude Code. I've upgraded the Datasette Agent demo at agent.datasette.io to use GPT-6 Luna, and it seems to be fast and competent at both SQL queries and building HTML and JavaScript for Datasette Apps .\n\n Tags: ai , openai , generative-ai , llms , anthropic , claude , llm-pricing , pelican-riding-a-bicycle , gpt"
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery by Ben Thompson",
+      "title": "An Interview with Colossus EIC Jeremy Stern About Profiling Mark Zuckerberg",
+      "url": "https://stratechery.com/2026/an-interview-with-colossus-eic-jeremy-stern-about-profiling-mark-zuckerberg/",
+      "publishedAt": "2026-09-24T10:00:00.278Z",
+      "author": "Ben Thompson",
+      "description": "An interview with Colossus EIC Jeremy Stern about profiling Mark Zuckerberg and other prominent tech figures.",
+      "content": "An interview with Colossus EIC Jeremy Stern about profiling Mark Zuckerberg and other prominent tech figures."
+    },
+    {
+      "source": "blog",
+      "name": "Lovable - Inside Lovable",
+      "title": "You can now chat with Lovable for free",
+      "url": "https://lovable.dev/blog/chat-for-free",
+      "publishedAt": "2026-09-24T08:40:00.907Z",
+      "author": "",
+      "description": "You can now chat with Lovable for free. Ask it which idea is worth building. Have it turn customer feedback into a plan. Put it to work on…",
+      "content": "You can now chat with Lovable for free. Ask it which idea is worth building. Have it turn customer feedback into a plan. Put it to work on an app you’ve already launched."
+    },
+    {
+      "source": "blog",
+      "name": "Lovable - Inside Lovable",
+      "title": "Inside Chats: How Lovable's Agents Work Together",
+      "url": "https://lovable.dev/blog/how-lovable-agents-work-together",
+      "publishedAt": "2026-09-24T08:40:00.198Z",
+      "author": "",
+      "description": "How Lovable's agents work together through trajectories, inboxes, and activations—the Git-inspired event log and Agent Control Plane behind…",
+      "content": "How Lovable's agents work together through trajectories, inboxes, and activations—the Git-inspired event log and Agent Control Plane behind Chats, streaming, forking, and agents that survive deploys."
+    },
+    {
+      "source": "blog",
+      "name": "Tomasz Tunguz",
+      "title": "Thinking in Systems, Shipping in Loops",
+      "url": "https://tomtunguz.com/thinking-in-systems/",
+      "publishedAt": "2026-09-24T00:00:00.983Z",
+      "author": "",
+      "description": "“Writing code by hand is no longer an economically productive enterprise for the vast majority of programmers working at the vast majority…",
+      "content": "“Writing code by hand is no longer an economically productive enterprise for the vast majority of programmers working at the vast majority of companies. That’s today. By the end of the year, it will be virtually all domains, virtually all programmers, virtually all companies.”\n\n David Heinemeier Hansson, CTO of 37signals · Rails World, Austin · 23 September 2026\n\n Software engineering have evolved to systems architecture. That was always the destination.\n\n This is the new software engineering : designing the systems that let AI write code correctly at scale.\n\n We see this in our portfolio companies. Artemis engineers merged 2 pull requests per day in January, 6 by May & 16 by August, 30,000 in eight months. 1 Dan Shiebler, their CTO, describes the division of labor plainly : every line of the platform is written by agents, & the engineers design systems, set constraints & review outputs. 2\n\n Great design scales. Lauren Tan, an engineer on SpaceXAI’s Grok team, ships 2,000 pull requests a month to production, nearly one hundred a working day. 3 Asked what makes that possible, she does not name a model but verification, loops that enable AI to validate its work.\n\n Dartmouth professor Donella Meadows argued that the most powerful places to intervene in a system are the least intuitive, & that people reliably find them & then turn them the wrong way. 4\n\n Three properties define great system design : resilience, self-organization & hierarchy.\n\n Resilience is AI checking its own work, robustly, through tests, a reviewer agent & production observability rather than one gate. Self-organization is the loop learning, so a class of failure becomes a new skill the agent applies next time. Hierarchy is the layering of skills, tools & sandboxes into composable components that are reused once verified to work.\n\n This work isn’t easy. Systems architecture never has been. It was my goal in 2005 as a Java software engineer just as much as it is today as we build out our agentic systems. 5\n\n “A new career as a professional maker of things. Yes, you will no longer be chiseling that code by hand, but you will be making amazing things. You will be steering intelligence.” 6\n\n---\n\n Artemis Security : 30,000 pull requests in eight months, an average of 16 merged per engineer per day in August 2026, up from 6 in May & 2 in January.  ↩︎\n\n Dan Shiebler , co-founder & CTO, Artemis Security : “Every line of code in our platform is written by AI agents. Our engineers design systems, set constraints, and review outputs.”  ↩︎\n\n The Complete Guide to pstack, Pt. 1 , Lauren Tan, 1 September 2026 : “It’s allowed me to ship 2,000 PRs a month to production with high confidence.” Her verification-skill example is MIT licensed . The New Stack profiled the workflow in One engineer shipped 2,000 PRs a month to production , 19 September 2026.  ↩︎\n\n Thinking in Systems : A Primer , Donella H. Meadows, 2008, chapter 6.  ↩︎\n\n Three Years In , 10 July 2026 : building Theory as a technical organization, agents to map markets & research infrastructure to cover the ground of a firm several times our size.  ↩︎\n\n Rails World 2026 Opening Keynote , David Heinemeier Hansson, Austin, 23 September 2026. He is co-owner & chief technology officer of 37signals.  ↩︎"
+    },
+    {
+      "source": "blog",
+      "name": "Research Posts · Cursor",
+      "title": "提升长时间智能体运行的 token 效率",
+      "url": "https://cursor.com/cn/blog/improved-token-efficiency",
+      "publishedAt": "2026-09-23T12:00:00.784Z",
+      "author": "",
+      "description": "Sep 23, 2026 提升长时间智能体运行的 token 效率\n\nJediah, Connor & Calvin\n1 分钟\nJediah, Connor & Calvin·1 分钟",
+      "content": "Sep 23, 2026\n 提升长时间智能体运行的 token 效率\n\n Jediah, Connor & Calvin\n 1 分钟\n Jediah, Connor & Calvin · 1 分钟"
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery",
+      "title": "An Interview with Colossus EIC Jeremy Stern About Profiling Mark Zuckerberg",
+      "url": "https://stratechery.com/2026/an-interview-with-colossus-eic-jeremy-stern-about-profiling-mark-zuckerberg/",
+      "publishedAt": "Thu, 24 Sep 2026 10:00:00 +0000",
+      "author": "Ben Thompson",
+      "description": "An interview with Colossus EIC Jeremy Stern about profiling Mark Zuckerberg and other prominent tech figures.",
+      "content": "An interview with Colossus EIC Jeremy Stern about profiling Mark Zuckerberg and other prominent tech figures.\n\n---\n\nListen to this Update in your podcast player\n\n---\n\nGood morning,\n\nThis week’s Stratechery Interview is with Colossus Editor-in-Chief Jeremy Stern . Stern is, in my estimation, the best profile writer working today. That is no small praise: as Stern notes, the profile is one of the critical American contributions to literature; that Stern focuses on tech and business is equally critical, given that these are the drivers of culture.\n\nLast week Stern published a fascinating profile of Meta CEO Mark Zuckerberg . This was, in full disclosure, a profile I participated in with an off-the-record interview. I did it because I appreciated the way that Stern had treated his previous subjects, most notably his profile of Palmer Luckey , which was Stern’s first.\n\nThat particular profile wasn’t that long ago, which is interesting in its own right. I was very interested to learn more about Stern’s fascinating background and circuitous route to his current career, which included an extended tour of duty as an explosive ordnance disposal officer in the U.S. Army. We talk about his career path, his shift to profile writing, and why someone like Zuckerberg would sit down with him. Then, we give a brief overview of his other profiles, including Scott Wu , Shyam Sankar , Josh Kushner , Neil Mehta , and Jake Sullivan . We also touch on Colossus and its attempt to bring back the best of American magazine culture.\n\nAs a reminder, all Stratechery content, including interviews, is available as a podcast; click the link at the top of this email to add Stratechery to your podcast player.\n\nOn to the Interview:\n\nAn Interview with Colossus EIC Jeremy Stern About Profiling Mark Zuckerberg\n\nThis interview is lightly edited for clarity.\n\nTopics:\n\nBackground | Writing Advice | Palmer Luckey | Mark Zuckerberg | Colossus\n\nBackground\n\nJeremy Stern, welcome to Stratechery.\n\nJS: Thanks for having me, Ben.\n\nYou are, I think it is safe to say, and relatively rapidly, the preeminent profile writer in tech. You just dropped an incredible profile of Mark Zuckerberg , which I want to dive into in a bit. For now, however, I get to turn the tables on you and profile you, if only for a few minutes. What is your background? If I’m writing a Jeremy Stern story and opening by recounting a conversation with your parents, which is how you opened the Mark Zuckerberg story, where am I and what do they say?\n\nJS: Yeah, it reminds me of this, there’s this great David Foster Wallace essay where he describes writers as natural lurkers and starers and watchers, and that they covet this image of themselves as witnesses, and that the thing that they’re most terrified of in the world is being watched by other people.\n\nI know, I didn’t tell you I was going to ask this question, so I sprung it on you.\n\nJS: I really stumbled into this by accident in the last couple of years. I’ve been writing for a while, all my previous writing had to do with American politics and German politics and foreign policy. I spent a while in the Army, the U.S. Army, and in the State Department, and I wrote about some of that stuff.\n\nJust wait. We’re going back to your parents, because I want to get to the Army stuff, I want to get to the foreign policy stuff, because I actually think it’s incredibly fascinating, you would actually make an interesting profile subject. So let’s go back. Where did you grow up? And you obviously didn’t start out as a writer. So what was your goal?\n\nJS: I grew up in LA, I went to college — I split college between Kenyon College in Ohio and Saint Petersburg State University in Russia.\n\nRight. And you studied Russian history, right?\n\nJS: I did, yeah. I studied Russian language and literature.\n\nAnd what was it? Did you get assigned Crime and Punishment in high school and you were hooked, or how did you end up there?\n\nJS: It was actually — I went to Kenyon because the Kenyon Review, it had this storied English department, and I thought I wanted to be an English major. And then I did so badly in high school Spanish that I didn’t place out of the language requirement that they had for freshman year at college so I was obligated to take one year of a foreign language. I just decided — I hated languages, and so I would just go for something that sounded zany and weird, and I chose Russian and then it’s one of those things where it changed my life. The professor who ran the department became probably the biggest person in my life up until that point, she’s an incredible teacher and mentor, she convinced me to go to Russia for a semester, which I then extended to a year, which I then extended to a year and a half.\n\nWhat gripped you about it?\n\nJS: I ended up not taking a single English course, I think, while I was there, because that need I had was totally satisfied by these Russian literature courses.\n\nSo to your question, yeah, we read all the great 19th century Russian novels, I was really hooked on that, I loved the language, a lot of the TV we would watch in class — watching TV in a foreign language is a good way to absorb it and figure out the colloquial usages of the language — was all these Soviet children’s cartoons and then we progressed to the Soviet family sitcoms and then the more esoteric and abstract stuff. I just got totally hooked on it and I went to Russia in 2009, 2010, which was probably the last time that things felt quasi-hopeful in the country.\n\nRight. You got there just in time.\n\nJS: It was delusional at the time to think that, but no one knew that, right? And certainly no one in Russia really had a grasp on that.\n\nSo this was this period where [Vladimir] Putin was the prime minister, technically, not the president — [Dmitry] Medvedev was, and it seemed like capitalism was transforming the country, you could point to the four-hour lines at the Burger King in Moscow. And so I had an incredible time, St. Petersburg is an amazing city, I lived with a Russian family for most of it, I had a Russian girlfriend, it was just amazing. And then, obviously, it’s extremely sad what happened, 2014 was the last time I was there, right before the invasion of Crimea .\n\nWhat would [Fyodor] Dostoevsky have to say about AI and effective altruism ?\n\nJS: You probably have a better opinion on this than I do. Have you read Demons recently?\n\nI’ve not recently — it’s been years. But whenever someone says they’re into Russia, I just assume the avenue is the exact avenue where I, and probably lots of people, got nerd-sniped by — you read Crime and Punishment or you read Demons or something long, and you’re like, “This is unbelievable, this is awesome.”\n\nJS: Yeah, exactly. I also haven’t read it in a long time, and I definitely haven’t read it since I found out that people in San Francisco are obsessed with this book. But I always — I was not, I mean, I love The Brothers Karamazov , but I was never a big Dostoevsky fan relative to [Leo] Tolstoy and [Anton] Chekhov .\n\nGot it. That’s always the divide, isn’t it?\n\nJS: It is.\n\nWhich one is your favorite? I was Dostoevsky — that was my favorite. But I guess we’ll have a bit of a sparring session.\n\nJS: Okay, yeah. So that suggests you’re edgier and a little cooler, like you’d prefer the Rolling Stones to the Beatles or something.\n\nI’m a Beatles guy, actually. Huh, that’s interesting, I didn’t know that was the way — that’s the way it lined up. But yes, sorry, we’re getting sidetracked, no channeling 19th century Russian authors and takes on AI?\n\nJS: No, I don’t think so. I mean, I’ve tried to read a lot of what people consider to be the Silicon Valley canon and some of it I love and some of it I have a really hard time getting through. But no, I haven’t revisited any Russian literature since the AI moment.\n\nSo you leave college after studying Russian and living in Russia — did you go straight to the U.S. military then?\n\nJS: I spent a year in Washington first, working at The American Interest magazine. This was Francis Fukuyama ‘s magazine back then, it’s since folded, after I think 2017 or 2018. But it was an American political quarterly and that’s where I learned how to do copy editing and editing and a little bit of writing on my own. But it was mostly cool just to spend time around him. And Walter Russell Mead was my boss there — the historian who writes for the Wall Street Journal, Adam Garfinkle was the editor.\n\nWell, I’ll jump in right there, actually, I was going to ask about Walter Russell Mead at the end. He wrote what is on my Mount Rushmore of the single most important pieces to understanding American politics, which is The Jacksonian Tradition and that was back in 1999, and it feels like it was written in 2015 during Trump’s first run for presidency, it’s incredible. And I’m curious — what’s it like doing a podcast with him every week, and what’s his current view on the state of the world?\n\nJS: Walter gave me my first full-time job out of college, I was his staff writer, and I was, I think, the first research assistant on the book that ended up not coming out until a couple of years ago , about American foreign policy in the Middle East, basically.\n\nBut Walter was just an absolutely unbelievable teacher and mentor and boss and part of what he would do is — I’d contribute, me and a couple of other people, we’d contribute to the blog that he was maintaining at The American Interest at the time called Via Media, which is basically news coverage and so we’d hang out at his apartment in Queens, in Jackson Heights, we’d split time between there and DC, and we’d write three- to eight-hundred-word blog posts in the morning and then he’d make us go around in a circle and read them, and he would tear them to shreds. We were like 21, 22 and he would just point out all the logical fallacies and the ways that the prose was terrible and how we didn’t know anything and it was a terrifying experience, but it was probably the most formative experience I had as a writer.\n\nHe then, as he is now, was one of the most prescient analysts of American history and American politics and yeah, it is crazy how much of the Jacksonian stuff has come true in the last ten years.\n\nIt’s incredible. It always feels like it was part one of a series, and we never got parts two, three, and four. So let him know — I’m waiting for the Hamiltonian tradition piece, I’m waiting for the Jeffersonian tradition piece, we need all of them. Anyhow, you work for him, he’s tearing your pieces to shreds to the extent that you’re like, “I need to go defuse bombs” — what was the shift here?\n\nJS: (laughing) That mostly came from — I don’t know if you have experience of DC, but at least my experience was most of the people I met were journalists, people who worked at think tanks, staffers on the Hill, maybe some people who worked in the Obama administration at the time and I kind of saw where your life could go if you move to DC and you never leave and it was increasingly unappealing to me and I got a little worried. I could see it happening to me easily and so I could retroactively come up with a justification for joining the Army that has to do with patriotism and a desire to serve, all of which was true, but also what was true is I was 22 and I was kind of impulsive, and I wanted to do something that sounded really adventurous.\n\nSo you just enlisted, you were just a grunt.\n\nJS: I went to a mall and I enlisted, I had a track to go to officer candidate school, but I had to go to basic training first, because I didn’t go to ROTC or West Point or anything like that. So yeah, I went to regular basic training with all the other 17- and 18-year-olds.\n\nAmazing. So why ordnance? Why is that the particular specialty you developed?\n\nJS: You’ve got the regular Army, which is the big, vanilla units and I think life in those units is maximally miserable, because these are the units that fight for funding the most and have the most Congressio..."
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 7,
+    "totalTweets": 11,
+    "blogPosts": 9,
+    "podcastEpisodes": 0
+  }
+}
