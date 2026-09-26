@@ -1,0 +1,147 @@
+{
+  "generatedAt": "2026-09-26T00:39:37.675Z",
+  "runKey": "2026-09-26",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Twitter @Ethan Mollick",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2103485857147617393",
+          "text": "Microsoft seems to sell its own Claw now (I suspect they will not be the last), which may help spread personal agents in organizations\n\nBut using a router with mystery models behind it is a big problem. Routers underestimate work difficulty in many fields resulting in bad outputs\n\n---\n Satya Nadella: We’re building Copilot as a new OS for work that spans every model, every form factor, and every task. Today, we’re announcing our biggest update to Copilot to date, bringing four things together:\n\n· Autopilot: proactive and long-running agent built for the enterprise\n· Code:",
+          "createdAt": "2026-09-25T14:04:43.422Z",
+          "url": "https://x.com/emollick/status/2103485857147617393",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/satyanadella/status/2103455884366188544\nSatya Nadella: We’re building Copilot as a new OS for work that spans every model, every form factor, and every task. Today, we’re announcing our biggest update to Copilot to date, bringing four things together:\n\n· Autopilot: proactive and long-running agent built for the enterprise\n· Code:"
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2103313194064179232",
+          "text": "It is extremely clear at this point in AI development that, regardless of risk or revenue or any of the other stuff discussed on X all the time, things are just going to keep getting weirder.\n\nJust super, super weird.",
+          "createdAt": "2026-09-25T02:38:37.061Z",
+          "url": "https://x.com/emollick/status/2103313194064179232",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Twitter @Tibo",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2103375711797211460",
+          "text": "Been a bit quiet here because internal Slack has been hilarious lately and because we are all locked in on DevDay. Tuesday will be fun.",
+          "createdAt": "2026-09-25T06:47:03.284Z",
+          "url": "https://x.com/thsottiaux/status/2103375711797211460",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Jeff Dean",
+      "handle": "JeffDean",
+      "bio": "Twitter @Jeff Dean",
+      "tweets": [
+        {
+          "id": "https://twitter.com/JeffDean/status/2103357445229990009",
+          "text": "This was recorded a few months ago when I was still at Google and it was a really fun conversation!\n---\n Warren Redlich - Chasing Dreams 🇺🇸: How does this only have 21,000 views in 8 days?\n\nChat with @JeffDean (then Google) and Bill Jia about large scale AI models.\n\nhttps://youtu.be/BVQSWeK2Nrw?si=MvMXdAEqjQE4HBOb",
+          "createdAt": "2026-09-25T05:34:28.872Z",
+          "url": "https://x.com/JeffDean/status/2103357445229990009",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/WR4NYGov/status/2103074413159850450\nWarren Redlich - Chasing Dreams 🇺🇸: How does this only have 21,000 views in 8 days?\n\nChat with @JeffDean (then Google) and Bill Jia about large scale AI models.\n\nhttps://youtu.be/BVQSWeK2Nrw?si=MvMXdAEqjQE4HBOb"
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Quoting John Gruber",
+      "url": "https://simonwillison.net/2026/Sep/25/john-gruber/",
+      "publishedAt": "2026-09-25T17:22:01.939Z",
+      "author": "",
+      "description": "Muse is getting a lot of attention — including mine — because it’s both groundbreaking technically (each user gets their own entire…",
+      "content": "Muse is getting a lot of attention — including mine — because it’s both groundbreaking technically (each user gets their own entire persistent Linux VM running in Meta’s cloud) and because it’s packaged in an easy-to-install easy-to-use way. It’s literally presented as a cute mascot . It’s the first consumer-accessible agentic AI system, and Meta has truly done an amazing job with that. But it’s a genuinely open question whether consumers have any understanding what this means. If you buy a power saw that can cut your fingers off, you are almost certainly aware that you are buying a power saw that can sever your fingers. [...] I don’t think people realize how powerful — and thus dangerous — Muse is, especially if it’s running on your Mac.\n\n — John Gruber , Muse Looks Cute, but Looks are Deceiving\n\n Tags: meta , ai , llms , general-agents , generative-ai , john-gruber , muse-agent , muse"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Northern Gannet, Great Blue Heron, California Brown Pelican",
+      "url": "https://simonwillison.net/2026/Sep/25/sighting-403293902/",
+      "publishedAt": "2026-09-25T02:07:04.676Z",
+      "author": "",
+      "description": "Northern Gannet, Great Blue Heron, California Brown Pelican, in Monterey Bay National Marine Sanctuary, CA, US, CA New 200-800mm Canon EF…",
+      "content": "Northern Gannet, Great Blue Heron, California Brown Pelican, in Monterey Bay National Marine Sanctuary, CA, US, CA\n New 200-800mm Canon EF lens got me my best photo of Morris yet. They really like hanging out under that sign in the harbor!\n\n Tags: photography , wildlife"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Note on 24th September 2026",
+      "url": "https://simonwillison.net/2026/Sep/24/harder/",
+      "publishedAt": "2026-09-24T23:31:08.743Z",
+      "author": "",
+      "description": "The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder. We can do amazing…",
+      "content": "The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder.\n\n We can do amazing things with them, but unlocking their full potential requires extraordinary discipline and knowledge.\n\n Tags: coding-agents , ai , llms"
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery by Ben Thompson",
+      "title": "2026.39: Begun, the Aggregator Wars Have",
+      "url": "https://stratechery.com/2026/begun-the-aggregator-wars-have/",
+      "publishedAt": "2026-09-25T17:00:00.235Z",
+      "author": "Ben Thompson",
+      "description": "Welcome back to This Week in Stratechery! As a reminder, each week, every Friday, we’re sending out this overview of content in the…",
+      "content": "Welcome back to This Week in Stratechery!\n\n As a reminder, each week, every Friday, we’re sending out this overview of content in the Stratechery bundle; highlighted links are free for everyone . Additionally, you have complete control over what we send to you. If you don’t want to receive This Week in Stratechery emails (there is no podcast), please uncheck the box in your delivery settings .\n\n On that note, here were a few of our favorites this week.\n\n Meta vs. Amazon. One of the best agent use cases is taking care of mundane things that are necessary but annoying. One of the best utilities Amazon provides is reliably delivering mundane things that are necessary and mundane. That means Muse is better if it can use Amazon, but that’s a problem for Amazon because Muse doesn’t see ads. As I explained on Tuesday , that’s why Amazon blocked Meta’s new agent, and they can get away from it because their differentiation is rooted in the physical world. To bridge that moat Meta will need help from one specific company: Walmart .\n\n GM Bends the Knee to CarPlay.  Three years ago on Sharp Tech we had a few weeks’ worth of lively discussion of GM’s controversial decision to abandon Apple CarPlay in favor of its own smartphone software (which would afford it access to proprietary data). I wasn’t sure it would be a problem, whereas Ben was incensed at GM’s myopia. Three years later now … Well, Ben was right, GM has announced it is re-integrating CarPlay after three years of customer and dealership backlash, and I was chuckling throughout Tuesday’s Dithering laying out how and why this outcome was inevitable .  — Andrew Sharp\n\n Profiling the Profiler. This week’s Stratechery Interview was with a writer I wasn’t familiar with and a body of work I’d never seen before. If you, like me, are a Colossus neophyte, then Ben’s conversation with Jeremy Stern is a good place to start. They discussed Stern’s journey to tech and business writing, why Ben considers him “the best profile writer working today,” and, in addition to quick hit takeaways from profiles of Scott Wu, Shyam Sankar, Josh Kushner, Neil Mehta, and Jake Sullivan, Stern’s recent profile of Mark Zuckerberg . Come for a great conversation, and stay for a behind-the-scenes discussion of Zuckerberg that appears to be much truer to life than that new Social Network sequel.  — AS\n\n---\n\n Stratechery Articles and Updates\n\n Frontier Overhangs — Pacing the frontier may be sincere, but it would also be strategically useful for the frontier labs to have time to reduce overhangs caused by model advancement.\n\n Amazon Blocks Muse, Amazon’s Moat, Aggregator v Aggregator — Amazon predictably blocked Muse, but there is room for a deal based on the reality that Amazon’s physical world investments are an AI moat.\n\n More on Muse, Amazon, and Walmart; Muse and Expedia; Whither Google? — Meta needs Walmart to wait out Amazon; Expedia seeks to keep its middleware position; meanwhile, where is Google?\n\n An Interview with Colossus EIC Jeremy Stern About Profiling Mark Zuckerberg — An interview with Colossus EIC Jeremy Stern about profiling Mark Zuckerberg and other prominent tech figures.\n\n Sharp Text by Andrew Sharp\n\n Too Many Stadiums with Roofs — On the new Washington Commanders stadium and a modern epidemic.\n\n Dithering with Ben Thompson and Daring Fireball’s John Gruber\n\n GM and CarPlay\n\n Muse Delivery Vehicles\n\n Asianometry with Jon Yu\n\n Intel’s Optane Memory: A Promise Unfulfilled\n\n High Bandwidth Flash Is Coming\n\n Sharp China with Andrew Sharp and Sinocism’s Bill Bishop\n\n Xi Jinping Comes to Washington; US-China Agenda, Questions and Expectations; The September Politburo Meeting\n\n Greatest of All Talk\n\n Breakouts, Breakdowns and Bouncebacks, The Jalen Duren Hostage Crisis, Surveying the Central Division\n\n Sharp Tech with Andrew Sharp and Ben Thompson\n\n Three Weeks of Meta Momentum, The Ultimate Muse Upside, A King Kong vs. Godzilla Aggregator War\n\n This week’s Sharp Tech video is on why Anthropic or OpenAI can’t unilaterally slow down."
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery",
+      "title": "Begun, the Aggregator Wars Have",
+      "url": "https://stratechery.com/2026/begun-the-aggregator-wars-have/",
+      "publishedAt": "Fri, 25 Sep 2026 17:00:00 +0000",
+      "author": "Ben Thompson",
+      "description": "The best Stratechery content from the week of September 21, 2026, including Meta vs. Amazon, GM bending the knee to CarPlay, and profiling the profiler.",
+      "content": "The best Stratechery content from the week of September 21, 2026, including Meta vs. Amazon, GM bending the knee to CarPlay, and profiling the profiler.\n\n---\n\nListen to this Update in your podcast player\n\n---\n\nWelcome back to This Week in Stratechery!\n\nAs a reminder, each week, every Friday, we’re sending out this overview of content in the Stratechery bundle; highlighted links are free for everyone . Additionally, you have complete control over what we send to you. If you don’t want to receive This Week in Stratechery emails (there is no podcast), please uncheck the box in your delivery settings .\n\nOn that note, here were a few of our favorites this week.\n\nMeta vs. Amazon. One of the best agent use cases is taking care of mundane things that are necessary but annoying. One of the best utilities Amazon provides is reliably delivering mundane things that are necessary and mundane. That means Muse is better if it can use Amazon, but that’s a problem for Amazon because Muse doesn’t see ads. As I explained on Tuesday , that’s why Amazon blocked Meta’s new agent, and they can get away from it because their differentiation is rooted in the physical world. To bridge that moat Meta will need help from one specific company: Walmart .\n\nGM Bends the Knee to CarPlay.  Three years ago on Sharp Tech we had a few weeks’ worth of lively discussion of GM’s controversial decision to abandon Apple CarPlay in favor of its own smartphone software (which would afford it access to proprietary data). I wasn’t sure it would be a problem, whereas Ben was incensed at GM’s myopia. Three years later now … Well, Ben was right, GM has announced it is re-integrating CarPlay after three years of customer and dealership backlash, and I was chuckling throughout Tuesday’s Dithering laying out how and why this outcome was inevitable .  — Andrew Sharp\n\nProfiling the Profiler. This week’s Stratechery Interview was with a writer I wasn’t familiar with and a body of work I’d never seen before. If you, like me, are a Colossus neophyte, then Ben’s conversation with Jeremy Stern is a good place to start. They discussed Stern’s journey to tech and business writing, why Ben considers him “the best profile writer working today,” and, in addition to quick hit takeaways from profiles of Scott Wu, Shyam Sankar, Josh Kushner, Neil Mehta, and Jake Sullivan, Stern’s recent profile of Mark Zuckerberg . Come for a great conversation, and stay for a behind-the-scenes discussion of Zuckerberg that appears to be much truer to life than that new Social Network sequel.  — AS\n\n---\n\nStratechery Articles and Updates\n\nFrontier Overhangs — Pacing the frontier may be sincere, but it would also be strategically useful for the frontier labs to have time to reduce overhangs caused by model advancement.\n\nAmazon Blocks Muse, Amazon’s Moat, Aggregator v Aggregator — Amazon predictably blocked Muse, but there is room for a deal based on the reality that Amazon’s physical world investments are an AI moat.\n\nMore on Muse, Amazon, and Walmart; Muse and Expedia; Whither Google? — Meta needs Walmart to wait out Amazon; Expedia seeks to keep its middleware position; meanwhile, where is Google?\n\nAn Interview with Colossus EIC Jeremy Stern About Profiling Mark Zuckerberg — An interview with Colossus EIC Jeremy Stern about profiling Mark Zuckerberg and other prominent tech figures.\n\nSharp Text by Andrew Sharp\n\nToo Many Stadiums with Roofs — On the new Washington Commanders stadium and a modern epidemic.\n\nDithering with Ben Thompson and Daring Fireball’s John Gruber\n\nGM and CarPlay\n\nMuse Delivery Vehicles\n\nAsianometry with Jon Yu\n\nIntel’s Optane Memory: A Promise Unfulfilled\n\nHigh Bandwidth Flash Is Coming\n\nSharp China with Andrew Sharp and Sinocism’s Bill Bishop\n\nXi Jinping Comes to Washington; US-China Agenda, Questions and Expectations; The September Politburo Meeting\n\nGreatest of All Talk\n\nBreakouts, Breakdowns and Bouncebacks, The Jalen Duren Hostage Crisis, Surveying the Central Division\n\nSharp Tech with Andrew Sharp and Ben Thompson\n\nThree Weeks of Meta Momentum, The Ultimate Muse Upside, A King Kong vs. Godzilla Aggregator War\n\nThis week’s Sharp Tech video is on why Anthropic or OpenAI can’t unilaterally slow down.\n\n---\n\nAdd to your podcast player: Stratechery | Sharp Tech | Dithering | Sharp China | GOAT | Asianometry\n\n---"
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 3,
+    "totalTweets": 4,
+    "blogPosts": 5,
+    "podcastEpisodes": 0
+  }
+}

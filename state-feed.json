@@ -1,16 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/trq212/status/2098531560643539440": 1789172463928,
-    "https://twitter.com/trq212/status/2098490139798655427": 1789172463928,
-    "https://twitter.com/demishassabis/status/2098512214898376809": 1789172463928,
-    "https://twitter.com/petergostev/status/2098347412368581100": 1789172463928,
-    "https://twitter.com/thsottiaux/status/2098300998968357218": 1789172463928,
-    "https://twitter.com/thsottiaux/status/2098238138334548260": 1789172463928,
-    "https://twitter.com/_sholtodouglas/status/2098327673785462789": 1789172463928,
-    "https://twitter.com/bcherny/status/2098281805770309686": 1789172463928,
-    "https://twitter.com/bcherny/status/2098209880310264048": 1789172463928,
-    "https://twitter.com/emollick/status/2098274189643845671": 1789172463928,
-    "https://twitter.com/gdb/status/2098236010760970299": 1789172463928,
     "https://twitter.com/trq212/status/2098879835301187801": 1789257730012,
     "https://twitter.com/trq212/status/2098860941391872132": 1789257730012,
     "https://twitter.com/trq212/status/2098869253038559237": 1789257730012,
@@ -155,15 +144,14 @@
     "https://twitter.com/JeffDean/status/2102996487596916786": 1790296503083,
     "https://twitter.com/thsottiaux/status/2102996313780736363": 1790296503083,
     "https://twitter.com/bcherny/status/2102971275543216623": 1790296503083,
-    "https://twitter.com/koraykv/status/2102964957587632555": 1790296503083
+    "https://twitter.com/koraykv/status/2102964957587632555": 1790296503083,
+    "https://twitter.com/emollick/status/2103485857147617393": 1790383177676,
+    "https://twitter.com/emollick/status/2103313194064179232": 1790383177676,
+    "https://twitter.com/thsottiaux/status/2103375711797211460": 1790383177676,
+    "https://twitter.com/JeffDean/status/2103357445229990009": 1790383177676
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/": 1789172463929,
-    "https://simonwillison.net/2026/Sep/11/boris-cherny/": 1789172463929,
-    "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/": 1789172463929,
-    "https://stratechery.com/2026/duo-threats/": 1789172463929,
-    "https://lovable.dev/blog/kbag-logistics": 1789172463929,
     "https://simonwillison.net/2026/Sep/12/paul-ford/": 1789257730013,
     "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/": 1789257730013,
     "https://simonwillison.net/2026/Sep/11/hugging-face-security/": 1789257730013,
@@ -230,8 +218,12 @@
     "https://lovable.dev/blog/chat-for-free": 1790296503083,
     "https://lovable.dev/blog/how-lovable-agents-work-together": 1790296503083,
     "https://tomtunguz.com/thinking-in-systems/": 1790296503083,
-    "https://cursor.com/cn/blog/improved-token-efficiency": 1790296503083
+    "https://cursor.com/cn/blog/improved-token-efficiency": 1790296503083,
+    "https://stratechery.com/2026/begun-the-aggregator-wars-have/": 1790383177676,
+    "https://simonwillison.net/2026/Sep/25/john-gruber/": 1790383177676,
+    "https://simonwillison.net/2026/Sep/25/sighting-403293902/": 1790383177676,
+    "https://simonwillison.net/2026/Sep/24/harder/": 1790383177676
   },
-  "lastRunKey": "2026-09-25",
-  "lastRunAt": "2026-09-25T00:35:03.089Z"
+  "lastRunKey": "2026-09-26",
+  "lastRunAt": "2026-09-26T00:39:37.681Z"
 }
