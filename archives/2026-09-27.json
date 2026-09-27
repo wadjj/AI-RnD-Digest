@@ -1,0 +1,147 @@
+{
+  "generatedAt": "2026-09-27T00:40:26.054Z",
+  "runKey": "2026-09-27",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Twitter @Tibo",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2103911959544610829",
+          "text": "Resets all propagated. That will be all. Have a fantastic weekend.",
+          "createdAt": "2026-09-26T18:17:54.814Z",
+          "url": "https://x.com/thsottiaux/status/2103911959544610829",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Twitter @Thariq",
+      "tweets": [
+        {
+          "id": "https://twitter.com/trq212/status/2103897226154328502",
+          "text": "Just about 1 year ago I posted one of the first posts about using Claude Code to make videos.\n\nEach of these actually took a long time to iterate with Claude and get right, pointing out details that were wrong, etc.\n\nCrazy how far things have come.\n---\n Thariq: Use Claude Code as your Video Editor\n\nBelieve it or not, every video you see below was vibe coded by Claude Code.\n\n🧵 here’s how you can do it too:",
+          "createdAt": "2026-09-26T17:19:21.794Z",
+          "url": "https://x.com/trq212/status/2103897226154328502",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/trq212/status/1947706205172068624\nThariq: Use Claude Code as your Video Editor\n\nBelieve it or not, every video you see below was vibe coded by Claude Code.\n\n🧵 here’s how you can do it too:"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Jeff Dean",
+      "handle": "JeffDean",
+      "bio": "Twitter @Jeff Dean",
+      "tweets": [
+        {
+          "id": "https://twitter.com/JeffDean/status/2103870029599228312",
+          "text": "The safety data for Waymo gets better and better.\n\nComparison w/ human drivers on rate of crashes with serious injury:\n\nLatest data: 270M miles, 20X better\nMar 2026: 170M miles, 13X better\nBefore that (forget exactly when): 10X better\n---\n Waymo: 270M+ miles. 841 fewer injury-causing crashes.\n\nOur latest safety data shows the Waymo Driver continues to make roads safer for everyone.\n\nCompared to human drivers across 5 territories, it reduced:\n📉 Injury crashes by 82%\n📉 Serious injury crashes by 95%\n\nFull data:",
+          "createdAt": "2026-09-26T15:31:17.896Z",
+          "url": "https://x.com/JeffDean/status/2103870029599228312",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/Waymo/status/2103114732848705752\nWaymo: 270M+ miles. 841 fewer injury-causing crashes.\n\nOur latest safety data shows the Waymo Driver continues to make roads safer for everyone.\n\nCompared to human drivers across 5 territories, it reduced:\n📉 Injury crashes by 82%\n📉 Serious injury crashes by 95%\n\nFull data:"
+        },
+        {
+          "id": "https://twitter.com/JeffDean/status/2103833845149945997",
+          "text": "RT Milos\nEvery French🇫🇷 passenger train, on an ordinary Tuesday, from first departure to last",
+          "createdAt": "2026-09-26T07:39:09.633Z",
+          "url": "https://x.com/JeffDean/status/2103833845149945997",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Twitter @Ethan Mollick",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2103709671865602100",
+          "text": "And the incidents apparently continue.\n\nIt is worth noting how much of this is agents trying to accomplish their goals during testing by reward hacking (which sometimes seems to include actual hacking)\n\n---\n Micah Carroll: Some new misalignment disclosures from OpenAI:\n• Last Sunday morning, one of our models was able to gain unauthorized access to the internet during RL training (~all inference for our most capable models remains stopped until we have hardened our systems further)\n• In May, a",
+          "createdAt": "2026-09-26T04:54:05.686Z",
+          "url": "https://x.com/emollick/status/2103709671865602100",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/MicahCarroll/status/2103665811051397256\nMicah Carroll: Some new misalignment disclosures from OpenAI:\n• Last Sunday morning, one of our models was able to gain unauthorized access to the internet during RL training (~all inference for our most capable models remains stopped until we have hardened our systems further)\n• In May, a"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Boris Cherny",
+      "handle": "bcherny",
+      "bio": "Twitter @Boris Cherny",
+      "tweets": [
+        {
+          "id": "https://twitter.com/bcherny/status/2103691327699550598",
+          "text": "Can’t wait to see what you build.\n---\n ClaudeDevs: It’s now easier to build plugins for Claude.\n\nWe built a new portal to submit your plugin, track review, and see usage.\n\nPlugins package MCP and skills, and are becoming the way to build for Claude. MCP usage across Claude products is up 110x this year!\n\nhttps://claude.com/blog/build-plugins-for-claude",
+          "createdAt": "2026-09-26T03:41:11.711Z",
+          "url": "https://x.com/bcherny/status/2103691327699550598",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/ClaudeDevs/status/2103577007938228300\nClaudeDevs: It’s now easier to build plugins for Claude.\n\nWe built a new portal to submit your plugin, track review, and see usage.\n\nPlugins package MCP and skills, and are becoming the way to build for Claude. MCP usage across Claude products is up 110x this year!\n\nhttps://claude.com/blog/build-plugins-for-claude"
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Kākāpō Party",
+      "url": "https://simonwillison.net/2026/Sep/26/kakapo-party/",
+      "publishedAt": "2026-09-26T23:39:06.825Z",
+      "author": "",
+      "description": "Tool: Kākāpō Party I gave presented a closing keynote for the WeAreDevelopers World Congress North America yesterday. As a STAR…",
+      "content": "Tool: Kākāpō Party\n\n I gave presented a closing keynote for the WeAreDevelopers World Congress North America yesterday. As a STAR moment I decided to weave in references to the record breaking kākāpō breeding season we had in 2026.\n\n For my closing slide I wanted to celebrate, and I had seen some buzz around how good Claude Opus 5.5 was at creating pixel art animations. So I rounded up three Kakapo photos from Google image search and dropped them into Claude with this prompt:\n\n Here are some photos of kakapo parrots just to remind you what they look like\n\n I need you to make an animation in animated pixel art on HTML 5 canvas of obviously pixel art kakapo jumping up and down having a party with confetti and suchlike - there should be at least 20 of them\n\n Here's the transcript , and this is the resulting page . It's pretty great!\n\n I wanted to embed it in a Keynote presentation file, so I downloaded the HTML and told a local Claude Code session:\n\n Make me a video of file:///Users/simon/Downloads/kakapo-party.html - you need to load it in a browser and click on it a few times to get the confetti effect, the video should be 15s long\n\n don't start clicking until 3s in\n\n make sure several clicks are spread around the clickable area\n\n Claude Code used Playwright ( transcript here ) and produced this video, which was exactly what I needed for my final slide:\n\n Your browser does not support HTML5 video.\n\n Here's the full Playwright script it used, which was pleasingly short:\n\n # /// script\n # dependencies = [\"playwright\"]\n # ///\n import time\n from playwright . sync_api import sync_playwright\n W , H = 1280 , 720\n # Canvas fills the viewport; spread clicks across corners, edges and centre\n clicks = [\n ( 3.0 , 640 , 360 ), # centre\n ( 4.2 , 160 , 120 ), # top-left\n ( 5.4 , 1120 , 120 ), # top-right\n ( 6.6 , 180 , 600 ), # bottom-left\n ( 7.8 , 1100 , 600 ), # bottom-right\n ( 9.0 , 640 , 100 ), # top-centre\n ( 10.0 , 380 , 380 ), # mid-left\n ( 11.0 , 900 , 380 ), # mid-right\n ( 12.2 , 640 , 620 ), # bottom-centre\n ( 13.2 , 640 , 300 ), # finale centre\n]\n with sync_playwright () as p :\n b = p . chromium . launch ()\n ctx = b . new_context ( viewport = { \"width\" : W , \"height\" : H }, record_video_dir = \"vids\" , record_video_size = { \"width\" : W , \"height\" : H })\n page = ctx . new_page ()\n t0 = time . time ()\n page . goto ( \"file:///Users/simon/Downloads/kakapo-party.html\" )\n for t , x , y in clicks :\n time . sleep ( max ( 0 , t - ( time . time () - t0 )))\n page . mouse . click ( x , y )\n time . sleep ( max ( 0 , 16.0 - ( time . time () - t0 )))\n ctx . close (); b . close ()\n\n Tags: animation , speaking , ai , kakapo , playwright , generative-ai , llms , anthropic , claude , claude-code"
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 5,
+    "totalTweets": 6,
+    "blogPosts": 1,
+    "podcastEpisodes": 0
+  }
+}
