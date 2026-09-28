@@ -1,12 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/emollick/status/2099260122186842351": 1789344924323,
-    "https://twitter.com/emollick/status/2099199806543421772": 1789344924323,
-    "https://twitter.com/emollick/status/2099196495069167738": 1789344924323,
-    "https://twitter.com/petergostev/status/2099032556729410031": 1789344924323,
-    "https://twitter.com/petergostev/status/2098996162392961195": 1789344924323,
-    "https://twitter.com/_sholtodouglas/status/2098958977937944954": 1789344924323,
-    "https://twitter.com/_sholtodouglas/status/2098957771530227727": 1789344924323,
     "https://twitter.com/gdb/status/2099602912645452021": 1789432873672,
     "https://twitter.com/petergostev/status/2099595849500152238": 1789432873672,
     "https://twitter.com/petergostev/status/2099585069409079629": 1789432873672,
@@ -138,14 +131,20 @@
     "https://twitter.com/JeffDean/status/2103870029599228312": 1790469626054,
     "https://twitter.com/JeffDean/status/2103833845149945997": 1790469626054,
     "https://twitter.com/emollick/status/2103709671865602100": 1790469626055,
-    "https://twitter.com/bcherny/status/2103691327699550598": 1790469626055
+    "https://twitter.com/bcherny/status/2103691327699550598": 1790469626055,
+    "https://twitter.com/emollick/status/2104352301431308578": 1790556641363,
+    "https://twitter.com/emollick/status/2104326478766952624": 1790556641363,
+    "https://twitter.com/emollick/status/2104273082433081732": 1790556641363,
+    "https://twitter.com/_sholtodouglas/status/2104347156966756375": 1790556641363,
+    "https://twitter.com/_sholtodouglas/status/2104343852610199820": 1790556641363,
+    "https://twitter.com/trq212/status/2104273243599405395": 1790556641363,
+    "https://twitter.com/petergostev/status/2104212332486271312": 1790556641363,
+    "https://twitter.com/petergostev/status/2104211890662527097": 1790556641363,
+    "https://twitter.com/petergostev/status/2104176672526196782": 1790556641363,
+    "https://twitter.com/thsottiaux/status/2104108167806550046": 1790556641363
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://sebastianraschka.com/blog/2026/ai-reasoning-models-course.html": 1789344924323,
-    "https://simonwillison.net/2026/Sep/12/astra-running-routes/": 1789344924324,
-    "https://simonwillison.net/2026/Sep/12/sighting-399708714/": 1789344924324,
-    "https://simonwillison.net/2026/Sep/11/soft-deprecating-re-match/": 1789344924324,
     "https://stratechery.com/2026/pacing-the-frontier-ais-digital-limits-ai-commissars/": 1789432873673,
     "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/": 1789432873673,
     "https://simonwillison.net/2026/Sep/14/influences/": 1789432873673,
@@ -210,8 +209,10 @@
     "https://simonwillison.net/2026/Sep/25/john-gruber/": 1790383177676,
     "https://simonwillison.net/2026/Sep/25/sighting-403293902/": 1790383177676,
     "https://simonwillison.net/2026/Sep/24/harder/": 1790383177676,
-    "https://simonwillison.net/2026/Sep/26/kakapo-party/": 1790469626055
+    "https://simonwillison.net/2026/Sep/26/kakapo-party/": 1790469626055,
+    "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/": 1790556641364,
+    "https://sebastianraschka.com/blog/2026/focusing-on-llm-post-training.html": 1790556641364
   },
-  "lastRunKey": "2026-09-27",
-  "lastRunAt": "2026-09-27T00:40:26.060Z"
+  "lastRunKey": "2026-09-28",
+  "lastRunAt": "2026-09-28T00:50:41.369Z"
 }

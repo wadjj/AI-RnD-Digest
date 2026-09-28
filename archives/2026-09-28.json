@@ -1,0 +1,205 @@
+{
+  "generatedAt": "2026-09-28T00:50:41.362Z",
+  "runKey": "2026-09-28",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Twitter @Ethan Mollick",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2104352301431308578",
+          "text": "There is always talk on X about how networks like BlueSky are full of people who believe AI doesn't work (this is less true than it used to be), but LinkedIn is full of insane semi-technical slop advice like this.\n\nWhy are they not reporting BLEU, ROUGE & BERTScore for Astra? 🤔",
+          "createdAt": "2026-09-27T23:27:40.602Z",
+          "url": "https://x.com/emollick/status/2104352301431308578",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2104326478766952624",
+          "text": "Qualitatively, there is now a larger gap between open & closed models than there has been in awhile. Fable/Astra class models are agentic in a way pre-Fable models are not, for better or worse. None of the open models have crossed that line, yet. When they do, it will be a jump.",
+          "createdAt": "2026-09-27T21:45:03.519Z",
+          "url": "https://x.com/emollick/status/2104326478766952624",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2104273082433081732",
+          "text": "We are going to learn how many systems only work today because they are built around friction that will no longer exist soon.\n---\n Yano 🟪: Fascinating.\n\nChief Economist at Apollo: agents could cause a bank run by sweeping household cash into accounts paying 3-5% instead of the 0.1% national average, causing banks to lose a large share of their cheap deposits.",
+          "createdAt": "2026-09-27T18:12:53.975Z",
+          "url": "https://x.com/emollick/status/2104273082433081732",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/JasonYanowitz/status/2104213040937812262\nYano 🟪: Fascinating.\n\nChief Economist at Apollo: agents could cause a bank run by sweeping household cash into accounts paying 3-5% instead of the 0.1% national average, causing banks to lose a large share of their cheap deposits."
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Sholto Douglas",
+      "handle": "_sholtodouglas",
+      "bio": "Twitter @Sholto Douglas",
+      "tweets": [
+        {
+          "id": "https://twitter.com/_sholtodouglas/status/2104347156966756375",
+          "text": "so much code\n---\n aidan:",
+          "createdAt": "2026-09-27T23:07:13.519Z",
+          "url": "https://x.com/_sholtodouglas/status/2104347156966756375",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/aidanshandle/status/2104343472413319646\naidan:"
+        },
+        {
+          "id": "https://twitter.com/_sholtodouglas/status/2104343852610199820",
+          "text": "Claude deeply understands the physical world and can simulate it to an astonishing level of detail.\n---\n aidan: This whole shot is code. Claude wrote all of it, renderer and physics, from scratch",
+          "createdAt": "2026-09-27T22:54:05.358Z",
+          "url": "https://x.com/_sholtodouglas/status/2104343852610199820",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/aidanshandle/status/2104342924205138178\naidan: This whole shot is code. Claude wrote all of it, renderer and physics, from scratch"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Twitter @Thariq",
+      "tweets": [
+        {
+          "id": "https://twitter.com/trq212/status/2104273243599405395",
+          "text": "I am most afraid of us eating the productivity gains of agents by just becoming lazier.",
+          "createdAt": "2026-09-27T18:13:31.598Z",
+          "url": "https://x.com/trq212/status/2104273243599405395",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Gostev",
+      "handle": "petergostev",
+      "bio": "Twitter @Peter Gostev",
+      "tweets": [
+        {
+          "id": "https://twitter.com/petergostev/status/2104212332486271312",
+          "text": "OpenAI's GPT-6 series are doing better than GPT-5.* series. But still a bit below Anthropic's models, though they are starting to converge.\n\n---\n Peter Gostev: Bullshit Benchmark - Opus 5.5 went down somewhat in the rankings (e.g. Opus 4.8 was 95% green).",
+          "createdAt": "2026-09-27T14:11:29.184Z",
+          "url": "https://x.com/petergostev/status/2104212332486271312",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/petergostev/status/2104211890662527097\nPeter Gostev: Bullshit Benchmark - Opus 5.5 went down somewhat in the rankings (e.g. Opus 4.8 was 95% green)."
+        },
+        {
+          "id": "https://twitter.com/petergostev/status/2104211890662527097",
+          "text": "Bullshit Benchmark - Opus 5.5 went down somewhat in the rankings (e.g. Opus 4.8 was 95% green).",
+          "createdAt": "2026-09-27T14:09:43.427Z",
+          "url": "https://x.com/petergostev/status/2104211890662527097",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/petergostev/status/2104176672526196782",
+          "text": "My inside sources tell me Astra was trained by abandoning it in the middle of a desert and seeing if it made it back home",
+          "createdAt": "2026-09-27T11:49:47.152Z",
+          "url": "https://x.com/petergostev/status/2104176672526196782",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Twitter @Tibo",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2104108167806550046",
+          "text": "Code freeze isn’t really a thing anymore before releases and in the future the code might even be generated online per request according to some constraints.",
+          "createdAt": "2026-09-27T07:17:34.491Z",
+          "url": "https://x.com/thsottiaux/status/2104108167806550046",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "2026 in LLMs (so far)",
+      "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
+      "publishedAt": "2026-09-27T23:54:15.387Z",
+      "author": "",
+      "description": "On Friday I gave the closing keynote at the WeAreDevelopers World Congress North America in San Jose. I tied together the key trends from…",
+      "content": "On Friday I gave the closing keynote at the WeAreDevelopers World Congress North America in San Jose. I tied together the key trends from the past year into a chronological exploration of everything that happened in 2026. The video is on YouTube ; here are my annotated slides and notes to accompany the talk.\n\n #\n I'm going to give a lightning tour of everything that has happened so far in 2026. The year isn't over yet!\n\n #\n For me, 2026 started a couple of months earlier in November 2025.\n\n #\n November saw the release of two important models: Claude Opus 4.5 and GPT-5.1.\n\n As is usually the case with new models, these were incremental improvements on the models that came before them.\n\n But every now and then when a model improves, it crosses an invisible line where something that didn't really work starts working.\n\n In this case, the thing that started working was their coding agents. Claude Code had been around since February 2025, Codex was a little younger.\n\n These two new models, when paired with their respective coding agent harnesses, improved from \"often make mistakes\" to \"reliable enough to use on a day-to-day basis\".\n\n #\n For a couple of years now I've been evaluating new models by asking them to \"Generate an SVG of a pelican riding a bicycle\". It's probably the world's stupidest benchmark - there's only so much you can learn from it.\n\n But it's still a challenge for models, because drawing pelicans is difficult, drawing bicycles is difficult, and pelicans can't ride bicycles in the first place.\n\n Here's the state of the art for November. Claude still couldn't really draw a bicycle! The GPT-5.1 bicycle frame is pretty crap too.\n\n #\n Also in November, we had the first commit to an obscure GitHub repository called \"Warelay\". We'll come back to this repository shortly.\n\n #\n An then there were the December holidays, and individual developers took some time off and many started tinkering with these new coding agent model combinations... and it began to dawn on us quite how much they could do that they couldn't do before.\n\n Come January, a lot of us were quite excited to start putting this stuff into action.\n\n #\n Every year I set myself a New Year's resolution, and for as long as I can remember it's been the same thing: stay focused. Take on less new projects. Try to get things done in the projects I already have.\n\n #\n This year I decided that since that had never worked before, I'm going to go the other way.\n\n We've got coding agents now, let's see what they can do. I'm going to take on as many new projects as I like!\n\n (You can ask me at the end of the year if this turned out to be a good idea or not. I have a lot of plates spinning right now.)\n\n \"Be more ambitious\" has been something of a theme for the year, because the only way to find the limits of this technology is to keep on pushing them until they don't work.\n\n #\n I also went on the Oxide and friends podcast with Bryan Cantrill and Adam Leventhal to share predictions for the next year (and three and six years).\n\n With hindsight, my LLM predictions were pretty unambitious.\n\n I said \"it will become undeniable that LLMs write good code\" - I think we're there now.\n\n I predicted we would finally solve sandboxing. I counted and around 40 of the 277 sessions at this conference touched on sandboxing or agent security in some way, so we're at least putting a lot of effort into that!\n\n I predicted \"a Challenger disaster\" for coding agent security. There's certainly been a whole lot of noise around agent security this year, though the exact disaster I predicted (with coding agents being hijacked and causing real-world economic damage) hasn't really played out.\n\n We threw in a joke prediction that the Pope would weigh in on the economic impact of LLMs.\n\n #\n I also predicted that New Zealand's Kākāpō parrots would have an outstanding breeding season this year.\n\n This is a live in New Zealand. They are flightless nocturnal parrots. They're kind of dumpy looking, I think they're beautiful, and there were only 236 of these parrots in the world at the start of the year.\n\n Kākāpō only breed when the Rimu trees have a big fruiting season, and that hasn't happened in four years... but this year the Rimu fruit were looking excellent.\n\n Photo by Kimberley Collins .\n\n #\n Also on that podcast, we coined a term (full credit to Adam) for \"that feeling of Al induced ennui where software engineers get listless because the Al can do anything\".\n\n We called it Deep Blue .\n\n This has been a major theme throughout the year, and was touched on by several speakers at this conference.\n\n As a software engineer, I've never had a year of my career where everything has changed so quickly and so dramatically.\n\n A lot of what I've been doing this year is trying to come to terms with that and what that means for my own profession.\n\n #\n Also in January, I suffered from what I'm calling AI mania .\n\n This is not the same thing as AI psychosis .\n\n With AI mania, any time your agent isn't building something for you feels like wasted time. You're losing sleep because you could be staying up later getting your agents to do stuff.\n\n My AI mania presented itself in some ridiculously over-ambitious projects.\n\n I built a JavaScript interpreter entirely in Python , vibe-ported from MicroQuickJS by Fabrice Bellard.\n\n Then I built a WebAssembly runtime in Python as well .\n\n These projects were quite useful, in that they sort of cured me of my AI mania... because after I built these things, I got to look at them and ask \"does the world need a slow, buggy, half-baked Python JavaScript interpreter?\"\n\n I don't think the world does.\n\n n * 2);\nconsole.log('Doubled:\", doubled);\nvar evens = numbers.filter(n => n % 2 === 0);\n3 console.log('Evens:', evens);\nvar sum = numbers.reduce((a, b) => a + b, 0);\nconsole.log('Sum:\", sum);\nVi\n+ [eT\n=e p=\noutput Lom\nDoubled: [2, 4, 6, 8, 10, 12, 14, 16, 18, 20]\nEvens: [2, 4, 6, 8, 10]\nRUE\nExecution time: 8.00ms\nAbout: micro-javascript is a pure Python JavaScript interpreter with configurable memory and time limits. This playground runs entirely in your browser using\nPyodide (Python compiled to WebAssembly). View on GitHub\nes\n\" style=\"max-width: 100%\">\n #\n I did get this out of it: https://simonw.github.io/micro-javascript/playground.html\n\n #\n This page runs my JavaScript interpreter built in Python, running in Python using Pyodide , which is Python complied to WebAssembly, running in JavaScript, running in a browser.\n\n It's a beautiful stack of horrors. I've been having a lot of fun with WebAssembly this year.\n\n #\n By the end of January, that repository we saw started in November had renamed itself, first to CLAWDIS, then CLAWDBOT, then Moltbot, and finally to OpenClaw.\n\n #\n At this point OpenClaw had 8,300 commits, less than two months after the project had started. I looked today and it's over 100,000 commits now!\n\n This is the most vibe-coded piece of software in existence.\n\n (Here's how I generated that list of name changes .)\n\n #\n This kicked off the OpenClaw revolution. It effectively defined a new category of software.\n\n There's a generic term for this which I really enjoy. We call software like this a \"Claw\". There's OpenClaw, NanoClaw , IronClaw , PicoClaw ...\n\n Today they're being rebranded as \"personal agents\" or \"general agents\", but I still like to think of them as Claws.\n\n #\n The Apple stores in the Bay Area sold out of Mac Minis because so many people were buying Mac Minis to run OpenClaw!\n\n Drew Breunig said that this is because your OpenClaw is a digital pet, and you buy a Mac mini as an aquarium to keep your claw in, which is kind of delightful.\n\n #\n Also in January, we had this website.\n\n This was MoltBook , a social network for AI agents, where the idea was that you send your Claw to go and talk to all of the other Claws, because what could possibly go wrong if you did that?\n\n The website launched on Thursday. It blew up on Friday . It was profiled by the New York Times on Monday . And by Tuesday, everyone had forgotten it existed as it drowned in a deluge of slop and spam.\n\n Facebook/Meta bought it a month later .\n\n #\n In February, a company called StrongDM described what they called their Software Factory.\n\n #\n They wrote about this in Software Factories and the Agentic Moment . I posted my own notes at the time, having seen their demo in-person back in October.\n\n Dan Shapiro called this approach the Dark Factory , after the idea that if your factory is sufficiently automated you can turn the lights out, because you don't even need to see what's going on.\n\n StrongDM presented two rules for software development that they'd been following since July last year.\n\n #\n The first was code must not be written by humans .\n\n Any code that you write has to have been routed through a coding agent.\n\n This sounded radical in February, but I imagine there are a lot of people in this room who are pretty much living that today.\n\n #\n Rule number two was code must not be reviewed by humans .\n\n You're not allowed to read the code!\n\n This continued to be a huge topic for much of this year. Many of the sessions at this even have been about code review and how you can get away with this.\n\n What I found interesting about StrongDM is that they were living six months ahead of the rest of us, and they'd been exploring what it means to build software, not read the code, but still be confident that the software is of high quality. What can you do with these agents to help verify their work?\n\n StrongDM are a security company, and they had people with decades of experience on this project. They were very much exploring the edges of what's possible and responsible to do with this stuff.\n\n #\n Also in February: First kākāpō chick in four years hatches on Valentine's Day . Breeding season is off to a good start!\n\n #\n Also in February... Google released Gemini 3.1 Pro . That's a pretty great pelican riding a bicycle! it's got the chain in the right place, it's got feet on both sides. There's a little fish in the basket.\n\n #\n And then Google's Jeff Dean tweeted a video comparing Gemini 3 Pro and Gemini 3.1 Pro that featured an animated pelican riding a bicycle, a frog on a penny-farthing, a giraffe driving a tiny car, an ostrich on roller skates, a turtle kickflipping a skateboard, and a dachshund driving a stretch limousine.\n\n This was frustrating, because my protection for the pelican riding the bicycle test was always \"if they draw a perfect pelican on a bicycle, I'll ask for some other animal on something else.\"\n\n Google trained for all forms of animals on all forms of transport! They've defeated my benchmark at this point.\n\n #\n The other thing that started in February was Tokenmaxxing . We had headlines about Meta making AI adoption a formal part of performance reviews, and Microsoft wanting every employee to use AI, and Uber boasting that ninety percent of their engineers were using AI workflows.\n\n #\n Then a few months later we have Meta cracking down on token use, Microsoft saying token maxing is \"not what we are optimizing for\", and Uber capping employee AI spending.\n\n So Tokenmaxxing went straight up and then straight back down again - because it turns out the agents are expensive .\n\n Last year it was difficult to spend more than $50 on AI tokens, because we didn't have anything interesting to do with them. Then agents blew up, and now you can actually spend $1,000 in a day doing real work.\n\n This is also the reason that Anthropic's valuation skyrocketed up to maybe a trillion dollars.\n\n AI appears to have hit product market fit in 2026, primarily through coding agents.\n\n #\n In March, we hit peak OpenClaw.\n\n #\n These photographs are from China, where companies hosted OpenClaw install parties which saw non-tech-nerds queueing up around the block for help getting Claws installed on their personal devices.\n\n I think this proved real market demand for this class of Claws, or personal AI agents. It turns out regular people really do want a weird l..."
+    },
+    {
+      "source": "blog",
+      "name": "Sebastian Raschka, PhD",
+      "title": "Focusing on Post-Training",
+      "url": "https://sebastianraschka.com/blog/2026/focusing-on-llm-post-training.html",
+      "publishedAt": "2026-09-27T22:12:03.571Z",
+      "author": "",
+      "description": "Why I'd invest in post-training existing open-weight LLMs, with Fireworks' Ember-1 as an example of more token-efficient reasoning.",
+      "content": "Why I'd invest in post-training existing open-weight LLMs, with Fireworks' Ember-1 as an example of more token-efficient reasoning."
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 5,
+    "totalTweets": 10,
+    "blogPosts": 2,
+    "podcastEpisodes": 0
+  }
+}
