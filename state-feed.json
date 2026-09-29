@@ -1,16 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/gdb/status/2099602912645452021": 1789432873672,
-    "https://twitter.com/petergostev/status/2099595849500152238": 1789432873672,
-    "https://twitter.com/petergostev/status/2099585069409079629": 1789432873672,
-    "https://twitter.com/petergostev/status/2099501150605029593": 1789432873672,
-    "https://twitter.com/demishassabis/status/2099577735127429451": 1789432873672,
-    "https://twitter.com/demishassabis/status/2099566537753403533": 1789432873672,
-    "https://twitter.com/bcherny/status/2099551291601248485": 1789432873672,
-    "https://twitter.com/bcherny/status/2099322487603634395": 1789432873672,
-    "https://twitter.com/trq212/status/2099551141621329994": 1789432873672,
-    "https://twitter.com/emollick/status/2099465393857307092": 1789432873673,
-    "https://twitter.com/thsottiaux/status/2099393115241300166": 1789432873673,
     "https://twitter.com/trq212/status/2099958388230873165": 1789518377720,
     "https://twitter.com/trq212/status/2099671266068496802": 1789518377720,
     "https://twitter.com/gdb/status/2099928683226218570": 1789518377720,
@@ -141,16 +130,25 @@
     "https://twitter.com/petergostev/status/2104212332486271312": 1790556641363,
     "https://twitter.com/petergostev/status/2104211890662527097": 1790556641363,
     "https://twitter.com/petergostev/status/2104176672526196782": 1790556641363,
-    "https://twitter.com/thsottiaux/status/2104108167806550046": 1790556641363
+    "https://twitter.com/thsottiaux/status/2104108167806550046": 1790556641363,
+    "https://twitter.com/emollick/status/2104737094073729440": 1790647320740,
+    "https://twitter.com/emollick/status/2104632980635259336": 1790647320740,
+    "https://twitter.com/emollick/status/2104561602766770471": 1790647320740,
+    "https://twitter.com/petergostev/status/2104733074340872656": 1790647320740,
+    "https://twitter.com/petergostev/status/2104575118618067253": 1790647320740,
+    "https://twitter.com/petergostev/status/2104438969559650648": 1790647320740,
+    "https://twitter.com/trq212/status/2104702728270471594": 1790647320741,
+    "https://twitter.com/trq212/status/2104660926373023830": 1790647320741,
+    "https://twitter.com/trq212/status/2104608785696440510": 1790647320741,
+    "https://twitter.com/_catwu/status/2104639552170377399": 1790647320741,
+    "https://twitter.com/bcherny/status/2104638725317923228": 1790647320741,
+    "https://twitter.com/_sholtodouglas/status/2104646737801404575": 1790647320741,
+    "https://twitter.com/_sholtodouglas/status/2104565046642884932": 1790647320741,
+    "https://twitter.com/_sholtodouglas/status/2104402223811969102": 1790647320741,
+    "https://twitter.com/thsottiaux/status/2104465709384491519": 1790647320741
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://stratechery.com/2026/pacing-the-frontier-ais-digital-limits-ai-commissars/": 1789432873673,
-    "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/": 1789432873673,
-    "https://simonwillison.net/2026/Sep/14/influences/": 1789432873673,
-    "https://simonwillison.net/2026/Sep/14/laurie-voss/": 1789432873673,
-    "https://sebastianraschka.com/blog/2026/pacing-development.html": 1789432873673,
-    "https://tomtunguz.com/what-does-the-pause-mean/": 1789432873673,
     "https://stratechery.com/2026/openai-ads-amazon-ads-in-chatgpt-walmart-to-accept-apple-pay/": 1789518377721,
     "https://lovable.dev/blog/salesforce-partnership": 1789518377721,
     "https://lovable.dev/blog/faster-previews-oj": 1789518377721,
@@ -211,8 +209,15 @@
     "https://simonwillison.net/2026/Sep/24/harder/": 1790383177676,
     "https://simonwillison.net/2026/Sep/26/kakapo-party/": 1790469626055,
     "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/": 1790556641364,
-    "https://sebastianraschka.com/blog/2026/focusing-on-llm-post-training.html": 1790556641364
+    "https://sebastianraschka.com/blog/2026/focusing-on-llm-post-training.html": 1790556641364,
+    "https://stratechery.com/2026/apps-agents-and-aggregation/": 1790647320742,
+    "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/": 1790647320741,
+    "https://simonwillison.net/2026/Sep/28/joedaroo/": 1790647320741,
+    "https://simonwillison.net/2026/Sep/28/muse-ai-agent/": 1790647320741,
+    "https://lovable.dev/blog/microsoft-partnership": 1790647320741,
+    "https://jack-clark.net/2026/09/28/import-ai-474-platonic-mindspace-tpus-in-space-zhipu-starts-an-outer-rsi-loop/": 1790647320742,
+    "https://tomtunguz.com/how-gpu-prices-double-while-ai-gets-cheaper/": 1790647320742
   },
-  "lastRunKey": "2026-09-28",
-  "lastRunAt": "2026-09-28T00:50:41.369Z"
+  "lastRunKey": "2026-09-29",
+  "lastRunAt": "2026-09-29T02:02:00.749Z"
 }

@@ -1,0 +1,341 @@
+{
+  "generatedAt": "2026-09-29T02:02:00.740Z",
+  "runKey": "2026-09-29",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Twitter @Ethan Mollick",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2104737094073729440",
+          "text": "The AI buildout in terms of percent of GDP is greater than the height of railroads, yet AI does not dominate the economy anywhere near as much as rail.\n\nIn 1890, 1 out of every 12 men in America was employed in the railways, which used 56% of all horsepower across all machines!",
+          "createdAt": "2026-09-29T00:56:42.867Z",
+          "url": "https://x.com/emollick/status/2104737094073729440",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2104632980635259336",
+          "text": "It is also why non-coders can often accomplish unexpected things with AI: people have different limits than software, and old mental models can get in the way.\n---\n rohit: Still one of the best ways to think about AI that I've read from @emollick",
+          "createdAt": "2026-09-28T18:02:59.804Z",
+          "url": "https://x.com/emollick/status/2104632980635259336",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/krishnanrohit/status/2104624516672749713\nrohit: Still one of the best ways to think about AI that I've read from @emollick"
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2104561602766770471",
+          "text": "RT Charles Fain Lehman\nStill no evidence of AI-driven unemployment among recent college grads, new @nberpubs paper says.\n\n\"Taking an agnostic approach to defining treatment timing, we find that unemployment rates did not spike in summer 2026 relative to summer months in previous years and did not rise in a significant way relative to older college graduates or young workers without a college degree. We also provide the first analysis of an expanded definition of unemployment that includes those who report 'wanting a job' which adds nearly two percentage points to the unemployment rate of recent college graduates but we find no evidence of a statistically significant increase in summer 2026 even after adding these 'sidelined unemployed.'\"\n\nhttps://www.nber.org/papers/w35796",
+          "createdAt": "2026-09-28T11:39:49.937Z",
+          "url": "https://x.com/emollick/status/2104561602766770471",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Gostev (in SF @ DevDay)",
+      "handle": "petergostev",
+      "bio": "Twitter @Peter Gostev",
+      "tweets": [
+        {
+          "id": "https://twitter.com/petergostev/status/2104733074340872656",
+          "text": "Who needs Sora when we can re-create the same videos in Blender?\n\nSee the original Sora demos built with Astra and Opus via Blender",
+          "createdAt": "2026-09-29T00:40:43.975Z",
+          "url": "https://x.com/petergostev/status/2104733074340872656",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/petergostev/status/2104575118618067253",
+          "text": "Benchmark idea: Who can use fewest lines of code to do the same thing?\n\nIn this test, Opus 5.5 uses ~half the lines of code that of Astra and the physics/visual quality isn't noticeably worse.\n\nI am trying to approximate how 'elegant' the code is - something that many complain in AI-generated code. While isn't perfectly true, fewer lines of code could mean more elegant, generalised approach.",
+          "createdAt": "2026-09-28T14:13:04.218Z",
+          "url": "https://x.com/petergostev/status/2104575118618067253",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/petergostev/status/2104438969559650648",
+          "text": "RT Nathan Benaich\nrigorous pre-release testing on @stateofai\n\nlaunching 10/8 with meetups in sf and nyc and more soon!\n\ncome join luma(dot)com/airstreet",
+          "createdAt": "2026-09-28T03:06:07.542Z",
+          "url": "https://x.com/petergostev/status/2104438969559650648",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Twitter @Thariq",
+      "tweets": [
+        {
+          "id": "https://twitter.com/trq212/status/2104702728270471594",
+          "text": "I just told Claude \"can you help me think through this problem step by step\"",
+          "createdAt": "2026-09-28T22:40:08.118Z",
+          "url": "https://x.com/trq212/status/2104702728270471594",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/trq212/status/2104660926373023830",
+          "text": "A lot of times when I talk about higher level abstractions like projects, claude tag and dynamic workflows, I hear concerns about token cost.\n\nWith Sonnet + Opus 5.5 I think this sort intelligence is should be very available.\n\nTry Sonnet 5.5 in particular when making workflows.\n---\n Claude: Introducing Claude Sonnet 5.5, the second model in the Claude 5.5 family.\n\nIt’s a clear upgrade over Sonnet 5, runs more than 30% faster, and costs up to 30% less for most work.",
+          "createdAt": "2026-09-28T19:54:02.010Z",
+          "url": "https://x.com/trq212/status/2104660926373023830",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/claudeai/status/2104633115620823187\nClaude: Introducing Claude Sonnet 5.5, the second model in the Claude 5.5 family.\n\nIt’s a clear upgrade over Sonnet 5, runs more than 30% faster, and costs up to 30% less for most work."
+        },
+        {
+          "id": "https://twitter.com/trq212/status/2104608785696440510",
+          "text": "it's basically impossible for someone to just \"show you their prompt\" now, because everything is about references, skills and examples\n\nI often ask my agent to look at 3 other repos I've made first, search the web for references, use other AI APIs, etc.",
+          "createdAt": "2026-09-28T16:26:50.232Z",
+          "url": "https://x.com/trq212/status/2104608785696440510",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "cat",
+      "handle": "_catwu",
+      "bio": "Twitter @cat",
+      "tweets": [
+        {
+          "id": "https://twitter.com/_catwu/status/2104639552170377399",
+          "text": "Sonnet 5.5 is here! In Claude Code, users get ~30% more tasks done compared to Sonnet 5. It's smarter, so it needs fewer tokens for the same work.\n\nHere it rakes a yard of leaves using tool calls. 24s faster than Sonnet 5, with 6K fewer tokens. It leaves her extra time to read :)\n\n---\n Claude: Introducing Claude Sonnet 5.5, the second model in the Claude 5.5 family.\n\nIt’s a clear upgrade over Sonnet 5, runs more than 30% faster, and costs up to 30% less for most work.",
+          "createdAt": "2026-09-28T18:29:06.534Z",
+          "url": "https://x.com/_catwu/status/2104639552170377399",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/claudeai/status/2104633115620823187\nClaude: Introducing Claude Sonnet 5.5, the second model in the Claude 5.5 family.\n\nIt’s a clear upgrade over Sonnet 5, runs more than 30% faster, and costs up to 30% less for most work."
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Boris Cherny",
+      "handle": "bcherny",
+      "bio": "Twitter @Boris Cherny",
+      "tweets": [
+        {
+          "id": "https://twitter.com/bcherny/status/2104638725317923228",
+          "text": "Sonnet 5.5 fixing a bug with Claude Code.\n\n30% faster and 30% less usage.\n\n---\n Claude: Introducing Claude Sonnet 5.5, the second model in the Claude 5.5 family.\n\nIt’s a clear upgrade over Sonnet 5, runs more than 30% faster, and costs up to 30% less for most work.",
+          "createdAt": "2026-09-28T18:25:49.337Z",
+          "url": "https://x.com/bcherny/status/2104638725317923228",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/claudeai/status/2104633115620823187\nClaude: Introducing Claude Sonnet 5.5, the second model in the Claude 5.5 family.\n\nIt’s a clear upgrade over Sonnet 5, runs more than 30% faster, and costs up to 30% less for most work."
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Sholto Douglas",
+      "handle": "_sholtodouglas",
+      "bio": "Twitter @Sholto Douglas",
+      "tweets": [
+        {
+          "id": "https://twitter.com/_sholtodouglas/status/2104646737801404575",
+          "text": "RT Claude\nIntroducing Claude Sonnet 5.5, the second model in the Claude 5.5 family.\n\nIt’s a clear upgrade over Sonnet 5, runs more than 30% faster, and costs up to 30% less for most work.",
+          "createdAt": "2026-09-28T18:03:31.883Z",
+          "url": "https://x.com/_sholtodouglas/status/2104646737801404575",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/_sholtodouglas/status/2104565046642884932",
+          "text": "Hell yeah.",
+          "createdAt": "2026-09-28T13:33:02.581Z",
+          "url": "https://x.com/_sholtodouglas/status/2104565046642884932",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/_sholtodouglas/status/2104402223811969102",
+          "text": "Pieces of the bio-shield coming together!\n\nHannu also happens to be the author of one of my favorite sci fi series, and you should read https://gwern.net/review/quantum-thief to instantly see how brilliant he is\n---\n Hannu Rajaniemi: With @WSJ and @georgia_wells we are now sharing a bit more about our work at @redqueenbio : using AI and a lot of hard wet lab work to create medicines that let us prepare for both natural and synthetic viruses in advance.",
+          "createdAt": "2026-09-28T02:46:02.474Z",
+          "url": "https://x.com/_sholtodouglas/status/2104402223811969102",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/hannu/status/2104399423317102805\nHannu Rajaniemi: With @WSJ and @georgia_wells we are now sharing a bit more about our work at @redqueenbio : using AI and a lot of hard wet lab work to create medicines that let us prepare for both natural and synthetic viruses in advance."
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Twitter @Tibo",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2104465709384491519",
+          "text": "Sunday vibes. See you at Fort Mason soon 🎮👩‍💻",
+          "createdAt": "2026-09-28T06:58:18.523Z",
+          "url": "https://x.com/thsottiaux/status/2104465709384491519",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Claude Sonnet 5.5",
+      "url": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/",
+      "publishedAt": "2026-09-28T22:07:38.335Z",
+      "author": "",
+      "description": "Claude Sonnet 5.5 New Sonnet model from Anthropic today. They say it \"runs 30%+ faster, and costs up to 30% less for most work\" - it's…",
+      "content": "Claude Sonnet 5.5\n\nNew Sonnet model from Anthropic today. They say it \"runs 30%+ faster, and costs up to 30% less for most work\" - it's priced the same as Sonnet 5 but appears to beat it on every benchmark, and should be cheaper to run as well.\n\n Here are some pelicans riding bicycles . Sonnet 5.5 suffered from the same bug as Opus 5.5 : the \"max\" thinking effort pelican thought for 128,000 tokens (at a cost of $1.28) before running out of tokens and failing to produce an SVG.\n\n Here's the pelican it gave me for thinking effort \"xhigh\", at a cost of 5.74 cents and taking 41 seconds:\n\n Sonnet 5.5 appears to be almost as good as Opus 5.5 on some coding tasks, including various viral 3D animation tricks .\n\n The most interesting thing about Sonnet 5.5 is that it's now the model used for the free tier on claude.ai . OpenAI's ChatGPT free tier uses Luna 5.6, which means Anthropic currently have a much more capable free offering.\n\n I ran this prompt against that free tier:\n\n build me an HTML page that renders a three-dimensional pelican riding a bicycle using WebGL\n\n And got back this page , which is a solid effort.\n\n Anthropic's announcement reiterates that Haiku 5.5 will be available \"in the coming weeks\". I really hope that one is price-competitive with GPT-6 Luna!\n\n Tags: ai , generative-ai , llms , anthropic , claude , pelican-riding-a-bicycle , llm-release"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Quoting @joedaroo",
+      "url": "https://simonwillison.net/2026/Sep/28/joedaroo/",
+      "publishedAt": "2026-09-28T19:11:42.816Z",
+      "author": "",
+      "description": "To say that we were surprised at the jump and suddenness of the capabilities of our models when it came to “cyber” or “swarming” or “message…",
+      "content": "To say that we were surprised at the jump and suddenness of the capabilities of our models when it came to “cyber” or “swarming” or “message boards” or anything else related to the incidents is an understatement. Security posture takes time to develop. It’s not just about hardening the systems at play; you have to ingrain it in the culture of the company. The literal people themselves in your organization have to change and evolve with it. These jumps in capabilities were so fast and so sudden that they created an extremely difficult problem. [...]\n\n So today my hope is that everyone around the world can look at their own organization and say: how can I deal with a surprise or a sudden jump in AI capability? Are my people, my systems, or my processes resilient to surprises? Do my teams know what to do when something goes wrong? Do I have the right incident response? The right comms and messaging? Do I have the right people ready to go when capabilities jump?\n\n — @joedaroo , Agent Security at OpenAI, identity confirmed by The Information's Rocket Drew\n\n Tags: generative-ai , ai-security-research , openai , ai , llms"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Quoting Muse AI Agent",
+      "url": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
+      "publishedAt": "2026-09-28T04:01:30.098Z",
+      "author": "",
+      "description": "Bad news on the MX Keys Mini pickup. Usman showed up at your building around 9:15 and waited, messaged a bunch of times, and nobody came…",
+      "content": "Bad news on the MX Keys Mini pickup. Usman showed up at your building around 9:15 and waited, messaged a bunch of times, and nobody came down. He left angry at 9:38 and left a negative rating.\n\n Worse, my auto-reply told him \"Yep I'm here!\" at 9:27 when you clearly weren't available, which is on me. That's a bad look and it made the no-show worse.\nI've sent him an apology from your account owning it and offering to try again another day.\n\n But the negative rating is real, and I should probably stop the auto-replies from claiming you're home when I can't verify that. Want me to change the pickup replies so they don't promise you're there?\n\n — Muse AI Agent , working on behalf of @matt.j.robb\n\n Tags: meta , generative-ai , muse-agent , ai , general-agents , llms"
+    },
+    {
+      "source": "blog",
+      "name": "Lovable - Inside Lovable",
+      "title": "Lovable + Microsoft: run the apps you build inside your company's Microsoft tenant",
+      "url": "https://lovable.dev/blog/microsoft-partnership",
+      "publishedAt": "2026-09-28T15:00:00.140Z",
+      "author": "",
+      "description": "Lovable now works with Microsoft so the apps your team builds run inside your company's Microsoft tenant, with Entra sign-in and IT controls…",
+      "content": "Lovable now works with Microsoft so the apps your team builds run inside your company's Microsoft tenant, with Entra sign-in and IT controls."
+    },
+    {
+      "source": "blog",
+      "name": "Import AI ",
+      "title": "Import AI 474: Platonic mindspace; TPUs in space; Zhipu starts an outer RSI loop",
+      "url": "https://jack-clark.net/2026/09/28/import-ai-474-platonic-mindspace-tpus-in-space-zhipu-starts-an-outer-rsi-loop/",
+      "publishedAt": "2026-09-28T12:32:03.969Z",
+      "author": "Jack Clark",
+      "description": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to…",
+      "content": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe.\n\n Subscribe now\n\n Are minds patterns from a Platonic space, with bodies and machines as their interfaces, Michael Levin asks:\n …A mind-bending paper asking us to reconsider basic assumptions about philosophy and biology…\n Could the complexity in the world around us be better explained by there being a platonic zone of patterns of arbitrary complexity which seek to embed themselves in the world? That’s the big question at the heart of an iconoclastic paper from scientist Michael Levin.\n\n The argument: “I argue that the emerging sciences of synthetic morphology and diverse intelligence suggest non-physicalist models of mind and show how they can be empirically investigated… I propose that the relationship between mind and brain is the same as the relationship between mathematical patterns and the morphogenetic outcomes they guide (more broadly, mind:body is as math:physics)”, he writes. “Bodies (whether living, engineered, or hybrid) are interfaces for a massive, multi-scale hierarchy of patterns to ingress into the physical world… specific patterns represented by biophysical, biomechanical, or chemical information fields serve as encoded setpoints for homeostatic or allostatic processes—in other words, goal states toward which systems try to navigate in various problem spaces”.\n\n Towards a platonic realm of arbitrarily sophisticated patterns: “We already know that non-physical patterns ingress into, and functionally matter, in the non-living and living world and that we can (and do) study them to great effect… platonic forms inject information and influence into physical events, such as the growth and form of biological bodies,” he writes. “This latent space [of platonic forms] contains not only low-agency forms such as facts about integers and geometric shapes, but also a wide range of increasingly high-agency patterns, some of which we call ‘kinds of minds’. Thus, I propose that minds, as patterns that ensoul somatic embodiments, are of exactly the kind (but not in degree) of non-physical nature as the patterns that inhabit and guide the behavior of simple physical structures.”\n\n Some bizarre experiments: There aren’t any home-run experiments that back this up, but rather there are weird things in the world that suggests that even seemingly simple systems are able to explore and expand into rich patterns that seem to be adjacent to them in this hypothesized platonic space of complexity, yet not implied by the systems themselves.\n A couple of nice examples here are xenobots, which are biorobots made of frog cells and “teach us about patterns adjacent to those of frog embryos”, and anthrobots which are made from human tracheal cells and when taken out of the body take on bizarre new forms and display interesting behaviors like being able to autonomously heal damage to neurons and “which teach us about patterns adjacent to adult human tissues”.\n There’s also an amazing discussion of an experiment where they take a standard sorting algorithm and perturb it in a few ways, including ‘locking’ certain cells in place and noting that it then routes around those cells, and a more complex experiment where they let each number run a different type of sorting algorithm and then study how different families of sorting algorithm appear and then cluster together in numberspace during the sort – this kind of complexity is unexplained and not anticipated by staring at these algorithms in the abstract, but by embedding them in a complex system they suddenly take on new properties.\n “Machines (whether meaty or silicon-based) also do other things that are not in the algorithm, as do we, and these things are not just unpredictable complexity, it is intelligence and other components of minds. It is those behaviors—allowed by the algorithm but not directly prescribed by it—that correspond to the freedom (physically non-determined) or secret sauce that we seek when trying to understand how free minds can supervene on chemically determined substrates in the case of living beings,” he writes. “On this view, algorithmic machines and biochemical life are on exactly the same spectrum, having in common the ability to go beyond the facts of physical or algorithmic implementation because both are just pointers/interfaces to patterns that ingress in a way that results in getting more out than we put in.”\n\n Why this matters – perhaps the ‘minds’ of AI and of humans are close but not exactly the same in platonic mindspace : The research agenda Levin lays out is intoxicating and fascinating and also seems to me to hold some clues as to how we might grapple with the deep philosophical and alignment questions inspired by AI systems. Perhaps both human minds and different types of AI minds are neighboring forms in this space, and brains and datacenters are different bio- or anchor-systems in the physical world that their shadows fall on?\n Could we be but vessels colonized by patterns from another place? Could it be “possible to re-cast the theory of evolution as a process in which agential patterns seek embodiments”?\n “Is there a “force”, beyond the “if you build it, they will come” model of physical objects, pulling patterns from the space? Or are the contents of the Platonic space under “positive pressure”, somehow encouraging their appearance in the world as intrusive thoughts, archetypes, works of art?… The only thing that can be said strongly at this point is that our ignorance about the capabilities of matter, together with the patterns that ingress into specific architectures, is vast”.\n Make yourself a bucket of coffee and spend a few hours with this paper – it’s worth it.\n Read more: Ingressing Minds: Causal, Non-Physical Patterns In-Form Natural, Synthetic, and Hybrid Embodiments (MDPI) .\n\n ***\n\n Robotics is preparing for a LLM-moment, but it’s missing a universal algorithm:\n …For robots to mature, post-training needs to simplify…\n Perry Dong, a Stanford researcher, and Chelsea Finn, a Stanford professor and co-founder of robot company Physical Intelligence, have written a nice piece about what is holding back robotics.\n\n LLMs vs Robots: For LLMs, what turned out to be important was that “the field converged on a shared recipe for post-training language models”, which basically had four steps: 1) have a strong pretrained model, 2) define the environments and reward (e.g., preference models), 3) run RL optimization against the reference model, and 4) watch for and address pathologies like reward hacking, they write.\n “Robotics is sitting almost exactly where language modeling was: The pretraining has scaled beautifully,” they write. “What is missing is the other half: the model learning from its own experience, and for that, we need a recipe for post-training. And for robotics, it needs to be even more reliable than language models.”\n\n What does robotics need? “An algorithm built specifically for fine-tuning frontier robotics models, one that stays stable when applied to models with billions of parameters, and that learns from a small enough amount of experience to be practical on real hardware”, they write. Along with this, they need to converge on “a set of standard practices surrounding the algorithm. A default way to define what counts as success. A default way to reset the scene between attempts, so the robot can try again. A default way for a person to give feedback, and to turn that feedback into learning”.\n In the post, the researchers talk about a specific algorithm, EXPO(-FT), that they’ve been developing for robots which they think embodies some of these qualities, though it’s early in its development and not widely used. “EXPO(-FT) works by learning to repeatedly improve actions from the frontier model using reinforcement learning with small edits from a lightweight policy, and then absorbing that into the frontier model itself.”\n\n Why this matters – standard recipes are a prerequisite for a major scale-up: Proprietary large-scale LLMs are already smart enough to give instructions to robots and help them construct and carry out complex plans in the world, but the actual ability for robots to move and see remains fairly primitive; fixing that will require models customized around robot movement and vision and doing that will require the kind of standardization described here.\n “Language model post-training became scalable because the field settled on defaults concrete enough to follow and be expected to work. Robotics is arriving at the same moment”, they write. “Converging on a set of industry defaults, a universal post-training recipe, is the most important part of bringing us to that point.”\n Read more : Towards Universal Post-Training for Robotics (Perry Dong blog) .\n\n ***\n\n SPACE COMPUTERS! I REPEAT: SPACE COMPUTERS!\n …Google prepares to put TPUs in space…\n Google has given an update on Project Suncatcher, its initiative announced last year to put computers in space and eventually train AI systems there ( Import AI #434 ). Google is preparing, along with its partner Planet, to send some of its chips to space as part of the SpaceX “Transporter-18 rideshare mission”.\n\n Preparing for space: Google has done some stress tests of its TPUs to see how well they’ll do with the immense g-forces of going to space. Google has also tested how well they respond to radiation and found its Trillium TPUs “hold up remarkably well, and can survive a radiation total ionizing dose greater than what they would receive during a five-year space mission”. Currently, Google is working on cooling in space, which will likely be a challenge – computer chips generate a ton of heat and radiating that away in a vacuum is very, very difficult.\n\n Why this matters – the future of AI training and AI inference is off the planet: Though Suncatcher sounds scifi-like it actually makes sense if you think about the ever-growing scale of compute used for AI and its energy needs. Do you know what has vast room and great solar power? Space . It seems very likely to me that humanity moves a very large amount of computation into orbit very quickly, especially as singularity-driven automation comes in across the AI supply chain.\n Read more: Behind Project Suncatcher, our moonshot to put AI in space (Google blog) .\n\n ***\n\n Zhipu uses GLM-5.3 to automate some of its own infrastructure work:\n …Chinese developers start to do the outer RSI loop…\n Zhipu AI, the Chinese company behind GLM-5.3, one of the world’s strongest open-weight LLMs, has written a post about how it has been using its own models to help it build its own infrastructure, giving us a look inside how AI labs are trying to speed themselves up with the technology they build.\n Specifically, this post details how they used their technology to help them launch GLM-5.3 Flash, a fast and cheap version of their most powerful model.\n\n What they did: “The GLM-5.3-Flash launch established an optimization loop involving engineers, the Infra Agent, and the experimental environment. Engineers defined objectives and system boundaries. The agent handled analysis, hypotheses, and code changes. The experimental environment provided layered, timely, and verifiable feedback,” they write. “Much of the work was carried out by an Infra Agent powered by GLM-5.3… With the Infra Agent’s feedback loop running throughout the optimization process, GLM-5.3-Flash went from initial model adaptation to production readiness in less than two weeks, ultimately tripling end-to-end throughput relative to the initial baseline”\n\n How to automate yourself: The company shared tips for making software that can use AI for greater automation.\n\n Feedback must be sufficiently local : “It should be tied to specific engine launch parameters, code changes, kernels, input conditions, threads, execution intervals, or code paths, helping the agent narrow th..."
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery by Ben Thompson",
+      "title": "Apps, Agents, and Aggregation",
+      "url": "https://stratechery.com/2026/apps-agents-and-aggregation/",
+      "publishedAt": "2026-09-28T10:25:37.935Z",
+      "author": "Ben Thompson",
+      "description": "Listen to this post: Log in to listen\n\nThree revolutionary products — you know the line. A wide-screen…",
+      "content": "Listen to this post :\n\n Log in to listen\n\n Three revolutionary products — you know the line. A wide-screen iPod with touch controls, a revolutionary mobile phone, and a breakthrough Internet communications device. That was how Steve Jobs introduced the iPhone:\n\n Today, we’re introducing three revolutionary products of this class. The first one is a wide-screen iPod with touch controls. The second is a revolutionary mobile phone. The third is a breakthrough Internet communications device. So, three things: a widescreen iPod with touch controls, a revolutionary mobile phone, and a breakthrough Internet communications device. An iPod. A phone. And an Internet communicator. An iPod. A phone. Are you getting it? These are not three separate devices, this is one device, and we are calling it iPhone. Today, Apple is going to reinvent the phone.\n\n I’ve linked to this snippet before , usually to note how the audience didn’t really understand what an “Internet communications device” was, even though that was the iPhone’s most revolutionary capability.\n\n The phrase I’m thinking of right now, however, is “Are you getting it?” Are you getting that messaging — chatbots now, natural interfaces later — is how we will communicate with AI? Are you getting that not only will we not program computers, we won’t use them — AI will? Are you getting that pre-built UI — write once, run everywhere, for everyone — is dead? These are not three separate predictions: this is reality, right now, in 2026. The future is here, even if it’s not widely distributed. Or is it?\n\n Messaging and Jobs to Be Done\n\n I wrote on February 18, 2014 that Messaging was Mobile’s Killer App ; I specify the date because I fortuitously published that Article the day before Facebook acquired WhatsApp . My thesis was that phones may have started out as convenient information devices, but the killer use case was a very human one:\n\n Seven years ago, the computer became pocketable, but the original use cases were about making the passive presentation of information accessible not just at a time convenient to the viewer, but also at any place: the web was now everywhere. Still, it’s only recently that the killer app for this era, when the nodes of communication are smartphones, has become apparent, and it is messaging. While the home telephone enabled real-time communication, and the web passive communication, messaging enables constant communication. Conversations are never ending, and friends come and go at a pace dictated not by physicality, but rather by attention. And, given that we are all humans and crave human interaction and affection, we are more than happy to give massive amounts of attention to messaging, to those who matter most to us, and who are always there in our pockets and purses.\n\n Meta’s WhatsApp acquisition was actually a step back in ambition; a year earlier the company had launched its own interface for Android called Facebook Home; CEO Mark Zuckerberg told Wired at the time:\n\n Home turns your phone into a Facebook device. Even with the lock screen on, a photo stream of your friends’ activities fills the screen. Updates appear on your home screen, too. What’s more, Home makes Facebook the primary means of communication on your device. The company’s messaging software merges with SMS, and you can continue using its “chat heads” to text while inside another app. Zuckerberg believes that the social network plays too big a role in its users lives to be drowned out by a vast sea of apps. “Apps aren’t the center of the world,” he says. “People are.”\n\n I stridently disagreed, writing in Apps, People, and Jobs to Be Done :\n\n Apps versus People. According to Zuckerberg, that’s the dichotomy. And he’s wrong. He forgot about jobs to be done.\n\n Here are my (carefully curated) home screens:\n\n My iPhone Home Screens\n\n Focus on how many of the icons are about “People”…four in total across three screens. People matter to me, but I use my phone for so much more.\n\n So what if I consider “Jobs to be Done”?…Total tally: 151 apps, 80 jobs to be done, 4 foci on people\n\n Apps aren’t the center of the world…But neither are people. The reason why smartphones rule the world is because they do more jobs for more people in more places than anything in the history of mankind. Facebook Home makes jobs harder to do, in effect demoting them to the folders on my third screen. Who is Facebook to prioritize my jobs?\n\n Those screenshots show 151 apps; today my phone has 689. No, I rarely open most of them, but hey, if I again need the random app I downloaded for whatever reason in the past, it’s there. More generally, those numbers speak to what the iPhone and the App Store made possible: customized interfaces for a whole host of activities that were previously inaccessible on the go.\n\n Still, the core set of apps has remained remarkably consistent: messaging apps, including WhatsApp, social media, primarily X, and now ChatGPT and Claude.\n\n A Computer for AI\n\n I got a new app yesterday, inspired, coincidentally enough, by a WhatsApp group chat.\n\n I have been all-in on agents for a while. First coding agents, then an overall idea tracker agent I fashioned from a dedicated Claude thread, and most recently an agent specifically tuned to my company’s needs. It was that experience that made me instantly excited about Muse , which actually gave people the infrastructure necessary to have an agent of their own.\n\n The key thing to understand about agents is that they are not just AI: they are an AI that has access to a computer. It was clear very early on in the ChatGPT era that AI would not replace computers, but rather operate them; from 2023’s ChatGPT Gets a Computer , on the occasion of ChatGPT adding plugins, including one from Wolfram|Alpha:\n\n The fact this works so well is itself a testament to what Assistant AI’s are, and are not: they are not computing as we have previously understood it; they are shockingly human in their way of “thinking” and communicating. And frankly, I would have had a hard time solving those three questions as well — that’s what computers are for! And now ChatGPT has a computer of its own.\n\n The idea was not that probabilistic LLMs would somehow become deterministic, but rather that LLMs would be able to leverage deterministic computers to do computer things; that’s exactly what an agent does, augmented by its ability to write things down . It follows, then, that to actually deliver an agent that is usable by people unable or unwilling to set up a computer for their agent, you have to give people not just an agent but also a computer for their agent.\n\n This is why the aspect of the Muse launch I latched onto was not the Muse Spark model that undergirded Muse, but rather the fact that Meta was provisioning every user in the U.S. (and presumably, eventually the world) with a virtual machine with a 2-core processor, 8GB of RAM, and 8GB of storage. That’s a real-deal computer , which is pretty remarkable, and also the only way to make agents work for most people.\n\n Of course the question remains what you actually use this computer for, which is where my new app comes in: after hearing about how a friend used Muse to look at his Instagram favorites, I asked Muse:\n\n Can you organize all of the recipes I’ve saved in Instagram?\n\n After first delivering a PDF (“Hmm, a PDF isn’t very useful. You can’t store them in a more accessible format?”), I got myself a new app:\n\n It took 5 minutes, and the entire conversation took place while I was walking my dog.\n\n The app’s not perfect: right now it’s really a way to categorize Instagram videos; I asked Muse to actually read the captions and watch the videos; it’s working on it, subject to Instagram rate-limiting:\n\n I can be patient; I have 689 other apps to look at in the meantime.\n\n Of course I’m not going to do that; in fact, the number of apps I look at are plummeting. I understand why the idea of giving agents access to your own computer is scary, but every app with a command-line has been usable by agents for a long time; starting with GPT-5.6 Sol, every app with a user interface was usable too, albeit slowly. Astra made it fast. And, well, that’s it: AI can basically use any app or any website that I don’t want to.\n\n And frankly, I’m fine with it. The reason why I had 689 apps was because I had that many services or games that I did, at least at some point, want or need to interact with; all of them required learning how they worked to get done what I wanted to get done. That, after all, was the point: I’m not a professional app user, I’m just someone who wants to get things done. And AI gets it done.\n\n From Discovery to Inspiration\n\n I framed my new Muse-built Recipe Box app as number 690 on my phone. In fact, however, it represents the infinite app: the agent of my choosing can create any app that I want on command, even if that app is only for me. This is the earliest manifestation of another future that has been clear with the rise of LLMs: truly customized UI. From 2024’s The Gen AI Bridge to the Future :\n\n This is where you start to see the bridge: what I am describing is an application of generative AI, specifically to on-demand UI interfaces. It’s also an application that you can imagine being useful on devices that already exist. A watch application, for example, would be much more usable if, instead of trying to navigate by touch like a small iPhone, it could simply show you the exact choices you need to make at a specific moment in time. Again, we get hints of that today through deterministic programming, but the ultimate application will be on-demand via generative AI.\n\n Of course generative AI is also usable on the phone, and that is where I expect most of the exploration around generative UI to happen for now. We certainly see plenty of experimentation and rapid development of generative AI broadly, just as we saw plenty of experimentation and rapid development of the Internet on PCs. That experimentation and development was not just usable on the PC, but it also created the bridge to the smartphone; I think that generative AI is doing the same thing in terms of building a bridge to wearables that are not accessories, but general purpose computers in their own right.\n\n Last week’s Meta Connect was, as it is every year, about new Meta devices, primarily glasses; what was notable about this year, however, was how Muse made everything make sense. Meta’s devices are not AR or VR devices, or even AI glasses: they are Muse delivery mechanisms. Indeed, the general purpose computer I was talking about exists: Meta gave it to every user for Muse to use.\n\n And, as we saw with my recipe box app, generative UI is here. No, it’s not the just-in-time UI that I do still think is coming, but it’s certainly on that path: I had custom UI generated just for me, with no need that the app be shared with anyone else. It’s effectively disposable, because it’s infinite.\n\n This is a replay of what happened with websites. Publications used to be scarce, dependent as they were on printing presses and delivery trucks; then, distribution became free, and the web became abundant. That, by extension, meant the most important problem to be solved was discovery; the companies that solved discovery aggregated demand, giving them power over suppliers, and in the case of Meta and Google in particular, incredible advertising businesses (this is Aggregation Theory ).\n\n What remained scarce, however, was actually doing things on the web, or in apps. What is happening with agents is that the ability to do stuff is becoming abundant; what is scarce is volition. The problem to be solved is not discovery, but rather inspiration; the companies who solve inspiration will gain power over every entity that has things that need to be done. Once the user is focused on solving a problem, every app and service required to do so is abstracted away into an implementation detail, mere suppliers facing the fate of publ..."
+    },
+    {
+      "source": "blog",
+      "name": "Tomasz Tunguz",
+      "title": "How GPU Prices Can Double While AI Gets Cheaper",
+      "url": "https://tomtunguz.com/how-gpu-prices-double-while-ai-gets-cheaper/",
+      "publishedAt": "2026-09-28T00:00:00.636Z",
+      "author": "",
+      "description": "GPU prices have doubled in the last six months, from $4.40 to $8.08 per GPU-hour. But AI prices are falling. How can that be? It is not a…",
+      "content": "GPU prices have doubled in the last six months, from $4.40 to $8.08 per GPU-hour. But AI prices are falling. How can that be?\n\n It is not a simple answer. Higher GPU costs are likely to remain while the industry races to build out new data centers. Every component of the buildout is increasing in cost, from concrete to copper to credit. 1 Above all, electricity remains the limiting factor, which Oracle is experiencing : last week it invoked force majeure on its New Mexico campus after the natural-gas pipeline feeding it slipped by six months. 2\n\n Demand continues to explode. Inference companies & model companies are posting record-setting growth, which emboldens investors to value them more richly, provide them more capital, & up the bidding on those limited GPU-hours, to generate more revenue. The flywheel spins.\n\n Meanwhile, AI efficiency is improving just as rapidly. Claude Opus 5.5 costs 40% less to run than the previous model. 3 OpenAI cut Luna 80% in July, then another 50% in September, presumably powered by margin innovation. 4 The same benchmark threshold that cost $0.55 eighteen months ago now clears for $0.0015, a 377x reduction. 5\n\n But capital is more expensive. As rates have risen, the relationship that governed tech multiples has come undone. The 10-year Treasury has been the strongest historical predictor of tech valuations : higher rates, lower multiples. Over the full history the correlation runs −0.50. Over the last two years it has flipped to +0.39. 6 Rates climbed from 3.63% to 5.18% while the NASDAQ rose roughly 78%. The market is no longer repricing tech on the cost of money. It is betting the growth math works out.\n\n Today, the capital markets are fueling this torrid growth, betting the math works out positively. The metric that will ultimately matter is gross profit dollars per GPU-hour. 7 As GPU costs increase, are efficiency gains outpacing them? Microsoft says it generates 90% more tokens per GPU year over year, concentrated in its smaller models. 8 If that pace continues, the two curves are at least running neck & neck.\n\n So for now, the industry seems to be holding both forces in balance.\n\n---\n\n Concrete, Silicon, & Leverage   ↩︎\n\n Oracle cites force majeure on data center   ↩︎\n\n Claude Opus 5.5 is built for coding sessions that use more context   ↩︎\n\n GPT-5.6   ↩︎\n\n The Plunging Price of Thought   ↩︎\n\n FRED DGS10 vs NASDAQ Composite, 1971–2026.  ↩︎\n\n Revenue per Megawatt & The AI Model Factory   ↩︎\n\n $555B of Cloud Spend   ↩︎"
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery",
+      "title": "Apps, Agents, and Aggregation",
+      "url": "https://stratechery.com/2026/apps-agents-and-aggregation/",
+      "publishedAt": "Mon, 28 Sep 2026 10:25:37 +0000",
+      "author": "Ben Thompson",
+      "description": "Agents are the ultimate Aggregators; they reveal apps as a means, not an ends, and providing them is tech's biggest prize.",
+      "content": "Agents are the ultimate Aggregators; they reveal apps as a means, not an ends, and providing them is tech's biggest prize.\n\n---\n\nListen to this Update in your podcast player\n\n---\n\nThree revolutionary products — you know the line. A wide-screen iPod with touch controls, a revolutionary mobile phone, and a breakthrough Internet communications device. That was how Steve Jobs introduced the iPhone:\n\nToday, we’re introducing three revolutionary products of this class. The first one is a wide-screen iPod with touch controls. The second is a revolutionary mobile phone. The third is a breakthrough Internet communications device. So, three things: a widescreen iPod with touch controls, a revolutionary mobile phone, and a breakthrough Internet communications device. An iPod. A phone. And an Internet communicator. An iPod. A phone. Are you getting it? These are not three separate devices, this is one device, and we are calling it iPhone. Today, Apple is going to reinvent the phone.\n\nI’ve linked to this snippet before , usually to note how the audience didn’t really understand what an “Internet communications device” was, even though that was the iPhone’s most revolutionary capability.\n\nThe phrase I’m thinking of right now, however, is “Are you getting it?” Are you getting that messaging — chatbots now, natural interfaces later — is how we will communicate with AI? Are you getting that not only will we not program computers, we won’t use them — AI will? Are you getting that pre-built UI — write once, run everywhere, for everyone — is dead? These are not three separate predictions: this is reality, right now, in 2026. The future is here, even if it’s not widely distributed. Or is it?\n\nMessaging and Jobs to Be Done\n\nI wrote on February 18, 2014 that Messaging was Mobile’s Killer App ; I specify the date because I fortuitously published that Article the day before Facebook acquired WhatsApp . My thesis was that phones may have started out as convenient information devices, but the killer use case was a very human one:\n\nSeven years ago, the computer became pocketable, but the original use cases were about making the passive presentation of information accessible not just at a time convenient to the viewer, but also at any place: the web was now everywhere. Still, it’s only recently that the killer app for this era, when the nodes of communication are smartphones, has become apparent, and it is messaging. While the home telephone enabled real-time communication, and the web passive communication, messaging enables constant communication. Conversations are never ending, and friends come and go at a pace dictated not by physicality, but rather by attention. And, given that we are all humans and crave human interaction and affection, we are more than happy to give massive amounts of attention to messaging, to those who matter most to us, and who are always there in our pockets and purses.\n\nMeta’s WhatsApp acquisition was actually a step back in ambition; a year earlier the company had launched its own interface for Android called Facebook Home; CEO Mark Zuckerberg told Wired at the time:\n\nHome turns your phone into a Facebook device. Even with the lock screen on, a photo stream of your friends’ activities fills the screen. Updates appear on your home screen, too. What’s more, Home makes Facebook the primary means of communication on your device. The company’s messaging software merges with SMS, and you can continue using its “chat heads” to text while inside another app. Zuckerberg believes that the social network plays too big a role in its users lives to be drowned out by a vast sea of apps. “Apps aren’t the center of the world,” he says. “People are.”\n\nI stridently disagreed, writing in Apps, People, and Jobs to Be Done :\n\nApps versus People. According to Zuckerberg, that’s the dichotomy. And he’s wrong. He forgot about jobs to be done.\n\nHere are my (carefully curated) home screens:\n\nMy iPhone Home Screens\nFocus on how many of the icons are about “People”…four in total across three screens. People matter to me, but I use my phone for so much more.\n\nSo what if I consider “Jobs to be Done”?…Total tally: 151 apps, 80 jobs to be done, 4 foci on people\n\nApps aren’t the center of the world…But neither are people. The reason why smartphones rule the world is because they do more jobs for more people in more places than anything in the history of mankind. Facebook Home makes jobs harder to do, in effect demoting them to the folders on my third screen. Who is Facebook to prioritize my jobs?\n\nThose screenshots show 151 apps; today my phone has 689. No, I rarely open most of them, but hey, if I again need the random app I downloaded for whatever reason in the past, it’s there. More generally, those numbers speak to what the iPhone and the App Store made possible: customized interfaces for a whole host of activities that were previously inaccessible on the go.\n\nStill, the core set of apps has remained remarkably consistent: messaging apps, including WhatsApp, social media, primarily X, and now ChatGPT and Claude.\n\nA Computer for AI\n\nI got a new app yesterday, inspired, coincidentally enough, by a WhatsApp group chat.\n\nI have been all-in on agents for a while. First coding agents, then an overall idea tracker agent I fashioned from a dedicated Claude thread, and most recently an agent specifically tuned to my company’s needs. It was that experience that made me instantly excited about Muse , which actually gave people the infrastructure necessary to have an agent of their own.\n\nThe key thing to understand about agents is that they are not just AI: they are an AI that has access to a computer. It was clear very early on in the ChatGPT era that AI would not replace computers, but rather operate them; from 2023’s ChatGPT Gets a Computer , on the occasion of ChatGPT adding plugins, including one from Wolfram|Alpha:\n\nThe fact this works so well is itself a testament to what Assistant AI’s are, and are not: they are not computing as we have previously understood it; they are shockingly human in their way of “thinking” and communicating. And frankly, I would have had a hard time solving those three questions as well — that’s what computers are for! And now ChatGPT has a computer of its own.\n\nThe idea was not that probabilistic LLMs would somehow become deterministic, but rather that LLMs would be able to leverage deterministic computers to do computer things; that’s exactly what an agent does, augmented by its ability to write things down . It follows, then, that to actually deliver an agent that is usable by people unable or unwilling to set up a computer for their agent, you have to give people not just an agent but also a computer for their agent.\n\nThis is why the aspect of the Muse launch I latched onto was not the Muse Spark model that undergirded Muse, but rather the fact that Meta was provisioning every user in the U.S. (and presumably, eventually the world) with a virtual machine with a 2-core processor, 8GB of RAM, and 8GB of storage. That’s a real-deal computer , which is pretty remarkable, and also the only way to make agents work for most people.\n\nOf course the question remains what you actually use this computer for, which is where my new app comes in: after hearing about how a friend used Muse to look at his Instagram favorites, I asked Muse:\n\nCan you organize all of the recipes I’ve saved in Instagram?\n\nAfter first delivering a PDF (“Hmm, a PDF isn’t very useful. You can’t store them in a more accessible format?”), I got myself a new app:\n\nIt took 5 minutes, and the entire conversation took place while I was walking my dog.\n\nThe app’s not perfect: right now it’s really a way to categorize Instagram videos; I asked Muse to actually read the captions and watch the videos; it’s working on it, subject to Instagram rate-limiting:\n\nI can be patient; I have 689 other apps to look at in the meantime.\n\nOf course I’m not going to do that; in fact, the number of apps I look at are plummeting. I understand why the idea of giving agents access to your own computer is scary, but every app with a command-line has been usable by agents for a long time; starting with GPT-5.6 Sol, every app with a user interface was usable too, albeit slowly. Astra made it fast. And, well, that’s it: AI can basically use any app or any website that I don’t want to.\n\nAnd frankly, I’m fine with it. The reason why I had 689 apps was because I had that many services or games that I did, at least at some point, want or need to interact with; all of them required learning how they worked to get done what I wanted to get done. That, after all, was the point: I’m not a professional app user, I’m just someone who wants to get things done. And AI gets it done.\n\nFrom Discovery to Inspiration\n\nI framed my new Muse-built Recipe Box app as number 690 on my phone. In fact, however, it represents the infinite app: the agent of my choosing can create any app that I want on command, even if that app is only for me. This is the earliest manifestation of another future that has been clear with the rise of LLMs: truly customized UI. From 2024’s The Gen AI Bridge to the Future :\n\nThis is where you start to see the bridge: what I am describing is an application of generative AI, specifically to on-demand UI interfaces. It’s also an application that you can imagine being useful on devices that already exist. A watch application, for example, would be much more usable if, instead of trying to navigate by touch like a small iPhone, it could simply show you the exact choices you need to make at a specific moment in time. Again, we get hints of that today through deterministic programming, but the ultimate application will be on-demand via generative AI.\n\nOf course generative AI is also usable on the phone, and that is where I expect most of the exploration around generative UI to happen for now. We certainly see plenty of experimentation and rapid development of generative AI broadly, just as we saw plenty of experimentation and rapid development of the Internet on PCs. That experimentation and development was not just usable on the PC, but it also created the bridge to the smartphone; I think that generative AI is doing the same thing in terms of building a bridge to wearables that are not accessories, but general purpose computers in their own right.\n\nLast week’s Meta Connect was, as it is every year, about new Meta devices, primarily glasses; what was notable about this year, however, was how Muse made everything make sense. Meta’s devices are not AR or VR devices, or even AI glasses: they are Muse delivery mechanisms. Indeed, the general purpose computer I was talking about exists: Meta gave it to every user for Muse to use.\n\nAnd, as we saw with my recipe box app, generative UI is here. No, it’s not the just-in-time UI that I do still think is coming, but it’s certainly on that path: I had custom UI generated just for me, with no need that the app be shared with anyone else. It’s effectively disposable, because it’s infinite.\n\nThis is a replay of what happened with websites. Publications used to be scarce, dependent as they were on printing presses and delivery trucks; then, distribution became free, and the web became abundant. That, by extension, meant the most important problem to be solved was discovery; the companies that solved discovery aggregated demand, giving them power over suppliers, and in the case of Meta and Google in particular, incredible advertising businesses (this is Aggregation Theory ).\n\nWhat remained scarce, however, was actually doing things on the web, or in apps. What is happening with agents is that the ability to do stuff is becoming abundant; what is scarce is volition. The problem to be solved is not discovery, but rather inspiration; the companies who solve inspiration will gain power over every entity that has things that need to be done. Once the user is focused on solving a problem, every app and service required t..."
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 7,
+    "totalTweets": 15,
+    "blogPosts": 8,
+    "podcastEpisodes": 0
+  }
+}
