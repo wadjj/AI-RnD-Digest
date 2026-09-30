@@ -1,0 +1,373 @@
+{
+  "generatedAt": "2026-09-30T01:20:01.878Z",
+  "runKey": "2026-09-30",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Twitter @Thariq",
+      "tweets": [
+        {
+          "id": "https://twitter.com/trq212/status/2105065127892734076",
+          "text": "have you tried telling Claude \"we have the power to do anything, please be braver\"\n\nalso, have you tried telling yourself",
+          "createdAt": "2026-09-29T22:40:11.299Z",
+          "url": "https://x.com/trq212/status/2105065127892734076",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/trq212/status/2104983034152063339",
+          "text": "I was on the latent space podcast with Swyx and Vibhu!\n\nOverall it was a really fun deep dive into lots of topics from harness engineering to pacing the frontier.\n\nHere are some of my favorite clips.\n\n1/ Smart models need less verification which makes them pareto dominant.",
+          "createdAt": "2026-09-29T17:13:58.501Z",
+          "url": "https://x.com/trq212/status/2104983034152063339",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Twitter @Ethan Mollick",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2105052282354303358",
+          "text": "Leaving aside Anthropic's incentives for publishing this research, there is no doubt that open weights models will soon create the same security threats that closed source models have been demonstrating, except without guardrails. We are close. Probably good to plan accordingly.",
+          "createdAt": "2026-09-29T21:49:08.278Z",
+          "url": "https://x.com/emollick/status/2105052282354303358",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2105042717432799701",
+          "text": "It does feel like every year OpenAI releases a variation on the same third-party ecosystem only to semi-abandon it: Plugins in 2023, GPTs and the GPT Store in 2023-2024, Apps in 2025, and now Plugins (same name, different thing than before) in 2026.",
+          "createdAt": "2026-09-29T21:11:08.266Z",
+          "url": "https://x.com/emollick/status/2105042717432799701",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2105000480569212984",
+          "text": "I only used Dots briefly before launch, so can’t offer a detailed review, but I found it to be good & very much in the rapidly-expanding Clawlike category with Muse & Grokbot. Using a capable model with access to your data as an assistant & second opinion is remarkably useful.",
+          "createdAt": "2026-09-29T18:23:18.053Z",
+          "url": "https://x.com/emollick/status/2105000480569212984",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Twitter @Tibo",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2105041299934187874",
+          "text": "Full recap of all the announcements\n\nhttps://openai.com/index/devday-2026-recap/",
+          "createdAt": "2026-09-29T21:05:30.090Z",
+          "url": "https://x.com/thsottiaux/status/2105041299934187874",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2105039816438227206",
+          "text": "Proud of this. Open is the way.\n---\n Philip Kiely: Enterprise teams can now use open models like GLM-5.3 Flash and Kimi K3 natively in Codex and count spend against their OpenAI commit.",
+          "createdAt": "2026-09-29T20:59:36.975Z",
+          "url": "https://x.com/thsottiaux/status/2105039816438227206",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/philipkiely/status/2105000178709360963\nPhilip Kiely: Enterprise teams can now use open models like GLM-5.3 Flash and Kimi K3 natively in Codex and count spend against their OpenAI commit."
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2105039482013757749",
+          "text": "Plugin discovery on ChatGPT leads to massive adoption opportunity. Open ecosystems will win.",
+          "createdAt": "2026-09-29T20:58:16.972Z",
+          "url": "https://x.com/thsottiaux/status/2105039482013757749",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Sholto Douglas",
+      "handle": "_sholtodouglas",
+      "bio": "Twitter @Sholto Douglas",
+      "tweets": [
+        {
+          "id": "https://twitter.com/_sholtodouglas/status/2105042979476103486",
+          "text": "RT Logan Graham\nWow, https://america.gov really does everything!\n\nExceptional job by many that worked extremely hard on this. This is 21st century government\n\n---\n Rapid Response 47: Chief Design Officer @jgebbia officially unveils https://America.gov, the new online home for the United States of America",
+          "createdAt": "2026-09-29T20:52:27.341Z",
+          "url": "https://x.com/_sholtodouglas/status/2105042979476103486",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Noam Brown",
+      "handle": "polynoamial",
+      "bio": "Twitter @Noam Brown",
+      "tweets": [
+        {
+          "id": "https://twitter.com/polynoamial/status/2105027617678393698",
+          "text": "RT General Obligation\nRe @longphann_ @polynoamial\n\nResults are even more impressive at max! 6.1 sol outperforms Opus 5.5 while using 4x fewer tokens.",
+          "createdAt": "2026-09-29T19:52:49.019Z",
+          "url": "https://x.com/polynoamial/status/2105027617678393698",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/polynoamial/status/2104994025631846435",
+          "text": "I’m happy that @OpenAI presents model evals this way. We should measure intelligence as a function of cost.\n\n---\n OpenAI: GPT-6.1 Sol: near-Astra intelligence for a fifth of the price.\n\nIt’s the most cost-efficient model for its performance available today.",
+          "createdAt": "2026-09-29T17:57:39.087Z",
+          "url": "https://x.com/polynoamial/status/2104994025631846435",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/OpenAI/status/2104986129686741046\nOpenAI: GPT-6.1 Sol: near-Astra intelligence for a fifth of the price.\n\nIt’s the most cost-efficient model for its performance available today."
+        },
+        {
+          "id": "https://twitter.com/polynoamial/status/2104990938145890462",
+          "text": "Was testing out dots over the weekend and it figured out how to save me ~$500/yr in recurring charges. Most impressive part was when it connected to customer service and handled a whole texting convo on my behalf.\n---\n OpenAI: Introducing dots, powered by GPT-6 Astra.\n\nRemarkably capable, always-on agents built to handle everything.",
+          "createdAt": "2026-09-29T17:45:23.147Z",
+          "url": "https://x.com/polynoamial/status/2104990938145890462",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/OpenAI/status/2104984504133918973\nOpenAI: Introducing dots, powered by GPT-6 Astra.\n\nRemarkably capable, always-on agents built to handle everything."
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Sam Bowman",
+      "handle": "sleepinyourhat",
+      "bio": "Twitter @Sam Bowman",
+      "tweets": [
+        {
+          "id": "https://twitter.com/sleepinyourhat/status/2104961916548587657",
+          "text": "UK AISI has been remarkably effective to date, and we've learned a great deal from them.\n\nIf you're looking to do AI safety work outside the US, you should probably join them!\n---\n Henry de Zoete: AISI IS HIRING!\n\nIt was less than a month ago that I became Director. I joined with the belief that AISI is a world-leading organisation, and living proof that government can build things that work.\n\nOne month in and I'm even more bullish about the vital role @AISecurityInst",
+          "createdAt": "2026-09-29T15:50:03.835Z",
+          "url": "https://x.com/sleepinyourhat/status/2104961916548587657",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/HZoete/status/2104954372866085007\nHenry de Zoete: AISI IS HIRING!\n\nIt was less than a month ago that I became Director. I joined with the belief that AISI is a world-leading organisation, and living proof that government can build things that work.\n\nOne month in and I'm even more bullish about the vital role @AISecurityInst"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Gostev (in SF @ DevDay)",
+      "handle": "petergostev",
+      "bio": "Twitter @Peter Gostev",
+      "tweets": [
+        {
+          "id": "https://twitter.com/petergostev/status/2104916720330903686",
+          "text": "Weird, on BullshitBench Sonnet 5.5 is quite a bit lower than other recent Claudes",
+          "createdAt": "2026-09-29T12:50:28.043Z",
+          "url": "https://x.com/petergostev/status/2104916720330903686",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/petergostev/status/2104838627675308063",
+          "text": "Sonnet 5.5 is a bit worse at this test - physics seem a bit less real & more LoCs. But the shocker is token use at xHigh and Max:\n\nxhigh: Opus 52.5k vs Sonnet 427.8k\nMax: Opus 175.3k vs Sonnet 460.9k\n\nThis is just one test, so could be a fluke, but kind of crazy\n\n---\n Peter Gostev (in SF @ DevDay): Benchmark idea: Who can use fewest lines of code to do the same thing?\n\nIn this test, Opus 5.5 uses ~half the lines of code that of Astra and the physics/visual quality isn't noticeably worse.\n\nI am trying to approximate how 'elegant' the code is - something that many complain",
+          "createdAt": "2026-09-29T07:40:09.361Z",
+          "url": "https://x.com/petergostev/status/2104838627675308063",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/petergostev/status/2104575118618067253\nPeter Gostev (in SF @ DevDay): Benchmark idea: Who can use fewest lines of code to do the same thing?\n\nIn this test, Opus 5.5 uses ~half the lines of code that of Astra and the physics/visual quality isn't noticeably worse.\n\nI am trying to approximate how 'elegant' the code is - something that many complain"
+        },
+        {
+          "id": "https://twitter.com/petergostev/status/2104781637917753571",
+          "text": "I hear that OpenAI researchers are pretty shook by their next model. It's over.\n\nApparently it can vaguepost better than them.",
+          "createdAt": "2026-09-29T03:53:42.687Z",
+          "url": "https://x.com/petergostev/status/2104781637917753571",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Greg Brockman",
+      "handle": "gdb",
+      "bio": "Twitter @Greg Brockman",
+      "tweets": [
+        {
+          "id": "https://twitter.com/gdb/status/2104821232441160070",
+          "text": "Practical guidelines on securing frontier RL training, reflecting our current learnings:\n---\n OpenAI: How we think about securing frontier RL training runs: https://openai.com/index/towards-safety-cases-for-frontier-ai-training/",
+          "createdAt": "2026-09-29T06:31:02.544Z",
+          "url": "https://x.com/gdb/status/2104821232441160070",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/OpenAI/status/2104815409522483470\nOpenAI: How we think about securing frontier RL training runs: https://openai.com/index/towards-safety-cases-for-frontier-ai-training/"
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Quoting Anthropic Frontier Red Team",
+      "url": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/",
+      "publishedAt": "2026-09-29T22:20:28.903Z",
+      "author": "",
+      "description": "We evaluate several models on 100 tasks from the [internal Binary Exploitation benchmark] (selected at random), and find that GLM-5.3…",
+      "content": "We evaluate several models on 100 tasks from the [internal Binary Exploitation benchmark] (selected at random), and find that GLM-5.3 develops full control flow hijacks in 4% of the trials; Claude Mythos Preview did so in 6%. Although GLM-5.3 performs below Claude Mythos Preview here, a meaningful threshold has clearly been crossed: earlier models, like Claude Opus 4.6 and GLM-5.2, do not succeed in any of them.\n\n — Anthropic Frontier Red Team , GLM-5.3 and the spread of advanced cyber capabilities\n\n Tags: anthropic , generative-ai , ai-security-research , glm , ai , ai-in-china , llms"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+      "url": "https://simonwillison.net/2026/Sep/29/hn-49898129/",
+      "publishedAt": "2026-09-29T18:27:48.523Z",
+      "author": "",
+      "description": "My comment on GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price — Hacker News. I'm a bit late with the pelicans because I was…",
+      "content": "My comment on GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price — Hacker News.\n I'm a bit late with the pelicans because I was live-blogging the keynote: https://simonwillison.net/2026/Sep/29/openai-devday-2026-liv...\n\n Here they are for GPT-6.1-Sol: https://tools.simonwillison.net/markdown-svg-renderer?url=ht...\n\n They're not notably different from the GPT-6 family pelicans: https://static.simonwillison.net/static/2026/gpt-pelicans-gr...\n\n Tags: ai , openai , generative-ai , llms , pelican-riding-a-bicycle , gpt"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "OpenAI DevDay 2026 live blog",
+      "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
+      "publishedAt": "2026-09-29T15:55:13.589Z",
+      "author": "",
+      "description": "I'm at OpenAI DevDay today, in Fort Mason, San Francisco. Same as last year I'll be live blogging the keynote and some other notes during…",
+      "content": "I'm at OpenAI DevDay today, in Fort Mason, San Francisco. Same as last year I'll be live blogging the keynote and some other notes during the day.\n\n OpenAI gave me a free ticket and a seat in the \"creator\" area for the keynote.\n\n Tags: ai , openai , generative-ai , llms , coding-agents , live-blog , openai-devday"
+    },
+    {
+      "source": "blog",
+      "name": "Hardcore Software by Steven Sinofsky",
+      "title": "243. Government(s) Controlling AI Sounds Safer, But…",
+      "url": "https://hardcoresoftware.learningbyshipping.com/p/243-governments-controlling-ai-sounds",
+      "publishedAt": "2026-09-29T16:01:39.103Z",
+      "author": "Steven Sinofsky",
+      "description": "This post is a parable. I tell the story of the long history of the government looking to regulate a core technology—encryption—as a way of…",
+      "content": "This post is a parable. I tell the story of the long history of the government looking to regulate a core technology—encryption—as a way of looking at what many are either asking the government to do or more recently what members of Congress are insisting the government must do with respect to artificial intelligence.\n Comparing today with any technology…"
+    },
+    {
+      "source": "blog",
+      "name": "Sebastian Raschka, PhD",
+      "title": "Language Models for Text Classification: From Bag-of-Words to Jev",
+      "url": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+      "publishedAt": "2026-09-29T10:50:25.786Z",
+      "author": "",
+      "description": "A Visual Guide to RNNs, CNNs, Transformers, and Calibration, with Hands-On Experiments on Accuracy and Efficiency",
+      "content": "A Visual Guide to RNNs, CNNs, Transformers, and Calibration, with Hands-On Experiments on Accuracy and Efficiency"
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery by Ben Thompson",
+      "title": "One More Note on Agents, Meta Connect, Meta Enterprise Platform",
+      "url": "https://stratechery.com/2026/one-more-note-on-agents-meta-connect-meta-enterprise-platform/",
+      "publishedAt": "2026-09-29T10:00:00.855Z",
+      "author": "Ben Thompson",
+      "description": "Meta has the chance to own the consumer agentic space; going for enterprise is a big mistake.",
+      "content": "Meta has the chance to own the consumer agentic space; going for enterprise is a big mistake."
+    },
+    {
+      "source": "blog",
+      "name": "Tomasz Tunguz",
+      "title": "Segmentation Drives Market Share Wins in AI",
+      "url": "https://tomtunguz.com/anthropic-repriced-the-enterprise/",
+      "publishedAt": "2026-09-29T00:00:00.885Z",
+      "author": "",
+      "description": "Like two SailGP boats in San Francisco Bay, Anthropic & OpenAI are vying to be the next multi-trillion public company & adding complexity…",
+      "content": "Like two SailGP boats in San Francisco Bay, Anthropic & OpenAI are vying to be the next multi-trillion public company & adding complexity to their strategies beyond technical one-upmanship.\n\n Technology innovations marked the pre-2026 era : thinking models, bigger models, RL environments, agents, harnesses.\n\n This year, business model innovation is more important, evident in two waves of the data. Both are segmentation moves : the same models, aimed at different buyers & priced to match. The first was Anthropic launching enterprise metered billing in March of 2026, which doubled revenue in a quarter.\n\n About three months later, OpenAI responded with a business model innovation of its own, cutting the price of Luna (its most affordable model) by 80%. The move has catapulted OpenAI to within a boat length.\n\n OpenAI is approaching $70b in run rate. 1 Margins remain ambiguous & gross profit dollars will likely be a better way of evaluating the relative strength of the businesses. 2\n\n Some of these strategic changes impact revenue at this level of scale in a single quarter, an indication that the market is still fluid. Each of these businesses will near $100b in revenue by end of year.\n\n Yesterday’s revelations from the leaked Anthropic S-1 suggest even the largest buyers of AI haven’t yet chosen. Two customers, Amazon & Google, comprised nearly a quarter of Anthropic’s revenue last year, & neither is locked into a long-term contract.\n\n Technical innovation, customer segmentation, price discrimination : we are watching a business school case play out on the water.\n\n---\n\n Anthropic’s IPO prospectus shows sweeping AI vision, surging costs   ↩︎\n\n Gross Profit per Token   ↩︎"
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery",
+      "title": "One More Note on Agents, Meta Connect, Meta Enterprise Platform",
+      "url": "https://stratechery.com/2026/one-more-note-on-agents-meta-connect-meta-enterprise-platform/",
+      "publishedAt": "Tue, 29 Sep 2026 10:00:00 +0000",
+      "author": "Ben Thompson",
+      "description": "Meta has the chance to own the consumer agentic space; going for enterprise is a big mistake.",
+      "content": "Meta has the chance to own the consumer agentic space; going for enterprise is a big mistake.\n\n---\n\nListen to this Update in your podcast player\n\n---\n\nGood morning,\n\nOn last Thursday’s Sharp Tech , Andrew and I discuss three weeks of Meta momentum thanks to Muse, why the upside for agents is astronomically large, and the dispute between Meta and Amazon.\n\nOn to the Update:\n\nOne More Note on Agents\n\nBoth that podcast and yesterday’s Article Apps, Agents, and Aggregation were primarily focused on the strategic implication of agents and their potential to aggregate Aggregators; however, there is one more point I made on this morning’s episode of Dithering that I should have emphasized more.\n\nSpecifically, it’s very fair to wonder if consumers will use agents; I’ve made the argument repeatedly that normal people don’t care about being productive, which is all that Silicon Valley seems to talk about. At the same time, the fact of the matter is that technology — even app-mediated smartphones — is still really hard and complicated for normal people.\n\nYou can make the case the smartphone is the ultimate form factor — small enough to be portable, large enough to be your only device — but there is no way that the current app and web paradigm is the ultimate in user experience. Simply talking to an agent who does the difficult things for you — and to be clear, I, someone who is very adept at computers, find agents tremendously more capable for a good many things — is a better experience.\n\nThat right there is why there is reason for optimism about agents in the long run: yes, it will take normal consumers a while to figure out how to use them, but when they do I think they will love them even more than technical people do. And, once end users do end up figuring them out and loving them, all of the strategic considerations that I wrote about will come into play.\n\nMeta Connect\n\nI briefly touched on Meta’s Connect keynote last week, but to briefly summarize the announcement with three stories from Mark Gurman at Bloomberg :\n\nMeta Platforms Inc. on Wednesday launched $1,299 virtual-reality glasses that undercut Apple Inc. in price and size while putting its headset line on track for profitability. The new device, called Meta VR Glasses, represents a significant shift in headset design. Its processor, cooling fan, battery and other computing components are housed in an external pack that can clip to a user’s pocket or rest on a table. Meta’s previous models incorporated those components into the headset itself, while Apple’s Vision Pro leaves only the battery to an external pack.\n\nThe device has many of the same features as the Vision Pro and Meta’s existing Quest headsets, including immersive video playback, office apps, the ability to serve as an external monitor for a Mac or PC, web browsing, gaming, videoconferencing and a voice assistant. But moving the computing hardware outside the headset dramatically reduces its weight. At about 100 grams, Meta VR Glasses weigh roughly one-sixth as much as Apple’s device and one-fifth as much as the Quest 3S. That lighter design made the headset comfortable during an extended demonstration that included watching immersive highlights from an NBA game, navigating Meta’s redesigned operating system and working on a PC.\n\nThis looks awesome, and like a thorough rebuke of Apple’s approach to the Vision Pro hardware; I’m going to save further comment until I get a chance to try them. Next :\n\nMeta Platforms Inc. is expanding its smart-glasses lineup with camera-free models, support for the popular new Muse assistant and a hearing-aid mode. At its Connect conference Wednesday, the social media giant unveiled the Ray-Ban Meta Audio, its first pair of glasses without cameras. The company also introduced a third-generation model of its camera-equipped Ray-Ban spectacles and new versions of its more affordable Meta-branded frames.\n\nThe new audio-focused glasses give Meta a way to revisit a product category that has sparked outcry over privacy issues. Meta and the broader smart-glasses industry have faced concerns that the devices’ cameras can record people without their knowledge or consent.\n\nThe privacy concerns are totally legitimate, but there are other advantages to these as well, including increased battery life. Finally :\n\nMeta Platforms Inc. unveiled a palm-sized, dedicated gadget for using Muse, the company’s popular new artificial intelligence assistant, pushing deeper into the AI devices market with a surprise announcement. The product, unveiled on stage by Meta Chief Executive Officer Mark Zuckerberg, was born out of the company’s new design lab led by former Apple Inc. interface design chief Alan Dye and its Superintelligence AI group. The device, called the Muse Charm, looks like a Tamagotchi — the digital pet from the ’90s. It has a roughly 2-inch display and runs a new operating system designed to bring Muse to life on its own hardware.\n\nThis device was emblematic of the Connect keynote as a whole, which was completely live and landed in a tight 50 minutes. Everything just made sense, because Meta Connect Labs suddenly has a north star: this isn’t a VR division, or an AR division, or even an AI glasses division. Rather, Meta devices are Muse delivery vehicles, and nothing exemplifies that more than the Muse Charm. It might end up being a nothingburger, but it’s cute, just like Muse, and it only makes sense if Muse is a hit.\n\nIndeed, this is the most powerful affirmation of how important Muse is, and what its potential might be: it can singlehandedly justify the more-than-a-decade twelve-figure losses that Reality Labs has incurred. Meta is well-placed to win the agent wars in consumer not just because Muse is tremendously well done and is riding on Meta’s distribution; they also have hardware ready to go to deliver Muse to you on your terms, both on your smartphone but also on independent devices.\n\nMeta Enterprise Platform\n\nFrom the Wall Street Journal :\n\nMeta Platforms is starting a new business focused on selling artificial-intelligence tools to enterprise customers, aiming to build on the momentum of its viral Muse personal assistant and deliver a return on its hefty spending. The move will bring together sales of several of Meta’s existing AI tools including its Muse personal productivity agent, a coding tool, access to its top models and agents for businesses, the company said. Meta hired Chirantan “CJ” Desai, previously chief executive of document database company MongoDB, to run the new business line, reporting to CEO Mark Zuckerberg.\n\nThe Facebook and Instagram parent is in the throes of an evolution from a consumer-oriented business with a core focus on selling ads to one that also offers subscriptions and services to enterprise customers. It is spending more than $100 billion on its AI infrastructure just this year, and investors are eager to see that investment bear fruit.\n\nZuckerberg said on X :\n\nWe believe superintelligence will create significant new opportunities for all people and businesses. Meta already serves billions of people at scale and helps hundreds of millions of businesses reach customers. Today we are starting the next major pillar of our business, Meta Enterprise Platform, to help businesses use AI to grow and transform in new ways as well.\n\nMeta Enterprise Platform will use our strengths that few other companies have: advanced models, leading agents, large-scale infrastructure, and years of working closely with many businesses. Initially, we will focus on bringing our full technology stack, including the Muse agent, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers to help them grow.\n\nInsert sad trombone sound.\n\nI don’t think that most readers will be surprised, but I hate this, and it’s a real sour note after the last month. Serving enterprise customers is completely different than serving consumers, and there are very few companies — if any! — who are good at both. Enterprises require go-to-market skills that consumer companies lack; consumer companies can push the envelope on experiences and data usage that are verboten for enterprise companies. The underlying tech may be similar, but everything else is not just different, but diametrically opposed.\n\nPeople will, of course, point at Google, but I’m not sure that’s a great example. First, it took Google multiple restarts and over a decade of leadership from Thomas Kurian to build a cloud business that is still third place in its market. Moreover, you could make the case that it isn’t an accident that Google hasn’t really done anything of note in the consumer market in those ten years, other than milk properties that preceded its enterprise expansion. Indeed, there is an argument that prioritizing Google Cloud has been a factor in Google’s lackluster AI offerings.\n\nMeta right now, at this moment, sits in a very different position: Zuckerberg’s AI pivot has the potential to pay off, and all of the company’s focus and resources — including compute — should be focused on owning the consumer space in a way that hasn’t really been possible before. Meta is already dominant in terms of entertainment, but Muse gives them an opportunity to be the entry point for every other aspect of a user’s life.\n\nThat is, I suppose, the steelman argument here: a user’s life includes work, so why not bring Meta there as well? I think, however, that this harkens back to what I think was one of Zuckerberg’s most mistaken views; from The Facebook Effect :\n\nHow much of ourselves should we show the world? It’s an important question Facebook forces us to confront. Do I want you to know that I am a longtime Fortune magazine journalist who covers technology and is now writing a book about Facebook? Or should I tell you I am a fifty-seven-year-old husband of an artist, father of a teenage girl, sometime poet, and former union activist? Up to now, depending on the social context, I would most likely have presented one or the other of these identities to you. On my single Facebook profile, pretty much all is revealed.\n\nThat is no accident. Zuckerberg designed Facebook that way. “You have one identity,” he says emphatically three times in a single minute during a 2009 interview. He recalls that in Facebook’s early days some argued the service ought to offer adult users both a work profile and a “fun social profile.” Zuckerberg was always opposed to that. “The days of you having a different image for your work friends or co-workers and for the other people you know are probably coming to an end pretty quickly,” he says.\n\nHe makes several arguments. “Having two identities for yourself is an example of a lack of integrity,” Zuckerberg says moralistically. But he also makes a case he sees as pragmatic—that “the level of transparency the world has now won’t support having two identities for a person.” In other words, even if you want to segregate your personal from your professional information you won’t be able to, as information about you proliferates on the Internet and elsewhere. He would say the same about any images one individual seeks to project—for example, a teenager who acts docile at home but is a drug-using reprobate with his friends.\n\nZuckerberg, along with a key group of his colleagues, also believes that by openly acknowledging who we are and behaving consistently among all our friends, we will help create a healthier society. In a more “open and transparent” world, people will be held to the consequences of their actions and be more likely to behave responsibly. “To get people to this point where there’s more openness—that’s a big challenge,” says Zuckerberg. “But I think we’ll do it. I just think it will take time. The concept that the world will be better if you share more is something that’s pretty foreign to a lot\nof people and it runs into all these privacy concerns.”\n\nI just flat out disagree with this; I laid out my argument in Social Networking 2.0..."
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 8,
+    "totalTweets": 17,
+    "blogPosts": 8,
+    "podcastEpisodes": 0
+  }
+}
