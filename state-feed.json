@@ -1,20 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/gdb/status/2100699190448042165": 1789691076211,
-    "https://twitter.com/petergostev/status/2100676984670159258": 1789691076211,
-    "https://twitter.com/petergostev/status/2100672344650031339": 1789691076211,
-    "https://twitter.com/petergostev/status/2100656780686799355": 1789691076211,
-    "https://twitter.com/bcherny/status/2100669598995816511": 1789691076211,
-    "https://twitter.com/bcherny/status/2100682621093347571": 1789691076211,
-    "https://twitter.com/bcherny/status/2100639991244427490": 1789691076211,
-    "https://twitter.com/emollick/status/2100651315617800358": 1789691076211,
-    "https://twitter.com/emollick/status/2100646721814737109": 1789691076211,
-    "https://twitter.com/emollick/status/2100462385924538552": 1789691076212,
-    "https://twitter.com/trq212/status/2100692137507762332": 1789691076212,
-    "https://twitter.com/trq212/status/2100638355872706571": 1789691076212,
-    "https://twitter.com/thsottiaux/status/2100645454245720513": 1789691076212,
-    "https://twitter.com/_catwu/status/2100641163120423057": 1789691076212,
-    "https://twitter.com/YiTayML/status/2100602176124956744": 1789691076212,
     "https://twitter.com/petergostev/status/2101048777188790595": 1789777449937,
     "https://twitter.com/petergostev/status/2101042025923752409": 1789777449937,
     "https://twitter.com/petergostev/status/2101019877943484478": 1789777449937,
@@ -149,15 +134,26 @@
     "https://twitter.com/emollick/status/2105367451584323642": 1790817555462,
     "https://twitter.com/polynoamial/status/2105374680807043568": 1790817555462,
     "https://twitter.com/_sholtodouglas/status/2105348573558915406": 1790817555462,
-    "https://twitter.com/petergostev/status/2105336254565154992": 1790817555462
+    "https://twitter.com/petergostev/status/2105336254565154992": 1790817555462,
+    "https://twitter.com/karpathy/status/2105819303471976479": 1790905359929,
+    "https://twitter.com/demishassabis/status/2105829161440804963": 1790905359929,
+    "https://twitter.com/bcherny/status/2105756563302723721": 1790905359929,
+    "https://twitter.com/trq212/status/2105751275480752344": 1790905359929,
+    "https://twitter.com/trq212/status/2105734197801562264": 1790905359929,
+    "https://twitter.com/petergostev/status/2105720025734951399": 1790905359929,
+    "https://twitter.com/petergostev/status/2105670965720138132": 1790905359929,
+    "https://twitter.com/thsottiaux/status/2105718728658993153": 1790905359929,
+    "https://twitter.com/thsottiaux/status/2105672058269212820": 1790905359929,
+    "https://twitter.com/thsottiaux/status/2105519215092584786": 1790905359929,
+    "https://twitter.com/emollick/status/2105706777832767984": 1790905359929,
+    "https://twitter.com/emollick/status/2105618164944146786": 1790905359929,
+    "https://twitter.com/sleepinyourhat/status/2105722353032540607": 1790905359929,
+    "https://twitter.com/sleepinyourhat/status/2105721891856306669": 1790905359929,
+    "https://twitter.com/_sholtodouglas/status/2105662618904203321": 1790905359929,
+    "https://twitter.com/YiTayML/status/2105492078000320931": 1790905359929
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://stratechery.com/2026/an-interview-with-joanna-stern-about-the-iphone-duo-and-ai-for-normal-people/": 1789691076212,
-    "https://simonwillison.net/2026/Sep/17/compaction-summaries/": 1789691076212,
-    "https://simonwillison.net/2026/Sep/16/datasette/": 1789691076212,
-    "https://simonwillison.net/2026/Sep/16/datasette-2/": 1789691076212,
-    "https://tomtunguz.com/the-harness-margin-opportunity/": 1789691076212,
     "https://stratechery.com/2026/doomforce/": 1789777449938,
     "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/": 1789777449937,
     "https://simonwillison.net/2026/Sep/18/thariq-shihipar/": 1789777449937,
@@ -221,8 +217,10 @@
     "https://simonwillison.net/2026/Sep/30/he-built-this-city/": 1790817555462,
     "https://simonwillison.net/2026/Sep/29/photo-scrubber/": 1790817555462,
     "https://lovable.dev/blog/how-lovable-protects-your-app-from-a-tanstack-start-vulnerability": 1790817555462,
-    "https://stratechery.com/2026/openai-dev-day-dot-and-openais-product-transition-sign-in-with-chatgpt/": 1790817555462
+    "https://stratechery.com/2026/openai-dev-day-dot-and-openais-product-transition-sign-in-with-chatgpt/": 1790817555462,
+    "https://stratechery.com/2026/an-interview-with-jason-del-rey-about-muse-amazon-and-walmart/": 1790905359929,
+    "https://simonwillison.net/2026/Oct/1/matthew-green/": 1790905359929
   },
-  "lastRunKey": "2026-10-01",
-  "lastRunAt": "2026-10-01T01:19:15.468Z"
+  "lastRunKey": "2026-10-02",
+  "lastRunAt": "2026-10-02T01:42:39.935Z"
 }
