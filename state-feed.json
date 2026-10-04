@@ -1,14 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/_sholtodouglas/status/2101450852498280680": 1789863008573,
-    "https://twitter.com/thsottiaux/status/2101431497437950458": 1789863008573,
-    "https://twitter.com/thsottiaux/status/2101157729037586694": 1789863008573,
-    "https://twitter.com/emollick/status/2101426783430074758": 1789863008573,
-    "https://twitter.com/emollick/status/2101106479411687489": 1789863008573,
-    "https://twitter.com/petergostev/status/2101404600914034990": 1789863008574,
-    "https://twitter.com/petergostev/status/2101311158791934313": 1789863008574,
-    "https://twitter.com/petergostev/status/2101160009455583582": 1789863008574,
-    "https://twitter.com/amorriscode/status/2101128256883929105": 1789863008574,
     "https://twitter.com/emollick/status/2101517626954436623": 1789949903246,
     "https://twitter.com/petergostev/status/2102104455508271538": 1790038384798,
     "https://twitter.com/petergostev/status/2102100063661015382": 1790038384798,
@@ -152,13 +143,18 @@
     "https://twitter.com/_sholtodouglas/status/2106093919708893526": 1790990017284,
     "https://twitter.com/petergostev/status/2105947158872535461": 1790990017284,
     "https://twitter.com/karpathy/status/2105909609487872075": 1790990017285,
-    "https://twitter.com/amorriscode/status/2105831586843533783": 1790990017285
+    "https://twitter.com/amorriscode/status/2105831586843533783": 1790990017285,
+    "https://twitter.com/_sholtodouglas/status/2106501419323027638": 1791074547323,
+    "https://twitter.com/thsottiaux/status/2106501204285239560": 1791074547323,
+    "https://twitter.com/thsottiaux/status/2106439068557144179": 1791074547323,
+    "https://twitter.com/thsottiaux/status/2106252868307271752": 1791074547323,
+    "https://twitter.com/emollick/status/2106487816460910912": 1791074547323,
+    "https://twitter.com/emollick/status/2106419619783127225": 1791074547323,
+    "https://twitter.com/emollick/status/2106402568280920391": 1791074547323,
+    "https://twitter.com/petergostev/status/2106481760746025422": 1791074547323
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://simonwillison.net/2026/Sep/19/datasette-auth-github/": 1789863008574,
-    "https://simonwillison.net/2026/Sep/19/sighting-401567341/": 1789863008574,
-    "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/": 1789863008574,
     "https://simonwillison.net/2026/Sep/20/voxium/": 1789949903246,
     "https://simonwillison.net/2026/Sep/20/llm-keys-ui/": 1789949903246,
     "https://simonwillison.net/2026/Sep/20/datasette-explain/": 1789949903246,
@@ -218,8 +214,11 @@
     "https://stratechery.com/2026/an-interview-with-jason-del-rey-about-muse-amazon-and-walmart/": 1790905359929,
     "https://simonwillison.net/2026/Oct/1/matthew-green/": 1790905359929,
     "https://stratechery.com/2026/dots-and-question-marks/": 1790990017285,
-    "https://tomtunguz.com/grow-or-design-software/": 1790990017285
+    "https://tomtunguz.com/grow-or-design-software/": 1790990017285,
+    "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/": 1791074547324,
+    "https://simonwillison.net/2026/Oct/3/newsletter/": 1791074547324,
+    "https://simonwillison.net/2026/Oct/2/rex-s-dino-store/": 1791074547324
   },
-  "lastRunKey": "2026-10-03",
-  "lastRunAt": "2026-10-03T01:13:37.292Z"
+  "lastRunKey": "2026-10-04",
+  "lastRunAt": "2026-10-04T00:42:27.329Z"
 }
