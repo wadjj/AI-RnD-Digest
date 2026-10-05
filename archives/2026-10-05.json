@@ -1,0 +1,172 @@
+{
+  "generatedAt": "2026-10-05T01:00:32.475Z",
+  "runKey": "2026-10-05",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Sholto Douglas",
+      "handle": "_sholtodouglas",
+      "bio": "Twitter @Sholto Douglas",
+      "tweets": [
+        {
+          "id": "https://twitter.com/_sholtodouglas/status/2106892687156941303",
+          "text": "the high frequency personal agent wars of 2027, fought via low latency chips and rack placement next to the servers hosting Resy and SF tennis court systems",
+          "createdAt": "2026-10-04T23:42:15.178Z",
+          "url": "https://x.com/_sholtodouglas/status/2106892687156941303",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Demis Hassabis",
+      "handle": "demishassabis",
+      "bio": "Twitter @Demis Hassabis",
+      "tweets": [
+        {
+          "id": "https://twitter.com/demishassabis/status/2106850913474482566",
+          "text": "Very proud of the impact of all our work using AI to accelerate science and medicine for the benefit of society.\n---\n Sundar Pichai: Today we have set out how we’re building AI to accelerate science and improve people’s lives. Just some examples in the last week or so:\n\n- Mapped all 9B possible single letter genetic changes across the human genome with AlphaGenome Atlas and made it openly available to",
+          "createdAt": "2026-10-04T20:56:15.281Z",
+          "url": "https://x.com/demishassabis/status/2106850913474482566",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/sundarpichai/status/2099911653395685765\nSundar Pichai: Today we have set out how we’re building AI to accelerate science and improve people’s lives. Just some examples in the last week or so:\n\n- Mapped all 9B possible single letter genetic changes across the human genome with AlphaGenome Atlas and made it openly available to"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Twitter @Tibo",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2106845241357824205",
+          "text": "Over the next 28 days, each day we’ll either ship one thing that is a clear improvement and relevant for most codex/work users or ship a full reset. Let the improvements begin.\n---\n Tibo: All right, we’re locking in. Only things being worked on are simplifications, more efficiency for more usage, groundbreaking features or new models.\n\nSometimes you have to invest ahead of the curve, but feedback is clear that you all want things to get simpler. On it.",
+          "createdAt": "2026-10-04T20:33:43.649Z",
+          "url": "https://x.com/thsottiaux/status/2106845241357824205",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/thsottiaux/status/2106610099720720811\nTibo: All right, we’re locking in. Only things being worked on are simplifications, more efficiency for more usage, groundbreaking features or new models.\n\nSometimes you have to invest ahead of the curve, but feedback is clear that you all want things to get simpler. On it."
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2106610099720720811",
+          "text": "All right, we’re locking in. Only things being worked on are simplifications, more efficiency for more usage, groundbreaking features or new models.\n\nSometimes you have to invest ahead of the curve, but feedback is clear that you all want things to get simpler. On it.",
+          "createdAt": "2026-10-04T04:59:21.825Z",
+          "url": "https://x.com/thsottiaux/status/2106610099720720811",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2106602729875685780",
+          "text": "I have never in my life achieved inbox zero until I just made it an active goal for my dot to help get it done. Let’s see how long it lasts, but it’s a great feeling.\n\n---\n Tibo: Down to 6110 unread from the over 9000 unread emails just earlier. Will get to inbox zero with clean filters within the next 48 hours. Dot has accepted the challenge.",
+          "createdAt": "2026-10-04T04:30:04.170Z",
+          "url": "https://x.com/thsottiaux/status/2106602729875685780",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/thsottiaux/status/2105899634032025682\nTibo: Down to 6110 unread from the over 9000 unread emails just earlier. Will get to inbox zero with clean filters within the next 48 hours. Dot has accepted the challenge."
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Twitter @Ethan Mollick",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2106768373736493399",
+          "text": "\"create the ultimate brutalist city builder. you should have lots of controls over buildings in ways that are delightful and intuitive to people...\"\n\nHere is Fable 5.1, a little over a year since GPT-5 below, in a single shot from a prompt.\n\nIt quite good: https://brut-city.netlify.app/\n\n---\n Ethan Mollick: I had access to GPT-5. I think it is a very big deal as it is very smart & just does stuff for you\n\nFull write up in comments, but this is “make a procedural brutalist building creator where i can drag and edit buildings in cool ways\" & \"make it better\" a bunch. I touched no code",
+          "createdAt": "2026-10-04T15:28:16.516Z",
+          "url": "https://x.com/emollick/status/2106768373736493399",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/emollick/status/1953502029126549597\nEthan Mollick: I had access to GPT-5. I think it is a very big deal as it is very smart & just does stuff for you\n\nFull write up in comments, but this is “make a procedural brutalist building creator where i can drag and edit buildings in cool ways\" & \"make it better\" a bunch. I touched no code"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Gostev",
+      "handle": "petergostev",
+      "bio": "Twitter @Peter Gostev",
+      "tweets": [
+        {
+          "id": "https://twitter.com/petergostev/status/2106765604711739623",
+          "text": "Codex limits feel fine now with GPT-6.1-Sol as the daily driver. With Astra, the limits were a disaster, but now I'm not close to killing the sub.\n\nAs per Arena's real usage cost-per-task data, you should get 5x more out of GPT-6.1-Sol than Astra.",
+          "createdAt": "2026-10-04T15:17:16.447Z",
+          "url": "https://x.com/petergostev/status/2106765604711739623",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/petergostev/status/2106672572586729764",
+          "text": "This is actually super impressive from Opus - it went from ~1500 elo to ~1750 elo.\n\nOne possible explanation for Astra's deterioration is the context window - it natively has 272k in Codex, so perhaps with more notes & files it just cracks. I will see if I can run a 1m context window, but probably GPT-6.1-Sol only.\n\nWatch here: https://ailearningchess.ai-learning-chess.workers.dev/\n\n---\n Peter Gostev: I have a Continuous Learning benchmark where models attempt to learn to play chess. They are given a /goal of learning and improving playing against a Stockfish opponent in 200 games. They can choose the difficulty, take notes, whatever they like - except cheating (e.g. using a",
+          "createdAt": "2026-10-04T09:07:36.261Z",
+          "url": "https://x.com/petergostev/status/2106672572586729764",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/petergostev/status/2106481760746025422\nPeter Gostev: I have a Continuous Learning benchmark where models attempt to learn to play chess. They are given a /goal of learning and improving playing against a Stockfish opponent in 200 games. They can choose the difficulty, take notes, whatever they like - except cheating (e.g. using a"
+        },
+        {
+          "id": "https://twitter.com/petergostev/status/2106664204967334151",
+          "text": "RT Oriol Vinyals\nRe @petergostev Nice one. Been telling anyone I can this would be a good benchmark for ICL 👏",
+          "createdAt": "2026-10-04T01:17:23.873Z",
+          "url": "https://x.com/petergostev/status/2106664204967334151",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    }
+  ],
+  "blogs": [],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 5,
+    "totalTweets": 9,
+    "blogPosts": 0,
+    "podcastEpisodes": 0
+  }
+}
