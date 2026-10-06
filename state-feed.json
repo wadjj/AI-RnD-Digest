@@ -1,12 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/petergostev/status/2102104455508271538": 1790038384798,
-    "https://twitter.com/petergostev/status/2102100063661015382": 1790038384798,
-    "https://twitter.com/petergostev/status/2102075015080419342": 1790038384798,
-    "https://twitter.com/amorriscode/status/2102068455713521915": 1790038384798,
-    "https://twitter.com/emollick/status/2102062111585145053": 1790038384798,
-    "https://twitter.com/polynoamial/status/2101905885438111788": 1790038384798,
-    "https://twitter.com/trq212/status/2101844435353145452": 1790038384798,
     "https://twitter.com/thsottiaux/status/2102509507415048245": 1790123938295,
     "https://twitter.com/thsottiaux/status/2102463847714247142": 1790123938295,
     "https://twitter.com/thsottiaux/status/2102440619616682120": 1790123938295,
@@ -159,17 +152,23 @@
     "https://twitter.com/emollick/status/2106768373736493399": 1791162032476,
     "https://twitter.com/petergostev/status/2106765604711739623": 1791162032476,
     "https://twitter.com/petergostev/status/2106672572586729764": 1791162032476,
-    "https://twitter.com/petergostev/status/2106664204967334151": 1791162032476
+    "https://twitter.com/petergostev/status/2106664204967334151": 1791162032476,
+    "https://twitter.com/emollick/status/2107248012208791839": 1791253223002,
+    "https://twitter.com/emollick/status/2107227739048513628": 1791253223003,
+    "https://twitter.com/emollick/status/2107203549059014739": 1791253223003,
+    "https://twitter.com/_sholtodouglas/status/2107250862188060780": 1791253223003,
+    "https://twitter.com/_sholtodouglas/status/2106973064223408399": 1791253223003,
+    "https://twitter.com/bcherny/status/2107226867761865193": 1791253223003,
+    "https://twitter.com/bcherny/status/2107227891855700201": 1791253223003,
+    "https://twitter.com/thsottiaux/status/2107200530477101461": 1791253223003,
+    "https://twitter.com/thsottiaux/status/2107158998495748264": 1791253223003,
+    "https://twitter.com/trq212/status/2107192901537329354": 1791253223003,
+    "https://twitter.com/petergostev/status/2107175185317085498": 1791253223003,
+    "https://twitter.com/petergostev/status/2107063391886147755": 1791253223003,
+    "https://twitter.com/petergostev/status/2107049905407627334": 1791253223003
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://stratechery.com/2026/frontier-overhangs/": 1790038384799,
-    "https://simonwillison.net/2026/Sep/21/jev/": 1790038384798,
-    "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/": 1790038384798,
-    "https://simonwillison.net/2026/Sep/20/hn-49779718/": 1790038384799,
-    "https://jack-clark.net/2026/09/21/import-ai-473-the-uss-superintelligence-strategy-human-brain-in-a-mouse-skull-and-machine-hermeneutics/": 1790038384799,
-    "https://tomtunguz.com/ai-comes-for-the-if-statement/": 1790038384799,
-    "https://x.ai/news/grok-4-7": 1790038384799,
     "https://stratechery.com/": 1790123931171,
     "https://simonwillison.net/2026/Sep/22/therealcornpop/": 1790123938296,
     "https://simonwillison.net/2026/Sep/22/llm-typesafe/": 1790123938296,
@@ -221,8 +220,13 @@
     "https://tomtunguz.com/grow-or-design-software/": 1790990017285,
     "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/": 1791074547324,
     "https://simonwillison.net/2026/Oct/3/newsletter/": 1791074547324,
-    "https://simonwillison.net/2026/Oct/2/rex-s-dino-store/": 1791074547324
+    "https://simonwillison.net/2026/Oct/2/rex-s-dino-store/": 1791074547324,
+    "https://stratechery.com/2026/apple-and-a-hackers-future/": 1791253215464,
+    "https://simonwillison.net/2026/Oct/5/felix-rieseberg/": 1791253223003,
+    "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/": 1791253223003,
+    "https://jack-clark.net/2026/10/05/import-ai-475-swarm-scaling-google-deepmind-watermarks-biology-and-the-ai-science-economy/": 1791253223004,
+    "https://tomtunguz.com/inference-is-the-most-important-market-in-software/": 1791253223004
   },
-  "lastRunKey": "2026-10-05",
-  "lastRunAt": "2026-10-05T01:00:32.481Z"
+  "lastRunKey": "2026-10-06",
+  "lastRunAt": "2026-10-06T02:20:23.011Z"
 }
