@@ -1,0 +1,357 @@
+{
+  "generatedAt": "2026-10-07T01:36:50.364Z",
+  "runKey": "2026-10-07",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Noam Brown",
+      "handle": "polynoamial",
+      "bio": "Twitter @Noam Brown",
+      "tweets": [
+        {
+          "id": "https://twitter.com/polynoamial/status/2107599243867525149",
+          "text": "RT OpenAI\nWe’re releasing a broad range of new mathematical results produced by an internal frontier model.\n\nWe’ve been consulting with the independent Advisory Group on Mathematics and Artificial Intelligence at the Institute for Advanced Study, and we have drawn on their advice and public recommendations to inform how we release these results.\n\nhttps://github.com/openai/math",
+          "createdAt": "2026-10-06T22:19:48.546Z",
+          "url": "https://x.com/polynoamial/status/2107599243867525149",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Demis Hassabis",
+      "handle": "demishassabis",
+      "bio": "Twitter @Demis Hassabis",
+      "tweets": [
+        {
+          "id": "https://twitter.com/demishassabis/status/2107583214432694756",
+          "text": "John Urschel is an incredible guy. Had the pleasure of co-presenting an award with him at the Breakthrough Prize a few years ago - wonderful person and an inspiration!\n---\n MLFootball: GENIUS: Former #Ravens offensive lineman John Urschel retired from the NFL at just 26 years old to pursue mathematics full-time.\n\nNow, years later, Urschel has reportedly helped RESOLVE A LONG-STANDING MATHEMATICAL CONJECTURE involving Gaussian elimination.\n\nUrschel earned a 4.0",
+          "createdAt": "2026-10-06T21:26:09.509Z",
+          "url": "https://x.com/demishassabis/status/2107583214432694756",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/MLFootball/status/2107505455014568142\nMLFootball: GENIUS: Former #Ravens offensive lineman John Urschel retired from the NFL at just 26 years old to pursue mathematics full-time.\n\nNow, years later, Urschel has reportedly helped RESOLVE A LONG-STANDING MATHEMATICAL CONJECTURE involving Gaussian elimination.\n\nUrschel earned a 4.0"
+        },
+        {
+          "id": "https://twitter.com/demishassabis/status/2107538278530355437",
+          "text": "RT Google\nMeet Nano Banana 2.1, our latest image generation and editing model 🍌\n\nThis upgraded version outperforms our previous models across the board, with notable leaps in visual design, mask-based editing, and subject consistency to help you create more natural-looking images.",
+          "createdAt": "2026-10-06T16:00:18.684Z",
+          "url": "https://x.com/demishassabis/status/2107538278530355437",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Twitter @Ethan Mollick",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2107582374347489570",
+          "text": "Just a reminder to the AI Labs that you should confirm that the models you are shipping understand your products & how to use them (& update when you release new features). Nothing weirder than having your AI know everything about how to use your computer except for its own app.",
+          "createdAt": "2026-10-06T21:22:49.199Z",
+          "url": "https://x.com/emollick/status/2107582374347489570",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2107489752349892677",
+          "text": "I think most people who have been closely watching AI for the past few years are likely surprised by how relatively rare terrible AI incidents have been, given a billion users overall and hundreds of millions of corporate users. Doesn’t mean that will continue, but surprising.",
+          "createdAt": "2026-10-06T15:14:46.139Z",
+          "url": "https://x.com/emollick/status/2107489752349892677",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2107356794410377510",
+          "text": "When people talk about AI easily replacing workers, I think about this ethnography of copier repair technicians in the 1990s.\n\nYou see how work is complicated and improvised by workers and informal and badly documented.\n\n(But eventually technology did largely eliminate this job)",
+          "createdAt": "2026-10-06T06:26:27.158Z",
+          "url": "https://x.com/emollick/status/2107356794410377510",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Twitter @Thariq",
+      "tweets": [
+        {
+          "id": "https://twitter.com/trq212/status/2107580785456976085",
+          "text": "we're increasingly going to be moving towards Claude's \"brains\" in the cloud and giving Claude \"local hands\" to operate on your computer\n\nI talked about this a bit on latent space\n---\n Latent.Space: More from @trq212 on local hands and how it is being implemented in Claude Code:\n\n (see more on https://latent.space/p/thariq)",
+          "createdAt": "2026-10-06T21:16:30.773Z",
+          "url": "https://x.com/trq212/status/2107580785456976085",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/latentspacepod/status/2107340217070035425\nLatent.Space: More from @trq212 on local hands and how it is being implemented in Claude Code:\n\n (see more on https://latent.space/p/thariq)"
+        },
+        {
+          "id": "https://twitter.com/trq212/status/2107504677143368163",
+          "text": "working at a higher level of abstraction has always required understanding the lower level ones, I don't think coding agents changes this",
+          "createdAt": "2026-10-06T16:14:05.512Z",
+          "url": "https://x.com/trq212/status/2107504677143368163",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/trq212/status/2107340728380870868",
+          "text": "if you're getting into game design, there are so many good resources out there to learn from!\n---\n Mortdog: I've never met Wyatt Chang or worked with him (though I know people who have and they spoke highly of him), but that aside, these shorts he's been making are GREAT if you love game design. HIGHLY recommend them, as they're full of good nuggets. I've enjoyed them all!",
+          "createdAt": "2026-10-06T05:22:36.852Z",
+          "url": "https://x.com/trq212/status/2107340728380870868",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/Mortdog/status/2107286335052784083\nMortdog: I've never met Wyatt Chang or worked with him (though I know people who have and they spoke highly of him), but that aside, these shorts he's been making are GREAT if you love game design. HIGHLY recommend them, as they're full of good nuggets. I've enjoyed them all!"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Boris Cherny",
+      "handle": "bcherny",
+      "bio": "Twitter @Boris Cherny",
+      "tweets": [
+        {
+          "id": "https://twitter.com/bcherny/status/2107565388250874193",
+          "text": "I am surprised that people are surprised this is how I prompt Claude.\n\nTalk to Claude the way you would a coworker. There's no secret to prompting. There's no need to be overly scaffolded or prescriptive for most tasks -- give Claude a goal, and it will figure it out.\n\nBack in the Sonnet 3.5 days, your prompt mattered a lot. Nowadays, it's much more important to communicate to the model:\n\n1. What you want it to do\n2. How much effort you want it to spend\n3. How it should verify that it did the right thing\n---\n Boris Cherny: Prompt",
+          "createdAt": "2026-10-06T20:15:19.271Z",
+          "url": "https://x.com/bcherny/status/2107565388250874193",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/bcherny/status/2107532985897771152\nBoris Cherny: Prompt"
+        },
+        {
+          "id": "https://twitter.com/bcherny/status/2107552696660336675",
+          "text": "RT ClaudeDevs\nCloud sessions run Claude Code on a fresh VM for each task, so you can start several at once and they keep going when you close your laptop.\n\nWe wrote a field guide with seven workflows that suit them, plus how to connect GitHub on the first try.\n\nhttps://claude.dev/blog/claude-code-in-the-cloud",
+          "createdAt": "2026-10-06T18:42:44.029Z",
+          "url": "https://x.com/bcherny/status/2107552696660336675",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/bcherny/status/2107552673398686200",
+          "text": "RT Claude\nClaude now works inside Google Docs, Sheets, and Slides, and those files also open inside Claude.\n\nIn Google Workspace, Claude sits in a sidebar next to your file, reads what you have open, and edits it in place. You can approve each edit before it lands.",
+          "createdAt": "2026-10-06T17:25:17.974Z",
+          "url": "https://x.com/bcherny/status/2107552673398686200",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Twitter @Tibo",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2107548725359104441",
+          "text": "Day 2.2/\n\nOK this one is smaller, but we removed some friction for when building on the API. Happy building.\n---\n OpenAI Developers: We’re making it easier to qualify for higher OpenAI API rate limits.\n\nFive paid usage tiers become three: Build, Launch, and Grow.\n\nYou can qualify for Grow, our new highest tier, with $500 in total API payments—down from $1,000 for the previous highest tier.",
+          "createdAt": "2026-10-06T19:09:07.491Z",
+          "url": "https://x.com/thsottiaux/status/2107548725359104441",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/OpenAIDevs/status/2107539647392096384\nOpenAI Developers: We’re making it easier to qualify for higher OpenAI API rate limits.\n\nFive paid usage tiers become three: Build, Launch, and Grow.\n\nYou can qualify for Grow, our new highest tier, with $500 in total API payments—down from $1,000 for the previous highest tier."
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2107368734981517634",
+          "text": "Day 2.1/\n\nWe have made Auto-review free for all users signed in through a ChatGPT account. You can enable it in settings > permissions > auto-review. Auto-review improves upon the default sandbox setting that requires you to approve everything, which is prone to decision fatigue unless you spend a lot of time configuring specific rules.\n\nIt allows you to run long tasks while having a second agent review all actions taken by the primary agent. Its only goal is to prevent high-risk actions from being taken and to protect against unwanted actions that are not aligned with the original user intent. This Auto-review feature is now free and does not draw usage from your plan.\n\n---\n Tibo: Day 1/\n\nWe have optimized the default speed to be ~50% faster across GPT-6 Astra and GPT-6.1 Sol through the subscription across all our products and partners using Sign in With ChatGPT (including OpenCode, Pi, Amp, Devin, ...).\n\nNo changes needed on your end and this should be",
+          "createdAt": "2026-10-06T07:13:54.717Z",
+          "url": "https://x.com/thsottiaux/status/2107368734981517634",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/thsottiaux/status/2107158998495748264\nTibo: Day 1/\n\nWe have optimized the default speed to be ~50% faster across GPT-6 Astra and GPT-6.1 Sol through the subscription across all our products and partners using Sign in With ChatGPT (including OpenCode, Pi, Amp, Devin, ...).\n\nNo changes needed on your end and this should be"
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2107311729768353844",
+          "text": "This might have been my best day so far at oai. Ridiculous amounts of fun and intensity. Future is bright",
+          "createdAt": "2026-10-06T03:27:22.548Z",
+          "url": "https://x.com/thsottiaux/status/2107311729768353844",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Gostev",
+      "handle": "petergostev",
+      "bio": "Twitter @Peter Gostev",
+      "tweets": [
+        {
+          "id": "https://twitter.com/petergostev/status/2107524111916466624",
+          "text": "AI Learning to play chess - I don't know if something is broken (my agent says no), but GPT-6.1-Sol (Max) with 828k context is terrible at playing chess.\n\nMy hypothesis was that Opus is better at learning because of the 1m context, so far GPT-6.1-Sol with 828k is not better\n\n---\n Peter Gostev: I have a Continuous Learning benchmark where models attempt to learn to play chess. They are given a /goal of learning and improving playing against a Stockfish opponent in 200 games. They can choose the difficulty, take notes, whatever they like - except cheating (e.g. using a",
+          "createdAt": "2026-10-06T17:31:18.191Z",
+          "url": "https://x.com/petergostev/status/2107524111916466624",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/petergostev/status/2106481760746025422\nPeter Gostev: I have a Continuous Learning benchmark where models attempt to learn to play chess. They are given a /goal of learning and improving playing against a Stockfish opponent in 200 games. They can choose the difficulty, take notes, whatever they like - except cheating (e.g. using a"
+        },
+        {
+          "id": "https://twitter.com/petergostev/status/2107510474845909076",
+          "text": "How we are meant to be letting agents just build stuff, when their defaults are so bad - constantly adding some weird guardrails, fallbacks and they are so non-AI pilled its painful. E.g. instead of letting an agent just deal with a PDF, it defaults to some shitty PDF parser.",
+          "createdAt": "2026-10-06T16:37:07.834Z",
+          "url": "https://x.com/petergostev/status/2107510474845909076",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/petergostev/status/2107502699717837022",
+          "text": "Look at what I have\n\n@natolambert",
+          "createdAt": "2026-10-06T16:06:13.850Z",
+          "url": "https://x.com/petergostev/status/2107502699717837022",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "OpenAI “rogue” agent activities found on Wikimedia projects",
+      "url": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/",
+      "publishedAt": "2026-10-07T00:16:45.680Z",
+      "author": "",
+      "description": "OpenAI “rogue” agent activities found on Wikimedia projects Given how tempting a target wikis are for rogue agent swarms, it's not a huge…",
+      "content": "OpenAI “rogue” agent activities found on Wikimedia projects\n\nGiven how tempting a target wikis are for rogue agent swarms, it's not a huge surprise that Wikipedia found evidence of that activity once they went looking:\n\n The Wikimedia Foundation conducted its own investigation to see whether Wikimedia websites had been similarly affected by AI agents, focusing on those operated by OpenAI. We can confirm that we have discovered some activity by these “rogue” OpenAI agents on Wikimedia platforms. The unauthorized bot activities included edits to our wikis, some unsuccessful attempts to exploit a public note-taking tool we host, and heavy traffic, which are described more below.\n\n They found evidence of agents editing sandbox pages, trying to use pieces of infrastructure such as Etherpad to help proxy content from elsewhere, and saw widespread crawling and \"hundreds of thousands of data queries\" to their Wikidata Query Service.\n\n My best guess is that most of this was a similar (or the same) swarm of agents as those that defaced that German wiki while training for research tasks.\n\n The Wikipedia sandbox wiki edits appear to have started on May 12th, and the initial test edits to the UseModWiki Sandbox page reported by that incident started on May 11th.\n\n Tags: wikimedia , wikipedia , wikis , ai , generative-ai , llms , ai-ethics , accidental-cyberattacks"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Quoting Victoria Kim",
+      "url": "https://simonwillison.net/2026/Oct/6/victoria-kim/",
+      "publishedAt": "2026-10-06T23:58:56.151Z",
+      "author": "",
+      "description": "Since the Medicare breach, OpenAI has put in place additional monitoring to allow “immediate intervention” by staff to stop training if the…",
+      "content": "Since the Medicare breach, OpenAI has put in place additional monitoring to allow “immediate intervention” by staff to stop training if the company’s models access the internet in ways they’re not supposed to, Mr. Kwon [chief strategy officer at OpenAI] said.\n\n — Victoria Kim , Reporting from the Australian parliament\n\n Tags: accidental-cyberattacks , generative-ai , ai-security-research , openai , ai , llms"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "llm-openai-decisions 0.1a0",
+      "url": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/",
+      "publishedAt": "2026-10-06T23:04:13.392Z",
+      "author": "",
+      "description": "Release: llm-openai-decisions 0.1a0 OpenAI released their new Jev-style Decisions API, as previously announced at last week's DevDay…",
+      "content": "Release: llm-openai-decisions 0.1a0\n\n OpenAI released their new Jev-style Decisions API , as previously announced at last week's DevDay.\n\n Since I already have an llm-typesafe plugin for talking to Jev, I had GPT-6 Astra read the new OpenAI API documentation and build an llm-openai-decisions plugin inspired by llm-typesafe .\n\n Unlike Jev, the new gpt-6-luna decision model supports image input in addition to text. Both models charge for input it and not for output: OpenAI's is 10 cents per million input tokens, Jev's is 4.2 cents per million.\n\n Otherwise the API shape is very similar to Jev, at least conceptually. Jev supports three question types for yes/no, choices, or scores. OpenAI Decisions supports the same three types.\n\n Install the plugin like this:\n\n llm install llm-openai-decisions\n\n Here's an example query against an image attachment:\n\n llm -m openai-decisions/gpt-6-luna \\\n -a https://static.simonwillison.net/static/2025/two-pelicans.jpg \\\n -s ' Does this image contain any mammals? '\n\n And example output:\n\n { \"type\" : \" predicate \" , \"name\" : \" evaluation \" , \"probability\" : 0.0 }\n\n Consult the README for full details of how to run the other types of questions.\n\n Tags: openai , llm , coding-agents , jev"
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery by Ben Thompson",
+      "title": "Game Decompilation, Is This Legal?, A Well-Trodden Path",
+      "url": "https://stratechery.com/2026/game-decompilation-is-this-legal-a-well-trodden-path/",
+      "publishedAt": "2026-10-06T10:07:36.447Z",
+      "author": "Ben Thompson",
+      "description": "Games are being decompiled, but the real risk to gaming is new games and increased personalization.",
+      "content": "Games are being decompiled, but the real risk to gaming is new games and increased personalization."
+    },
+    {
+      "source": "blog",
+      "name": "Tomasz Tunguz",
+      "title": "How to Automate Inbound",
+      "url": "https://tomtunguz.com/how-to-automate-inbound/",
+      "publishedAt": "2026-10-06T00:00:00.812Z",
+      "author": "",
+      "description": "Jeanne DeWitt Grosser, COO of Vercel, joined me on Office Hours to walk through how she & her team actually built the agent that now runs…",
+      "content": "Jeanne DeWitt Grosser, COO of Vercel, joined me on Office Hours to walk through how she & her team actually built the agent that now runs the top of Vercel’s sales funnel.\n\n It started with one engineer.\n\n Vercel founded a go-to-market engineering team & handed the problem to a single engineer spending roughly 20% of his time on it. The first version of the agent was a prompt of about 125 lines, written by the best SDR on the team, encoding Vercel’s rules for qualification.\n\n “We kicked it off in June, kept human in the loop from our top SDRs, & by August pulled the human out. So that was sort of what I think succeeded at first, was picking a problem that was reasonably deterministic & then throwing all of our unique context around how do you get the model to behave within Vercel’s four walls.”\n\n Then the SDR managed the agent like a new rep. For the first phase, the agent did everything except send messages. It researched, qualified, & drafted.\n\n “I almost think about this the way you would think about a human QA. If I’m its manager, I probably read 100% of that person’s first hundred emails while I’m teaching him or her the job. And that was our human in the loop phase on this. Then afterwards, I assume that person is now generally competent. And so maybe I do a simple random sample of like one out of every 100 outreaches they do.”\n\n Six weeks of that produced a enough data & improvement to complete the effort. Rather than reviewing many posts, the effort shifted to sampling a few.\n\n The business grew & evolved. So did the prompt - to 1000 lines.\n\n Over the following year Vercel added product surface area & moved upmarket into enterprise, enticing a greater diversity of companies.\n\n “The model actually won’t always follow some of the rules that are embedded in that prompt. And again, there are a bunch of things in qualification & sales that are actually pretty deterministic. It’s really a rule.”\n\n The team divided the prompt into two parts : rules & judgment. Engineers encoded the rules & left the model the work that required judgment.\n\n Inbound now runs on 14 rules. When a lead arrives, the system performs a Salesforce lookup to determine whether there is an open opportunity associated with the account, & if so, routes it to the account executive.\n\n “The model shouldn’t get to decide, we just want that to occur. So now actually, our inbound is 14 rules. And we’re really only using the model for thinking exactly where a human would have thought previously.”\n\n This is the same pattern I found in 14 production agent workflows & wrote about in Is AI Doing Less & Less? . 65% of the nodes in those workflows run as pure code, & only 14% remain fully agentic.\n\n Because the rules are explicit, Vercel runs a second agent that watches for breaches. When the system breaks one of the 14 rules, the escalation agent determines whether the breach should have occurred & fixes it or blesses the exception.\n\n The team changed, too. The SDR team all received promotions to outbound, skipping the customary year.\n\n “The value of humans is talking to humans. And so the more that I can get folks out of email marketing & back into having a conversation, the more value I think we’ll get out of the BDR function.”\n\n Jeanne provides the clearest template yet for the future of inbound, running the entire function for a unicorn for about $1,000 per year in inference & infrastructure.\n\n Apple Podcasts | YouTube"
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery",
+      "title": "Game Decompilation, Is This Legal?, A Well-Trodden Path",
+      "url": "https://stratechery.com/2026/game-decompilation-is-this-legal-a-well-trodden-path/",
+      "publishedAt": "Tue, 06 Oct 2026 10:07:36 +0000",
+      "author": "Ben Thompson",
+      "description": "Games are being decompiled, but the real risk to gaming is new games and increased personalization.",
+      "content": "Games are being decompiled, but the real risk to gaming is new games and increased personalization.\n\n---\n\nListen to this Update in your podcast player\n\n---\n\nGood morning,\n\nOn last week’s episode of Sharp Tech , Andrew and I discussed OpenAI’s DevDay event and Dots (and I make the prediction that the imminent Jony Ive-designed hardware device — which is rumored to look like a donut — will be called Dot); we also explain why we don’t like the name “Super Intelligence” — Andrew argues that Machine Intelligence is a better option , and I agree.\n\nOn to the Update:\n\nGame Decompilation\n\nFrom Polygon :\n\nIf you’ve been on X over the last few days, you’ve probably noticed that things have gotten very weird when it comes to modded video games. There are clips of Call of Duty operators doing kickflips and other tricks from Skate , people playing Black Ops 1 ’s zombie mode in Skyrim , and Miles Morales swinging through Gotham . Here’s another to add to the list: someone has gotten the Xbox version of Halo : Combat Evolved running in a web browser with multiplayer and split-screen support…\n\nSoftware developer Mitchell Hynes is behind bringing Halo to web browser. As he posted on X , this version of the game features split-screen co-op and multiplayer of up to 128 players. He’s currently running a Cloudflare-powered website to host the port — which is the original Xbox version of Combat Evolved , not Gearbox’s maligned PC release — and he included the link to the site in a reply to his original post. According to Hynes, 20,000 people played the web browser port in its first five hours.\n\nWhile games are written in human-readable languages (usually C or C++), they are compiled into machine code that is executable by the processor they are intended for; in the case of Halo that would have been an x86 processor. It has long been possible to disassemble machine code to assembly (which is often what compilers output); assembly maps almost perfectly to machine code. The difficult part — which takes humans years — is decompiling assembly to C (or whatever human-readable language the game was written in).\n\nIt’s not difficult for LLMs, at least not now. LLMs can figure out what assembly aligns to what prospective code, and validate whether or not it got it right; it’s actually a pretty perfect LLM use case. And now, anyone can do it: older games now, modern AAA games soon, and basically all software soon enough — at least if you have the executable.\n\nIs This Legal?\n\nFrom The Gamer :\n\nDMCA takedowns for mods and fan overhauls have been happening for years , so it makes sense that decompilation projects, especially the ones assembled quickly and shared widely on social media , are now drawing the same kind of attention. These projects have exploded in number over the past week or so, but many rely heavily on generative AI. Even well‑known efforts like Ship of Harkinian use some form of genAI, despite beginning long before the current wave of vibe‑coded recreations.\n\nThe projects that went viral this week were built with far more aggressive AI assistance. One of the first was Fallout : New York. ChrisFirst shared a clip on Twitter showing a browser‑playable recreation of Fallout built with Claude Opus 5.5. It had quests, dialogue trees, VATS, a working Pip‑Boy, and an entire city generated without any texture or sound files. Every building, weapon, face, and ambient noise was “generated by code.” The post pulled in millions of views before ChrisFirst shared that he received a cease-and-desist from Bethesda and shut the project down.\n\nThe second project that’s since been taken down came from Maurice Heumann , who used generative AI to decompile Modern Warfare 2 on PC. He said he had seventeen agents working at the same time, reconstructing the game faster than any manual effort could. According to him, the game was already playable, most bugs were fixed, and he had even earned a nuke. Activision responded by removing the footage from his post and blocking access to the site hosting the code. Heumann later shared that his AI agents kept deleting his files.\n\nThis story actually conflates two different AI capabilities. The Fallout project appears to be a new game — there is no Fallout: New York — although using the name “Fallout” is likely a trademark violation, and copyright covers clearly identifiable items like the Pip-Boy. However, creating a variation of a game isn’t illegal in and of itself.\n\nThe Modern Warfare project, on the other hand, is more complicated. Decompiling is not in and of itself illegal. Sega v. Accolade held that disassembling code is fair use if it is the only way to reach unprotected functional elements and there was a legitimate purpose, and Sony v. Connectix extended the same reasoning to reverse engineering the PlayStation’s BIOS. However, that is likely where protections end: code that is derived from decompiling is, by definition, very similar if not identical to the original code, which is covered by copyright, and very unlikely to be covered by fair use if the sole purpose is just to distribute a game that already exists.\n\nI’m hedging my language because the more general use decompilation question has not been litigated directly; to the extent publishers have gone after projects resuscitating old games pre-LLMs, it is for using things like image assets, not reproducing code. There also weren’t that many projects: the sheer scale of what is starting to happen will almost certainly change that laissez faire approach. It’s also worth noting that the end user license agreement for PC games usually forbids reverse-engineering, which courts have enforced.\n\nThis legal context is important because it does put a damper on some of the more over-the-top pronouncements on X in response to these capabilities: yes, you can decompile a game, but you almost certainly can’t distribute that game legally, and you certainly can’t sell it. Yes, all of software will soon be “open source” in that you will be able to view the source for any executable you obtain; it will not be “open source” in terms of licensing.\n\nStill, there’s a reason I mentioned the decompilation explosion in yesterday’s Article :\n\nWhat I’m much more interested in is controlling the software layer myself. The fact of the matter is that with AI you can decompile almost all existing software — there is a revolution happening in gaming over the past few weeks, as game after game is decompiled to source and ported to any platform you wish — and you can write your own. That means my software that interacts with my agent in the way I want it to for everything; that’s way more exciting than praying Apple delivers the right API and that 3rd-party developers don’t suck.\n\nWhat I’m excited about in terms of being able to write any software is not selling that software; indeed, the prospects for selling software in a world where anyone can make software are increasingly challenging! Rather, it’s the possibility of customizing anything and everything I want to my preferences. Am I unhappy with my thermostat software, or my smart locks? I can — or will soon be able to — simply make my own. Decompiling may violate a EULA or the DMCA, but if it’s done in the privacy of my own home, it’s not clear what companies might do about it. What is being done to games can be done to anything, and that is very exciting, and certainly for software makers very scary.\n\nA Well-Trodden Path\n\nI have written several times about the progression of mediums in technology, including in 2022’s DALL-E, the Metaverse, and Zero Marginal Content :\n\nGames have long been on the forefront of technological development, and that is certainly the case in terms of medium. The first computer games were little more than text:\n\nImages followed, usually of the bitmap variety; I remember playing a lot of “Where in the world is Carmen Sandiego” at the library:\n\nSoon games included motion as you navigated a sprite through a 2D world; 3D followed, and most of the last 25 years has been about making 3D games ever more realistic. Nearly all of those games, though, are 3D images on 2D screens; virtual reality offers the illusion of being inside the game itself.\n\nI noted that social media followed a similar path:\n\nSocial networking has undergone a similar medium evolution as games, with a two-decade delay. The earliest forms of social networking on the web were text-based bulletin boards and USENET groups; then came widespread e-mail, AOL chatrooms, and forums. Facebook arrived on the scene in the mid-2000s; one of the things that helped it explode in popularity was the addition of images. Instagram was an image-only social network that soon added video, which is all that TikTok is. And, over the last couple of years in particular, video conferencing through apps like Zoom or FaceTime have delivered 3D images on 2D screens.\n\nWhat is interesting is the business model implications; in 2017’s The Great Unbundling I examined how different mediums fared differently on the Internet:\n\nThe text business model completely fell apart, as advertising fled and the barrier to entry for actually good content went to zero.\n\nThe music industry fared better, thanks to the oligarchic nature of supply: there are only three companies that matter in terms of building a competitive library, which means they extract their fair share.\n\nThe video industry is the weirdest: Netflix climbed the ladder to its own shows, while retaining competitors far longer than is arguably rational.\n\nI’m not sure that gaming is going to look like any of these. A lot of people are fretting/predicting that this will lead to the return of gaming streaming services; notice that I’ve continually made references to needing to have the executable to decompile. If you run a game — or software generally — in the cloud then there is no executable to decompile. At the end of the day, however, game streaming has largely failed in the market because it has been rejected by gamers; the fact that publishers might not want to distribute executables doesn’t change that reality. And remember, there are legal limits to distributing decompiled games.\n\nThat noted, there is an entire category of games that are adjacent to streaming: think games like Fortnite that have an integral online component; that is already a category that is dominating playtime, and the allure of this model relative to standalone games is only going to increase.\n\nThat’s not to say that standalone games will go away; if anything, what does seem likely is that there will be an explosion; AI doesn’t just help with creating games, but also with asset creation, which is the real limiter. It’s also possible that AI means the end of game engines, but optimization and performance remain difficult problems without obvious differentiation payoffs, so I’m not so sure. Indie games might get away without using an established engine, but not AAA games. Regardless, this category, which is already struggling in terms of capturing demand, is only going to become more challenging as supply floods the market.\n\nWhat is possible — likely, even — is that entirely new genres of games arise with “modding” as a key precept. What might a game that assumes that gamers can endlessly modify it look like? This concept isn’t new, to be clear, but now anyone can make the exact game — or variation on a game — that they want, and franchises that lean into that will have new opportunities. It’s also worth calling out Roblox here: the concept of a virtual world where users can create their own games was novel when even using Roblox’s simplified tools required a fair bit of expertise; it’s tremendously exciting when anyone can make software.\n\nIn short, my initial read is that gaming is going to change a lot, but that gaming was already changing a lot; AI seems set to exacerbate a lot of trends, including the shift to service-based games, and to the extent it dooms AAA standalone games that is only because it acc..."
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 7,
+    "totalTweets": 18,
+    "blogPosts": 6,
+    "podcastEpisodes": 0
+  }
+}
