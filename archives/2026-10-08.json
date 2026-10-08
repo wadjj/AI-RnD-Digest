@@ -1,0 +1,393 @@
+{
+  "generatedAt": "2026-10-08T02:00:51.846Z",
+  "runKey": "2026-10-08",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Boris Cherny",
+      "handle": "bcherny",
+      "bio": "Twitter @Boris Cherny",
+      "tweets": [
+        {
+          "id": "https://twitter.com/bcherny/status/2107980089749323838",
+          "text": "RT cat\nOne of my favorite PM use cases for Claude is asking \"who used the most last week? make me a artifact of the top 10 by usage, then reach out and schedule 15 min to chat.\" It's the fastest way to get user feedback!",
+          "createdAt": "2026-10-07T22:52:01.848Z",
+          "url": "https://x.com/bcherny/status/2107980089749323838",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/bcherny/status/2107909939025052107",
+          "text": "Haiku 5.5 is a good Haiku.\n\nWith 100k token context, it's also 10x cheaper than Haiku 4.5\n---\n Claude: Introducing Claude Haiku 5.5: the cheapest, fastest, and most capable small model we’ve ever released.\n\nOn average, it costs around 75% less to run than Claude Haiku 4.5.",
+          "createdAt": "2026-10-07T19:04:27.416Z",
+          "url": "https://x.com/bcherny/status/2107909939025052107",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/claudeai/status/2107894039626277339\nClaude: Introducing Claude Haiku 5.5: the cheapest, fastest, and most capable small model we’ve ever released.\n\nOn average, it costs around 75% less to run than Claude Haiku 4.5."
+        },
+        {
+          "id": "https://twitter.com/bcherny/status/2107980493614616996",
+          "text": "RT Lydia Hallie ✨\nIf you're on API billing, you can set Haiku 5.5's autocompact window to 100K so you stay in the cheaper token pricing tier! It's saved per model so this only applies to Haiku (incl. subagents)\n\n> /model haiku\n> /autocompact 100k\n---\n ClaudeDevs: For prompts under 100K tokens, it's $0.10 / $0.50 per million tokens with cache reads at $0.01.\n\nAbove 100K tokens, $0.50 / $2.50 per million, with cache reads at $0.05.",
+          "createdAt": "2026-10-07T18:20:32.855Z",
+          "url": "https://x.com/bcherny/status/2107980493614616996",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "cat",
+      "handle": "_catwu",
+      "bio": "Twitter @cat",
+      "tweets": [
+        {
+          "id": "https://twitter.com/_catwu/status/2107967210467803152",
+          "text": "One of my favorite PM use cases for Claude is asking \"who used the most last week? make me a artifact of the top 10 by usage, then reach out and schedule 15 min to chat.\" It's the fastest way to get user feedback!",
+          "createdAt": "2026-10-07T22:52:01.327Z",
+          "url": "https://x.com/_catwu/status/2107967210467803152",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Twitter @Ethan Mollick",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2107964764316209326",
+          "text": "Some early first-hand accounts of encountering a narrow superhuman intelligence as mathematicians grapple with the hundreds of big AI proofs released by OpenAI.\n\nProblems solved in inhuman ways that make us wonder what it means to actually know things... https://scottaaronson.blog/?p=10169",
+          "createdAt": "2026-10-07T22:42:18.470Z",
+          "url": "https://x.com/emollick/status/2107964764316209326",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2107938889004396561",
+          "text": "Had early access to the Intelligent UI experience and it was a nice change from walls of text. It also suggests that, increasingly, we are going to see interfaces built on demand for the problem that you have.\n---\n OpenAI: GPT-6 and Intelligent UI, now rolling out in ChatGPT for everyone.\n\nIntelligent UI in ChatGPT delivers fast, interactive answers that make everyday questions more visual, complex topics easier to grasp, and interactive tools for your task available on the spot.",
+          "createdAt": "2026-10-07T20:59:29.938Z",
+          "url": "https://x.com/emollick/status/2107938889004396561",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/OpenAI/status/2107894997538525580\nOpenAI: GPT-6 and Intelligent UI, now rolling out in ChatGPT for everyone.\n\nIntelligent UI in ChatGPT delivers fast, interactive answers that make everyday questions more visual, complex topics easier to grasp, and interactive tools for your task available on the spot."
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2107895489614250316",
+          "text": "Much of the world is based on the assumption that the future is like the past and an original meaning of “singularity” was a point where that relationship breaks. I don’t know if there will be one big Singularity, but a million little singularities across fields seems inevitable.",
+          "createdAt": "2026-10-07T18:07:02.901Z",
+          "url": "https://x.com/emollick/status/2107895489614250316",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Twitter @Thariq",
+      "tweets": [
+        {
+          "id": "https://twitter.com/trq212/status/2107957206327173484",
+          "text": "I think it's probably an incredible time to be a game dev content creator, for many people making games is a form of having fun and they're willing to pay for it!\n---\n Tim Sweeney: Interestingly, Fab seller revenue increased significantly in September. AI acceleration has led to more demand for content, and many devs are using AI assistants to build scenes including buying building blocks from Fab.",
+          "createdAt": "2026-10-07T22:12:16.320Z",
+          "url": "https://x.com/trq212/status/2107957206327173484",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/TimSweeneyEpic/status/2107879332609667481\nTim Sweeney: Interestingly, Fab seller revenue increased significantly in September. AI acceleration has led to more demand for content, and many devs are using AI assistants to build scenes including buying building blocks from Fab."
+        },
+        {
+          "id": "https://twitter.com/trq212/status/2107898493234982968",
+          "text": "We've heard how much people love Haiku and it's back in 5.5, cheaper, faster than ever before.\n\nIn fact it's 10x cheaper than Haiku 4.5 under 100k tokens.\n\nTry it with computer use, workflows and in the API.\n---\n Claude: Introducing Claude Haiku 5.5: the cheapest, fastest, and most capable small model we’ve ever released.\n\nOn average, it costs around 75% less to run than Claude Haiku 4.5.",
+          "createdAt": "2026-10-07T18:18:58.225Z",
+          "url": "https://x.com/trq212/status/2107898493234982968",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/claudeai/status/2107894039626277339\nClaude: Introducing Claude Haiku 5.5: the cheapest, fastest, and most capable small model we’ve ever released.\n\nOn average, it costs around 75% less to run than Claude Haiku 4.5."
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Mark Chen",
+      "handle": "markchen90",
+      "bio": "Twitter @Mark Chen",
+      "tweets": [
+        {
+          "id": "https://twitter.com/markchen90/status/2107947355115028880",
+          "text": "Try out Intelligent UI - every ChatGPT completion now has the potential to create a custom UI. Phenomenal for learning new things!\n---\n OpenAI: GPT-6 and Intelligent UI, now rolling out in ChatGPT for everyone.\n\nIntelligent UI in ChatGPT delivers fast, interactive answers that make everyday questions more visual, complex topics easier to grasp, and interactive tools for your task available on the spot.",
+          "createdAt": "2026-10-07T21:33:07.269Z",
+          "url": "https://x.com/markchen90/status/2107947355115028880",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/OpenAI/status/2107894997538525580\nOpenAI: GPT-6 and Intelligent UI, now rolling out in ChatGPT for everyone.\n\nIntelligent UI in ChatGPT delivers fast, interactive answers that make everyday questions more visual, complex topics easier to grasp, and interactive tools for your task available on the spot."
+        },
+        {
+          "id": "https://twitter.com/markchen90/status/2107876922147668198",
+          "text": "The Navier-Stokes moment was always much more about the figure below than about the Navier-Stokes problem itself. The run represents a decade of mathematical progress in a week.\n\nCan't wait to point these tools at life sciences, building our next models, and alignment!\n\n---\n OpenAI: https://openai.com/index/sharing-ai-progress-in-mathematics/",
+          "createdAt": "2026-10-07T16:53:15.660Z",
+          "url": "https://x.com/markchen90/status/2107876922147668198",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/OpenAI/status/2107596716367388924\nOpenAI: https://openai.com/index/sharing-ai-progress-in-mathematics/"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Twitter @Tibo",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2107913674593644711",
+          "text": "Day 3/\n\nThe big one is GPT-6 in Chat, but today is also a little celebration day with a new high of 40M active users across Codex and ChatGPT Work.\n\nLoading a banked reset in everyone's paid accounts. See you again tomorrow!\n---\n Tibo: Roundup of Day 2/\n\n2.1/ Approve for me (auto-review) is now included and does not use usage. Can be between 2-10% of plan when used. Also better for you.\n2.2/ Simplified API for builders.\n2.3/ Meeting notes integrated.\n2.4/ Decisions API live for builders. Will use in the app to",
+          "createdAt": "2026-10-07T19:19:17.243Z",
+          "url": "https://x.com/thsottiaux/status/2107913674593644711",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/thsottiaux/status/2107575657014468879\nTibo: Roundup of Day 2/\n\n2.1/ Approve for me (auto-review) is now included and does not use usage. Can be between 2-10% of plan when used. Also better for you.\n2.2/ Simplified API for builders.\n2.3/ Meeting notes integrated.\n2.4/ Decisions API live for builders. Will use in the app to"
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2107912709715132482",
+          "text": "We're going beyond text and are releasing a new version of GPT-6 to all users in ChatGPT. Lots of model and infra improvements coming together here to scale it to 1.2B users!\n---\n OpenAI: GPT-6 and Intelligent UI, now rolling out in ChatGPT for everyone.\n\nIntelligent UI in ChatGPT delivers fast, interactive answers that make everyday questions more visual, complex topics easier to grasp, and interactive tools for your task available on the spot.",
+          "createdAt": "2026-10-07T19:15:27.490Z",
+          "url": "https://x.com/thsottiaux/status/2107912709715132482",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/OpenAI/status/2107894997538525580\nOpenAI: GPT-6 and Intelligent UI, now rolling out in ChatGPT for everyone.\n\nIntelligent UI in ChatGPT delivers fast, interactive answers that make everyday questions more visual, complex topics easier to grasp, and interactive tools for your task available on the spot."
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2107676072871600470",
+          "text": "We shipped four things that were deemed good to great and some math proofs, but the vote is clear and the community demands a reset. I did calibrate it and it *seems* that the game is rigged in reset's favor, but such are the rules at the moment.\n\nTherefore ... the reset has been processed. Enjoy!\n---\n Tibo: Roundup of Day 2/\n\n2.1/ Approve for me (auto-review) is now included and does not use usage. Can be between 2-10% of plan when used. Also better for you.\n2.2/ Simplified API for builders.\n2.3/ Meeting notes integrated.\n2.4/ Decisions API live for builders. Will use in the app to",
+          "createdAt": "2026-10-07T03:35:09.678Z",
+          "url": "https://x.com/thsottiaux/status/2107676072871600470",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/thsottiaux/status/2107575657014468879\nTibo: Roundup of Day 2/\n\n2.1/ Approve for me (auto-review) is now included and does not use usage. Can be between 2-10% of plan when used. Also better for you.\n2.2/ Simplified API for builders.\n2.3/ Meeting notes integrated.\n2.4/ Decisions API live for builders. Will use in the app to"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Anthony Morris ツ",
+      "handle": "amorriscode",
+      "bio": "Twitter @Anthony Morris ツ",
+      "tweets": [
+        {
+          "id": "https://twitter.com/amorriscode/status/2107901159218532502",
+          "text": "really excited to see how folks use Haiku to bring more delight to their products!\n---\n Claude: Introducing Claude Haiku 5.5: the cheapest, fastest, and most capable small model we’ve ever released.\n\nOn average, it costs around 75% less to run than Claude Haiku 4.5.",
+          "createdAt": "2026-10-07T18:29:33.311Z",
+          "url": "https://x.com/amorriscode/status/2107901159218532502",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/claudeai/status/2107894039626277339\nClaude: Introducing Claude Haiku 5.5: the cheapest, fastest, and most capable small model we’ve ever released.\n\nOn average, it costs around 75% less to run than Claude Haiku 4.5."
+        },
+        {
+          "id": "https://twitter.com/amorriscode/status/2107664326324842812",
+          "text": "claude where you work\n---\n Claude: Claude now works inside Google Docs, Sheets, and Slides, and those files also open inside Claude.\n\nIn Google Workspace, Claude sits in a sidebar next to your file, reads what you have open, and edits it in place. You can approve each edit before it lands.",
+          "createdAt": "2026-10-07T02:48:28.215Z",
+          "url": "https://x.com/amorriscode/status/2107664326324842812",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/claudeai/status/2107522596845822135\nClaude: Claude now works inside Google Docs, Sheets, and Slides, and those files also open inside Claude.\n\nIn Google Workspace, Claude sits in a sidebar next to your file, reads what you have open, and edits it in place. You can approve each edit before it lands."
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Sholto Douglas",
+      "handle": "_sholtodouglas",
+      "bio": "Twitter @Sholto Douglas",
+      "tweets": [
+        {
+          "id": "https://twitter.com/_sholtodouglas/status/2107919411155787887",
+          "text": "RT edwin\nHaiku took its time,\n four point five to five point five.\n Worth the wait, we hope.",
+          "createdAt": "2026-10-07T18:16:07.623Z",
+          "url": "https://x.com/_sholtodouglas/status/2107919411155787887",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Demis Hassabis",
+      "handle": "demishassabis",
+      "bio": "Twitter @Demis Hassabis",
+      "tweets": [
+        {
+          "id": "https://twitter.com/demishassabis/status/2107856837748081107",
+          "text": "RT Google DeepMind\nSynthID Detector is now available to everyone. 🌐\n\nCheck whether online content was generated using @GoogleAI, or with tools from our industry partners – including @OpenAI, @NVIDIA, Kakao and coming soon, @Apple.\n\nTry it out → https://synthid.com",
+          "createdAt": "2026-10-07T14:03:41.900Z",
+          "url": "https://x.com/demishassabis/status/2107856837748081107",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Gostev",
+      "handle": "petergostev",
+      "bio": "Twitter @Peter Gostev",
+      "tweets": [
+        {
+          "id": "https://twitter.com/petergostev/status/2107730035368927707",
+          "text": "Have you guys considered that house cats are just smarter in France",
+          "createdAt": "2026-10-07T07:09:34.450Z",
+          "url": "https://x.com/petergostev/status/2107730035368927707",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Quoting Ben Affleck",
+      "url": "https://simonwillison.net/2026/Oct/7/ben-affleck/",
+      "publishedAt": "2026-10-07T23:14:58.211Z",
+      "author": "",
+      "description": "I've always been kind of into computers since I was young. And then when film started to move from analog film to digital, I became more…",
+      "content": "I've always been kind of into computers since I was young. And then when film started to move from analog film to digital, I became more interested in that aspect of it. And the visual effects workflow for many years has included machine learning.\n\n So I can write like pretty shitty Python scripts and stuff like that because with convolutional neural networks, which were the sort of precursors to what the transformer can do, which is just much more computation simultaneously, you would do things like look at what's called a tensor, which is just the numerical translation of a visual image in numbers — like the batch number, the frame number, the red, green, and blue values of each pixel in each frame.\n\n And a tensor, you use a convolutional neural network to identify patterns in that that would reveal what's called edge detection or feature extraction, which is just identifying patterns enough to know like this is where the window ledge is, so we can more easily take the green screen image out and replace it with something.\n\n — Ben Affleck , Pythonista\n\n Tags: machine-learning , python"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Claude Haiku 5.5",
+      "url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
+      "publishedAt": "2026-10-07T20:56:21.668Z",
+      "author": "",
+      "description": "As previously promised, here's Anthropic's new fast, low cost model: Introducing Claude Haiku 5.5. The previous Haiku, 4.5, was very much…",
+      "content": "As previously promised , here's Anthropic's new fast, low cost model: Introducing Claude Haiku 5.5 .\n\n The previous Haiku, 4.5, was very much showing its age. It came out almost a year ago , and was priced at $1/million input and $5/million output - relatively expensive even back then, and a full 10x the price of OpenAI's GPT-6 Luna , released last month.\n\n The new Haiku exactly matches the price of GPT-6 Luna - $0.10/$0.50 - up to 100,000 tokens. Beyond 100,000 tokens the price increases 5x to $0.50/$2.50. Luna itself has a price increase at 272,000 tokens but only to $0.20/$0.75.\n\n Haiku 5.5 also uses a new, less generous tokenizer. My Claude Token Counter tool shows that the same long prompt uses around 1.25x as many tokens with Haiku 5.5 compared to Haiku 4.5, so there's a hidden price increase there.\n\n If your workloads fit in 100,000 tokens, Haiku is the same price as Luna and reports higher benchmark scores. Above 100,000 tokens, Luna looks like a much better deal.\n\n The most recent release of llm-anthropic finally fixed it so I don't need to ship a new version of that plugin for every new model. I tested the new model like this:\n\n llm install -U llm-anthropic\nllm anthropic refresh\nllm -m claude-haiku-5.5 \"Generate an SVG of a pelican riding a bicycle\" -o thinking_effort low\n\n Pelicans\n\n Here are pelicans for low, medium, high, xhigh, and max . The new Haiku doesn't let you disable reasoning, and defaults to medium . I got a good bicycle frame for everything beyond low . The low effort pelican cost 0.0936 cents and took 7 seconds.\n This max effort pelican (with a reasoning trace that starts \"This is the classic pelican-on-bicycle SVG test...\") took 5 minutes 9 seconds to generate, but still only cost me 3.3826 cents :\n\n (Since the reasoning trace exhibits awareness of the benchmark, here's Generate an SVG of an armadillo in fishnet tights jaywalking on Mars (on xhigh) , and the same prompt against some other recent models . Background on that .)\n\n For comparison, here's the pelican I got a year ago from Haiku 4.5 (for 0.7583 cents - Haiku 4.5 did not support reasoning levels). It sucked at drawing pelicans:\n\n And a generous API credit scheme for subscribers\n\n In addition to Haiku 5.5, Anthropic announced today that they are halving the price of cache reads for Sonnet 5.5. They've also added API credits to subscription plans:\n\n Second, this week, we’ll roll out a new monthly API credit to all Max and Team subscribers for use on the Claude Platform . Max 5x users will get $100 in credits per month, Max 20x users will get $200, and Team subscribers will receive up to $500, pooled across their users.\n\n Claiming this is pleasantly easy: navigate to Settings -> Billing and select the API organization that should benefit from the credits every month:\n\n The API credits exactly match the cost of the subscription itself. This is really generous - it makes it much easier for subscribers to use the API. Anthropic also let you disable auto-reload for the API, with the consequence that \"API requests will stop when your balance runs out\" - exactly what you want if you're planning to burn through those API credits without risk of a nasty billing surprise .\n\n Note that the monthly credits do not roll over - use them or lose them.\n\n OpenAI still allow you to use your Codex subscription for personal API use, which works out as a better deal for heavy API users. This new credit scheme goes at least some way to overcoming that difference.\n\n Tags: ai , generative-ai , llms , anthropic , claude , llm-pricing , pelican-riding-a-bicycle , llm-release"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Anti-Patterns in Software Blogging",
+      "url": "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/",
+      "publishedAt": "2026-10-07T14:53:51.351Z",
+      "author": "",
+      "description": "Anti-Patterns in Software Blogging Some excellent writing advice from Michael Lynch. Michael warns against \"meandering intros\", misjudging…",
+      "content": "Anti-Patterns in Software Blogging\n\nSome excellent writing advice from Michael Lynch. Michael warns against \"meandering intros\", misjudging your reader's existing knowledge, assuming they'll read your previous posts, and excessive formality.\n\n He also warns against overreliance on links as an excuse not to explain terminology. This one hurt! I do this all the time, but I have a nagging suspicion that almost nobody ever clicks on them.\n\n (In a Lobste.rs comment Michael clarifies that \"My rule of thumb is that my article should still make sense to the reader even if they don't click any links\". That works for me.)\n\n This point about using your own voice is crucial:\n\n Beginner software bloggers suffer from a mass delusion that you have to write in a stiff, overly formal way for people to take you seriously [...]\n\n Just write the way you talk.\n\n With so many developers delegating their writing to AI, software blogging is becoming bland and homogenous. Readers are hungry for writing with personality.\n\n Via Lobste.rs\n\n Tags: blogging , writing , michael-lynch"
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery by Ben Thompson",
+      "title": "Apple and LG, The House For Everyone Else, Agent Standards and Amazon",
+      "url": "https://stratechery.com/2026/apple-and-lg-the-house-for-everyone-else-agent-standards-and-amazon/",
+      "publishedAt": "2026-10-07T10:01:39.681Z",
+      "author": "Ben Thompson",
+      "description": "Apple is taking a smarter approach to the home than I expected, leaning into integration (with partners); then, what Amazon should do about…",
+      "content": "Apple is taking a smarter approach to the home than I expected, leaning into integration (with partners); then, what Amazon should do about agents."
+    },
+    {
+      "source": "blog",
+      "name": "Tomasz Tunguz",
+      "title": "A Change in AI Strategy",
+      "url": "https://tomtunguz.com/what-if-the-models-are-commoditized/",
+      "publishedAt": "2026-10-07T00:00:00.628Z",
+      "author": "",
+      "description": "What if AI models have just reached commodity status? In early 2025, we debated whether labs would become the airlines of the AI industry…",
+      "content": "What if AI models have just reached commodity status? In early 2025, we debated whether labs would become the airlines of the AI industry : high cost, low margin businesses with undifferentiated products.\n\n Over the past month, the evidence has mounted :\n\n OpenAI cut prices on Luna by more than 80% to win share. 1\n\n Frontier models’ share of tokens slipped from 53% in August into the mid-40s as companies defaulted to smaller, cheaper tiers. 2\n\n Open source demand has shifted decisively from frontier-dominated to medium-&-small tiers. 3\n\n Spending among the top 1% of adopters fell 9.7% in August to $7,205 per employee per month, cooling from its July peak. 4\n\n Decision models like TypeSafe’s Jev are winning share of LLM calls at $0.04 per million input tokens, roughly 75x cheaper than standard LLMs for routing, gating, & classification. 5\n\n Throughout all this, token usage has surged 50% since July, while prices have fallen 41%. 6\n\n What’s the strategy in this environment?\n\n First, partner. OpenAI announced a partnership with Baseten to resell open-weight models. 7 Elon tweeted that the Grok bot would use the best model to complete a task, not just SpaceXSI models. 8 Reselling produces a new, high-margin revenue stream by collecting a toll on products without bearing the cost to serve.\n\n No company can provide the best model for every use case. Maximizing customer attention & retention is the most valuable asset in a commodity market.\n\n Second, control the user interface. Distribution has become the moat. Build great harnesses that demand a lot of tokens : give them mononyms like Dots, Bot, & Muse to retain users. 9 Also provide the best models for the job so people stay. This suggests ads & commerce as an important revenue driver for the B2C market.\n\n Third, capture user data for intelligent routing & training infrastructure. Reselling other models while routing tasks across them aggregates a tremendous amount of information useful for subsequent model training.\n\n Winning share becomes the only game that matters when aggregate dollar spend cools while token volume compounds. This means controlling the user interface.\n\n OpenAI’s recent surge toward a ~$70b run rate highlights the dynamic : aggressive price cuts & marketplace aggregation allowed it to recapture share within a boat length of Anthropic. 10\n\n In a commoditizing market, the spoils do not accrue to the lab with a marginal benchmark lead, but to the platform that aggregates the volume.\n\n---\n\n GPT-5.6 & The Most Important Market in AI is the Middle   ↩︎\n\n Ramp September 2026 AI Index   ↩︎\n\n The Most Important Market in AI is the Middle & Segmentation Drives Market Share Wins in AI   ↩︎\n\n Ramp AI Index   ↩︎\n\n Jev by TypeSafe AI   ↩︎\n\n Ramp September 2026 AI Index   ↩︎\n\n Announcing our partnership with OpenAI   ↩︎\n\n Elon Musk on X   ↩︎\n\n ha! 😄  ↩︎\n\n Segmentation Drives Market Share Wins in AI   ↩︎"
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery",
+      "title": "Apple and LG, The House For Everyone Else, Agent Standards and Amazon",
+      "url": "https://stratechery.com/2026/apple-and-lg-the-house-for-everyone-else-agent-standards-and-amazon/",
+      "publishedAt": "Wed, 07 Oct 2026 10:01:39 +0000",
+      "author": "Ben Thompson",
+      "description": "Apple is taking a smarter approach to the home than I expected, leaning into integration (with partners); then, what Amazon should do about agents.",
+      "content": "Apple is taking a smarter approach to the home than I expected, leaning into integration (with partners); then, what Amazon should do about agents.\n\n---\n\nListen to this Update in your podcast player\n\n---\n\nGood morning,\n\nJon at Asianometry has a new video about TSMC and ASML’s push for larger photomasks, starting in the early 2030s.\n\nOn to the Update:\n\nApple and LG\n\nFrom Bloomberg :\n\nApple Inc.’s upcoming push into smart home devices will include a doorbell, thermostat and other accessories developed through an unusual partnership with LG Electronics Inc. The products will be part of an ecosystem of devices that work with Apple’s new smart home hub, as well as an upgraded HomePod mini and fresh TV set-top box, according to people with knowledge of the matter. The new Apple devices are set to be introduced on Oct. 13. The products developed with South Korea’s LG will also include a smart deadbolt lock, indoor security camera, outdoor security camera and floodlight camera, said the people, who asked not to be identified because the undertaking is private.\n\nThough the two companies worked together to develop the accessories, the products will carry the LG brand. The South Korean firm is handling manufacturing and product support. Apple has used this strategy before: It has discreetly worked with companies like Foxconn Technology Group’s Belkin and Logitech International SA to develop products that sell under other brands. This arrangement with so-called second-party suppliers gives Apple a way to quickly expand its ecosystem without shouldering the full cost and complexity of producing and supporting a wide range of accessories. Apple can also help shape the products’ design, tailor their features and oversee engineering while keeping the work largely under wraps.\n\nI don’t usually write about rumors — although a Gurman report is about as close to fact as you can get, and this report is backed by FCC filings — but this is a very interesting follow-up to Monday’s Article Apple and a Hacker’s Future . I noted in that Article how unenthused I was about Apple’s upcoming home device:\n\nWhat struck me about Gurman’s article is just how unenthused I am by an Apple smarthome product. Some of this is fatigue from a decade of Siri disappointment and skepticism about the company’s ability to deliver on a voice-centric product. More than that, however, I bristle at the idea of introducing Apple’s constraints to more parts of my life.\n\nThose constraints aren’t just about things like full disk access. To the extent that Apple delivers on integration with things like thermostats and door locks is the extent to which they work with 3rd-party device makers; the problem is that third party device makers mostly suck, particularly from a software perspective. Even if Siri were perfect, Apple will have the challenge of delivering an experience that isn’t defined by the lowest common denominator.\n\nWhat I’m much more interested in is controlling the software layer myself. The fact of the matter is that with AI you can decompile almost all existing software — there is a revolution happening in gaming over the past few weeks, as game after game is decompiled to source and ported to any platform you wish — and you can write your own. That means my software that interacts with my agent in the way I want it to for everything; that’s way more exciting than praying Apple delivers the right API and that 3rd-party developers don’t suck.\n\nThe first thing that makes Gurman’s news interesting is that it is Apple directly addressing one of the factors that made me unenthusiastic about an Apple home device: an assumed dependency on third-party developers building to an API and crossing their fingers that it worked. Second-party has the promise of being different: not only will Apple presumably sell these LG devices on their website and in Apple retail stores, they will have already ensured that they work well (and probably done a lot more than that).\n\nTwo notes on it being LG specifically. First, I know a lot of Mac users weren’t very enthused about LG’s UltraFine monitors, which were Apple’s solution to anyone who didn’t want to use an iMac, but I am actually sitting in front of two LG UltraFine 4K monitors right now and they work great! Second, it’s worth noting that smart home devices are not displays: LG is the market leader in the latter, but a bit of a non-entity in the former. This could work to Apple’s benefit in that they probably have more control than they would with another partner, but LG is going to need to deliver to some pretty high standards with quite a bit of scrutiny.\n\nThe House For Everyone Else\n\nI opened that segment I quoted above by emphasizing that I am not representative of a normal user; I suspect that most people will not be interested in decompiling drivers or writing their own software for their own smart home. That doesn’t mean, however, that normal users might not want to benefit from a smart home, if only a company would solve it for them.\n\nI have maintained for years that Apple erred in not doing more in the home; in 2019, when Amazon acquired Eero , I bemoaned the company’s shutdown of its Airport wifi devices:\n\nAs an addendum, it is worth again returning to Apple, and, just as is the case with podcasts , it is in the context of the company seeming to squander an early advantage. As I explained above, it seems likely that the AirPort market — which was originally about adding Wi-Fi to homes that didn’t have it — was shrinking thanks to the fact that most consumers got Wi-Fi routers from their ISPs. However, instead of innovating in the space, particularly in the direction of mesh networks, Apple decided to exit.\n\nThis strategy made sense in a world where iPhone sales were increasing: focus, and all that. Today, though, it is looking more than a bit shaky. Indeed, it seems reasonable to add AirPort to Apple TV, Podcasts, and even Siri as times where Apple was early to an opportunity, only to allow that advantage to be eclipsed by other companies less enamored with seemingly endless smartphone profits. That, perhaps, is an under-appreciated trade-off of focus, and where it is applied: product focus is a great idea when the product is moving up-and-to-the-right; customer focus, on the other hand, produces multiple products that are ideally moving in that direction. I am sure Apple’s decision to abandon the router market was driven by focus — was it customer focus though?\n\nI actually think that smart homes can be really useful; the concept has a bad reputation because everything sucks and doesn’t work well together. I am very excited about solving that with AI, and customizing my house exactly how I please. The opposite of that approach, however, is not simply doing nothing, but doing all of the work for customers who want the experience without the experimentation.\n\nIn other words, I’m not representative of normal customers not because I want to have a smart home, but because I want to do it myself; the possibilities I see are also opportunities for a company to do the work on behalf of customers. Granted, Amazon and Google have been trying to pull this off for a long time, but they have the same ecosystem challenges I was bemoaning on Monday. The best way to deliver on the experience — again, assuming you don’t want to simply vibe code your own solution — is to integrate. Apple’s not going all the way in this direction, but having a second party maker they work closely with is a very smart approach that I think has a lot of potential.\n\nAgent Standards and Amazon\n\nFrom CNBC :\n\nA month after Meta’s launch of Muse, the personal agent that quickly turned into a viral sensation, a group of companies is coming together to try to simplify the process of bringing the technology into the business world. Meta, Walmart, Stripe and a handful of other companies are publishing what they’re calling a “personal agent protocol.” It’s an open standard meant to dictate how artificial intelligence agents can interact with businesses.\n\nSierra CEO Bret Taylor, who is heading the effort, wrote on Sierra’s blog :\n\nPersonal AI agents are taking the world by storm. People are using them to do everything from scheduling appointments to booking flights and shopping for car insurance. It’s extraordinary how fast AI is changing consumer behavior and how many of us are having those incredible “wait, it just did that” moments with our personal agents. Unsurprisingly companies are asking how they can best respect their consumers’ choices while also protecting their privacy and security.\n\nSo today we’re excited to announce Personal Agent Protocol — an open standard Meta and Sierra are developing along with industry partners at Genesys, Instinct, Rocket, Shopify, Stripe, and Walmart that defines how personal agents interact with businesses. We’re designing it to handle authentication, empower consumers and give companies visibility into what personal agents do through their websites, APIs or company agents. It’s open for anyone to implement.\n\nI haven’t written about Instinct yet, but I have used it and it is very impressive (and yes, the company should be an Apple acquisition target). What is notable is that both Muse and Instinct are in on this project. Right now the biggest issue facing agents isn’t competition with each other: it’s making sure the experience works seamlessly. Browser use is a cheat code, but it’s not the ideal approach; that’s why you have clear competitors coming together early on a standard like this.\n\nOne notable absence is, of course, Amazon, and I thought Mike Vernal had an excellent post on X about their opposition to agents. The whole thing is worth a read, but some highlights:\n\nI’m not mad at Amazon – I get it. Over the past 20 years, Amazon did the impossible – they wrested a search vertical out of Google’s hands…Amazon built an incredible shopping experience – the Everything Store – and then trained users that it was faster to start their shopping experience on Amazon, not Google. This was not an accident – it was relentless execution…\n\nThere is an implied but :\n\nHorizontal consumer assistants are going to work. I have been using Instinct for a while (disclosure, we are the initial investors and on the board). I have also been using Muse since launch and know many of the folks on the team (we were also seed investors in the Dreamer team, which now works on Muse!). They are both great products. They’re both going to work.\n\nPersonal agents are just such a better experience. I had to book a hotel in NYC yesterday. With Instinct, I can just say “Can you book me a room at [the hotel] on the 21st?” It has my credit card and flight info. It knows what rooms I’ve booked before. It has my loyalty number. It can just book the room and add it to my calendar in just the way I like it. It’s not going to make a mistake with the dates. It is so much better than a dozen, slow-loading, form-heavy hotel web pages.\n\nThe hotel use case is a real one — it’s the first transaction I did on Instinct. I stay at the SFO Grand Hyatt almost every time I go to the Bay Area and it handled a date change with aplomb. I live in messaging, and Instinct really does give the sensation of having an assistant on the other end of a text thread.\n\nAnyhow, Vernal predicts that Amazon is going to lean hard on its own agent for shopping, but he doesn’t think it will work because vertical agents won’t have horizontal context on your life; he thinks the answer is simply to charge more:\n\nAmazon should launch a new subscription tier above Amazon Prime. Call it Prime+. Amazon Prime is $139/year in the US today and I think >65%(!) of US households are subscribers. Set the Prime+ pricing at something like $299/year or $30/month. Make agentic purchasing exclusive to this tier…\n\nThere is already some precedent for this. What is YouTube Premium? It is a way for consumers to pay for the convenience of an ad-free YouTube experience. Amazon..."
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 10,
+    "totalTweets": 19,
+    "blogPosts": 6,
+    "podcastEpisodes": 0
+  }
+}
