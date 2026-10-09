@@ -1,0 +1,367 @@
+{
+  "generatedAt": "2026-10-09T02:14:39.022Z",
+  "runKey": "2026-10-09",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Twitter @Tibo",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2108349826727588000",
+          "text": "Today, we are announcing ChatGPT.\n\nIt is here: https://chatgpt.com/",
+          "createdAt": "2026-10-09T00:12:24.376Z",
+          "url": "https://x.com/thsottiaux/status/2108349826727588000",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2108275041276420573",
+          "text": "Day 4/\n\nWe have improved steering to be instant, leading to the model now reacting much faster to adjustments you make, allowing you to course-correct direction in realtime and not have the model waste effort.\n\nAlso releasing GPT-6.1 Sol ultrafast. The two work very well together.\n\n---\n OpenAI Developers: Ultrafast is rolling out today for GPT-6.1 Sol in the API, Codex, and ChatGPT Work.\n\nNear-Astra intelligence at up to 8x faster speeds than Sol Standard, so you can build as fast as the ideas come.",
+          "createdAt": "2026-10-08T19:15:14.726Z",
+          "url": "https://x.com/thsottiaux/status/2108275041276420573",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/OpenAIDevs/status/2108262812489531498\nOpenAI Developers: Ultrafast is rolling out today for GPT-6.1 Sol in the API, Codex, and ChatGPT Work.\n\nNear-Astra intelligence at up to 8x faster speeds than Sol Standard, so you can build as fast as the ideas come."
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2108084615349170480",
+          "text": "Day 3 (encore)/\n\nWe silently re-shipped codex cloud. It’s pretty good now\n---\n Tailscale: Codex 🤝 Tailscale\n\nCodex Cloud can now securely connect to resources on your tailnet with Tailscale.\n\nUseful tools should be easy to build with, combine, and turn into something even more useful.\n\nSee how it works →\nhttps://buff.ly/yFcldrC",
+          "createdAt": "2026-10-08T06:38:33.067Z",
+          "url": "https://x.com/thsottiaux/status/2108084615349170480",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/Tailscale/status/2107836671605551217\nTailscale: Codex 🤝 Tailscale\n\nCodex Cloud can now securely connect to resources on your tailnet with Tailscale.\n\nUseful tools should be easy to build with, combine, and turn into something even more useful.\n\nSee how it works →\nhttps://buff.ly/yFcldrC"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Demis Hassabis",
+      "handle": "demishassabis",
+      "bio": "Twitter @Demis Hassabis",
+      "tweets": [
+        {
+          "id": "https://twitter.com/demishassabis/status/2108331042083872882",
+          "text": "Excited to support the Genesis Mission @WhiteHouse @ENERGY and Director @mkratsios47 with $150M in investments this week. Looking forward to collaborating on the future of science!\n---\n Director Michael Kratsios: Announcing the Most Ambitious Set of Science Initiatives This Century\nhttps://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-trump-administration-announces-the-most-ambitious-set-of-science-initiatives-this-century/",
+          "createdAt": "2026-10-08T22:57:45.431Z",
+          "url": "https://x.com/demishassabis/status/2108331042083872882",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/mkratsios47/status/2108212523186966746\nDirector Michael Kratsios: Announcing the Most Ambitious Set of Science Initiatives This Century\nhttps://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-trump-administration-announces-the-most-ambitious-set-of-science-initiatives-this-century/"
+        },
+        {
+          "id": "https://twitter.com/demishassabis/status/2108330488767091042",
+          "text": "RT Thomas Kurian\nToday at Google Cloud’s Gemini at Work event, we announced Gemini, a new single universal agent for work that has all of your business context and can be used for everything from knowledge work to answering questions, and content creation to coding, all from a single prompt box.\n\nIt’s built around core architectural principles:\n☑️ Unified Agent: Gemini can answer questions, do knowledge work and generate code from a single prompt box.\n☑️Access: Gemini is web-based and can be accessed from any device and integrated into third-party applications. It can also operate without a dedicated user interface.\n☑️Persistent Execution: It runs in the cloud, which means it maintains a single set of memories, context and one personalization graph no matter where you access it.\n☑️Multi-Agent Orchestration: Gemini can create sub-agents to tackle multi-step tasks and can also act as a coworker agent with a defined role and its own dedicated identity\n☑️Context: Gemini knows your tools, data, and work history and learns how you work the more you use it.\n☑️Model Choice Flexibility: It orchestrates across multiple models to deliver optimal quality and lower your costs.",
+          "createdAt": "2026-10-08T17:19:09.184Z",
+          "url": "https://x.com/demishassabis/status/2108330488767091042",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Twitter @Thariq",
+      "tweets": [
+        {
+          "id": "https://twitter.com/trq212/status/2108312534222778407",
+          "text": "whoops I hit send and went to a meeting, didn't realize the repo wasnt public- it is now!\n\nit's a chrome extension I use every day now https://github.com/ThariqS/ai-newtab\n---\n Thariq: you now get Claude API credits with your MAX plans ($100, or 200 matching your plan) every month, use this to build more personal AI for yourself!\n\nI made an AI homepage that's generated everyday based on sites I read and replaces my 'new tab' page in Chrome",
+          "createdAt": "2026-10-08T21:44:13.104Z",
+          "url": "https://x.com/trq212/status/2108312534222778407",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/trq212/status/2108301668828004396\nThariq: you now get Claude API credits with your MAX plans ($100, or 200 matching your plan) every month, use this to build more personal AI for yourself!\n\nI made an AI homepage that's generated everyday based on sites I read and replaces my 'new tab' page in Chrome"
+        },
+        {
+          "id": "https://twitter.com/trq212/status/2108301668828004396",
+          "text": "you now get Claude API credits with your MAX plans ($100, or 200 matching your plan) every month, use this to build more personal AI for yourself!\n\nI made an AI homepage that's generated everyday based on sites I read and replaces my 'new tab' page in Chrome",
+          "createdAt": "2026-10-08T21:01:02.769Z",
+          "url": "https://x.com/trq212/status/2108301668828004396",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/trq212/status/2108344710331076943",
+          "text": "RT Claude\nClaude Dashboards and Claude Motion are in beta today.\n\nAsk Claude to turn your data into live dashboards and your ideas into animated explainers.",
+          "createdAt": "2026-10-08T19:01:22.059Z",
+          "url": "https://x.com/trq212/status/2108344710331076943",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Twitter @Ethan Mollick",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2108292080145748160",
+          "text": "Less than 4 years later and the Pope & the world’s greatest mathematicians & the President are posting a lot about the direct successor to this model and what it means for humanity.\n---\n Ethan Mollick: Write a rhyming wedding toast where the bride is a flying elf warrior and the groom is a potato.",
+          "createdAt": "2026-10-08T20:22:56.240Z",
+          "url": "https://x.com/emollick/status/2108292080145748160",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/emollick/status/1597444541950623744\nEthan Mollick: Write a rhyming wedding toast where the bride is a flying elf warrior and the groom is a potato."
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2108251560752857474",
+          "text": "Interesting to see, given the controversy over the OpenAI release of a series of proofs and what it means for the discipline of mathematics, that at least some of the OpenAI proofs seem to have kicked off extremely rapid iterative advances from a wide community of collaborators.\n---\n Doug Colkitt: Validated and merged Rohan's PR. Big gain on a really difficult regime (that frankly I was stuck at). Incredible work.\n\nκ = 2⁻¹⁵ (tightened from κ = 2⁻¹⁸²)\n\nA 500 thousand fold improvement over the previous result and a 2 ^ 167 fold improvement over the original OpenAI",
+          "createdAt": "2026-10-08T17:41:56.935Z",
+          "url": "https://x.com/emollick/status/2108251560752857474",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/0xdoug/status/2108218367962124423\nDoug Colkitt: Validated and merged Rohan's PR. Big gain on a really difficult regime (that frankly I was stuck at). Incredible work.\n\nκ = 2⁻¹⁵ (tightened from κ = 2⁻¹⁸²)\n\nA 500 thousand fold improvement over the previous result and a 2 ^ 167 fold improvement over the original OpenAI"
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2108248166210720107",
+          "text": "This document is going to be an assigned reading in college classes that cover this moment in time, there's a lot happening in a few paragraphs... https://www.ahmath.org/statements",
+          "createdAt": "2026-10-08T17:28:26.016Z",
+          "url": "https://x.com/emollick/status/2108248166210720107",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Boris Cherny",
+      "handle": "bcherny",
+      "bio": "Twitter @Boris Cherny",
+      "tweets": [
+        {
+          "id": "https://twitter.com/bcherny/status/2108285624340144404",
+          "text": "RT Claude\nClaude Dashboards and Claude Motion are in beta today.\n\nAsk Claude to turn your data into live dashboards and your ideas into animated explainers.",
+          "createdAt": "2026-10-08T19:01:22.051Z",
+          "url": "https://x.com/bcherny/status/2108285624340144404",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Jan Leike",
+      "handle": "janleike",
+      "bio": "Twitter @Jan Leike",
+      "tweets": [
+        {
+          "id": "https://twitter.com/janleike/status/2108267969755435257",
+          "text": "RT Jasmine Wang\nOpenAI fired me last week, along with two of my safety colleagues. I was given one reason: that I accessed an executive's email. I want to say this plainly, because too many of OpenAI’s history is smoke and mirrors when people disappear:\n---\n Mikita Balesni: Two other safety researchers and I were fired from OpenAI last week. We wrote this letter to leadership.\n\nI believe we were fired for prioritizing safety over the near-term interests of OpenAI as a corporation.",
+          "createdAt": "2026-10-08T18:28:37.631Z",
+          "url": "https://x.com/janleike/status/2108267969755435257",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Jeff Dean",
+      "handle": "JeffDean",
+      "bio": "Twitter @Jeff Dean",
+      "tweets": [
+        {
+          "id": "https://twitter.com/JeffDean/status/2108322350404112600",
+          "text": "RT Sonya Jin\nExcited to finally share that @phinity_ai is now out of stealth! We're announcing our seed fundraise and that we’ve reached 8-figures in annualized run rate.\n\nWe’re already working with some of the largest foundation model labs. Our mission is to build fully autonomous chip design so AI can help us search beyond the limits of human engineering and discover computational systems we would never find on our own.\n\nWe’re fortunate to have the support of @uncorkcap, which led our $5.2M seed round, with participation from @Moxxie including @JeffDean, following our pre-seed led by @pearvc!\n\nIt’s been an amazing few months, and I couldn’t be more grateful for the opportunity to build the future of chip design with such a talented team.\n\nYou can read more about what we’re building and why in our full announcement. https://www.phinity.ai/blog/introducing-phinity\n\nWe’re hiring across all disciplines - if you’re interested in working with us, please reach out to me or @aadi_nash.",
+          "createdAt": "2026-10-08T17:20:53.530Z",
+          "url": "https://x.com/JeffDean/status/2108322350404112600",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/JeffDean/status/2108322939330584606",
+          "text": "RT Aadi Nashikkar\nProud to share that @phinity_ai is coming out of stealth today, announcing our seed fundraise and that we’ve reached 8-figures in annualized run rate.\n\nChip design has been stuck in the 20th century for far too long. Now, for the first time in decades, a unique set of emerging factors is making it possible to fundamentally reinvent how chips are designed.\n\nAt Phinity, we’re building toward fully autonomous chip design, with the goal of enabling custom silicon for thousands of emerging AI applications. Our team combines hardware experts, AI researchers, and infrastructure/EDA engineers to define a new way to design chips.\n\nWe’re extremely grateful to @uncorkcap for leading our $5.2M seed, to @MoxxieVentures and angels including @JeffDean for joining the round, and to @pearvc for leading our pre-seed and backing us from the start.\n\nWe’ve worked so, so hard to make this happen, and I’m proud to share our work publicly for the first time!\n\nYou can read more about the announcement below. https://www.phinity.ai/blog/introducing-phinity\n\nWe’re hiring for ops and engineering roles. If you want to help build the future of chip design with us or are interested in learning more/partnering, please reach out to me or @sonyashijin .",
+          "createdAt": "2026-10-08T17:20:30.302Z",
+          "url": "https://x.com/JeffDean/status/2108322939330584606",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/JeffDean/status/2108027570382086435",
+          "text": "Very sorry to hear this news. 😥\n\nI never had the chance to meet Margaret Hamilton, but her contributions to the flight software that got us to the moon are legendary. I love this image of her standing next to the printouts of the Apollo code.\n\n---\n Massachusetts Institute of Technology (MIT): We’ve lost an icon. Margaret Hamilton, a computer science pioneer best known for her work at MIT leading development of the flight software for the Apollo missions to the moon, has died at 90. Read about her legacy via MIT News: https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+          "createdAt": "2026-10-08T02:51:52.287Z",
+          "url": "https://x.com/JeffDean/status/2108027570382086435",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/MIT/status/2107945104321208752\nMassachusetts Institute of Technology (MIT): We’ve lost an icon. Margaret Hamilton, a computer science pioneer best known for her work at MIT leading development of the flight software for the Apollo missions to the moon, has died at 90. Read about her legacy via MIT News: https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Gostev",
+      "handle": "petergostev",
+      "bio": "Twitter @Peter Gostev",
+      "tweets": [
+        {
+          "id": "https://twitter.com/petergostev/status/2108231891555934333",
+          "text": "RT Arena.ai\nToday, we're announcing our Series B: $200M at a $3.1B valuation, and the release of Arena's Alignment Index.\n\nAI is advancing faster than our ability to evaluate it. The world needs a neutral third party to measure how safe and aligned AI actually is once it's in the hands of real people. That's the role Arena is stepping into today.\n\nThe Alignment Index is built from real-world agent traces, starting with three signals: Unauthorized Action, False Attribution, and Deceptive Completion, with results for over 20 frontier models launching today.\n\nHear more from our CEO @ml_angelopoulos below, and read the full breakdown, and more details about our company growth in thread.\n\nThis funding will allow us to go further on safety signals, agentic capabilities, and modalities. It will also allow us to grow the company to match the scale of our mission. Today, we’re still a nimble team of 90, and we're looking for people to join us across research, product, engineering, and more. Come build with us.\n\nAs AI gets more capable and autonomous, understanding how well it can safely and effectively work for people only matters more. That's what Arena is built to measure and advance.\n\nThank you to our community, our investors, and everyone building with us!\n\nTake a look at our open roles if you want to join us (link in bio).\n\n---\n Arena.ai: Introducing the Arena Alignment Index, our new benchmark measuring safety and alignment of AI agents in real-world use.\n\nBuilt from 90K+ real-world agent sessions across 27 models, the index measures three critical signals:\n- Unauthorized Action (UA): Taking actions beyond the",
+          "createdAt": "2026-10-08T16:07:14.586Z",
+          "url": "https://x.com/petergostev/status/2108231891555934333",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/petergostev/status/2108221642522718242",
+          "text": "ThursdAI LIVE Oct 8: OpenAI drops 722 maths, Haiku 5.5, GPT-6 for everyone https://x.com/i/broadcasts/1PKqrNLymknGb",
+          "createdAt": "2026-10-08T15:43:03.650Z",
+          "url": "https://x.com/petergostev/status/2108221642522718242",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/petergostev/status/2108135482240455095",
+          "text": "Terry Tao: \"Mathematicians did not ask for this work to be done.[...] Mathematicians have a particular vision of progress that is informed by history and field-specific considerations.\"\n\nImagine 2030, OpenAI drops 700+ papers on medical research.\n\nMedical establishment: \"Doctors did not ask for this work to be done. We have a particular vision of progress and how dear they cure hundreds of diseases our stamp of approval.",
+          "createdAt": "2026-10-08T10:00:40.443Z",
+          "url": "https://x.com/petergostev/status/2108135482240455095",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Quoting Carson Gross",
+      "url": "https://simonwillison.net/2026/Oct/8/carson-gross/",
+      "publishedAt": "2026-10-08T21:05:44.074Z",
+      "author": "",
+      "description": "Computer programming is, fundamentally, about two things: Problem-solving using computers\nLearning to control complexity while solving…",
+      "content": "Computer programming is, fundamentally, about two things:\n\n Problem-solving using computers\n\n Learning to control complexity while solving these problems\n\n I have a hard time imagining a future where knowing how to solve problems with computers and how to control the complexity of those solutions is less valuable than it is today, so I think it will continue to be a viable career even with the advent of AI tools.\n\n — Carson Gross\n\n Tags: computer-science , carson-gross , careers , ai"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Quoting Jake Boggan",
+      "url": "https://simonwillison.net/2026/Oct/7/jake-boggan/",
+      "publishedAt": "2026-10-07T04:47:55.594Z",
+      "author": "",
+      "description": "I was a graph theory junkie long ago and even moved to Budapest for awhile to study among the greats. While I was there I started working on…",
+      "content": "I was a graph theory junkie long ago and even moved to Budapest for awhile to study among the greats. While I was there I started working on Barnette's Conjecture which came to occupy my thoughts over the next 24 years of my life, on and off as I worked in many different fields. Last summer I even thought for a few days that I had actually solved it.\n\n But it's supposedly proven here - problem 180 . I don't know what to think exactly. I spent thousands of hours on that problem. I really enjoyed it. Hearing that it is solved somehow makes me sad in a far-off way, like hearing an ex-girlfriend died suddenly in a car crash. I don't know, there's probably a lot of people feeling odd emotions tonight.\n\n — Jake Boggan , Hacker News comment on openai/math\n\n Tags: openai , mathematics , deep-blue , llms , ai , generative-ai"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "llm-mistral 0.16",
+      "url": "https://simonwillison.net/2026/Oct/6/llm-mistral/",
+      "publishedAt": "2026-10-06T21:32:34.965Z",
+      "author": "",
+      "description": "Release: llm-mistral 0.16 Adds support for reasoning models, such as the newly released Mistral Large 4.\n\nTags: llm…",
+      "content": "Release: llm-mistral 0.16\n\n Adds support for reasoning models, such as the newly released Mistral Large 4 .\n\n Tags: llm , mistral , llm-reasoning"
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery by Ben Thompson",
+      "title": "An Interview with Katie Harbath About Disrupting Politics at Facebook",
+      "url": "https://stratechery.com/2026/an-interview-with-katie-harbath-about-disrupting-politics-at-facebook/",
+      "publishedAt": "2026-10-08T10:00:00.379Z",
+      "author": "Ben Thompson",
+      "description": "An interview with former Facebook Head of Global Elections Katie Harbath about her new book Disrupting Politics, and how things change for…",
+      "content": "An interview with former Facebook Head of Global Elections Katie Harbath about her new book Disrupting Politics, and how things change for the company in the 2010s."
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery",
+      "title": "An Interview with Katie Harbath About Disrupting Politics at Facebook",
+      "url": "https://stratechery.com/",
+      "publishedAt": "Thu, 08 Oct 2026 10:00:00 +0000",
+      "author": "Ben Thompson",
+      "description": "An interview with former Facebook Head of Global Elections Katie Harbath about her new book Disrupting Politics, and how things change for the company in the 2010s.",
+      "content": "An interview with former Facebook Head of Global Elections Katie Harbath about her new book Disrupting Politics, and how things change for the company in the 2010s.\n\n---\n\nListen to this Update in your podcast player\n\n---\n\nGood morning,\n\nToday’s Stratechery Interview is with Katie Harbath. I first met Harbath when we worked together at The Badger Herald at the University of Wisconsin; we both ended up in tech via very circuitous routes. While I went to Asia and eventually went to business school and then started Stratechery, Harbath started working in Republican politics and was one of Facebook’s first hires in Washington D.C.\n\nHarbath is — for better or worse, as she will attest — one of the most innovative and influential people in terms of transforming how Washington D.C. thinks about tech and its influence on politics, particularly when it comes to election campaigns. After helping to drag the Republican Party online, she joined Facebook as its liaison to Republican political candidates, before building out Facebook’s global political organization. Harbath has worked on elections from the U.S. to India to Brazil and everywhere in between, and, in the wake of Trump’s election in 2016, helped the company navigate its violent shift from beloved company to vilified pariah.\n\nAfter spending a decade with Facebook, Harbath left in 2021 to start her own consultancy and newsletter . This week Harbath published her first book, Disrupting Politics: A Front Row Seat to the Collision of Technology and Democracy , a memoir of her two decades on the front lines of tech’s impact on politics, and in the end, politics’ impact on tech.\n\nWe talk about Harbath’s journey, from dolphin hijinks to pre-YouTube talk shows to bearing the weight of the world: what was Facebook thinking in the early 2010s, what did they think by the end of the decade, and what do they think now? Did the company have it right all along? Have they — and Harbath — taken too much responsibility for events that were out of their control? And, along the way, I explain why the entire topic unnerves me, and why I’m sympathetic to companies and people who simply don’t want to involved in politics; unfortunately politics comes for us all.\n\nAs a reminder, all Stratechery content, including interviews, is available as a podcast; click the link at the top of this email to add Stratechery to your podcast player.\n\nOn to the Interview:\n\nAn Interview with Katie Harbath About Disrupting Politics at Facebook\n\nThis interview is lightly edited for clarity.\n\nTopics:\n\nBackground | The Inescapable Political | The Political World Gets Online | Facebook and 2016 | The Rearview Mirror | Philosophical Questions | The Value of Values\n\nBackground\n\nKatie Harbath, welcome to Stratechery.\n\nKatie Harbath: Hi Ben, thanks for having me.\n\nWell, first off, congratulations on publishing a book. We are talking on Tuesday, October 6th, and Disrupting Politics: A Front Row Seat to the Collision of Technology and Democracy was published today. How does it feel?\n\nKH: It feels great. It’s been five years in the making to get to this point, and I’ve always wanted to write a book, so to finally have it — not just to be able to hold it in my hand, but to have it out in the world — and I’m starting to get good feedback from it. Last month my terrified was a lot higher than my excited, and now it’s flipped.\n\nRight. Well, five years reaffirms my commitment to not write a book , so that sounds about right.\n\nKH: It took me a year to figure out how to write a book versus a newsletter . I was so used to writing shorter-form stuff that it really messed with my head, like, how do you do a longer-form thing? It took me a while to figure that out.\n\nThe problem is we’ve been friends since college, you are better at getting things done than basically anyone I know, and if it took you five years, and I’m an inveterate procrastinator — again, this sounds like a disaster.\n\nSo, yes, full disclosure: we have been friends since college. We worked together at the Badger Herald . However, you have to pretend this is our first time talking, and I’m asking about your background. Where are you from, and how did you get to where you are now?\n\nKH: From Green Bay, Wisconsin, a proud Packers fan and owner. My family is still back there.\n\nYes, that’s our real disclosure. We are two Packers owners here, and I’d like to express my discontent with the current state of the Packers. But anyhow, continue.\n\nKH: Oh my God, that’s a different podcast that we need to do to talk about the current state of the Packers.\n\nAnd then I went to UW-Madison for journalism and political science, and thought I was going to be a print journalist and instead — this is the very beginning of sort of the Internet era, era of the Blogspot, we digitized the newspaper when we were there and all of that, and ended up going into, met some of our other folks at the Herald who went into politics — and ended up going into political communication.\n\nWait, so was there no Badger Herald website when you started?\n\nKH: It might have been very rudimentary. By “going digital” I meant in terms of, we used to take it to the printer. We would print it out and paste it up on those big things.\n\nThat’s right. We actually submitted — were they PDFs?\n\nKH: And then it wasn’t even PDFs, we were in that paste-up room where there was the light board.\n\nNo, no, no, I meant by the time we graduated. I just remember being there on September 11th. It was a bizarre experience, writing a headline for — it’s like, what are we doing here? We’re just a bunch of kids.\n\nKH: On the front page, we didn’t do a headline, I went and found the old paper last year, I went into the archives, because we just had the photo. We were all sitting around like, “How do we even describe what is happening?” — in hindsight we should have done a headline, but we rationalized just doing a picture.\n\nYeah, what crazy times for sure. It’s — I don’t want to think about it. It’s been 25 years, it makes you feel very old. There’s a lot of dialogue online, between people who have no recollection of that, and it’s like, man, we are getting old.\n\nKH: We are, although it isn’t that long ago either but it does feel that way, because I graduated in ’03, and I never imagined I was going to work 10 years at a company that didn’t exist when I graduated in ’03. Because then I went and worked in political campaigns through the 2010 cycle, early-day social media etc., and then 10 years at Facebook running their global elections team and building that team that worked with politicians and governments on how to use the platform.\n\nYeah, we’re going to get to that. But just to tie into the age question, you talked in your book, early on, it just stood out to me, about how you didn’t have a cell phone until your sophomore year. I’m not sure I got one until my junior year, but then I realized that matches, because I think I was a year ahead of you. How much of your outlook do you think was framed by being in this narrow generation that experienced the before and after of the Internet? The late Gen X, early millennial — I think it’s called Xillennial or whatever, some terrible name I refuse to use. That’s the first time I’ve used it.\n\nKH: There’s elder millennial too, which I also hate.\n\nWell, you are a millennial and I’m Gen X, we are literally at the crossover. But how do you think that’s influenced your perspective, both as you look back on your career and as you look back now while writing this book?\n\nKH: I think a ton, because I can both understand folks that are older than us who don’t understand this technology as much, and sort of where they’re going and all of that — but then also, I still remember the first time I saw somebody do a search online, it was eighth grade, and they logged into Prodigy . And being on the cutting edge, and constantly having new technologies that we were having to learn and figure out how to incorporate into our lives — I grew up with that, and so I learned how to adapt with those, in a way that I think those that are older than us haven’t been able to do.\n\nDo you think that being there at the beginning, and by “the beginning” I mean the web, we weren’t there for PCs, I mean I remember when we got our first PC at our house — do you think that gives a fundamentally more optimistic view, a more pessimistic view, or is it almost a more realistic view? That these technologies arrive and they change things.\n\nKH: At least for me, is it’s a more realistic view, I like to see the world as it is, and how we operate within that — versus, I do like to think about what we aspire to, but I get really frustrated with people who wish the world were a certain way, and they want to operate within that way. And I’m like, but that’s not the real world, that’s not what we’re living in right now, and we need to deal with the now. And I do think that being in the timeframe we were at, you kind of had to — this is what we’re living through, this is what we have to figure out, so we better just figure out how to do it.\n\nThe Inescapable Political\n\nYeah. I have a meta take on this interview, in that it both applies to this conversation and also, as you will find, serves as my review/critique of the book. I think if you were not my friend, I would not do this interview. And it’s not because I don’t find the topics interesting, or I don’t have opinions on them. Rather, it’s that I see nothing but downside in terms of actually engaging on partisan topics. And there’s so much of what you got into that’s very partisan. You’re the shining example of what I mean, in that, as you detail in the book, you’ve been vilified on national TV for having a Republican background. You’ve been vilified for defending Facebook’s attempt to be neutral — most vociferously by the left, but also by the right — even as, if I can put words in your mouth, you’re pretty opposed to the current Republican president, and I think it’s safe to say Facebook as well. Is there any winning here?\n\nKH: (laughing) Winning by whom?\n\nBy me doing this interview. You already went through all this. You don’t have any choice but to stay engaged.\n\nKH: (laughing) That’s true. Well, I think the reason that I would say there is winning for you on this is that — and I write about this in the book — politics is involved in tech no matter what. Even if you don’t want it to be, politics is playing a bigger and bigger role in what is happening in Silicon Valley.\n\nI’m a firm believer that you can’t stick your head in the sand on that, we’ve got to recognize that everything’s going to get politicized, in terms of the left and the right and what that looks like, and also internationally.\n\nBut I do think that, for you and how you’re thinking about this, what it means from the business perspective is important, because what happens in Washington and the states and in regulation could really impact how well these companies do.\n\nI agree with that, and I certainly have covered the regulation area, even though I find that also very annoying. The thing I worry about, when it comes to things being politicized, is there’s actually no analysis to be done, no one’s actually listening to the arguments or what you have to say. And the example I always go back to is, I wrote an Article about Netflix versus Comcast. I remember I wrote it in London, and it was a fine Article, it got as much traction as any other Article does, it was about peerage, sharing traffic back and forth. It touched on questions around — here are the magic words — net neutrality, and my argument was I thought Netflix was actually in the wrong in this case, I thought they were abusing the concept of net neutrality to get favorable business terms, and were being disingenuous about it.\n\nFast forward two or three years later, the Trump administration is in place and they repeal Title II applying to net neutrality — which, by the way, had only been applied a year prior, so the entire Internet h..."
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 8,
+    "totalTweets": 19,
+    "blogPosts": 5,
+    "podcastEpisodes": 0
+  }
+}
