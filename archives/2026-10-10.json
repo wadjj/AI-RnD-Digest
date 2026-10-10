@@ -1,0 +1,201 @@
+{
+  "generatedAt": "2026-10-10T01:47:00.158Z",
+  "runKey": "2026-10-10",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Twitter @Thariq",
+      "tweets": [
+        {
+          "id": "https://twitter.com/trq212/status/2108689101503566319",
+          "text": "before I joined Anthropic, I spent about 2 weeks hacking on this as a side project with Opus 4. It used the Agent SDK so it needed a constantly running process & didnt work that well\n\nbut one prompt to Opus 5.5 ported it to Claude Managed Agents & made it way more reliable\n---\n Thariq: you now get Claude API credits with your MAX plans ($100, or 200 matching your plan) every month, use this to build more personal AI for yourself!\n\nI made an AI homepage that's generated everyday based on sites I read and replaces my 'new tab' page in Chrome",
+          "createdAt": "2026-10-09T22:40:34.973Z",
+          "url": "https://x.com/trq212/status/2108689101503566319",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/trq212/status/2108301668828004396\nThariq: you now get Claude API credits with your MAX plans ($100, or 200 matching your plan) every month, use this to build more personal AI for yourself!\n\nI made an AI homepage that's generated everyday based on sites I read and replaces my 'new tab' page in Chrome"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Twitter @Ethan Mollick",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2108656704518762754",
+          "text": "Just thinking that Paul Simon wrote that we were living in the \"days of miracle and wonder\" because of the availability of long-distance calls and slow motion cameras.",
+          "createdAt": "2026-10-09T20:31:49.675Z",
+          "url": "https://x.com/emollick/status/2108656704518762754",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2108652762904793360",
+          "text": "Its reasonable for mathematicians to point out that proofs are not always the same thing as advancing mathematics. But it suggests a need for new goals for what math is trying to do\n\nSame thing will happen everywhere. 100x more PowerPoint or code is not always progress - what is?",
+          "createdAt": "2026-10-09T20:16:10.813Z",
+          "url": "https://x.com/emollick/status/2108652762904793360",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2108651646872068561",
+          "text": "The distillation cycle continues.\n---\n Andrew Curran:",
+          "createdAt": "2026-10-09T20:11:44.541Z",
+          "url": "https://x.com/emollick/status/2108651646872068561",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/AndrewCurran_/status/2108631592726093853\nAndrew Curran:"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Twitter @Tibo",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2108646052178092403",
+          "text": "Day 5 (dots edition)/\n\nYou can now create and text your dot entirely from the ChatGPT mobile app. Impressed so many created them via the desktop/web app previously. Time to scale!\n---\n ChatGPT: Fresh updates for dots.\n\nFirst up: you can now create your dot straight from your phone in the ChatGPT app on iOS and Android.",
+          "createdAt": "2026-10-09T19:49:30.887Z",
+          "url": "https://x.com/thsottiaux/status/2108646052178092403",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/ChatGPT/status/2108636745915052037\nChatGPT: Fresh updates for dots.\n\nFirst up: you can now create your dot straight from your phone in the ChatGPT app on iOS and Android."
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2108645667451318747",
+          "text": "Day 5/\n\nComposer predictions in the desktop app. Often leads to a double take with how on point they are. Included in the Pro plans without consuming usage.\n---\n OpenAI Developers: Now in beta: composer predictions in Codex for Pro users.\n\nCodex can now suggest your next message based on your conversation and how you talk to it.\n\nOne of the most loved new features we've ever tested internally.",
+          "createdAt": "2026-10-09T19:47:58.100Z",
+          "url": "https://x.com/thsottiaux/status/2108645667451318747",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/OpenAIDevs/status/2108624138369929725\nOpenAI Developers: Now in beta: composer predictions in Codex for Pro users.\n\nCodex can now suggest your next message based on your conversation and how you talk to it.\n\nOne of the most loved new features we've ever tested internally."
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Jeff Dean",
+      "handle": "JeffDean",
+      "bio": "Twitter @Jeff Dean",
+      "tweets": [
+        {
+          "id": "https://twitter.com/JeffDean/status/2108558028589146602",
+          "text": "RT Sanjeev Arora\nWrapping up my first month at @DiscoLoopAI (am on leave from @PrincetonCS and @PrincetonPLI ). Excited to work on using AI to accelerate scientific discovery and solve important problems. My first startup experience, and with an incredible set of colleagues!\n---\n Jeff Dean: Announcing Discovery Loop!\n\nI am very excited to announce that, along with my longtime friends and collaborators @Sanjay_Ghemawat, @OriolVinyalsML and @quocleix, we are founding Discovery Loop (@DiscoLoopAI), a Public Benefit Corporation whose mission is to automate machine",
+          "createdAt": "2026-10-09T13:00:03.973Z",
+          "url": "https://x.com/JeffDean/status/2108558028589146602",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Anthony Morris ツ",
+      "handle": "amorriscode",
+      "bio": "Twitter @Anthony Morris ツ",
+      "tweets": [
+        {
+          "id": "https://twitter.com/amorriscode/status/2108390944085328232",
+          "text": "Humanity’s reach expands as we innovate on the tools we use. Tools like Claude Code enable people to do things that once seemed impossible. 🤯\n---\n Pavel Rabtsevich: I think I found a planet nobody knew existed.\n\nIt's been hiding in NASA telescope data for seven years.\n\nAt the end of this thread, you can fly to it yourself.",
+          "createdAt": "2026-10-09T02:55:47.668Z",
+          "url": "https://x.com/amorriscode/status/2108390944085328232",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/p_rabtsevich/status/2107803696058822742\nPavel Rabtsevich: I think I found a planet nobody knew existed.\n\nIt's been hiding in NASA telescope data for seven years.\n\nAt the end of this thread, you can fly to it yourself."
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Deno is joining Cloudflare",
+      "url": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/",
+      "publishedAt": "2026-10-09T22:48:37.205Z",
+      "author": "",
+      "description": "Deno is joining Cloudflare The Deno team released the first version of celld back in August - their open source implementation of the…",
+      "content": "Deno is joining Cloudflare\n\nThe Deno team released the first version of celld back in August - their open source implementation of the Durable Objects pattern from Cloudflare Workers.\n\n Today, Cloudflare are acquiring Deno outright, with the goal of building on celld to \"make workerd self-hosting a first-class supported way to build and run apps using the Workers programming model\" (see the Cloudflare blog .)\n\n The bad news is that Deno itself will not be maintained by Cloudflare beyond the next year:\n\n We will support the Deno runtime for another year with monthly releases containing bug fixes and security updates. After that year we will end our development of the Deno runtime. Deno will remain open source, and we welcome others who want to continue its development.\n\n Deno (and Node.js) creator Ryan Dahl explained that decision in a comment on Hacker News:\n\n It's a joint decision and I agree with it. I'm most invested in its success and have put the most work into it - and I no longer think it's where I can do the most important work. There are some good ideas in Deno and it's well engineered - but it ultimately is not solving big problems. It has been sucked into the gravity well of node compatibility, which forces it to behave exactly as Node does. Why reimplement Node? It works. Marginal performance or UX or security benefits are not enough.\n\n I'm interested in building powerful new abstractions. celld has been working remarkably well, depending only on object storage for coordination and persistence. It is not just a slightly different API to interact with the file system or network - it's an entirely new model for server development.\n\n My favorite feature of Deno has long been the permissions system, where you can run a Deno script and specify exactly which files and folders it can read and write to, and which network hosts it can access.\n\n Node.js has a similar permissions model these days, added in Node v20.0.0 in April 2023 and declared stable in Node v22.13.0 in January 2025. They don't yet support allow-listing specific network hosts though - networking is either on or off.\n\n Via Hacker News\n\n Tags: cloudfront , javascript , nodejs , ryan-dahl , sandboxing , deno"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Quoting Matthew Green",
+      "url": "https://simonwillison.net/2026/Oct/9/matthew-green/",
+      "publishedAt": "2026-10-09T15:02:29.212Z",
+      "author": "",
+      "description": "Everyone is very concerned about being respectable, so I’m going to be the goofball who raises worst-case possibilities. I think there is a…",
+      "content": "Everyone is very concerned about being respectable, so I’m going to be the goofball who raises worst-case possibilities. I think there is a 1% chance we live in Minicrypt, and a 15% chance we functionally lose confidence in our existing public-key encryption algorithms. [...]\n\n The problem here is that the speed of AI producing surprises, and the speed of human beings replacing standards (even with the very best AI assistance) are just orders of magnitude different. You only recover from a surprise like this if you do the preparation in advance.\n\n — Matthew Green , on Twitter. I looked it up and Minicrypt is Russell Impagliazzo’s hypothetical world in which public-key encryption is impossible.\n\n Tags: ai-security-research , matthew-green , cryptography , standards , llms , ai , generative-ai"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "A new feature for my blog, built using my voice",
+      "url": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/",
+      "publishedAt": "2026-10-09T12:54:06.258Z",
+      "author": "",
+      "description": "I shipped a new feature for my blog today: the Newsletters page, which offers an index of all of the newsletters I've sent out, both my free…",
+      "content": "I shipped a new feature for my blog today: the Newsletters page, which offers an index of all of the newsletters I've sent out, both my free weekly Substack and my monthly sponsors-only updates. I built the feature almost entirely using my voice, chatting away to my laptop while I cooked dinner.\n\n Codex voice mode\n\n I used the ChatGPT desktop app for this, in the Codex tab, using the voice conversation mode, running against a local development environment. Here's what that looks like:\n\n I started the session against my local simonwillisonblog checkout by typing:\n\n Start dev server and open in browser\n\n This gave me a preview of the site that it would be working on, and meant that I could later ask it to show me the new pages so I could visually track its progress.\n\n Then I clicked the \"Start new voice chat\" button - that's not the microphone button, it's the one to the right of it - and set my laptop up in the kitchen so I could talk to it while I cooked.\n\n Talking to my computer\n\n I had a pretty good idea of what I wanted to build, and it's a simple enough Django feature that I was certain the model (in this case GPT-6 Astra High) would be able to do it. A new model, a migration, some view code, templates, and a couple of import functions to populate the database from external sources.\n\n Here's an extract of my voice transcript that was captured by Codex:\n\n Um, they do not. Um, this is going to be a new type of content. Um, it's not going to show up... Oh, hold on. Yeah, no- I do not want this to show up in my, um, tag pages and date archive pages and... Actually, no, I think... I don't want it on the tag pages. I don't want it on the, um, blog index page. But I think I do want it to show up on the date-based pages. You know, if you navigate to September the 19th, and I sent a newsletter on that page, I think I want that to show up. So... this is- so I think we probably need a new model. The other thing is that I want them searchable, uh the Substack ones are not searchable, because those are actually just copies of other s- on content on my blog. These monthly ones do contain unique content, and spe- and once they're... published, like once they're made public a month after they've gone out, I want them to show up on my search results.\n\n Apparently this was clear enough that the model knew what I wanted to build! You can read the full transcript, disfluencies and all, in this Gist .\n\n We went on like this for about half an hour (the time it took to cook dinner). The model would reply and occasionally ask clarifying questions, then get to work modifying the code.\n\n What we built\n\n We got a surprisingly long way entirely by voice:\n\n A new model and migration to represent imported newsletters in Django, plus Django Admin configuration for that\n\n Four working imports:\n\n The most recent Substack items via RSS\n\n Every other Substack item via their undocumented API, which GPT-6 Astra knew about (it tried /api/v1/archive directly) and then ran a search to figure out how to paginate it and found this article by Karen Spinner\n\n All of my published monthly newsletters from my simonw/monthly-newsletter-archive GitHub repository\n\n My most recent private sponsors-only newsletter from a private repository\n\n The /newsletters/ and /newsletters/2026/ public archive pages\n\n Newsletters showing up on day and month archive pages too, but not on tag pages or my homepage\n\n Weekly Substack newsletters link to Substack; archived monthly newsletters have their own pages\n\n Integration with my site search engine\n\n It was almost ready to ship. The catch was the imports: Astra offered to export data from my local copy so I could import that into production, but I wanted it to work like my other import scripts. Since some of the data lived in a private GitHub repository, this would involve creating a new API key, and for that I knew I'd have to sit at the keyboard for a while.\n\n Finishing it with a review\n\n Once I had finished cooking and judged it mostly feature-complete, I had Codex create a branch and open a pull request.\n\n I reviewed the code in the GitHub PR interface. It was nearly what I needed, except it had chosen to use Git in a subprocess for one of the import scripts. I needed one of the imports to pull from a private Git repository, so I figured the API would be a better bet. I switched to typing and had Codex swap that out for an API-based import instead.\n\n You can see the changes I made during the review in the extra commits on the PR . I fixed the import mechanism and made a few tweaks to the display of those public pages. It took an additional half hour of typing-based prompting to get to the point where I was happy to deploy it to production by landing the PR.\n\n The end result\n\n You can see the end result at the new newsletters index page , or view the page for a previous monthly newsletter .\n\n The index page shows my most recent Substack weekly newsletters and GitHub sponsors monthly newsletters mixed together in reverse chronological order. Further down the page are links to my by-year archive pages.\n\n GPT-6 Astra designed the page, and then tweaked that design based on my vocal feedback from glancing at the local preview across the kitchen.\n\n Better for multi-tasking than as a daily driver\n\n OpenAI love using voice-driven demos like this one for things like DevDay - and they do work well in that environment. I don't think this is going to be a daily driver for me though.\n\n I've written before about how much \"work\" I get done using ChatGPT voice mode on my phone while walking the dog - mostly research and brainstorming, but occasionally actual development work by having ChatGPT write and test out snippets of code.\n\n This feels different. The addition of the visual preview, plus being able to type or paste things in via the keyboard when I need to communicate something that doesn't work vocally, makes this a much more powerful way of interacting with a coding agent.\n\n I still switch back to typing once I get down to the details of things though. Being able to paste in examples and error messages, or directly highlight the code or feature that needs changing, remains more efficient than trying to describe it in words.\n\n I mainly work from home, which is good because there's no way I'd want to talk to my computer like this in a shared workspace!\n\n The killer feature for me is the ability to multi-task. I usually cook with a podcast or TikTok running; now I can actually build stuff instead.\n\n Tags: text-to-speech , ai , openai , generative-ai , llms , newsletter , coding-agents , codex , speech-to-text , site-upgrades"
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery by Ben Thompson",
+      "title": "2026.41: It’s Not You, It’s Me",
+      "url": "https://stratechery.com/2026/its-not-you-its-me/",
+      "publishedAt": "2026-10-09T17:00:00.911Z",
+      "author": "Ben Thompson",
+      "description": "(Photo by Justin Sullivan/Getty Images) Welcome back to This Week in Stratechery!\n\nAs a reminder, each week, every Friday, we’re…",
+      "content": "(Photo by Justin Sullivan/Getty Images)\n\n Welcome back to This Week in Stratechery!\n\n As a reminder, each week, every Friday, we’re sending out this overview of content in the Stratechery bundle; highlighted links are free for everyone . Additionally, you have complete control over what we send to you. If you don’t want to receive This Week in Stratechery emails (there is no podcast), please uncheck the box in your delivery settings .\n\n On that note, here were a few of our favorites this week.\n\n Drifting Apart . For the last 25 years, Apple has been in a position where its computers were not only thought of as the best choice for everyday consumers, but also the most useful tools for technologists and hackers. However, I think those paths are diverging: in Apple and a Hacker’s Future I explain why I feel myself growing increasingly frustrated with Apple in the age of AI; that means that Apple partnering with LG to dramatically expand its home offering is not for me, which paradoxically means it’s a great idea. The future of consumer technology is likely completely custom on one hand, and completely integrated on the other. — Ben Thompson\n\n It’s Complicated. As someone who was born in D.C. and therefore takes an interest in politics as a birthright (or birth defect), I loved this week’s Stratechery Interview with author and political consultant Katie Harbath. Ben and Katie trace the early innings of tech’s impact on politics, including several flashpoints I’d forgotten (John Kerry and dolphins!), but then turn to ten years of Katie’s experience at Facebook. Her tenure coincided with seismic political shifts and subsequent sentiment shifts toward tech companies, and both Ben and Katie — who’ve been friends for 20 years — reflect on that era with an honest and fun look at evolving business imperatives, angry backlashes, and the explanatory power (or lack thereof) of tech as a political force. — Andrew Sharp\n\n Friends Without Benefits.  Speaking of politics… Sharp China was off this week, but two weeks after Xi Jinping’s visit to D.C., I wrote about the delightful absurdity of U.S.-China dynamics in the current moment , and the quiet effectiveness of his administration’s campaigns to counter Beijing. One year after I wrote that China threatening to cut off the Western world from rare earths would do lasting damage to its global standing, Germany and France are now lobbying for new trade barriers and a “China kill switch” that could shut off Chinese imports entirely. Trump, meanwhile, is friendlier than ever with Xi, as the U.S. attempts to preserve stability while its policies complicate Beijing’s relationships everywhere else.  — AS\n\n---\n\n Stratechery Articles and Updates\n\n Apple and a Hacker’s Future — I was happy for years in Apple’s walled garden; with AI, however, their protections feel like limitations.\n\n Game Decompilation, Is This Legal?, A Well-Trodden Path — Games are being decompiled, but the real risk to gaming is new games and increased personalization.\n\n Apple and LG, The House For Everyone Else, Agent Standards and Amazon — Apple is taking a smarter approach to the home than I expected, leaning into integration (with partners); then, what Amazon should do about agents.\n\n An Interview with Katie Harbath About Disrupting Politics at Facebook — An interview with former Facebook Head of Global Elections Katie Harbath about her new book Disrupting Politics, and how things change for the company in the 2010s.\n\n Sharp Text by Andrew Sharp\n\n Friends Without Benefits — The Trump methods are often maddening, but the current administration’s strategy on China continues to be quietly effective.\n\n Dithering with Ben Thompson and Daring Fireball’s John Gruber\n\n Ben Gets Hacked\n\n Apple’s 2010s Mistakes\n\n Asianometry with Jon Yu\n\n The Fall of Brazil’s Armored Vehicle King\n\n TSMC is Coming to Texas?\n\n Greatest of All Talk\n\n Fraud Watch 2026, Sixth Men and 32 Teams and KAT, All Eyes on the Heat and the Southeast\n\n Sharp Tech with Andrew Sharp and Ben Thompson\n\n Two Paths for Apple and Its Users, More on Amazon and Advertising, OpenAI and 722 Mathematical Manuscripts\n\n This week’s Stratechery video is on Apps, Agents, and Aggregation ."
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 5,
+    "totalTweets": 8,
+    "blogPosts": 4,
+    "podcastEpisodes": 0
+  }
+}
