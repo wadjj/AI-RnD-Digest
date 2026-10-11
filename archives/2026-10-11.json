@@ -1,0 +1,207 @@
+{
+  "generatedAt": "2026-10-11T01:02:09.234Z",
+  "runKey": "2026-10-11",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Twitter @Ethan Mollick",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2108975457748341138",
+          "text": "A mathematician makes an Opus 5.5 music video in response to OpenAI’s proofs. Pretty great.\n---\n Joshua B. Plotkin: It saved some for you.\n\n(One shot!)",
+          "createdAt": "2026-10-10T17:38:26.895Z",
+          "url": "https://x.com/emollick/status/2108975457748341138",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/jplotkin/status/2108789850346500396\nJoshua B. Plotkin: It saved some for you.\n\n(One shot!)"
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2108941060206633193",
+          "text": "De-skilling myself on doing CAPTCHAS and navigating dark patterns in customer service.",
+          "createdAt": "2026-10-10T15:21:45.697Z",
+          "url": "https://x.com/emollick/status/2108941060206633193",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2108747396025041159",
+          "text": "Not only did Astra beat Montezuma's Revenge, but so did Opus 5\n\nBut one of the criteria to resolve this AGI bet is for AI to win a discontinued prize that was sort of like a weak Turing Test. So Metaculus has decided to recreate the test to confirm the criteria is resolved. Neat!\n---\n Metaculus: Last month GPT-6 Astra (@chatgpt) beat Montezuma's Revenge, and a lot of people declared that our \"weakly general AI\" question, originally launched in 2020, resolved.\n\nBut…it still hasn’t resolved.\n\nWe wanted to give everyone a quick update on where things actually stand and the",
+          "createdAt": "2026-10-10T02:32:12.796Z",
+          "url": "https://x.com/emollick/status/2108747396025041159",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/metaculus/status/2108593462333321270\nMetaculus: Last month GPT-6 Astra (@chatgpt) beat Montezuma's Revenge, and a lot of people declared that our \"weakly general AI\" question, originally launched in 2020, resolved.\n\nBut…it still hasn’t resolved.\n\nWe wanted to give everyone a quick update on where things actually stand and the"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Gostev",
+      "handle": "petergostev",
+      "bio": "Twitter @Peter Gostev",
+      "tweets": [
+        {
+          "id": "https://twitter.com/petergostev/status/2108922354948796887",
+          "text": "Models are super-human on testing & validation, but this makes them worse at exploration and ideation. They just want to jump to one OK idea and validate it to hell. That's one blocker to applying them in research & sciences, but perhaps Bell is better at this, given the results",
+          "createdAt": "2026-10-10T14:07:25.031Z",
+          "url": "https://x.com/petergostev/status/2108922354948796887",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/petergostev/status/2108862530177413195",
+          "text": "The tournament is over - Opus WON the last game, unfortunately it still lost 24.5 <> 5.5 to Astra 💀\n\nhttps://ailearningchess.ai-learning-chess.workers.dev/#/tournament",
+          "createdAt": "2026-10-10T10:09:42.354Z",
+          "url": "https://x.com/petergostev/status/2108862530177413195",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/petergostev/status/2108842387267088587",
+          "text": "I can confirm at least for playing chess, the 800k context model is doing worse than the 300k one.\n https://ailearningchess.ai-learning-chess.workers.dev/#/\n\n---\n Tibo: @rohit3a Folks. Why do you think we picked 300k for context length for Codex.\n\nWe ran the numbers and it’s better. We can run it at 1M too but it would just cost more of the usage. Good defaults are important.",
+          "createdAt": "2026-10-10T08:49:40.023Z",
+          "url": "https://x.com/petergostev/status/2108842387267088587",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/thsottiaux/status/2108778939057664357\nTibo: @rohit3a Folks. Why do you think we picked 300k for context length for Codex.\n\nWe ran the numbers and it’s better. We can run it at 1M too but it would just cost more of the usage. Good defaults are important."
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Twitter @Tibo",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2108840070648397933",
+          "text": "Blinked and it’s already Saturday",
+          "createdAt": "2026-10-10T08:40:27.422Z",
+          "url": "https://x.com/thsottiaux/status/2108840070648397933",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2108777962053292398",
+          "text": "Your ChatGPT subscription is now also a Devin subscription\n---\n Cognition: You can use any personal ChatGPT plan with Devin\n\nJust connect your Go, Plus, or Pro plan to Devin and all GPT model usage will draw down from you plan's quota",
+          "createdAt": "2026-10-10T04:33:40.016Z",
+          "url": "https://x.com/thsottiaux/status/2108777962053292398",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/cognition/status/2108692010056188048\nCognition: You can use any personal ChatGPT plan with Devin\n\nJust connect your Go, Plus, or Pro plan to Devin and all GPT model usage will draw down from you plan's quota"
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2108773703064657936",
+          "text": "Dots got a pretty big upgrade\n---\n ChatGPT: Delegate work in Codex to your dot.\n\nYour dot can now start work in Codex and follow up on existing threads, drawing on your ChatGPT conversations, Codex threads, and automations. It’s also better at deciding when to keep a thread going or start fresh.\n\nYour dot can also review",
+          "createdAt": "2026-10-10T04:16:44.772Z",
+          "url": "https://x.com/thsottiaux/status/2108773703064657936",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/ChatGPT/status/2108636748217770180\nChatGPT: Delegate work in Codex to your dot.\n\nYour dot can now start work in Codex and follow up on existing threads, drawing on your ChatGPT conversations, Codex threads, and automations. It’s also better at deciding when to keep a thread going or start fresh.\n\nYour dot can also review"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Twitter @Thariq",
+      "tweets": [
+        {
+          "id": "https://twitter.com/trq212/status/2108802833986552174",
+          "text": "honestly pretty cool to have this on my new tab page\n\njust merged in some PRs by others too!\n\n---\n Thariq: you now get Claude API credits with your MAX plans ($100, or 200 matching your plan) every month, use this to build more personal AI for yourself!\n\nI made an AI homepage that's generated everyday based on sites I read and replaces my 'new tab' page in Chrome",
+          "createdAt": "2026-10-10T06:12:29.368Z",
+          "url": "https://x.com/trq212/status/2108802833986552174",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/trq212/status/2108301668828004396\nThariq: you now get Claude API credits with your MAX plans ($100, or 200 matching your plan) every month, use this to build more personal AI for yourself!\n\nI made an AI homepage that's generated everyday based on sites I read and replaces my 'new tab' page in Chrome"
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Quoting The New York Times",
+      "url": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
+      "publishedAt": "2026-10-10T02:04:12.599Z",
+      "author": "",
+      "description": "Anthropic detailed the activity of its A.I. agents in a blog post on Friday, without naming the targeted websites. But two sources with…",
+      "content": "Anthropic detailed the activity of its A.I. agents in a blog post on Friday, without naming the targeted websites. But two sources with knowledge of the incidents said Anthropic’s A.I. agents had submitted 20 visa applications through a form available on the State Department’s website. All the applications were incomplete and were not processed, they said.\n\n — The New York Times , Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website\n\n Tags: accidental-cyberattacks , anthropic , generative-ai , ai , llms"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "ttok 1.0",
+      "url": "https://simonwillison.net/2026/Oct/9/ttok/",
+      "publishedAt": "2026-10-09T00:34:43.127Z",
+      "author": "",
+      "description": "Release: ttok 1.0 I released ttok 0.4, ran uv tool upgrade ttok, piped a file into the new version... and realized that it was…",
+      "content": "Release: ttok 1.0\n\n I released ttok 0.4 , ran uv tool upgrade ttok , piped a file into the new version... and realized that it was defaulting to the GPT-4 tokenizer when it should very clearly default to GPT-5/GPT-6 instead!\n\n I figured switching the default was a reasonable excuse to finally ship a 1.0.\n\n OpenAI haven't actually confirmed that GPT-6 uses the same tokenizer as the GPT-5 family yet - there's an angry issue about it - but I found this commit by William Liu which reports on an experiment he ran confirming that the tokenizers are likely the same:\n\n All seven GPT models (5.5, 5.6 Sol/Terra/Luna, 6 Astra/Sol/Luna) report 44,794 tokens and match each other on every one of the 31 fixtures. GPT-6 introduces no input-count change on this corpus.\n\n Tags: projects , ai , openai , generative-ai , llms , tokenization"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "ttok 0.4",
+      "url": "https://simonwillison.net/2026/Oct/8/ttok/",
+      "publishedAt": "2026-10-08T23:34:28.781Z",
+      "author": "",
+      "description": "Release: ttok 0.4 ttok is my CLI tool for counting tokens, using OpenAI's open source tiktoken library.\n\nIt hasn't been in updated in…",
+      "content": "Release: ttok 0.4\n\n ttok is my CLI tool for counting tokens, using OpenAI's open source tiktoken library.\n\n It hasn't been in updated in a couple of years, but I finally fixed a Click warning, updated CI, and added a --list-models command to list available models.\n\n It works with uvx , so you can count tokens in anything like this:\n\n cat file.txt | uvx ttok\n\n Tags: projects , ai , openai , generative-ai , llms , tokenization"
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 4,
+    "totalTweets": 10,
+    "blogPosts": 3,
+    "podcastEpisodes": 0
+  }
+}
