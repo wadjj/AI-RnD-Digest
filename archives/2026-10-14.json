@@ -1,0 +1,359 @@
+{
+  "generatedAt": "2026-10-14T01:15:47.886Z",
+  "runKey": "2026-10-14",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Twitter @Ethan Mollick",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2110171841751097852",
+          "text": "Hey, AI give me your best \"Unless it is from X, its just sparkling Y\" style joke\":\n\nGPT-6 Pro: \"Unless it comes from the Stockholm region of Sweden, it’s just sparkling employee engagement.\"\n\nGemini 4 Argon High: \"Unless it comes from the 3:00 AM region of staring at the ceiling, it’s not an existential crisis—it’s just sparkling anxiety.\"\n\nOpus 5.5 Max: \"It’s only cognition if it comes from the Cognac region of France. Otherwise it’s just sparkling autocomplete.\"",
+          "createdAt": "2026-10-14T00:52:26.337Z",
+          "url": "https://x.com/emollick/status/2110171841751097852",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2110165986926072019",
+          "text": "We will soon see what will be, in effect, a perfectly legal distributed denial of service attack on customer service departments authorized by millions of consumers when it becomes widely known that Muse/Dot/etc can make unlimited requests for old refunds, negotiate deals, etc.",
+          "createdAt": "2026-10-14T00:29:10.377Z",
+          "url": "https://x.com/emollick/status/2110165986926072019",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2110060618258497764",
+          "text": "Using Gemini 4 makes you realize how many other models must be distilling Claude/GPT (or using a similar training pipeline). It feels quite different than other models.",
+          "createdAt": "2026-10-13T17:30:29.328Z",
+          "url": "https://x.com/emollick/status/2110060618258497764",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Twitter @Tibo",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2110151780478927344",
+          "text": "Day 9/\n\nWe've rolled out optimizations to how we store state on disk for the chatgpt & codex desktop app that should reduce the amount stored on disk by 60%. Small ship but we've heard enough feedback about power users running out of disk space.",
+          "createdAt": "2026-10-13T23:32:43.086Z",
+          "url": "https://x.com/thsottiaux/status/2110151780478927344",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2109892247580000595",
+          "text": "Good plans are simple. I have one that should result in significantly more usage for everyone. Hope to get it done soon.",
+          "createdAt": "2026-10-13T06:21:26.923Z",
+          "url": "https://x.com/thsottiaux/status/2109892247580000595",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2109873287853707513",
+          "text": "What would you like with your side of reset? It's done.\n---\n Tibo: Global reset landing by EOD PST time. Enjoy",
+          "createdAt": "2026-10-13T05:06:06.163Z",
+          "url": "https://x.com/thsottiaux/status/2109873287853707513",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/thsottiaux/status/2109812360596865224\nTibo: Global reset landing by EOD PST time. Enjoy"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Gostev",
+      "handle": "petergostev",
+      "bio": "Twitter @Peter Gostev",
+      "tweets": [
+        {
+          "id": "https://twitter.com/petergostev/status/2110104475340099646",
+          "text": "didn't he know that's chatgpt has a meetings plugin?\n---\n unusual_whales: BREAKING: A Saudi employee of OpenAI has been arrested after planting an audio recording device in the company's executive conference room, per DOJ",
+          "createdAt": "2026-10-13T20:24:45.206Z",
+          "url": "https://x.com/petergostev/status/2110104475340099646",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/unusual_whales/status/2110096597694706175\nunusual_whales: BREAKING: A Saudi employee of OpenAI has been arrested after planting an audio recording device in the company's executive conference room, per DOJ"
+        },
+        {
+          "id": "https://twitter.com/petergostev/status/2109994735645651442",
+          "text": "The silliest thing I learned you can do on youtube is to make yourself speak japanese\n\n---\n Arena.ai: Watch @petergostev put Muse Wonder (Max) by @AIatMeta to the test across one-shot 3D scenes, animated HTML, and front-end designs.\n\nHe compares it with Astra, Opus 5.5, GPT-6.1 Sol, Claude Sonnet 5.5, Fable, Kimi, and Mistral, and includes the cost of every generation.\n\nArena",
+          "createdAt": "2026-10-13T13:08:41.243Z",
+          "url": "https://x.com/petergostev/status/2109994735645651442",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/arena/status/2109836301562532313\nArena.ai: Watch @petergostev put Muse Wonder (Max) by @AIatMeta to the test across one-shot 3D scenes, animated HTML, and front-end designs.\n\nHe compares it with Astra, Opus 5.5, GPT-6.1 Sol, Claude Sonnet 5.5, Fable, Kimi, and Mistral, and includes the cost of every generation.\n\nArena"
+        },
+        {
+          "id": "https://twitter.com/petergostev/status/2109903501861990485",
+          "text": "I don't think Theo is a paid shill\n\n---\n Theo - t3.gg: Just realized the \"paid shill\" accusation are kind of a self own. Like I'm sorry you're so broke that you're willing to lie for money. Couldn't be me :)",
+          "createdAt": "2026-10-13T07:06:09.851Z",
+          "url": "https://x.com/petergostev/status/2109903501861990485",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/theo/status/2109876225858846851\nTheo - t3.gg: Just realized the \"paid shill\" accusation are kind of a self own. Like I'm sorry you're so broke that you're willing to lie for money. Couldn't be me :)"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Greg Brockman",
+      "handle": "gdb",
+      "bio": "Twitter @Greg Brockman",
+      "tweets": [
+        {
+          "id": "https://twitter.com/gdb/status/2110063893016096831",
+          "text": "6 days and $40,000 of compute with GPT-5.6 Sol to find a critical vulnerability in Chrome, claiming Google’s first full-chain reward in 2026 for a vulnerability that would affect an estimated 1 billion users.\n\nHighlights the opportunity for defenders to utilize these tools to secure their software to unprecedented levels:\n---\n Oege de Moor: For the second time in Google Chrome’s history, Google awarded a $250,000 bounty for a full-chain exploit… to @XBOW. Here’s the full story:\n\nAt an all-hands at the start of 2026 in Malta, I set the team a crazy challenge. A full-chain exploit of Chrome by the annual Black Hat",
+          "createdAt": "2026-10-13T17:43:29.866Z",
+          "url": "https://x.com/gdb/status/2110063893016096831",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/oegerikus/status/2110032518674018367\nOege de Moor: For the second time in Google Chrome’s history, Google awarded a $250,000 bounty for a full-chain exploit… to @XBOW. Here’s the full story:\n\nAt an all-hands at the start of 2026 in Malta, I set the team a crazy challenge. A full-chain exploit of Chrome by the annual Black Hat"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Demis Hassabis",
+      "handle": "demishassabis",
+      "bio": "Twitter @Demis Hassabis",
+      "tweets": [
+        {
+          "id": "https://twitter.com/demishassabis/status/2110052931110318464",
+          "text": "I love lasers (really wanted to work on them as a kid)… especially Argon lasers 😀 reminded me of this scene from one of my fave films: ‘synthesize excited bromide in an argon matrix… but that would be hotter than the sun’ 😂 Val Kilmer was so cool https://youtu.be/G-gAbSQGGqM?si=6NQue5-ulgGedGrt&t=50\n---\n Demis Hassabis: Gemini 4 Argon is amazing for knowledge work and coding - and it’s super fun to build with! We asked it to create this wizard chess game and it's so cool to see Argon's physics understanding & 3D modelling capabilities, makes me nostalgic for Battlechess on the Amiga - fun times!",
+          "createdAt": "2026-10-13T16:59:56.053Z",
+          "url": "https://x.com/demishassabis/status/2110052931110318464",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/demishassabis/status/2110041008100843835\nDemis Hassabis: Gemini 4 Argon is amazing for knowledge work and coding - and it’s super fun to build with! We asked it to create this wizard chess game and it's so cool to see Argon's physics understanding & 3D modelling capabilities, makes me nostalgic for Battlechess on the Amiga - fun times!"
+        },
+        {
+          "id": "https://twitter.com/demishassabis/status/2110041008100843835",
+          "text": "Gemini 4 Argon is amazing for knowledge work and coding - and it’s super fun to build with! We asked it to create this wizard chess game and it's so cool to see Argon's physics understanding & 3D modelling capabilities, makes me nostalgic for Battlechess on the Amiga - fun times!\n\nArgon is rolling out today to Google Ultra and Pro subscribers in the @GeminiApp and Search, and Ultra subscribers in @antigravity! More info & full availability in the blog: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+          "createdAt": "2026-10-13T16:12:33.976Z",
+          "url": "https://x.com/demishassabis/status/2110041008100843835",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Boris Cherny",
+      "handle": "bcherny",
+      "bio": "Twitter @Boris Cherny",
+      "tweets": [
+        {
+          "id": "https://twitter.com/bcherny/status/2110073054479143217",
+          "text": "RT Anthropic\nNew on our Engineering blog: Creating in-house source control.\n\nIn May, we merged around 2,500 code changes per day. In September, we merged more than 30,000 per day. As a result, we became bottlenecked by developer infrastructure built for human (rather than agent) scale.\n\nHere, we share how we built a new version control system—and fully migrated our monorepo from git—in five months: https://www.anthropic.com/engineering/redesigning-source-control",
+          "createdAt": "2026-10-13T16:36:41.381Z",
+          "url": "https://x.com/bcherny/status/2110073054479143217",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Yi Tay",
+      "handle": "YiTayML",
+      "bio": "Twitter @Yi Tay",
+      "tweets": [
+        {
+          "id": "https://twitter.com/YiTayML/status/2110058141455131132",
+          "text": "RT Sundar Pichai\nGemini 4 Argon is here.\n\nIt’s available globally today for developers and enterprises in the paid tier of the Gemini API and the Gemini platform, for Ultra subscribers in Google Antigravity, and Ultra and Pro subscribers in the Gemini app and Search.\n\nHope you all enjoy it!",
+          "createdAt": "2026-10-13T16:04:10.867Z",
+          "url": "https://x.com/YiTayML/status/2110058141455131132",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Twitter @Thariq",
+      "tweets": [
+        {
+          "id": "https://twitter.com/trq212/status/2110035114432532654",
+          "text": "excited to be back home",
+          "createdAt": "2026-10-13T15:49:08.322Z",
+          "url": "https://x.com/trq212/status/2110035114432532654",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Jeff Dean",
+      "handle": "JeffDean",
+      "bio": "Twitter @Jeff Dean",
+      "tweets": [
+        {
+          "id": "https://twitter.com/JeffDean/status/2109841404239417415",
+          "text": "I've been a personal supporter (through our family foundation) of @Khipu_AI & @DeepIndaba, which are fantastic events for AI researchers in Africa and South America. I've encouraged Google to support these in the past. Discovery Loop (@DiscoLoopAI) is thrilled to support!\n---\n Nando de Freitas: For the last 10 years we've been raising funds to bring AI to Africa (@DeepIndaba) and South America (@Khipu_AI). The efforts have been very successful, but this year we are finding it hard to raise money. If you work for an AI company, please share the following with the right",
+          "createdAt": "2026-10-13T02:59:24.761Z",
+          "url": "https://x.com/JeffDean/status/2109841404239417415",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/NandoDF/status/2109717380406673505\nNando de Freitas: For the last 10 years we've been raising funds to bring AI to Africa (@DeepIndaba) and South America (@Khipu_AI). The efforts have been very successful, but this year we are finding it hard to raise money. If you work for an AI company, please share the following with the right"
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Redesigning source control at Anthropic",
+      "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
+      "publishedAt": "2026-10-13T23:00:06.505Z",
+      "author": "",
+      "description": "Redesigning source control at Anthropic Interesting piece from Anthropic describing why and how they built their own custom alternative to…",
+      "content": "Redesigning source control at Anthropic\n\nInteresting piece from Anthropic describing why and how they built their own custom alternative to Git, based on the dramatic increase in rate of changes to their code after the past six months.\n\n In May 2026, Anthropic averaged around 2,500 code changes merged per day; as of September, we merged over 30,000 per day.\n\n They included a chart showing those changes. I had Claude modify their chart ( code here ) to add markers for the public releases of each of their models in 2026:\n\n This shows public release dates, not the date when models became available for Anthropic's internal use. My guess is that the introduction of Fable/Mythos class models is a key factor in the increased coding velocity.\n\n \"Antique\" is their new code review system. The source control system is called Scion, and sounds to me like a reinvention of centralized source control along the lines of Subversion. They had some pretty extreme requirements:\n\n The history of our main branch alone is almost 100 GB, and a  compressed  working copy is over 25 GB. We perform on the order of 25 million code checkouts per day for CI, before counting developer environments, agent sandboxes, and research jobs. Fetched naively, that would be over 600 PB of git traffic per day.\n\n The new system was built by a team of seven people, and the migration from Git was completed in five months.\n\n When asked on Hacker News about the lack of offline support, Scion engineer Nick G replied :\n\n Since Claude is by far the heaviest user of Scion and is necessarily online, this just wasn't important to do.\n\n As an aside, I've been trying adversarial review in my own projects recently, where you have a model try and find flaws (I often play Claude and GPT off against each other). This note from the article reflected my own experience with that:\n\n Anthropic also makes extensive use of adversarial review, and, while this is incredibly effective in many ways, it can also be myopic, so skilled engineers needed to steer Claude away from over-engineering parts of the system in response to hypothetical concerns.\n\n Via Hacker News\n\n Tags: git , migrations , version-control , ai , generative-ai , llms , anthropic , agentic-engineering"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "llm-gemini 0.35",
+      "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
+      "publishedAt": "2026-10-13T22:28:54.259Z",
+      "author": "",
+      "description": "Release: llm-gemini 0.35 I added support to llm-gemini for the new Gemini 4 Argon model, made available today via the Gemini API and…",
+      "content": "Release: llm-gemini 0.35\n\n I added support to llm-gemini for the new Gemini 4 Argon model, made available today via the Gemini API and for customers of their $100/month subscription plan.\n\n Here are the low, medium and high pelicans . As expected, they are all excellent: Gemini has a track record of producing great SVGs, and are the only lab where I know their staff have invested in SVG specifically (and who have boasted about their pelicans before.)\n\n Here's the \"high\" illustration, which cost me 17.166 cents:\n\n The pricing is interesting. At launch, Argon is $2/million input and $10/million output - the same price as GPT-6 Sol, half the price of Claude Opus 5.5 and 1/5th the price of Claude Fable 5.1 and GPT-6 Astra.\n\n But on December 1st Argon is set to double in price - so it will be the same price as Opus 5.5.\n\n Prices like this aren't really comparable these days since what really matters is how many tokens a model takes to achieve a goal within an agentic harness.\n\n One useful clue for that comes from Artificial Analysis, who publish the total cost to run their benchmark using each model. Argon is looking very good there - costing $2,407 to run the benchmark, putting it close to GLM-5.3 and significantly cheaper than OpenAI, Anthropic, and Meta's latest models.\n\n When the price doubles it will still be a little cheaper than GPT-6 Astra.\n\n (I used ChatGPT to edit that chart ! The data is all correct, I checked - I needed to get that Gemini 4 Argon info box to display without overlapping the other numbers.)\n\n Some bonus examples using Gemini 4 Argon: here's Generate an SVG of an armadillo in fishnet tights jaywalking on Mars , here's a Fabergé egg it created for me using Blender, and DeepMind staffer @fofrAI shared a video of a pelican riding a bike, using fourier epicycles . That's a fun new twist!\n\n Tags: google , ai , generative-ai , llms , llm , gemini , llm-pricing , pelican-riding-a-bicycle , llm-release"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Quoting Geoffrey Huntley",
+      "url": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/",
+      "publishedAt": "2026-10-13T13:32:00.023Z",
+      "author": "",
+      "description": "If the agent isn't using my diagnostics library, I could introspect and update AGENTS.md, but there's still a delta, and it'll drift…",
+      "content": "If the agent isn't using my diagnostics library, I could introspect and update AGENTS.md, but there's still a delta, and it'll drift. Instead, I write a pre-commit hook that checks the git diff for direct calls to observability modules that bypass my diagnostics module. Boom: fail the commit, inject a prompt telling the agent to use the diagnostics library. All of a sudden it's ten out of ten.\n\n — Geoffrey Huntley , nobody should type code by hand anymore. here's what's left.\n\n Tags: coding-agents , generative-ai , git , agentic-engineering , ai , geoffrey-huntley , llms"
+    },
+    {
+      "source": "blog",
+      "name": "Tomasz Tunguz",
+      "title": "The Theory 2026 AI Survey Results",
+      "url": "https://tomtunguz.com/ai-in-practice-survey-2026/",
+      "publishedAt": "2026-10-13T15:00:00.316Z",
+      "author": "",
+      "description": "The 2026 Theory AI Survey surprised us, just as the 2025 edition did. In 2025, we found that context, limited AI performance. In 2026, that…",
+      "content": "The 2026 Theory AI Survey surprised us, just as the 2025 edition did. In 2025, we found that context, limited AI performance. In 2026, that seems to be solved.\n\n 455 senior technical builders replied to give us a cross-section of the AI ecosystem today. 1\n\n Security is the biggest barrier to adoption\n\n Security rose from sixth to first among pain points in twelve months. 43% of respondents rate security & governance the most important pain point, & evals come in second at less than half, 22%.\n\n Only 10% say security tooling delivers the most value today. 18% expect it to lead in the future, the largest expected gain of any area.\n\n Nearly half of teams route queries\n\n Cost optimisation as well as model selection have become standard.\n\n 45% of teams now route queries across models, 23.7% on a router they trained & 21.5% on a proprietary one, while 54.7% send every query to a single model.\n\n Cloudflare dominates sandboxes\n\n Of the 259 teams writing code with agents, 62% host their sandboxes on Cloudflare, three times the closest competitor. Then Other at 17%, Vercel at 17%, Modal at 16%, E2B at 12%, Daytona at 9% & Sail at 7%. The one control a builder cannot fake is concentrated in a single utility, & it is billed as compute rather than as security.\n\n BI performs more than half of agent analysis\n\n 56% of respondents use business intelligence tools to analyse the performance of their agents. The surprising statistic is not far behind : coding agents also perform some of the work, at 48%. Both systems are excellent at parsing agent behaviour. A roughly equivalent number use dedicated observability tools, at 41%, which does suggest a convergence of the category, at least for this one use case. Spreadsheets, that tardigrade 2 of enterprise software, continue to survive at 30%.\n\n There is a lot more to unpack within the full survey , including open versus closed source model adoption, the rise of MCP despite doubts last year, & the still early adoption of evals. Overall, it is clear how quickly the ecosystem is evolving, & how much sophistication has permeated the enterprise, more quickly than any wave we have seen.\n\n---\n\n Theory’s AI in Practice Survey 2026 fielded 455 senior technical builders on 22 September 2026, the second annual edition, written up by Lauren DeMeuse. The 2025 comparison is a different sample of 413, from the 2025 edition & its own post . Percentages are rounded & multi-select questions sum above 100%, & where 2025 allowed one answer & 2026 allowed several, every 2026 share is lifted. The pain comparison holds each area’s place by average rather than its score, because 2025 asked for a ranking & 2026 asked for a 1-7 rating of each area, so context moving from first to fourth is a comparison of place, not of score. Q9 routing & Q12 sandbox hosting are new in 2026 & have no prior-year comparison ; Q12 was asked only of the 259 teams whose agents write & execute code. The 10% & 18% are shares of 455 builders, not dollars. Full data, all 27 questions : theoryvc.com/surveys/ai-in-practice-2026 . The published write-up : AI in Practice Survey 2026 .  ↩︎\n\n Tardigrades are microscopic animals known for surviving extremes that kill almost everything else, including desiccation, radiation & the vacuum of space. The comparison casts the spreadsheet as the enterprise software equivalent : unglamorous, near-impossible to eliminate, & present in almost every environment, just like spreadsheets. See Tardigrade .  ↩︎"
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery by Ben Thompson",
+      "title": "SpaceX Buys More Spectrum, Musk and Market Structure, Distributed Cellular",
+      "url": "https://stratechery.com/2026/spacex-buys-more-spectrum-musk-and-market-structure-distributed-cellular/",
+      "publishedAt": "2026-10-13T10:00:00.526Z",
+      "author": "Ben Thompson",
+      "description": "SpaceX's mobile strategy is becoming clearly with its latest spectrum purchase, and it might work.",
+      "content": "SpaceX's mobile strategy is becoming clearly with its latest spectrum purchase, and it might work."
+    },
+    {
+      "source": "blog",
+      "name": "Anthropic Engineering",
+      "title": "Redesigning source control at Anthropic",
+      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "publishedAt": "2026-10-12T16:00:00.285Z",
+      "author": "",
+      "description": "At Anthropic, coding is no longer the bottleneck to building systems or doing research. Claude is able to autonomously iterate on research…",
+      "content": "At Anthropic, coding is no longer the bottleneck to building systems or doing research. Claude is able to autonomously iterate on research loops, micro-optimize complex programs, and build new services from the ground up at a speed and scale we haven’t seen before. The bottleneck, now, is all of the developer infrastructure built for human scale: source control, builds, and CI.\n In May 2026, Anthropic averaged around 2,500 code changes merged per day; as of September, we merged over 30,000 per day. We don’t expect this rate of growth to slow down anytime soon; the latent demand for merging code is practically infinite, and every bottleneck we remove immediately leads to a further increase in the amount of code we produce.\n Changes merged to our monorepo per day, from January to September 2026.\n In order to support this growth, we built Scion, an in-house version control system, and fully migrated our monorepo from git in five months. We also built and shipped a code review surface (called Antique), code search, a rich source control IAM system, novel ways of managing and landing large amounts of reviewed code, and more, all in that same time period. In this post, we’ll focus on how we built Scion specifically. It makes for an interesting case study: Claude’s ability to write code was both what put us in this situation in the first place and how we were able to quickly build a high-quality, scalable system to deal with it.\n Growing our monorepo\n Before we explore what we built, we should acknowledge how unusual our workload is. Unsurprisingly, Anthropic uses Claude to write software far more than almost any other company, so we’re often the first to see where tools built for human scale start to strain. Source control is just one example of this. While we don’t expect many organizations to have these problems in the very near term, we suspect it won’t be too long before others who use AI coding tools experience these same pressure points, which is why we wanted to share what we built and what we learned.\n Git is a decentralized system: every clone is a complete, self-contained repository that can compute diffs, read history and blame, and check out any revision while fully offline. For the vast majority of repositories, this is the right design, and it’s a large part of why git became the standard.\n As our monorepo grows, it increasingly doesn’t fit that design space. The history of our main branch alone is almost 100 GB, and a compressed working copy is over 25 GB. We perform on the order of 25 million code checkouts per day for CI, before counting developer environments, agent sandboxes, and research jobs. Fetched naively, that would be over 600 PB of git traffic per day.\n Git offers tools for working with a slice of a repository, such as shallow clones, sparse checkouts, and promisor remotes. Beyond these, there are standard workarounds for large monorepos, like internal git mirrors and repository snapshots (seeds) kept in blob storage. We’ve used all of them—at our peak, we operated several hundred internal git mirrors to deal with the load. This bought us time, but they became harder to operate as our merge rate increased. Seeds fell further from the tip of main between refreshes, and it took more and more care to keep operations that depend on history, like diff and blame, working on partial clones.\n The typical setup for scaling git checkouts.\n Taking a step back, we noticed that, like most companies, we were using git as a centralized system with one authoritative copy, but nearly all of our clients were agents and jobs that are online by definition. The properties that make git excellent for distributed, offline work were actively undermining our ability to scale as the repo grew. So we asked ourselves: if we designed source control with the fact that agents are always online in mind from the start, what would it look like?\n Principles for agent-scale source control\n With agentic coding, many common assumptions about how software is developed are evolving. We embraced these changes when building Scion, which allowed us to take a fundamentally different approach than git on several core principles. Source control for huge monorepos has prior art, notably Google’s Piper and Meta’s Sapling , so we were able to build Scion with their hard-won lessons in mind. Our principles are:\n Clients are always online. Git assumes that clients work offline and need a complete copy of the repository. Since nearly all of our clients are agents and jobs, we designed Scion’s client and protocols around a server that is always reachable, and have clients fetch data when they need it.\n Client-server asymmetry. In git, every client is capable of being a full-fledged server. In Scion, the server answers questions about file history and blame, creates commits, performs merges and rebases, and so on. The client maintains a bounded local object cache, lays out the working copy files on disk, monitors for filesystem changes, and gives users an ergonomic way to work with the server. It can compute very little on its own but, in exchange, it requires much less data locally.\n A comprehensive source control service can power many novel applications. With git, a CI job or tool that needs to ask a question about the repository, such as who last changed a line or how two commits are related, has to maintain a local copy of the repo or hope that vendor-specific APIs provide the answer. With Scion, all of the source control queries the client uses are also exposed via API, so in many cases jobs don’t need a local repository at all. Many internal tools, such as our automated bisect and revert pipelines, wouldn’t be practical at scale without this cheap, programmatic access to source control.\n Everything must be horizontally scalable. At our peak, we ran several hundred git mirrors, which significantly strained capacity and no longer scaled once the repo outgrew the mirrors’ disks or memory limits. In Scion, the repository’s data is distributed, and every component is independently scalable; there is no fully materialized copy of the repo anywhere, even on the server. There is no equivalent of packfiles (git’s compressed bundles of objects), so no repository maintenance is needed.\n Commits must be cheap, incremental, and lock-free. In git, you commit locally and then push to share your work. In Scion, every commit, rebase, or merge happens on the server, so there’s nothing to push, but each of those operations needs to be fast. The cost of creating a commit and updating its downstream data structures has to scale with the size of the change, not the overall size of the repo, or the server can’t keep up. The development lifecycle in Scion discourages refs (pointers to commits, such as branches and tags), except for the main ref or release branches, because global state that every server has to agree on is a looming scaling problem.\n The working copy is optional, and sparse by design. Because our monorepo is so large, and because we check out code tens of millions of times a day for CI, we wanted to avoid checkouts whenever we could. With Scion, a CI job that needs the diff between a commit and its merge base, for example, can ask the server for it. The same goes for writes: many write workloads can also skip the checkout and function entirely via API. Scion’s protocol is centered around sparse checkouts, which only contain the directories the client asks for, and virtualized checkouts, which materialize files on demand, so when a job does need files on disk, the client only pays for what it actually reads.\n How Scion works\n It’s helpful to understand how these principles came together in practice when building Scion. These insights can apply to other source control systems or, more broadly, to other stages of the software development lifecycle.\n Data structures\n In Scion, the unit of work is a “changeset,” an entry in a write-ahead log. A changeset stores most of what you’d expect from a commit in git. But where a git commit stores a pointer to the tree, a changeset stores a list of the files that changed relative to its first parent, 1 along with content-addressed pointers to the compressed file contents in blob storage. Changesets are created server-side and are available everywhere, instantly.\n The shape of a changeset in Scion.\n This structure lets us accept changesets with very high throughput because there are no packfiles to accept, no locking or cross-server coordination, and no refs to move around. Scion does technically support refs, but since neither creating nor fetching commits involves them, moving one is a compare-and-swap on a single Spanner row that happens separately from creating changesets.\n A changeset records only what’s changed, so on its own, it can’t quickly answer questions like who last edited a line or which commits affected a file. To answer those, Scion builds additional data structures from the changesets, including dedicated structures for file blame and path history and skip lists for the commit graph. We call everything that isn’t directly part of the changeset “derived data,” and we compute it all through one generic mechanism. Each type of derived data is defined recursively, so its value for a changeset is computed from its values for that changeset’s parents.\n This mechanism has three benefits. First, we can easily add a new type of derived data when a new data structure would make some operation faster. Second, for each type, we can choose whether to compute it eagerly or defer the work, so we avoid materializing data we don’t need. And third, because the client never sees the internals of these data structures, we can optimize them without changing the client. We’ve added new types of derived data many times as the system has grown, such as new indices for performing copy detection or path-based file search.\n Scaling Scion\n A small fleet of Scion servers provides source control APIs for any operation a client needs, such as getting changesets, computing diffs, finding merge bases, and fetching blobs. All source control data is content-addressed, so a piece of data never changes once it’s stored, and any server can cache it without checking with the others. As a result, the servers are horizontally scalable and require little coordination. They are essentially large caches that can also compute derived data on the fly and write the results back to Spanner.\n Scion’s many consumers no longer need to maintain local repositories of their own. Fetching and maintaining the repository used to be a significant maintenance burden for CI jobs or tools that needed to ask source control questions, particularly about commit ancestry and blame. Early in the migration, before we had our own client, repo format, or protocols, Scion only answered these “metadata” queries. Fetching file contents and materializing working copies are far more data-intensive operations, and they needed a design of their own.\n Scion’s scn client deviates from git’s fetch protocols in several important ways and, as a result, lends itself to a highly scalable architecture that requires significantly less CPU than git servers. Scion’s negotiation doesn’t tell the server what the client already has; instead, it operates exclusively on trees and blobs the client wants. Starting from a root tree, the client checks its local store for missing trees and requests them recursively, then repeats the process for blobs. Every request is for a specific object that never changes, so any cache can answer it, and the architecture closely resembles traditional tiered caches. The process is also efficient and resumable, because there is no single multi-gigabyte packfile response. Sparse and even virtualized checkouts don’t need special support, because the client simply doesn’t ask for trees it doesn’t want.\n In the fleet, the client talks over a socket to a daemon, scion-daemon, that stores objects for the whole node. M..."
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery",
+      "title": "SpaceX Buys More Spectrum, Musk and Market Structure, Distributed Cellular",
+      "url": "https://stratechery.com/2026/spacex-buys-more-spectrum-musk-and-market-structure-distributed-cellular/",
+      "publishedAt": "Tue, 13 Oct 2026 10:00:00 +0000",
+      "author": "Ben Thompson",
+      "description": "SpaceX's mobile strategy is becoming clearly with its latest spectrum purchase, and it might work.",
+      "content": "SpaceX's mobile strategy is becoming clearly with its latest spectrum purchase, and it might work.\n\n---\n\nListen to this Update in your podcast player\n\n---\n\nGood morning,\n\nOn last week’s episode of Sharp Tech , Andrew and I discussed the two paths of consumer computing in the AI era, and why I feel increasingly disconnected from the Apple path, plus our reactions to OpenAI’s math breakthroughs.\n\nOn to the Update:\n\nSpaceX Buys More Spectrum\n\nFrom the Wall Street Journal :\n\nSpaceX reached a deal to buy cellular spectrum licenses from investment firm Grain Management, its biggest move yet into a wireless market dominated by traditional telecom companies. The Elon Musk-led space company will pay about $8 billion in cash for the assets, according to people familiar with the matter. Grain and SpaceX had no comment on the value of the transaction.\n\nThe U.S. licenses, which are in the 800-megahertz band, are tailored for wireless service from cellphone towers rather than satellites. The spectrum could serve SpaceX’s stated ambition of moving its Starlink satellite service beyond broadband into the wireless market to compete with the likes of AT&T and Verizon. U.S. cellphone carrier stocks sank on the news. Shares in AT&T, Verizon and T-Mobile all fell more than 6% in post-close trading. SpaceX shares climbed about 3% to $165.10 after hours.\n\nI’ve covered previous SpaceX spectrum purchases, and in both cases I’ve poo-poohed the overheated rhetoric about SpaceX being a genuine competitor to the traditional telecom providers. In September 2025 SpaceX acquired H-Block and AWS-4 spectrum from EchoStar, which had three problems in terms of mobile coverage:\n\nWhile AWS-4 originally had both an uplink band (2000–2020 MHz) and a downlink band (2180–2200 MHz), EchoStar had designed the uplink band as download (which makes sense given EchoStar was broadcasting television); this could be reversed, of course, but…\n\nAWS-4 was not approved for satellite-to-handset communication. This could happen, of course, but…\n\nH-Block capacity was quite limited and was not supported by any current handsets.\n\nMy read on that acquisition was that SpaceX was making a play to be the satellite service partner for all of the major carriers, all of whose satellite plans were, at that specific moment of time, in limbo:\n\nIn summary, right at the exact moment that all of the relevant players in satellite connectivity are facing go/no-go decisions in terms of future capabilities, and just as those future initiatives are suffering from delays and a lack of launch capacity, SpaceX is shoving its chips into the middle of the table: everyone knows that SpaceX has the most launch capacity, and now they have not just spectrum but a demonstrated willingness to arguably overpay to have the best service (or at least gain the bargaining capacity to trade for it). Facing this reality, why shouldn’t Apple or AT&T or Verizon blink, and simply use Starlink?\n\nIn fact, none of the companies blinked: AT&T and Verizon doubled down on AST SpaceMobile , and Apple threw in with Amazon via the latter’s acquisition of Globalstar . My read: none of the companies wanted to be beholden to Elon Musk.\n\nMusk and Market Structure\n\nDelta CEO Ed Bastian, another of Amazon’s future satellite customers, was surprisingly blunt on this point, according to an X Message from @xJonNYC , a well-regarded newsbreaker in the airline space:\n\nRe: starlink, Ed said, “We do not want to be with Elon Musk. Trust me.”\n\nSide note: at a different, earlier event, Ed also said that DL did test with starlink, but did not want to partner with Elon. “If you know his reputation, it’s all true what they say about him.”\n\nMusk, eager to prove Bastian correct, responded to a message linking an airline industry blog reporting on this news thusly :\n\n@garyleff @Delta He will lose his job over this\n\n— Elon Musk (@elonmusk) September 30, 2026\n\nYou can see Bastian’s point! However, it’s Musk who may have one. Starlink on an airline is a transformative experience; to the extent Delta isn’t feeling the pain is because the United rollout is only 41% complete. And, I would note, I’m not a big fan of United running commercials for a service that you can’t count on.\n\nHowever, the implication of that complaint is that once you can count on Starlink being available I can’t imagine choosing an airline that doesn’t have it. That’s still a year or two away, but Amazon’s Leo is a few years away too, and Delta has to endure the messy middle where some flights are awesome and some aren’t. Meanwhile, Southwest has started its Starlink installation , and American Airlines has upped its Starlink commitment to its entire mainline fleet . It’s not out of the question that Delta feels the pain in a few years: it’s hard to run a premium strategy when you’re missing the single best airline feature. And, when and if Delta changes its mind, it will pay more than it would have had it signed up at the same time United did.\n\nThis is all speculative, to be sure, but it’s pretty plausible, and the actual reality of how Musk operates. Bastian is playing with fire if he’s truly making corporate decisions based on his personal dislike of Musk; the best way to understand Musk’s approaches to markets is that his goal is to fundamentally reshape the market structure such that his companies’ victory is inevitable, whether you like him or not. I think that SpaceX has pulled that off with airline Internet connectivity, and my working assumption is that is what the company was trying to do with handset satellite connectivity.\n\nThe question is (1) is the market big enough to matter and (2) do consumers care enough about this feature to make major purchase decisions — like their carrier — based on this feature? I’ve long suspected that the answer for both is “no”, which is why I wondered if SpaceX was just as likely to sell spectrum as it was to acquire more.\n\nIn fact, however, SpaceX kept buying: in November the company bought the AWS-3 spectrum block from EchoStar that provided much more expansive uplink capacity; this matched the AWS-4 spectrum SpaceX had already agreed to buy, but it had the same limitation in terms of not being classified for satellite to handset communication, albeit a limitation that is, predictably, on the verge of being lifted.\n\nDistributed Cellular\n\nStarlink’s goal for this spectrum became much clearer in August on the first SpaceX company earnings call ; this was President Gwynne Shotwell in response to a question about the company’s mobile ambitions:\n\nThe spectrum that we purchased from EchoStar does have terrestrial components. So we definitely intend to build out the terrestrial component. So you will have not only the capacity from the satellites themselves, but you will have a build-out of the terrestrial; basically the hardware and systems necessary to make a true mobile service exactly what you want it to be.\n\nI’m not going to talk about the CapEx for that. It’s a little — well, I don’t want to say it’s immature. I’m just going to say I’m not going to talk about the CapEx for that right now. But let’s talk a little — let me give a little hint, and that is you could put a base station, a cellular base station on the — basically the gear that holds a Starlink broadband dish. So you can have kind of these little femtocells around the country and you deploy that as you need it. You don’t have to necessarily spend many billions of dollars in low-band spectrum all upfront before you deploy your system. So that’s why I don’t want to talk about the CapEx for building out the terrestrial because we have a lot of really kind of great and new ideas for how we’re going to do that. And I think it will be quite CapEx efficient.\n\nMusk added:\n\nThat point is probably worth just a few more words, which is that — because this is quite an important point. Instead of having to deploy these very expensive and difficult-to-locate large cellular base stations, we feel reasonably confident that we can deploy a large number of sort of small stations. Essentially, they’re really just Starlink dishes that also provide connectivity in the mobile spectrum bands and have them be all over the place. And the Starlink antennas are located on the roofs of houses and businesses. So there — they’ve got sort of a clear view to providing connectivity directly to cell phones on the ground. And in fact, providing connectivity that is, we think, probably better and higher bandwidth than what is currently available from cellular providers. This is an important point.\n\nI’m honestly annoyed I didn’t think about this while writing about SpaceX’s spectrum acquisitions last year, but it’s very compelling. One of the biggest expenditures for traditional telecom providers is finding cellular sites, running fiber to them, mounting equipment, etc.; Starlink is approaching the problem from the exact opposite direction. Thanks to the company’s satellite constellation its future network basically has backhaul everywhere; the way to leverage that is not with ultra-powerful nodes but rather what is basically a mesh network of smaller scale access points. Moreover, those access points could, at least in theory, not only use cellular spectrum but also Wi-Fi; Wi-Fi’s limitation is its range, but the entire point of having far more access points in far more places is that in the best case scenario you are close to an access point all of the time.\n\nStill, Wi-Fi isn’t enough; that’s where this latest spectrum purchase comes in. This latest spectrum purchase was previously used for Sprint’s old Nextel push-to-talk network. It’s relatively low frequency compared to SpaceX’s other purchases, which is important as far as penetrating walls is concerned; generally speaking, there is a trade-off between reach and penetration versus bandwidth.\n\nWhat is fascinating about SpaceX’s approach is that the best way to solve its reach problem is through many more access points; still, it can’t have access points on every building, so this spectrum purchase fills in the gaps in letting those sites reach more places. This spectrum, for the record, is also not yet licensed for satellite-to-handset, although it seems likely SpaceX will get that license too; what is much more compelling is using this spectrum for a future network of SpaceX receivers.\n\nThere is, to be clear, a long path to making SpaceX’s vision a reality; that vision, from the company’s blog :\n\nOnce we receive final FCC approval, Starlink Mobile will deploy a flexible architecture combining our satellite-to-mobile constellation in space with an advanced terrestrial deployment that can seamlessly connect devices everywhere. While Starlink Mobile’s global 2 GHz mid-band spectrum will provide high-bandwidth capacity in the United States, this new low-band spectrum will provide a coverage layer that ensures Starlink Mobile’s signal penetrates through obstacles, such as walls, and can provide service to customers’ devices even when they are in buildings. Critically, most existing mobile devices already support this underused band.\n\nStarlink already operates the world’s most advanced broadband network from space, serving millions of customers across the United States and around the world with high-speed internet. With this new low-band spectrum and our Gen2 constellation, Starlink Mobile can now become the first network operator to deploy both satellite and terrestrial spectrum. One network that provides Americans with a reliable service indoors, outdoors, in cellular dead zones, and everywhere in between.\n\nThat is why, in the end, this is a very Muskovian endeavor. SpaceX was the first to deploy massive numbers of low orbit satellites, overwhelming relatively small numbers of high capacity high orbit satellites with a swarm of lower capacity satellites, all of which work in concert thanks to software, both on the satellite layer and the dish layer; the company’s approach to mobile is in the same vein, leveragin..."
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 9,
+    "totalTweets": 16,
+    "blogPosts": 7,
+    "podcastEpisodes": 0
+  }
+}

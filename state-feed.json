@@ -185,7 +185,23 @@
     "https://twitter.com/petergostev/status/2109642645203231229": 1791860645239,
     "https://twitter.com/trq212/status/2109717295631372628": 1791860645239,
     "https://twitter.com/JeffDean/status/2109701574583001188": 1791860645239,
-    "https://twitter.com/amorriscode/status/2109673440047440124": 1791860645239
+    "https://twitter.com/amorriscode/status/2109673440047440124": 1791860645239,
+    "https://twitter.com/emollick/status/2110171841751097852": 1791940547886,
+    "https://twitter.com/emollick/status/2110165986926072019": 1791940547886,
+    "https://twitter.com/emollick/status/2110060618258497764": 1791940547886,
+    "https://twitter.com/thsottiaux/status/2110151780478927344": 1791940547886,
+    "https://twitter.com/thsottiaux/status/2109892247580000595": 1791940547886,
+    "https://twitter.com/thsottiaux/status/2109873287853707513": 1791940547886,
+    "https://twitter.com/petergostev/status/2110104475340099646": 1791940547886,
+    "https://twitter.com/petergostev/status/2109994735645651442": 1791940547886,
+    "https://twitter.com/petergostev/status/2109903501861990485": 1791940547886,
+    "https://twitter.com/gdb/status/2110063893016096831": 1791940547886,
+    "https://twitter.com/demishassabis/status/2110052931110318464": 1791940547886,
+    "https://twitter.com/demishassabis/status/2110041008100843835": 1791940547886,
+    "https://twitter.com/bcherny/status/2110073054479143217": 1791940547886,
+    "https://twitter.com/YiTayML/status/2110058141455131132": 1791940547886,
+    "https://twitter.com/trq212/status/2110035114432532654": 1791940547886,
+    "https://twitter.com/JeffDean/status/2109841404239417415": 1791940547886
   },
   "seenVideos": {},
   "seenArticles": {
@@ -242,8 +258,14 @@
     "https://simonwillison.net/2026/Oct/12/datasette-ports/": 1791860645239,
     "https://jack-clark.net/2026/10/12/import-ai-476-creativity-and-rsi-worse-than-china-open-weight-models-ai-goes-to-space/": 1791860645239,
     "https://lovable.dev/blog/eu-inference": 1791860645239,
-    "https://tomtunguz.com/bardia-shahali-office-hours/": 1791860645239
+    "https://tomtunguz.com/bardia-shahali-office-hours/": 1791860645239,
+    "https://stratechery.com/2026/spacex-buys-more-spectrum-musk-and-market-structure-distributed-cellular/": 1791940547887,
+    "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/": 1791940547887,
+    "https://simonwillison.net/2026/Oct/13/llm-gemini/": 1791940547887,
+    "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/": 1791940547887,
+    "https://tomtunguz.com/ai-in-practice-survey-2026/": 1791940547887,
+    "https://www.anthropic.com/engineering/redesigning-source-control": 1791940547887
   },
-  "lastRunKey": "2026-10-13",
-  "lastRunAt": "2026-10-13T03:04:05.245Z"
+  "lastRunKey": "2026-10-14",
+  "lastRunAt": "2026-10-14T01:15:47.891Z"
 }
