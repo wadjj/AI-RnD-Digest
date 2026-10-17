@@ -1,0 +1,285 @@
+{
+  "generatedAt": "2026-10-17T00:32:23.902Z",
+  "runKey": "2026-10-17",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Twitter @Thariq",
+      "tweets": [
+        {
+          "id": "https://twitter.com/trq212/status/2111226421804990757",
+          "text": "RT Anthony Morris ツ\nthanks for the feedback on the Claude Code Desktop launch this week. we'll continue to iterate based on feedback (yes, group by folder is coming back). our small team is grateful to be building for so many of you!",
+          "createdAt": "2026-10-16T21:55:40.503Z",
+          "url": "https://x.com/trq212/status/2111226421804990757",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Boris Cherny",
+      "handle": "bcherny",
+      "bio": "Twitter @Boris Cherny",
+      "tweets": [
+        {
+          "id": "https://twitter.com/bcherny/status/2111209976974999749",
+          "text": "RT ClaudeDevs\nWe keep improving performance across Claude, and you may have noticed it starts responding sooner!\n\nClaude Code now gzips the conversation it sends on every turn, so it reaches the model faster. Cloud sessions also start up as soon as you start typing.",
+          "createdAt": "2026-10-16T21:34:34.691Z",
+          "url": "https://x.com/bcherny/status/2111209976974999749",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/bcherny/status/2111207336551612623",
+          "text": "RT Claude\nSix projects from the last few weeks that caught our attention:\n\nA wildfire analysis prototype that maps the fire’s spread over time and tracks hot spots, made with Opus 5.5.",
+          "createdAt": "2026-10-16T19:29:54.063Z",
+          "url": "https://x.com/bcherny/status/2111207336551612623",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/bcherny/status/2111158659971699136",
+          "text": "Don't sleep on Claude Slides. This is how I make slide decks now -- no more googling \"iphone frame svg\" like the old days\n\nTry it: https://claude.ai/artifacts",
+          "createdAt": "2026-10-16T18:13:42.287Z",
+          "url": "https://x.com/bcherny/status/2111158659971699136",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Twitter @Ethan Mollick",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2111183137011077220",
+          "text": "Seriously, there is no way to algorithmically filter out the obvious AI slopreplies?\n\n---\n Ethan Mollick: The paper on how a team of Gemini 4 agents beat Minecraft is worth a look.\n\nIt is accessible example (partially because it is AI written) of spontaneous coordination among agents to accomplish a complicated goal & how their approach differs from humans/ https://arxiv.org/pdf/2610.22319",
+          "createdAt": "2026-10-16T19:50:58.083Z",
+          "url": "https://x.com/emollick/status/2111183137011077220",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/emollick/status/2111171225418408236\nEthan Mollick: The paper on how a team of Gemini 4 agents beat Minecraft is worth a look.\n\nIt is accessible example (partially because it is AI written) of spontaneous coordination among agents to accomplish a complicated goal & how their approach differs from humans/ https://arxiv.org/pdf/2610.22319"
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2111171225418408236",
+          "text": "The paper on how a team of Gemini 4 agents beat Minecraft is worth a look.\n\nIt is accessible example (partially because it is AI written) of spontaneous coordination among agents to accomplish a complicated goal & how their approach differs from humans/ https://arxiv.org/pdf/2610.22319",
+          "createdAt": "2026-10-16T19:03:38.274Z",
+          "url": "https://x.com/emollick/status/2111171225418408236",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2110937481621434532",
+          "text": "I couldn't help myself.\n\n---\n Ethan Mollick: Live the kind of life where the suggestions from Codex Composer Text Predictions are always wrong.",
+          "createdAt": "2026-10-16T03:34:49.217Z",
+          "url": "https://x.com/emollick/status/2110937481621434532",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/emollick/status/2110934183342440898\nEthan Mollick: Live the kind of life where the suggestions from Codex Composer Text Predictions are always wrong."
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Jeff Dean",
+      "handle": "JeffDean",
+      "bio": "Twitter @Jeff Dean",
+      "tweets": [
+        {
+          "id": "https://twitter.com/JeffDean/status/2111147597159415874",
+          "text": "Have a glimpse at this! Nice work, @AndrewDai and Elorian folks!\n---\n Andrew M. Dai: Spent years watching models ace a single image and completely whiff on anything that moves or changes angle. Today we’re fixing that.\n\nTry Glimpse now, our first visual thinking model with competitive frontier performance compared to Astra on key public visual reasoning",
+          "createdAt": "2026-10-16T17:29:45.478Z",
+          "url": "https://x.com/JeffDean/status/2111147597159415874",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/AndrewDai/status/2111142161584628060\nAndrew M. Dai: Spent years watching models ace a single image and completely whiff on anything that moves or changes angle. Today we’re fixing that.\n\nTry Glimpse now, our first visual thinking model with competitive frontier performance compared to Astra on key public visual reasoning"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Gostev",
+      "handle": "petergostev",
+      "bio": "Twitter @Peter Gostev",
+      "tweets": [
+        {
+          "id": "https://twitter.com/petergostev/status/2111096993686958240",
+          "text": "This is the highest signal bit of the interview with David Silver about @IneffableLabs intelligence approach. They are going all in on environments (aka crucibles) with 'emergent complexity' + RL.",
+          "createdAt": "2026-10-16T14:08:40.993Z",
+          "url": "https://x.com/petergostev/status/2111096993686958240",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Demis Hassabis",
+      "handle": "demishassabis",
+      "bio": "Twitter @Demis Hassabis",
+      "tweets": [
+        {
+          "id": "https://twitter.com/demishassabis/status/2111168805888266683",
+          "text": "RT Google DeepMind\nTogether with scientists around the world, our models and tools are helping make disease more detectable, treatable, and preventable. 🧬\n\nFrom pinpointing rare genetic variants to speeding up drug discovery, here’s how we’re helping turn lab breakthroughs into real-world care → https://goo.gle/4i48Cmr",
+          "createdAt": "2026-10-16T10:15:04.384Z",
+          "url": "https://x.com/demishassabis/status/2111168805888266683",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/demishassabis/status/2111087298666184977",
+          "text": "RT AshutoshShrivastava\n11 hours with Gemini 4 Argon, Google literally cooked with Gemini Argon. 🔥\nit's insane for building 3D stuff. A full Asuka-period Japanese pagoda temple, built in Blender and rendered in Cycles. The level of precision in everything is just crazy.",
+          "createdAt": "2026-10-16T05:57:47.290Z",
+          "url": "https://x.com/demishassabis/status/2111087298666184977",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2110971985417441512",
+          "text": "Either we are out of ideas or we are cooking. Time will tell",
+          "createdAt": "2026-10-16T05:51:55.419Z",
+          "url": "https://x.com/thsottiaux/status/2110971985417441512",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Anthony Morris ツ",
+      "handle": "amorriscode",
+      "bio": "Twitter @Anthony Morris ツ",
+      "tweets": [
+        {
+          "id": "https://twitter.com/amorriscode/status/2110905202387923372",
+          "text": "how much does it cost @elonmusk?",
+          "createdAt": "2026-10-16T01:26:33.876Z",
+          "url": "https://x.com/amorriscode/status/2110905202387923372",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
+      "url": "https://simonwillison.net/2026/Oct/16/code-review/",
+      "publishedAt": "2026-10-16T22:06:37.763Z",
+      "author": "",
+      "description": "We think \"did a human read the code?\" is an imprecise proxy for \"what could go wrong with this change, and which check—automated or human—is…",
+      "content": "We think \"did a human read the code?\" is an imprecise proxy for \"what could go wrong with this change, and which check—automated or human—is the right one to catch it?\"\n\n Asking that question also changed when review happens. Before, review was a gate at the end of the road: write the code, open a PR, wait for your colleague.\n\n Now, review runs continuously, more like spellcheck while you write. Most changes have been reviewed and fixed by Claude at least once before a human is asked to look. This catches most routine mistakes, and saves team attention for higher-level questions and scrutiny.\n\n — Addy Osmani, Morgan Westlee Lunt, and Qing Wang , How the Claude Code team does code review\n\n Tags: anthropic , claude , ai , claude-code , llms , addy-osmani , coding-agents , generative-ai , agentic-engineering , code-review"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "LaTeX renderer",
+      "url": "https://simonwillison.net/2026/Oct/15/latex/",
+      "publishedAt": "2026-10-15T02:07:28.531Z",
+      "author": "",
+      "description": "Tool: LaTeX renderer Inspired by Paul Ford and Aboard Foundary's new web app Tiny Little Office, which provides a suite of web app…",
+      "content": "Tool: LaTeX renderer\n\n Inspired by Paul Ford and Aboard Foundary's new web app Tiny Little Office , which provides a suite of web app content editors (a Word Processor, Outliner, Presentation Builder, Spreadsheet, Calculator, Drawing Tool, Diagram Maker, Animator, Calendar, and Trip Planner).\n\n Tiny Little Office's signature trick is to store all of the document data in the #fragment section of the URL, so every document created using it becomes a bookmarkable and shareable link.\n\n It also has an llms.txt file telling agents how to construct URLs that will render as documents. Claude used that file to generate this link to a deck that explains how the URL format works:\n\n Tiny Little Office inspired me to have Claude Code (Opus 5.5 Extra) build a similar tool that works with LaTeX. Here's the sequence of prompts I used:\n\n I want a tool where you can link to it with a fragment hash #code-here and it treats that code as LaTeX and renders it really effectively. It should also support a prefix which means the latex is compressed with a custom compression dictionary optimized for latex. Use the best available latex render library from a CDN (consider WebAssembly too). If loaded without a fragment hash show an editor you can paste latex into and then toggle to a \"rendered\" view. That rendered view should be bookmarkable. The #fragment view should let you switch to edit source too.\n\n Since it was working in my tools repo I told it to take inspiration from the mechanism used by my existing SVG in Markdown tool as protection against XSS risks:\n\n Safe from XSS? We could run in an iframe sandbox like we do on the SVG markdown render project\n\n I had it copy the Gist/URL loading feature from that tool as well:\n\n We should have an option to load latex from a URL (or gist) similar to the markdown SVG tool\n\n Here's an example link . The tool uses Pako 2.1.0 , MathJax 4.1.3 , faster-latex 0.3.1 , and DOMPurify 3.4.16 .\n\n Tags: latex , paul-ford , tools , urls , ai , generative-ai , llms"
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery by Ben Thompson",
+      "title": "2026.42: Home At Last",
+      "url": "https://stratechery.com/2026/home-at-last/",
+      "publishedAt": "2026-10-16T17:42:42.323Z",
+      "author": "Ben Thompson",
+      "description": "(X: @twostraws) Welcome back to This Week in Stratechery!\n\nAs a reminder, each week, every Friday, we’re sending out this overview of…",
+      "content": "( X: @twostraws )\n\n Welcome back to This Week in Stratechery!\n\n As a reminder, each week, every Friday, we’re sending out this overview of content in the Stratechery bundle; highlighted links are free for everyone . Additionally, you have complete control over what we send to you. If you don’t want to receive This Week in Stratechery emails (there is no podcast), please uncheck the box in your delivery settings .\n\n On that note, here were a few of our favorites this week.\n\n What is Apple Doing? On last week’s Dithering, John and I bemoaned Apple’s exit from home appliances in the 2010s; now the company is back and John doesn’t see the point . I think a big problem was Apple’s marketing video; after I explained what Apple was trying to accomplish on Sharp Tech Andrew was almost persuaded to go all in on HomeView. — Ben Thompson\n\n SpaceX Continues Eating and Expands Its Appetite.  Elon Musk and SpaceX have continued their spectrum buying spree, and in Tuesday’s update Ben broke down the implications of both the latest deal, as well as recent deals that mobile carriers (and airlines) have done to avoid reliance on SpaceX. This market’s dynamics are fascinating to me, and for SpaceX, what once looked like a play to become the de-facto provider of emergency satellite coverage among mobile providers now looks like a company that’s coming for primary cellular coverage. Come to read about the methods that could make that path viable, and stay to appreciate challenges that make it a quintessential Musk strategy.  — Andrew Sharp\n\n Titles, Takes, and the Washington Wizards.  The NBA season begins next Tuesday, and if you want to have a good time preparing this weekend, we’ve got you covered. First, Greatest of All Talk makes the case for eight different potential title winners (although I must warn you that our Knicks repeat case was extremely unconvincing) and runs down our favorite highlights from the preseason. Then, for Friday’s Sharp Text , I played the most dangerous game of all and expressed confidence the Washington Wizards (for the first time in a full decade) while also offering 18 more takes and predictions for the rest of the league. — AS\n\n---\n\n Stratechery Articles and Updates\n\n SpaceX Buys More Spectrum, Musk and Market Structure, Distributed Cellular — SpaceX’s mobile strategy is becoming clearly with its latest spectrum purchase, and it might work.\n\n Apple HomeView, The New Apple TV, The App Story — The Apple Homeview is official, and the question is how big is the addressable market for expensive devices based on subpar AI.\n\n A Conversation With Ari Emanuel About Entertainment and AI — A conversation with Hollywood super-agent Ari Emanuel about his memoir, the impact of AI on Hollywood, and the power of a phone call.\n\n Sharp Text by Andrew Sharp\n\n A Wizards Public Service Announcement and 18 More NBA Takes — Optimism in D.C. for the first time in a decade, plus predictions, a giant wild card, and Bet Your Mortgage Locks.\n\n Dithering with Ben Thompson and Daring Fireball’s John Gruber\n\n Meanness and Claude\n\n HomeView\n\n Asianometry with Jon Yu\n\n ASML’s New Multibeam Inspection Tool is Familiar\n\n IGBTs Took Silicon Power to the Next Level\n\n Sharp China with Andrew Sharp and Sinocism’s Bill Bishop\n\n Brussels and Beijing Make a Deal; Weak Holiday Spending Data; Xi’s Reported Rest Breaks; Peak Dove?\n\n Greatest of All Talk\n\n Tell Me Why They Will, Preseason Highlight Digest, Sizing Up a Loaded Northwest Division\n\n Sharp Tech with Andrew Sharp and Ben Thompson\n\n Apple Enters the Uncanny Valley, The SpaceX Play for Cellular, Q&A on The Ringer, Smartphones, AI Parenting\n\n This week’s Stratechery video is on Apple and a Hacker’s Future ."
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery",
+      "title": "Home At Last",
+      "url": "https://stratechery.com/2026/home-at-last/",
+      "publishedAt": "Fri, 16 Oct 2026 17:42:42 +0000",
+      "author": "Ben Thompson",
+      "description": "The best Stratechery content from the week of October 12, 2026, including what Apple is doing, SpaceX's appetite, and the title, takes, and the Washington Wizards.",
+      "content": "The best Stratechery content from the week of October 12, 2026, including what Apple is doing, SpaceX's appetite, and the title, takes, and the Washington Wizards.\n\n---\n\nListen to this Update in your podcast player\n\n---\n\n( X: @twostraws )\nWelcome back to This Week in Stratechery!\n\nAs a reminder, each week, every Friday, we’re sending out this overview of content in the Stratechery bundle; highlighted links are free for everyone . Additionally, you have complete control over what we send to you. If you don’t want to receive This Week in Stratechery emails (there is no podcast), please uncheck the box in your delivery settings .\n\nOn that note, here were a few of our favorites this week.\n\nWhat is Apple Doing? On last week’s Dithering, John and I bemoaned Apple’s exit from home appliances in the 2010s; now the company is back and John doesn’t see the point . I think a big problem was Apple’s marketing video; after I explained what Apple was trying to accomplish on Sharp Tech Andrew was almost persuaded to go all in on HomeView. — Ben Thompson\n\nSpaceX Continues Eating and Expands Its Appetite.  Elon Musk and SpaceX have continued their spectrum buying spree, and in Tuesday’s update Ben broke down the implications of both the latest deal, as well as recent deals that mobile carriers (and airlines) have done to avoid reliance on SpaceX. This market’s dynamics are fascinating to me, and for SpaceX, what once looked like a play to become the de-facto provider of emergency satellite coverage among mobile providers now looks like a company that’s coming for primary cellular coverage. Come to read about the methods that could make that path viable, and stay to appreciate challenges that make it a quintessential Musk strategy.  — Andrew Sharp\n\nTitles, Takes, and the Washington Wizards.  The NBA season begins next Tuesday, and if you want to have a good time preparing this weekend, we’ve got you covered. First, Greatest of All Talk makes the case for eight different potential title winners (although I must warn you that our Knicks repeat case was extremely unconvincing) and runs down our favorite highlights from the preseason. Then, for Friday’s Sharp Text , I played the most dangerous game of all and expressed confidence the Washington Wizards (for the first time in a full decade) while also offering 18 more takes and predictions for the rest of the league. — AS\n\n---\n\nStratechery Articles and Updates\n\nSpaceX Buys More Spectrum, Musk and Market Structure, Distributed Cellular — SpaceX’s mobile strategy is becoming clearly with its latest spectrum purchase, and it might work.\n\nApple HomeView, The New Apple TV, The App Story — The Apple Homeview is official, and the question is how big is the addressable market for expensive devices based on subpar AI.\n\nA Conversation With Ari Emanuel About Entertainment and AI — A conversation with Hollywood super-agent Ari Emanuel about his memoir, the impact of AI on Hollywood, and the power of a phone call.\n\nSharp Text by Andrew Sharp\n\nA Wizards Public Service Announcement and 18 More NBA Takes — Optimism in D.C. for the first time in a decade, plus predictions, a giant wild card, and Bet Your Mortgage Locks.\n\nDithering with Ben Thompson and Daring Fireball’s John Gruber\n\nMeanness and Claude\n\nHomeView\n\nAsianometry with Jon Yu\n\nASML’s New Multibeam Inspection Tool is Familiar\n\nIGBTs Took Silicon Power to the Next Level\n\nSharp China with Andrew Sharp and Sinocism’s Bill Bishop\n\nBrussels and Beijing Make a Deal; Weak Holiday Spending Data; Xi’s Reported Rest Breaks; Peak Dove?\n\nGreatest of All Talk\n\nTell Me Why They Will, Preseason Highlight Digest, Sizing Up a Loaded Northwest Division\n\nSharp Tech with Andrew Sharp and Ben Thompson\n\nApple Enters the Uncanny Valley, The SpaceX Play for Cellular, Q&A on The Ringer, Smartphones, AI Parenting\n\nThis week’s Stratechery video is on Apple and a Hacker’s Future .\n\n---\n\nAdd to your podcast player: Stratechery | Sharp Tech | Dithering | Sharp China | GOAT | Asianometry\n\n---"
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 8,
+    "totalTweets": 13,
+    "blogPosts": 4,
+    "podcastEpisodes": 0
+  }
+}

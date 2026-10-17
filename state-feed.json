@@ -1,21 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/karpathy/status/2105819303471976479": 1790905359929,
-    "https://twitter.com/demishassabis/status/2105829161440804963": 1790905359929,
-    "https://twitter.com/bcherny/status/2105756563302723721": 1790905359929,
-    "https://twitter.com/trq212/status/2105751275480752344": 1790905359929,
-    "https://twitter.com/trq212/status/2105734197801562264": 1790905359929,
-    "https://twitter.com/petergostev/status/2105720025734951399": 1790905359929,
-    "https://twitter.com/petergostev/status/2105670965720138132": 1790905359929,
-    "https://twitter.com/thsottiaux/status/2105718728658993153": 1790905359929,
-    "https://twitter.com/thsottiaux/status/2105672058269212820": 1790905359929,
-    "https://twitter.com/thsottiaux/status/2105519215092584786": 1790905359929,
-    "https://twitter.com/emollick/status/2105706777832767984": 1790905359929,
-    "https://twitter.com/emollick/status/2105618164944146786": 1790905359929,
-    "https://twitter.com/sleepinyourhat/status/2105722353032540607": 1790905359929,
-    "https://twitter.com/sleepinyourhat/status/2105721891856306669": 1790905359929,
-    "https://twitter.com/_sholtodouglas/status/2105662618904203321": 1790905359929,
-    "https://twitter.com/YiTayML/status/2105492078000320931": 1790905359929,
     "https://twitter.com/thsottiaux/status/2106131810921136451": 1790990017284,
     "https://twitter.com/thsottiaux/status/2105899634032025682": 1790990017284,
     "https://twitter.com/thsottiaux/status/2105862010521219406": 1790990017284,
@@ -195,12 +179,23 @@
     "https://twitter.com/thsottiaux/status/2110618732666257557": 1792110434581,
     "https://twitter.com/thsottiaux/status/2110595554036400151": 1792110434581,
     "https://twitter.com/amorriscode/status/2110598784690561270": 1792110434581,
-    "https://twitter.com/trq212/status/2110564027231568277": 1792110434581
+    "https://twitter.com/trq212/status/2110564027231568277": 1792110434581,
+    "https://twitter.com/trq212/status/2111226421804990757": 1792197143903,
+    "https://twitter.com/bcherny/status/2111209976974999749": 1792197143903,
+    "https://twitter.com/bcherny/status/2111207336551612623": 1792197143903,
+    "https://twitter.com/bcherny/status/2111158659971699136": 1792197143903,
+    "https://twitter.com/emollick/status/2111183137011077220": 1792197143903,
+    "https://twitter.com/emollick/status/2111171225418408236": 1792197143903,
+    "https://twitter.com/emollick/status/2110937481621434532": 1792197143903,
+    "https://twitter.com/JeffDean/status/2111147597159415874": 1792197143903,
+    "https://twitter.com/petergostev/status/2111096993686958240": 1792197143903,
+    "https://twitter.com/demishassabis/status/2111168805888266683": 1792197143903,
+    "https://twitter.com/demishassabis/status/2111087298666184977": 1792197143903,
+    "https://twitter.com/thsottiaux/status/2110971985417441512": 1792197143903,
+    "https://twitter.com/amorriscode/status/2110905202387923372": 1792197143903
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://stratechery.com/2026/an-interview-with-jason-del-rey-about-muse-amazon-and-walmart/": 1790905359929,
-    "https://simonwillison.net/2026/Oct/1/matthew-green/": 1790905359929,
     "https://stratechery.com/2026/dots-and-question-marks/": 1790990017285,
     "https://tomtunguz.com/grow-or-design-software/": 1790990017285,
     "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/": 1791074547324,
@@ -261,8 +256,11 @@
     "https://lovable.dev/blog/ai-models-and-tools-in-lovable": 1792110434582,
     "https://lovable.dev/blog/deploy-on-azure": 1792110434582,
     "https://lovable.dev/blog/financial-services-marketing-data-access-and-security": 1792110434582,
-    "https://stratechery.com/2026/a-conversation-with-ari-emanuel-about-entertainment-and-ai/": 1792110434583
+    "https://stratechery.com/2026/a-conversation-with-ari-emanuel-about-entertainment-and-ai/": 1792110434583,
+    "https://stratechery.com/2026/home-at-last/": 1792197143904,
+    "https://simonwillison.net/2026/Oct/16/code-review/": 1792197143904,
+    "https://simonwillison.net/2026/Oct/15/latex/": 1792197143904
   },
-  "lastRunKey": "2026-10-16",
-  "lastRunAt": "2026-10-16T00:27:14.587Z"
+  "lastRunKey": "2026-10-17",
+  "lastRunAt": "2026-10-17T00:32:23.909Z"
 }
