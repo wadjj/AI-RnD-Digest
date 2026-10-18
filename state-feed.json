@@ -1,17 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/thsottiaux/status/2106131810921136451": 1790990017284,
-    "https://twitter.com/thsottiaux/status/2105899634032025682": 1790990017284,
-    "https://twitter.com/thsottiaux/status/2105862010521219406": 1790990017284,
-    "https://twitter.com/trq212/status/2106119299484221762": 1790990017284,
-    "https://twitter.com/trq212/status/2105849295580889208": 1790990017284,
-    "https://twitter.com/emollick/status/2106111291014234462": 1790990017284,
-    "https://twitter.com/emollick/status/2106097018129227918": 1790990017284,
-    "https://twitter.com/emollick/status/2105842740533596201": 1790990017284,
-    "https://twitter.com/_sholtodouglas/status/2106093919708893526": 1790990017284,
-    "https://twitter.com/petergostev/status/2105947158872535461": 1790990017284,
-    "https://twitter.com/karpathy/status/2105909609487872075": 1790990017285,
-    "https://twitter.com/amorriscode/status/2105831586843533783": 1790990017285,
     "https://twitter.com/_sholtodouglas/status/2106501419323027638": 1791074547323,
     "https://twitter.com/thsottiaux/status/2106501204285239560": 1791074547323,
     "https://twitter.com/thsottiaux/status/2106439068557144179": 1791074547323,
@@ -192,12 +180,13 @@
     "https://twitter.com/demishassabis/status/2111168805888266683": 1792197143903,
     "https://twitter.com/demishassabis/status/2111087298666184977": 1792197143903,
     "https://twitter.com/thsottiaux/status/2110971985417441512": 1792197143903,
-    "https://twitter.com/amorriscode/status/2110905202387923372": 1792197143903
+    "https://twitter.com/amorriscode/status/2110905202387923372": 1792197143903,
+    "https://twitter.com/thsottiaux/status/2111566005684289735": 1792281911283,
+    "https://twitter.com/thsottiaux/status/2111495392559067199": 1792281911283,
+    "https://twitter.com/thsottiaux/status/2111492673890824348": 1792281911283
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://stratechery.com/2026/dots-and-question-marks/": 1790990017285,
-    "https://tomtunguz.com/grow-or-design-software/": 1790990017285,
     "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/": 1791074547324,
     "https://simonwillison.net/2026/Oct/3/newsletter/": 1791074547324,
     "https://simonwillison.net/2026/Oct/2/rex-s-dino-store/": 1791074547324,
@@ -261,6 +250,6 @@
     "https://simonwillison.net/2026/Oct/16/code-review/": 1792197143904,
     "https://simonwillison.net/2026/Oct/15/latex/": 1792197143904
   },
-  "lastRunKey": "2026-10-17",
-  "lastRunAt": "2026-10-17T00:32:23.909Z"
+  "lastRunKey": "2026-10-18",
+  "lastRunAt": "2026-10-18T00:05:11.289Z"
 }
