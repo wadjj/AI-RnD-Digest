@@ -1,0 +1,161 @@
+{
+  "generatedAt": "2026-10-19T00:13:22.015Z",
+  "runKey": "2026-10-19",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Twitter @Ethan Mollick",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2111925398548193574",
+          "text": "Given the acceleration Anthropic is reporting in coding, it is amazing that you still cannot change your email address in Claude and the official advice is that if you need to change your email the only way to do that is delete your account.",
+          "createdAt": "2026-10-18T21:00:27.689Z",
+          "url": "https://x.com/emollick/status/2111925398548193574",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2111884340955062274",
+          "text": "Developers are going to be a small part of total token usage over time, as the internal stats on usage at OpenAI and Anthropic both show. And for long-running high value tasks in areas where verification is harder, the benefits for higher \"intelligence\" models are quite large.\n---\n The Information: OpenAI, Anthropic and other leading AI labs face a growing challenge: Better models aren't necessarily attracting more usage. A 10-point intelligence advantage now earns just 20% more developer traffic, down from nearly 69% in late 2025.\n\nFull story: https://thein.fo/4hGJ9jY",
+          "createdAt": "2026-10-18T18:17:18.758Z",
+          "url": "https://x.com/emollick/status/2111884340955062274",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/theinformation/status/2111857344296390929\nThe Information: OpenAI, Anthropic and other leading AI labs face a growing challenge: Better models aren't necessarily attracting more usage. A 10-point intelligence advantage now earns just 20% more developer traffic, down from nearly 69% in late 2025.\n\nFull story: https://thein.fo/4hGJ9jY"
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2111858791939772731",
+          "text": "This doesn’t seem to be a very robust strategy in the era of AIs that can use your computer on your behalf.\n---\n Wise: notice..\n\n> Delta is blocking AI agents from booking flights\n> JPMorgan Chase and Charles Schwab block agents from accessing accounts\n> Yelp requires paid data licensing for agents\n> Amazon has blocked Grok bot and other shopping agents.\n\nthe internet is starting to block AI",
+          "createdAt": "2026-10-18T16:35:47.440Z",
+          "url": "https://x.com/emollick/status/2111858791939772731",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/trikcode/status/2111622265284546620\nWise: notice..\n\n> Delta is blocking AI agents from booking flights\n> JPMorgan Chase and Charles Schwab block agents from accessing accounts\n> Yelp requires paid data licensing for agents\n> Amazon has blocked Grok bot and other shopping agents.\n\nthe internet is starting to block AI"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Twitter @Tibo",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2111918768733753664",
+          "text": "People have escaped the TL and are asking me for resets on the street now. I’ll make little cards to hand out",
+          "createdAt": "2026-10-18T20:34:06.451Z",
+          "url": "https://x.com/thsottiaux/status/2111918768733753664",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2111849858374177222",
+          "text": "What’s cooking today",
+          "createdAt": "2026-10-18T16:00:17.695Z",
+          "url": "https://x.com/thsottiaux/status/2111849858374177222",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Twitter @Thariq",
+      "tweets": [
+        {
+          "id": "https://twitter.com/trq212/status/2111883082953547881",
+          "text": "I'm coming back to my game side project, and now that I feel confident in the theme, I want to revisit what the actual gameplay and hook is.\n\nIs it a 1v1 or 3v3 or single player? What if you could vibe code your own characters?\n\nhttps://x.com/trq212/status/2105333496768319969?s=46\n\n---\n Thariq: As a personal side project, I've been prototyping a video game.\n\nAs a former games founder, the process of making a game is deeply satisfying and creative, don't outsource that to AI. Use AI to work with you to bring your vision to life.\n\nHere's how I'm trying it:",
+          "createdAt": "2026-10-18T18:12:18.833Z",
+          "url": "https://x.com/trq212/status/2111883082953547881",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/trq212/status/2105333496768319969\nThariq: As a personal side project, I've been prototyping a video game.\n\nAs a former games founder, the process of making a game is deeply satisfying and creative, don't outsource that to AI. Use AI to work with you to bring your vision to life.\n\nHere's how I'm trying it:"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Gostev",
+      "handle": "petergostev",
+      "bio": "Twitter @Peter Gostev",
+      "tweets": [
+        {
+          "id": "https://twitter.com/petergostev/status/2111812696442069167",
+          "text": "The plan? Do enough resets to become the most popular account on X and make enough elonbucks to get rich\n\n---\n 🚨 AI News | TestingCatalog: According to Similarweb, @thsottiaux from OpenAI became the most popular account on X in September, outranking Elon Musk and others.\n\nResets and especially banked resets, in a combination with OpenAI DevDay comms are gaining an enormous amount of attention.\n\nAI slowly becomes a",
+          "createdAt": "2026-10-18T13:32:37.045Z",
+          "url": "https://x.com/petergostev/status/2111812696442069167",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/testingcatalog/status/2111791554310328816\n🚨 AI News | TestingCatalog: According to Similarweb, @thsottiaux from OpenAI became the most popular account on X in September, outranking Elon Musk and others.\n\nResets and especially banked resets, in a combination with OpenAI DevDay comms are gaining an enormous amount of attention.\n\nAI slowly becomes a"
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Inline rendering with document​.currentScript",
+      "url": "https://simonwillison.net/2026/Oct/17/document-currentscript/",
+      "publishedAt": "2026-10-17T21:11:12.837Z",
+      "author": "",
+      "description": "Inline rendering with document​.currentScript Lean Rada describes a neat trick that takes advantage of the document.currentScript property…",
+      "content": "Inline rendering with document​.currentScript\n\nLean Rada describes a neat trick that takes advantage of the document.currentScript property. You can use that to drop in a tiny inline\n\n If you define a shortcut function like this:\n\n $=(...n)=>document.currentScript.replaceWith(...n)\n\n You get a tiny template language:\n\n The year is\n\n Tags: javascript"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "web-edit 0.1a2",
+      "url": "https://simonwillison.net/2026/Oct/17/web-edit/",
+      "publishedAt": "2026-10-17T13:16:49.249Z",
+      "author": "",
+      "description": "Release: web-edit 0.1a2 web-edit (previously) is my tiny web app for browsing and editing files in a folder. I mainly built it for…",
+      "content": "Release: web-edit 0.1a2\n\n web-edit ( previously ) is my tiny web app for browsing and editing files in a folder. I mainly built it for editing files on different machines via Tailscale.\n\n I added a \"copy to clipboard\" option for both text and image data. I needed this because I was running pelican prompts on a laptop from my phone (here's DeepSeek 4.1 Flash 1017 ) and I wanted an easy way to copy the resulting logs into a Gist.\n\n Tags: projects , pelican-riding-a-bicycle , deepseek"
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 4,
+    "totalTweets": 7,
+    "blogPosts": 2,
+    "podcastEpisodes": 0
+  }
+}
