@@ -1,14 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/_sholtodouglas/status/2106892687156941303": 1791162032475,
-    "https://twitter.com/demishassabis/status/2106850913474482566": 1791162032475,
-    "https://twitter.com/thsottiaux/status/2106845241357824205": 1791162032475,
-    "https://twitter.com/thsottiaux/status/2106610099720720811": 1791162032475,
-    "https://twitter.com/thsottiaux/status/2106602729875685780": 1791162032476,
-    "https://twitter.com/emollick/status/2106768373736493399": 1791162032476,
-    "https://twitter.com/petergostev/status/2106765604711739623": 1791162032476,
-    "https://twitter.com/petergostev/status/2106672572586729764": 1791162032476,
-    "https://twitter.com/petergostev/status/2106664204967334151": 1791162032476,
     "https://twitter.com/emollick/status/2107248012208791839": 1791253223002,
     "https://twitter.com/emollick/status/2107227739048513628": 1791253223003,
     "https://twitter.com/emollick/status/2107203549059014739": 1791253223003,
@@ -182,7 +173,20 @@
     "https://twitter.com/thsottiaux/status/2111918768733753664": 1792368802016,
     "https://twitter.com/thsottiaux/status/2111849858374177222": 1792368802016,
     "https://twitter.com/trq212/status/2111883082953547881": 1792368802016,
-    "https://twitter.com/petergostev/status/2111812696442069167": 1792368802016
+    "https://twitter.com/petergostev/status/2111812696442069167": 1792368802016,
+    "https://twitter.com/emollick/status/2112332499917681028": 1792458387897,
+    "https://twitter.com/emollick/status/2112310600806072387": 1792458387897,
+    "https://twitter.com/emollick/status/2112289593286352976": 1792458387897,
+    "https://twitter.com/bcherny/status/2112304315566334005": 1792458387897,
+    "https://twitter.com/thsottiaux/status/2112268918681485431": 1792458387897,
+    "https://twitter.com/thsottiaux/status/2112039275344941371": 1792458387897,
+    "https://twitter.com/thsottiaux/status/2112034063934742720": 1792458387897,
+    "https://twitter.com/merettm/status/2112231743734579542": 1792458387897,
+    "https://twitter.com/markchen90/status/2112304368225845594": 1792458387897,
+    "https://twitter.com/trq212/status/2112219173288120531": 1792458387897,
+    "https://twitter.com/petergostev/status/2112171308620668971": 1792458387897,
+    "https://twitter.com/petergostev/status/2112129277399568587": 1792458387897,
+    "https://twitter.com/sleepinyourhat/status/2112025411563684134": 1792458387897
   },
   "seenVideos": {},
   "seenArticles": {
@@ -246,8 +250,13 @@
     "https://simonwillison.net/2026/Oct/16/code-review/": 1792197143904,
     "https://simonwillison.net/2026/Oct/15/latex/": 1792197143904,
     "https://simonwillison.net/2026/Oct/17/document-currentscript/": 1792368802016,
-    "https://simonwillison.net/2026/Oct/17/web-edit/": 1792368802016
+    "https://simonwillison.net/2026/Oct/17/web-edit/": 1792368802016,
+    "https://jack-clark.net/2026/10/19/import-ai-477-in-which-i-tell-the-imf-the-singularity-has-begun/": 1792458387898,
+    "https://stratechery.com/2026/do-you-trust-apple/": 1792458387899,
+    "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/": 1792458387899,
+    "https://simonwillison.net/2026/Oct/18/llm-echo/": 1792458387899,
+    "https://tomtunguz.com/what-if-they-are-all-clouds/": 1792458387899
   },
-  "lastRunKey": "2026-10-19",
-  "lastRunAt": "2026-10-19T00:13:22.020Z"
+  "lastRunKey": "2026-10-20",
+  "lastRunAt": "2026-10-20T01:06:27.905Z"
 }
