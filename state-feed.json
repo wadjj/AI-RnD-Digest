@@ -1,18 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/emollick/status/2107248012208791839": 1791253223002,
-    "https://twitter.com/emollick/status/2107227739048513628": 1791253223003,
-    "https://twitter.com/emollick/status/2107203549059014739": 1791253223003,
-    "https://twitter.com/_sholtodouglas/status/2107250862188060780": 1791253223003,
-    "https://twitter.com/_sholtodouglas/status/2106973064223408399": 1791253223003,
-    "https://twitter.com/bcherny/status/2107226867761865193": 1791253223003,
-    "https://twitter.com/bcherny/status/2107227891855700201": 1791253223003,
-    "https://twitter.com/thsottiaux/status/2107200530477101461": 1791253223003,
-    "https://twitter.com/thsottiaux/status/2107158998495748264": 1791253223003,
-    "https://twitter.com/trq212/status/2107192901537329354": 1791253223003,
-    "https://twitter.com/petergostev/status/2107175185317085498": 1791253223003,
-    "https://twitter.com/petergostev/status/2107063391886147755": 1791253223003,
-    "https://twitter.com/petergostev/status/2107049905407627334": 1791253223003,
     "https://twitter.com/polynoamial/status/2107599243867525149": 1791337010365,
     "https://twitter.com/demishassabis/status/2107583214432694756": 1791337010365,
     "https://twitter.com/demishassabis/status/2107538278530355437": 1791337010365,
@@ -186,15 +173,20 @@
     "https://twitter.com/trq212/status/2112219173288120531": 1792458387897,
     "https://twitter.com/petergostev/status/2112171308620668971": 1792458387897,
     "https://twitter.com/petergostev/status/2112129277399568587": 1792458387897,
-    "https://twitter.com/sleepinyourhat/status/2112025411563684134": 1792458387897
+    "https://twitter.com/sleepinyourhat/status/2112025411563684134": 1792458387897,
+    "https://twitter.com/emollick/status/2112656453685367004": 1792543174704,
+    "https://twitter.com/emollick/status/2112606017972515005": 1792543174704,
+    "https://twitter.com/emollick/status/2112590249033687078": 1792543174704,
+    "https://twitter.com/markchen90/status/2112628202594349139": 1792543174704,
+    "https://twitter.com/petergostev/status/2112609283254685941": 1792543174704,
+    "https://twitter.com/petergostev/status/2112589191628324867": 1792543174704,
+    "https://twitter.com/JeffDean/status/2112662164490350864": 1792543174704,
+    "https://twitter.com/thsottiaux/status/2112592264686149749": 1792543174705,
+    "https://twitter.com/thsottiaux/status/2112432076767289678": 1792543174705,
+    "https://twitter.com/_sholtodouglas/status/2112593702065742047": 1792543174705
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://stratechery.com/2026/apple-and-a-hackers-future/": 1791253215464,
-    "https://simonwillison.net/2026/Oct/5/felix-rieseberg/": 1791253223003,
-    "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/": 1791253223003,
-    "https://jack-clark.net/2026/10/05/import-ai-475-swarm-scaling-google-deepmind-watermarks-biology-and-the-ai-science-economy/": 1791253223004,
-    "https://tomtunguz.com/inference-is-the-most-important-market-in-software/": 1791253223004,
     "https://stratechery.com/2026/game-decompilation-is-this-legal-a-well-trodden-path/": 1791337010366,
     "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/": 1791337010366,
     "https://simonwillison.net/2026/Oct/6/victoria-kim/": 1791337010366,
@@ -255,8 +247,13 @@
     "https://stratechery.com/2026/do-you-trust-apple/": 1792458387899,
     "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/": 1792458387899,
     "https://simonwillison.net/2026/Oct/18/llm-echo/": 1792458387899,
-    "https://tomtunguz.com/what-if-they-are-all-clouds/": 1792458387899
+    "https://tomtunguz.com/what-if-they-are-all-clouds/": 1792458387899,
+    "https://simonwillison.net/2026/Oct/20/emudhra-certificates/": 1792543174705,
+    "https://simonwillison.net/2026/Oct/20/battledrones/": 1792543174705,
+    "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/": 1792543174705,
+    "https://lovable.dev/blog/enterprise-features-october-roundup": 1792543174705,
+    "https://stratechery.com/2026/muse-spark-open-meta-apple-thin-and-thick/": 1792543174705
   },
-  "lastRunKey": "2026-10-20",
-  "lastRunAt": "2026-10-20T01:06:27.905Z"
+  "lastRunKey": "2026-10-21",
+  "lastRunAt": "2026-10-21T00:39:34.711Z"
 }
