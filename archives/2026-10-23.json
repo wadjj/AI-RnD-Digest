@@ -1,0 +1,281 @@
+{
+  "generatedAt": "2026-10-23T00:42:35.072Z",
+  "runKey": "2026-10-23",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Twitter @Ethan Mollick",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2113361252173091114",
+          "text": "Very useful prompt for Codex with computer use.",
+          "createdAt": "2026-10-22T20:06:01.175Z",
+          "url": "https://x.com/emollick/status/2113361252173091114",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2113323645284344215",
+          "text": "When my first AI book was published in 2024, the best AI could do 4 minutes of human work with a 50% chance of success\n\nWhen I turned in the draft of Co-Existence earlier this year, it was 17 hours\n\nWhen it was published two days ago, AI could do 17 weeks https://open.substack.com/pub/oneusefulthing/p/30-months-on-the-exponential-in-charts?r=i5f7&utm_medium=ios",
+          "createdAt": "2026-10-22T17:36:35.353Z",
+          "url": "https://x.com/emollick/status/2113323645284344215",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Demis Hassabis",
+      "handle": "demishassabis",
+      "bio": "Twitter @Demis Hassabis",
+      "tweets": [
+        {
+          "id": "https://twitter.com/demishassabis/status/2113352276026990972",
+          "text": "Honoured to be featured in the @WSJ Innovators Issue. I’ve always believed in the power of human ingenuity to solve our hardest problems. I’m confident we can collectively navigate the potential challenges of frontier models and usher in a new golden age of scientific discovery!\n---\n The Wall Street Journal: From childhood prodigy to AI pioneer to Nobel Prize winner, Demis Hassabis has always had a simple plan. Step one, solve intelligence. Step two, solve everything else. 🔗 https://on.wsj.com/4i0Axoo",
+          "createdAt": "2026-10-22T19:30:21.521Z",
+          "url": "https://x.com/demishassabis/status/2113352276026990972",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/WSJ/status/2112884628520317426\nThe Wall Street Journal: From childhood prodigy to AI pioneer to Nobel Prize winner, Demis Hassabis has always had a simple plan. Step one, solve intelligence. Step two, solve everything else. 🔗 https://on.wsj.com/4i0Axoo"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Anthony Morris ツ",
+      "handle": "amorriscode",
+      "bio": "Twitter @Anthony Morris ツ",
+      "tweets": [
+        {
+          "id": "https://twitter.com/amorriscode/status/2113345272193679870",
+          "text": "so should i start using safari now or what?",
+          "createdAt": "2026-10-22T19:02:31.010Z",
+          "url": "https://x.com/amorriscode/status/2113345272193679870",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Boris Cherny",
+      "handle": "bcherny",
+      "bio": "Twitter @Boris Cherny",
+      "tweets": [
+        {
+          "id": "https://twitter.com/bcherny/status/2113333859907747871",
+          "text": "Agent Skills started as an experiment in Claude Code. Many across the industry have come to adopt it, so we at Anthropic found it more fitting to donate it to the @AgenticAIFdn, next to MCP.\n---\n ClaudeDevs: We're donating Agent Skills to the Agentic AI Foundation (@AgenticAIFdn), the same foundation we donated MCP to.\n\nSince December 2025, 70+ agent platforms have integrated the standard, including ChatGPT, Cursor, GitHub Copilot, and VS Code.\n\nHere's what that means for you:",
+          "createdAt": "2026-10-22T18:17:10.118Z",
+          "url": "https://x.com/bcherny/status/2113333859907747871",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/ClaudeDevs/status/2113328526413996100\nClaudeDevs: We're donating Agent Skills to the Agentic AI Foundation (@AgenticAIFdn), the same foundation we donated MCP to.\n\nSince December 2025, 70+ agent platforms have integrated the standard, including ChatGPT, Cursor, GitHub Copilot, and VS Code.\n\nHere's what that means for you:"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Greg Brockman",
+      "handle": "gdb",
+      "bio": "Twitter @Greg Brockman",
+      "tweets": [
+        {
+          "id": "https://twitter.com/gdb/status/2113325885491437764",
+          "text": "it's been great to work closely with Uber to roll out ChatGPT Work to every employee, bringing agentic capabilities to the whole company!\n---\n Praveen Neppalli: Great to host @gdb at @Uber HQ this week. We’ve worked closely with @gdb and the @OpenAI team for several years, and it’s remarkable how much has changed.\n\nThe first piece of work we did with ChatGPT years ago was with our support team, tinkering with a 4K context window :-).",
+          "createdAt": "2026-10-22T17:45:29.315Z",
+          "url": "https://x.com/gdb/status/2113325885491437764",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/praveenTweets/status/2113316320553169320\nPraveen Neppalli: Great to host @gdb at @Uber HQ this week. We’ve worked closely with @gdb and the @OpenAI team for several years, and it’s remarkable how much has changed.\n\nThe first piece of work we did with ChatGPT years ago was with our support team, tinkering with a 4K context window :-)."
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Gostev",
+      "handle": "petergostev",
+      "bio": "Twitter @Peter Gostev",
+      "tweets": [
+        {
+          "id": "https://twitter.com/petergostev/status/2113311962939715922",
+          "text": "ThursdAI - AI News & Chat https://x.com/i/broadcasts/1pKkOXlnDDNKj",
+          "createdAt": "2026-10-22T16:50:10.553Z",
+          "url": "https://x.com/petergostev/status/2113311962939715922",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/petergostev/status/2113260175155220903",
+          "text": "Opus is such an artist",
+          "createdAt": "2026-10-22T13:24:22.120Z",
+          "url": "https://x.com/petergostev/status/2113260175155220903",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/petergostev/status/2113160419787358398",
+          "text": "OK but it did not occur anyone maintaining PHP to do that?\n---\n Justin Elze: You’re all prompting wrong",
+          "createdAt": "2026-10-22T06:47:59.704Z",
+          "url": "https://x.com/petergostev/status/2113160419787358398",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/HackingLZ/status/2113025408975143080\nJustin Elze: You’re all prompting wrong"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Jeff Dean",
+      "handle": "JeffDean",
+      "bio": "Twitter @Jeff Dean",
+      "tweets": [
+        {
+          "id": "https://twitter.com/JeffDean/status/2113326221551644704",
+          "text": "RT Stephanie Zhan\nI’m starting a new early-stage AI fund, doing what I love: partnering with founders from company formation on bold bets, long before consensus.\n\nThe fund’s LPs will include Sequoia, Jeff Dean, Sachin Katti, Philip Wong (my Stanford professor and Chief Scientist adviser to TSMC), and others whose work has shaped our industry and how I think about AI’s future.\n\nI’ll remain a partner at Sequoia and keep serving on my boards on Sequoia’s behalf.\n\nSequoia has been my home for the past 11 years. I joined as the youngest investor the firm had ever hired. I grew up here. Through years of intense debate and shared work, I found lifelong mentors and friends who took me under their wing and taught me this craft. They taught me to aim high and take big swings. I’ll carry that into what I build: outsized ambition, relentless truth-seeking and curiosity, and a refusal to become complacent.\n\nWorking alongside founders has made me want to build something of my own: a firm shaped from day one around the convictions I’ve developed over the past decade.\n\nLife has taught me not to take time for granted. This is how I want to spend mine.\n\nWhy now\n\nWe’re seeing a new way of building companies in today’s AI era. Research and products often advance together. A breakthrough can open a market or accelerate a business far faster than expected. Some companies require extraordinary capital and compute early on. Others reach meaningful scale with remarkably small teams. The rules for how big these businesses can get, and how fast, are being rewritten.\n\nBut early on, the technology is unproven, the resources required enormous, and the vision seemingly implausible.\n\nThis is what I love most: seeing the potential right from the beginning, and helping founders realize their full scale of ambition.\n\nMore than ever, it starts with an extreme willingness to believe early, with bold, independent conviction in a founder’s technical insight before any product or market validation. Then, it means helping founders take the biggest swings, giving the rare, long-term patience to see those bets through uncertainty, ambiguity, and turbulence, and serving as a level head when the stakes are highest.\n\nI learned this kind of partnership at Sequoia. It’s the foundation of the firm I’m building.\n\nBelieving before consensus\n\nMy fascination with AI’s potential took root at Stanford in the early-to-mid 2010s, studying computer science and working in Andrew Ng’s lab. The friendships I formed connected me to a community whose people and ideas would help shape modern AI and build some of our generation’s defining companies. What stayed with me was the gap between what those people saw was possible and what the wider world could imagine.\n\nI’m drawn to founders pursuing ambitions that sound impossible today.\n\nI start with a simple question: “What if everything goes right?”\n\nThen we work backward together to make it happen.\n\nIn 2023, Deepak and Abhinav set out to build a general-purpose robot brain at @SkildAI, before physical AI was a consensus bet. Their sim-to-real breakthroughs gave me conviction where earlier robotics approaches had fallen short. But the data flywheel required deployment at scale. We made commercialization as urgent as research and brought in strategic partners like NVIDIA and SoftBank to support the ambition. Three years in, Skild is advancing the frontier of physical AI with nine figures in annualized revenue.\n\nIn 2024, Ioannis and Misha founded @reflection_ai with an insight into scaling reinforcement learning. As that grew into the ambition to build a Western frontier lab for open models, the hard question was how a startup competes with labs spending tens of billions. An introduction to NVIDIA and many compute calls and recruiting events later, the team has built Beam, now one of the leading US open models.\n\nIn 2025, Anna and Azalia, the co-creators of AlphaChip, founded @RicursiveAI to design models and hardware together. From day one, we made early customers and ecosystem partners a priority. Today, they are showing order-of-magnitude improvements on real workloads, working with some of the industry’s most consequential players, and reaching a defining inflection point.\n\nThe ambition keeps growing as these companies scale.\n\n@linear has always had a kind of magic to it. Now it’s the system a new generation of AI companies builds on, for teams and agents alike.\n\n@tavus saw early that we’d one day talk to AI the way we talk to each other. Today, it’s building the human computing interface for a world of AI colleagues.\n\n@Mach_Industries began as hydrogen experiments in an MIT dorm room. It has since become one of the most exciting next-generation defense companies.\n\nMaking the ambition possible\n\nBeing a first believer is only the beginning. Compute falls through. A deep-pocketed incumbent makes your mission its top priority. A breakthrough changes the opportunity and the capital required overnight.\n\nThese are stomach-churning moments, and early belief carries a responsibility to help make the bet work.\n\nThis is the partnership I love: turning the full ambition into concrete steps. Raising capital, securing compute and strategic partners, recruiting exceptional people, and winning the first customers together. Thinking several moves ahead while solving what’s in front of us. And as breakthroughs open new possibilities, helping founders dream even bigger.\n\nThank you\n\nTo the founders I’ve worked with: thank you for trusting me and Sequoia to be your first partner and first believer. It’s been the joy of a lifetime, and I can’t wait to keep building together.\n\nThank you to Alfred and Pat for your leadership of Sequoia and your support of my next chapter. To Roelof, for bringing me into Sequoia and believing in me from the beginning. Alfred and Roelof, you have been mentors in investing and in life. So much of what I know, and the investor I’ve become, comes from your guidance and generosity over the years. To Bill, for the close partnership and wealth of knowledge, always wrapped in humility. To Shaun, for showing me how to think deeply and imaginatively. To Michael Moritz, for inspiring 22-year-old me to dream big. To Doug, for teaching me to keep things simple. To Bogie and Jess, for bringing joy to the everyday and perspective on what matters. And to all my Sequoia teammates, for the friendship, camaraderie, and lessons I’ll carry with me.\n\nTo my family, especially my husband and my brother, who have each started companies of their own: thank you for giving me the courage to take this leap.\n\nLet’s get to work!",
+          "createdAt": "2026-10-22T16:15:14.835Z",
+          "url": "https://x.com/JeffDean/status/2113326221551644704",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Twitter @Tibo",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2113162277688070445",
+          "text": "Day 17/ Bet you thought we forgot, but no, it’s reset day today.\n\nAlso good time to remind you to get Daybreak Blue access, it only takes 15 mins and you don’t want to have to do it in the middle of an incident.",
+          "createdAt": "2026-10-22T06:55:22.830Z",
+          "url": "https://x.com/thsottiaux/status/2113162277688070445",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "DE STAAT - FREEDOM (Official Music Video)",
+      "url": "https://simonwillison.net/2026/Oct/22/de-staat-freedom/",
+      "publishedAt": "2026-10-22T19:42:26.148Z",
+      "author": "",
+      "description": "DE STAAT - FREEDOM (Official Music Video) OK well this is a first for me... at 00:44 in this new music video by Dutch alternative rock band…",
+      "content": "DE STAAT - FREEDOM (Official Music Video)\n\nOK well this is a first for me... at 00:44 in this new music video by Dutch alternative rock band De Staat :\n\n The visual effects are credited to Matties Grooten of Fake it or Leave it .\n\n Via flir on Hacker News\n\n Tags: music , ai , generative-ai , pelican-riding-a-bicycle"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Donating Agent Skills to the Agentic AI Foundation",
+      "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
+      "publishedAt": "2026-10-22T18:09:56.782Z",
+      "author": "",
+      "description": "Donating Agent Skills to the Agentic AI Foundation News today from Anthropic:\n\nWe’re committed to keeping Agent Skills open, community…",
+      "content": "Donating Agent Skills to the Agentic AI Foundation\n\nNews today from Anthropic:\n\n We’re committed to keeping Agent Skills open, community-driven, and vendor-neutral. Today, we are donating the standard to the Agentic AI Foundation (AAIF) under the Linux Foundation, which we co-founded with Block and OpenAI last year, and to which we donated the Model Context Protocol (MCP).\n\n I'm pleased to note I called this one last December , when Anthropic first declared skills to be an \"open standard\":\n\n I wouldn't be surprised to see this end up in the AAIF , recently the new home of the MCP specification.\n\n Fun side note: since my blog content is available to Claude via the datasette-mcp\nplugin I found that post by prompting Claude to \" Use simonwillison.net MCP to find if I ever talked about how I want skills to be donated to a standards body \".\n\n Tags: standards , ai , generative-ai , llms , anthropic , model-context-protocol , skills"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Quoting Armin Ronacher",
+      "url": "https://simonwillison.net/2026/Oct/22/armin-ronacher/",
+      "publishedAt": "2026-10-22T15:34:13.199Z",
+      "author": "",
+      "description": "As fun as AI is, we built so much bad software over the last 30 years, and now the universe is punishing us for our sins. — Armin Ronacher…",
+      "content": "As fun as AI is, we built so much bad software over the last 30 years, and now the universe is punishing us for our sins.\n\n — Armin Ronacher\n\n Tags: security , generative-ai , armin-ronacher , ai , ai-security-research , llms"
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery by Ben Thompson",
+      "title": "An Interview with Craig Moffett About SpaceX and Bubbles",
+      "url": "https://stratechery.com/2026/an-interview-with-craig-moffett-about-spacex-and-bubbles/",
+      "publishedAt": "2026-10-22T10:00:00.188Z",
+      "author": "Ben Thompson",
+      "description": "An interview with Craig Moffett about SpaceX, from launch to broadband to mobile, plus how he is applying the lessons of the dot-com bubble…",
+      "content": "An interview with Craig Moffett about SpaceX, from launch to broadband to mobile, plus how he is applying the lessons of the dot-com bubble to today."
+    },
+    {
+      "source": "blog",
+      "name": "OpenAI Engineering News",
+      "title": "What FDE means at OpenAI",
+      "url": "https://openai.com/index/forward-deployed-engineering-means",
+      "publishedAt": "2026-10-22T06:00:00.398Z",
+      "author": "",
+      "description": "What forward deployed engineering means at OpenAI",
+      "content": "What forward deployed engineering means at OpenAI"
+    },
+    {
+      "source": "blog",
+      "name": "Tomasz Tunguz",
+      "title": "Closing Eight Figure Deals in Two Weeks",
+      "url": "https://tomtunguz.com/closing-eight-figure-deals-in-two-weeks/",
+      "publishedAt": "2026-10-22T00:00:00.387Z",
+      "author": "",
+      "description": "There are two markets in AI : applications & infrastructure. Bardia Shahali has built sales teams both : first at Fireworks AI from roughly…",
+      "content": "There are two markets in AI : applications & infrastructure. Bardia Shahali has built sales teams both : first at Fireworks AI from roughly $3m to roughly $400m, & now VP of Sales at Granola.\n\n In our conversation at Office Hours earlier this week, 1 we talked about the differences in building modern sales organizations in each domain. Here are three takeaways :\n\n Watch the full conversation on YouTube : Office Hours with Bardia Shahali\n\n “You can close an eight-figure deal in two weeks.”\n\n At Fireworks, whose customers are AI-native companies growing at extraordinary rates, single deals can reach the tens of millions with a very fast sales cycle. The counterpoint is competition. Every inference provider chases the same accounts. The stakes are higher & the competition more intense.\n\n “But each rep, the quota they can carry is just multiples higher.”\n\n “We used to set like comp plans on an annual basis…Now we’re setting comp every quarter because things change so much from quarter to quarter.”\n\n Second, annual planning in an environment this dynamic can be a challenge : products evolve faster, model capabilities reach a new zenith every 45 days, 2 & the competitive landscape shifts quickly.\n\n “If you have a small team, then you’re not putting in the extra effort to go after, to do a little bit of outbound.”\n\n Last, the risk of understaffing is a lack of emphasis on outbound & expansion. At the infrastructure layer, FDEs (forward-deployed engineers) & SEs (sales engineers) pair with AEs (account executives) to invent new acronyms I need to define within parens. Still with me?\n\n In reality, they pair to deliver a highly complex product. At the application layer, the AE & CSM (customer success manager) deliver software similar to the previous era, but with higher productivity & typically faster adoption/expansion.\n\n There’s lots more to the 15 minute conversation : on-target earnings numbers in the AI era, on-boarding, burnout, usage-based pricing at the app layer. Watch the full episode here. Office Hours with Bardia Shahali\n\n I’m grateful to Bardia for sharing his insights at Office Hours!\n\n---\n\n Office Hours : The Leaner Sales Org with Bardia Shahali   ↩︎\n\n Model Release Exhaustion   ↩︎"
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 8,
+    "totalTweets": 11,
+    "blogPosts": 6,
+    "podcastEpisodes": 0
+  }
+}
