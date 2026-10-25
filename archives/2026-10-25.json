@@ -1,0 +1,183 @@
+{
+  "generatedAt": "2026-10-25T00:21:30.002Z",
+  "runKey": "2026-10-25",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Twitter @Tibo",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2114074885622501706",
+          "text": "DM if you want to help scale dots to 1B users and have done similar things in the past",
+          "createdAt": "2026-10-24T19:21:45.928Z",
+          "url": "https://x.com/thsottiaux/status/2114074885622501706",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2114030784625647855",
+          "text": "Saturday is for fixing bugs while sipping coffee. What are some great places to hangout in SF?",
+          "createdAt": "2026-10-24T16:26:30.887Z",
+          "url": "https://x.com/thsottiaux/status/2114030784625647855",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2113838156193894447",
+          "text": "The difference between having a tool and being a tool is subtle these days and it’s easy to accidentally build yourself into being a tool. Don’t be a tool.",
+          "createdAt": "2026-10-24T03:41:04.769Z",
+          "url": "https://x.com/thsottiaux/status/2113838156193894447",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Twitter @Thariq",
+      "tweets": [
+        {
+          "id": "https://twitter.com/trq212/status/2114082421012619611",
+          "text": "RT Alex Albert\nWe've got an amazing group of people on here who care deeply about our products and want to hear from you. If you ever have feedback, tag them:\n\nClaude Code\n@addyosmani\n@lydiahallie\n@_catwu\n@bcherny\n@sidbid\n@jarredsumner\n@adocomplete\n@delba_oliveira\n@connerphillippi\n@dickson_tsai\n@dmwlff\n\nChat/Cowork\n@felixrieseberg\n@TheAmolAvasare\n@RobertJBye\n@sean_t_strong\n\nDuet\n@ahuja_karan\n@gabemulley\n\nTag\n@noahzweben\n@ghodss\n\nAPI/Platform\n@RLanceMartin\n@cjav_dev\n@katelyn_lesse\n@_hi_mc\n@brada\n\nGeneral/Community\n@edwinarbus\n@sammcallister\n@_sholtodouglas\n(+ myself)",
+          "createdAt": "2026-10-24T17:54:23.273Z",
+          "url": "https://x.com/trq212/status/2114082421012619611",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/trq212/status/2113844051938054167",
+          "text": "I’ve left Anthropic after more than a year of working on Claude Code and seeing it scale larger than I ever imagined.\n\nI have really loved working at Ant and believe deeply in the mission, and most of all, the idea of a race to the top.\n\nThe idea that if we work hard and responsibly, we can raise the bar and inspire others to great outcomes. And if we all push each other to be better, things can be radically good. I will carry the spirit of this with me forever.\n\nMy colleagues at Anthropic are the most talented, thoughtful, competent, and earnest people I have ever met. I am glad they are at the wheel and trust them deeply.\n\nTo the community on X, thank you for everything. You’ve made this the most fun (and sometimes stressful) job I’ve ever had.\n\nFor me, it is time for a bit of a break before diving into something new.\n\nIf you want more excellent Claude Code content, you should follow @addyosmani , @lydiahallie, @_catwu, @ClaudeDevs and of course @bcherny who started it all.",
+          "createdAt": "2026-10-24T04:04:29.561Z",
+          "url": "https://x.com/trq212/status/2113844051938054167",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Twitter @Ethan Mollick",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2114001653879672877",
+          "text": "Without being overly credulous, we should be taking seemingly “out there” ideas about AI cybersecurity from the Labs more seriously. Examples: Anthropic was mocked for saying Mythos-level AI changed cyber & @polynoamial for saying that models would find novel ways to coordinate.\n---\n Andrew Curran: OpenAI red-teamed their hardened containment infrastructure by asking teams of frontier-model agents to try to break through its defenses. They easily escaped in novel ways. Quoting:\n\n'Our agents VM escapes showed why containment must extend beyond the sandbox. To test the",
+          "createdAt": "2026-10-24T14:30:45.568Z",
+          "url": "https://x.com/emollick/status/2114001653879672877",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/AndrewCurran_/status/2113717691420950973\nAndrew Curran: OpenAI red-teamed their hardened containment infrastructure by asking teams of frontier-model agents to try to break through its defenses. They easily escaped in novel ways. Quoting:\n\n'Our agents VM escapes showed why containment must extend beyond the sandbox. To test the"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Anthony Morris ツ",
+      "handle": "amorriscode",
+      "bio": "Twitter @Anthony Morris ツ",
+      "tweets": [
+        {
+          "id": "https://twitter.com/amorriscode/status/2113972174524674247",
+          "text": "Yesterday was my last day at Anthropic.\n\nI created Claude Code on desktop because I believe everyone can be a builder. Every feature request and bug report we got from this community was a gift that impacted millions of lives. I’m eternally grateful for those gifts, the product wouldn’t be what it is without you.\n\nAnthropic is doing some of the most important work of our time. Contributing to that mission will forever be a career highlight for me. I never imagined I’d get to contribute to something so special in my lifetime.\n\nWalking away from my best friends, a product I poured my heart into, and the mission was the hardest thing I’ve done in my career. But now I have some free time for GTA VI.\n\nI'm already itching to get back to addressing all your feedback. I'll share what's next soon!",
+          "createdAt": "2026-10-24T12:33:36.259Z",
+          "url": "https://x.com/amorriscode/status/2113972174524674247",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/amorriscode/status/2113826539771138315",
+          "text": "if you don’t care about the camera is the duo worth?",
+          "createdAt": "2026-10-24T02:54:54.560Z",
+          "url": "https://x.com/amorriscode/status/2113826539771138315",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Sebastian Raschka, PhD",
+      "title": "Building Reasoning Models from the Ground Up: A Full Video Course",
+      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+      "publishedAt": "2026-10-24T11:14:32.057Z",
+      "author": "",
+      "description": "Over 11 hours of coding videos on evaluation, inference-time scaling, reinforcement learning, and distillation, with Python and PyTorch.",
+      "content": "Over 11 hours of coding videos on evaluation, inference-time scaling, reinforcement learning, and distillation, with Python and PyTorch."
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "battledrones v14: Compass Rose, a four player map",
+      "url": "https://simonwillison.net/2026/Oct/24/battledrones/",
+      "publishedAt": "2026-10-24T03:59:57.389Z",
+      "author": "",
+      "description": "Release: battledrones v14: Compass Rose, a four player map I added four player online mode to Battledrones - previous maps were…",
+      "content": "Release: battledrones v14: Compass Rose, a four player map\n\n I added four player online mode to Battledrones - previous maps were limited to two.\n\n Here's the initial prompt I used:\n\n Add a new map for a four player battle - four way rotational symmetry, up to four AI players, works with the WebSocket non-audio based multiplayer mode so up to four human players can join (any spare slots use AI)\n\n Claude Opus 5.5 added a new map called \"Compass Rose\" and modified the WebSockets multiplayer network code to support up to four players for that map, joining via share links or QR codes.\n\n The new teams use robots themed in purple and green, joining the existing blue and red designs. You can preview those colors in the updated model browser .\n\n Here's a replay link to watch a four way AI battle with the \"Goliath Armada\" mutator turned on, where each side starts with four giant Goliath mech units.\n\n Tags: game-design , projects , claude"
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery",
+      "title": "2026.43: A New Era",
+      "url": "https://stratechery.com/",
+      "publishedAt": "Fri, 23 Oct 2026 17:00:00 +0000",
+      "author": "Ben Thompson",
+      "description": "The best Stratechery content from the week of October 19, 2026, including the best iPad but worst phone, SS Sarandos in a storm, and You Can See Everything.",
+      "content": "The best Stratechery content from the week of October 19, 2026, including the best iPad but worst phone, SS Sarandos in a storm, and You Can See Everything.\n\n---\n\nListen to this Update in your podcast player\n\n---\n\nWelcome back to This Week in Stratechery!\n\nThis week marks a new era for Stratechery, which is now presented by Stripe . I’m excited about what this partnership can unlock, starting with in-person on-video episodes of Sharp Tech. Check out the YouTube video above (or watch it on Stratechery ); and, for subscribers, look forward to a bonus episode showing up in your subscriber feed every Sunday morning (add your feed on sharptech.fm ).\n\nHere were a few of our favorite topics this week:\n\nThe Best iPad; The Worst Phone. John Gruber wrote a great review of the iPhone Duo, which we broke down on Dithering . In short, it’s an iPad that fits in your pocket, and it’s awesome at that; just don’t expect a good phone. Plus, on Monday we discussed Apple’s surprising partnership with Meta for edge AI, a topic I also covered in Tuesday’s Update . — Ben Thompson\n\nThe SS Sarandos in a Storm. The past week has seen a flood of bad news for Netflix: layoffs, executive departures, another disappointing round of earnings, and another hit to a share price that has taken a 40% hit over the past 12 months. Wednesday’s Update provides a comprehensive state of the union , and we doubled back on the topic for a fun conversation on this week’s Sharp Tech , where we divided the company’s problems into areas that can be fixed (the content) and what may be much trickier (growing the business in a world where Meta and YouTube are primary engagement competition). — Andrew Sharp\n\nYou Can See Everything, But Can’t Trust Anyone. Allow me to be the 1,000th person on the internet to recommend Nathan Fielder’s new Elizabeth Holmes documentary, You Can See Everything . After declaring on Sharp Tech last week that I wasn’t interested in seeing it, I did in fact check it out, and wound up loving it. I wrote about my experience on Sharp Text , with 5 spoiler-free notes for anyone still on the fence, and 5 more reactions for anyone who’s seen it. Compulsively watchable (and worth seeing in a theater), I think it may have also been the most effective document of our modern media environment I’ve ever seen. — AS\n\n---\n\nPresented by STRIPE\n\nIt’s kind of weird to be the Internet’s number one fan of ads. What makes it even weirder is that I have been the Internet’s number one fan of ads without actually having ads on Stratechery .\n\nThat second part is changing: I’m super excited to announce that Stripe is going to be the presenting sponsor of Stratechery. And, at the end of the day, for me it couldn’t be any other company.\n\nOne of my hangups in terms of advertising is that I take my ethics super seriously, and ultimately, if a company is helping pay the bills, it’s hard to be truly objective about them. What I realized, however, is that it’s hard for me to be objective about Stripe anyway. \n\nI wanted to be a professional blogger long before I started Stratechery; however, I thought I had missed my chance, particularly as it became clear that advertising was not a long term business model for a one-person site. However, when Stripe launched with support for recurring billing, I realized there was a better model: subscriptions. 13 years later, and I’m still a happy customer. Or, to put it another way, I’m already conflicted because I love Stripe. \n\nI’m not the only one: more than 5 million businesses use Stripe, accounting for 1.7% of global GDP. Moreover, a lot of those businesses are Internet native and accretive to the world’s economy, which is to say that Stripe is literally making the world a better place. That’s an easy company to get behind, especially since they have been behind Stratechery from the very beginning. — Ben Thompson\n\n---\n\nStratechery Articles and Updates\n\nDo You Trust Apple? — Apple has a lot of trust in terms of delivering integrated products and preserving privacy; the real trust question is if you think Siri AI will justify investing more in their ecosystem.\n\nMuse Spark Open, Meta + Apple, Thin and Thick — Meta has a new open source model, and to everyone’s surprise, they are are partnering with Apple to make sure you can run it locally.\n\nNetflix Earnings, Business or Franchise, Disney’s Deal — Netflix has a solid business, which is exactly the problem: the company increasingly seems like a business and not a franchise, at least in terms of growth.\n\nAn Interview with Craig Moffett About SpaceX and Bubbles — An interview with Craig Moffett about SpaceX, from launch to broadband to mobile, plus how he is applying the lessons of the dot-com bubble to today.\n\nSharp Text by Andrew Sharp\n\nYou Can See Everything (And It’s a Great Time) — Nathan Fielder’s movie lives up to the hype and captures the modern world better than any art in recent memory.\n\nDithering with Ben Thompson and Daring Fireball’s John Gruber\n\nApple + Meta AI\n\nThe Duo Review\n\nAsianometry with Jon Yu\n\nThe Birth & Rise of India’s IT Outsourcing Industry\n\nSharp China with Andrew Sharp and Sinocism’s Bill Bishop\n\nNew Export Controls in Multiple Sectors; Q3 GDP and the Fifth Plenum; Europe Presses Forward; OpenAI and Nvidia Chips\n\nGreatest of All Talk\n\nAday Mara and the OKC Woodchipper, An Emergency Celtics Panic Watch, Silver Appreciation(???) and Laker Dreams\n\nSharp Tech with Andrew Sharp and Ben Thompson\n\nNetflix Angst, The End of the Internet, Q&A on Meta’s VR Glasses, Anthropic Alignment, You Can See Everything\n\n---\n\nAdd to your podcast player: Stratechery | Sharp Tech | Dithering | Sharp China | GOAT | Asianometry\n\n---"
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 4,
+    "totalTweets": 8,
+    "blogPosts": 3,
+    "podcastEpisodes": 0
+  }
+}

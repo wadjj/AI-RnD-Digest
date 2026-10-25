@@ -1,13 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/trq212/status/2108689101503566319": 1791596820158,
-    "https://twitter.com/emollick/status/2108656704518762754": 1791596820158,
-    "https://twitter.com/emollick/status/2108652762904793360": 1791596820158,
-    "https://twitter.com/emollick/status/2108651646872068561": 1791596820158,
-    "https://twitter.com/thsottiaux/status/2108646052178092403": 1791596820158,
-    "https://twitter.com/thsottiaux/status/2108645667451318747": 1791596820158,
-    "https://twitter.com/JeffDean/status/2108558028589146602": 1791596820158,
-    "https://twitter.com/amorriscode/status/2108390944085328232": 1791596820159,
     "https://twitter.com/emollick/status/2108975457748341138": 1791680529234,
     "https://twitter.com/emollick/status/2108941060206633193": 1791680529234,
     "https://twitter.com/emollick/status/2108747396025041159": 1791680529234,
@@ -169,14 +161,18 @@
     "https://twitter.com/markchen90/status/2113675853934764068": 1792802755781,
     "https://twitter.com/petergostev/status/2113640846264263150": 1792802755781,
     "https://twitter.com/petergostev/status/2113636735687004671": 1792802755781,
-    "https://twitter.com/thsottiaux/status/2113492187770175603": 1792802755781
+    "https://twitter.com/thsottiaux/status/2113492187770175603": 1792802755781,
+    "https://twitter.com/thsottiaux/status/2114074885622501706": 1792887690003,
+    "https://twitter.com/thsottiaux/status/2114030784625647855": 1792887690003,
+    "https://twitter.com/thsottiaux/status/2113838156193894447": 1792887690003,
+    "https://twitter.com/trq212/status/2114082421012619611": 1792887690003,
+    "https://twitter.com/trq212/status/2113844051938054167": 1792887690003,
+    "https://twitter.com/emollick/status/2114001653879672877": 1792887690003,
+    "https://twitter.com/amorriscode/status/2113972174524674247": 1792887690003,
+    "https://twitter.com/amorriscode/status/2113826539771138315": 1792887690003
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/": 1791596820159,
-    "https://simonwillison.net/2026/Oct/9/matthew-green/": 1791596820159,
-    "https://simonwillison.net/2026/Oct/9/built-using-my-voice/": 1791596820159,
-    "https://stratechery.com/2026/its-not-you-its-me/": 1791596820159,
     "https://simonwillison.net/2026/Oct/10/the-new-york-times/": 1791680529235,
     "https://simonwillison.net/2026/Oct/9/ttok/": 1791680529235,
     "https://simonwillison.net/2026/Oct/8/ttok/": 1791680529235,
@@ -242,8 +238,11 @@
     "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/": 1792802755781,
     "https://openai.com/index/scaling-storage-one-billion-users-part-two": 1792802755781,
     "https://stratechery.com/2026/a-new-era/": 1792802755781,
-    "https://tomtunguz.com/how-large-is-the-ai-circle/": 1792802755781
+    "https://tomtunguz.com/how-large-is-the-ai-circle/": 1792802755781,
+    "https://stratechery.com/": 1792887686049,
+    "https://magazine.sebastianraschka.com/p/building-reasoning-models": 1792887690003,
+    "https://simonwillison.net/2026/Oct/24/battledrones/": 1792887690003
   },
-  "lastRunKey": "2026-10-24",
-  "lastRunAt": "2026-10-24T00:45:55.786Z"
+  "lastRunKey": "2026-10-25",
+  "lastRunAt": "2026-10-25T00:21:30.009Z"
 }
