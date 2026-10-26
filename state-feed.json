@@ -1,15 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/emollick/status/2108975457748341138": 1791680529234,
-    "https://twitter.com/emollick/status/2108941060206633193": 1791680529234,
-    "https://twitter.com/emollick/status/2108747396025041159": 1791680529234,
-    "https://twitter.com/petergostev/status/2108922354948796887": 1791680529234,
-    "https://twitter.com/petergostev/status/2108862530177413195": 1791680529234,
-    "https://twitter.com/petergostev/status/2108842387267088587": 1791680529234,
-    "https://twitter.com/thsottiaux/status/2108840070648397933": 1791680529234,
-    "https://twitter.com/thsottiaux/status/2108777962053292398": 1791680529234,
-    "https://twitter.com/thsottiaux/status/2108773703064657936": 1791680529235,
-    "https://twitter.com/trq212/status/2108802833986552174": 1791680529235,
     "https://twitter.com/karpathy/status/2109361546505966046": 1791768170592,
     "https://twitter.com/_sholtodouglas/status/2109363027787313307": 1791768170593,
     "https://twitter.com/trq212/status/2109329495341867391": 1791768170593,
@@ -169,13 +159,17 @@
     "https://twitter.com/trq212/status/2113844051938054167": 1792887690003,
     "https://twitter.com/emollick/status/2114001653879672877": 1792887690003,
     "https://twitter.com/amorriscode/status/2113972174524674247": 1792887690003,
-    "https://twitter.com/amorriscode/status/2113826539771138315": 1792887690003
+    "https://twitter.com/amorriscode/status/2113826539771138315": 1792887690003,
+    "https://twitter.com/gdb/status/2114483026608755082": 1792974373738,
+    "https://twitter.com/emollick/status/2114404221021778347": 1792974373738,
+    "https://twitter.com/emollick/status/2114337256865493250": 1792974373738,
+    "https://twitter.com/petergostev/status/2114319345115431224": 1792974373738,
+    "https://twitter.com/karpathy/status/2114384346815820050": 1792974373738,
+    "https://twitter.com/thsottiaux/status/2114237083652882932": 1792974373738,
+    "https://twitter.com/thsottiaux/status/2114200152701575656": 1792974373738
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://simonwillison.net/2026/Oct/10/the-new-york-times/": 1791680529235,
-    "https://simonwillison.net/2026/Oct/9/ttok/": 1791680529235,
-    "https://simonwillison.net/2026/Oct/8/ttok/": 1791680529235,
     "https://simonwillison.net/2026/Oct/11/dwarf-fortress/": 1791768170593,
     "https://simonwillison.net/2026/Oct/10/python-actions/": 1791768170593,
     "https://stratechery.com/2026/personal-day-4/": 1791860645239,
@@ -243,6 +237,6 @@
     "https://magazine.sebastianraschka.com/p/building-reasoning-models": 1792887690003,
     "https://simonwillison.net/2026/Oct/24/battledrones/": 1792887690003
   },
-  "lastRunKey": "2026-10-25",
-  "lastRunAt": "2026-10-25T00:21:30.009Z"
+  "lastRunKey": "2026-10-26",
+  "lastRunAt": "2026-10-26T00:26:13.742Z"
 }

@@ -1,0 +1,148 @@
+{
+  "generatedAt": "2026-10-26T00:26:13.737Z",
+  "runKey": "2026-10-26",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Greg Brockman",
+      "handle": "gdb",
+      "bio": "Twitter @Greg Brockman",
+      "tweets": [
+        {
+          "id": "https://twitter.com/gdb/status/2114483026608755082",
+          "text": "“On a technical level, the paper is unbelievable, maybe beyond what a human could have come up with but not beyond human understanding”\n---\n Scott Armstrong: Since I'm now blocked by bluey from replying to this thread, I answer here by quote tweet\n\nthe openAI construction has more to do with convex integration than anything else.\n\nIn convex integration, the oscillations are typically built by hand and the iteration procedure creates",
+          "createdAt": "2026-10-25T22:23:33.181Z",
+          "url": "https://x.com/gdb/status/2114483026608755082",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/scottnarmstrong/status/2114412308185100522\nScott Armstrong: Since I'm now blocked by bluey from replying to this thread, I answer here by quote tweet\n\nthe openAI construction has more to do with convex integration than anything else.\n\nIn convex integration, the oscillations are typically built by hand and the iteration procedure creates"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Twitter @Ethan Mollick",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2114404221021778347",
+          "text": "The website for my book redone with Opus 5.5. The initial version (made with Opus 4.8) required a lot of work to make a distinctive-looking static site. Now Opus mostly did this alone. We have come a long way from generic ClaudeDesign in a very short time. https://co-existence.ai/",
+          "createdAt": "2026-10-25T17:10:24.476Z",
+          "url": "https://x.com/emollick/status/2114404221021778347",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2114337256865493250",
+          "text": "A thing I see happening at large organizations as a result of AI is the expansion of the role and span of control of senior management who can directly monitor the whole firm. It vastly changes company operations. It also is straightforward to implement compared to firm redesign.",
+          "createdAt": "2026-10-25T12:44:19.610Z",
+          "url": "https://x.com/emollick/status/2114337256865493250",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Gostev",
+      "handle": "petergostev",
+      "bio": "Twitter @Peter Gostev",
+      "tweets": [
+        {
+          "id": "https://twitter.com/petergostev/status/2114319345115431224",
+          "text": "This safety washing crap is going too far, I want an agent where I will never have to click an 'approve' button ever again",
+          "createdAt": "2026-10-25T11:33:08.033Z",
+          "url": "https://x.com/petergostev/status/2114319345115431224",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Andrej Karpathy",
+      "handle": "karpathy",
+      "bio": "Twitter @Andrej Karpathy",
+      "tweets": [
+        {
+          "id": "https://twitter.com/karpathy/status/2114384346815820050",
+          "text": "RT Tristan\nIf you've ever wondered why smart TVs are so cheap, this is why.\n\n@log4j rooted his Samsung and found an always-on hot mic, automatic content recognition, geolocation, network mapping, ad targeting and user profiling, shared with Samsung's \"400 partners\".\n\nA lot of it can be blocked in\n\n---\n log4j: i own a relatively new (2025) samsung tv.\n\ni kept getting weirdly targeted ads.\n\ni tried reversing the firmware but it was aes encrypted and no keys unless tear it apart and do uart/jtag magic.\n\nzero days it is. root shell on new samsung TVs!\n\ndiscovered PRIVACY HORROR. write up?",
+          "createdAt": "2026-10-25T11:00:01.073Z",
+          "url": "https://x.com/karpathy/status/2114384346815820050",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Twitter @Tibo",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2114237083652882932",
+          "text": "It is all propagated. Enjoy some mad codexing tomorrow. Fun week ahead too.\n\n---\n Tibo: By midnight PST",
+          "createdAt": "2026-10-25T06:06:16.036Z",
+          "url": "https://x.com/thsottiaux/status/2114237083652882932",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/thsottiaux/status/2114200291319124163\nTibo: By midnight PST"
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2114200152701575656",
+          "text": "Day 20/ Rest and reset",
+          "createdAt": "2026-10-25T03:39:31.629Z",
+          "url": "https://x.com/thsottiaux/status/2114200152701575656",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    }
+  ],
+  "blogs": [],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 5,
+    "totalTweets": 7,
+    "blogPosts": 0,
+    "podcastEpisodes": 0
+  }
+}
