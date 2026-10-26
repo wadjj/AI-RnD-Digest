@@ -9,6 +9,7 @@ import { existsSync } from "fs";
 import { mkdir, readFile, readdir, rm, writeFile } from "fs/promises";
 import { join } from "path";
 import { promisify } from "util";
+import { articleKey, preferFullArticles } from "./article-identity.js";
 import {
   assertNoPrivateRssLeaks,
   fetchPrivateRssBlogs,
@@ -53,7 +54,7 @@ async function loadState() {
   return {
     seenTweets: state.seenTweets || {},
     seenVideos: state.seenVideos || {},
-    seenArticles: state.seenArticles || {},
+    seenArticles: Object.fromEntries(Object.entries(state.seenArticles || {}).map(([key, seenAt]) => [articleKey({ url: key }), seenAt])),
     lastRunKey: state.lastRunKey || null,
     lastRunAt: state.lastRunAt || null,
   };
@@ -140,7 +141,7 @@ function mergeArchives(existing, incoming) {
     runKey: incoming.runKey,
     source: incoming.source || existing.source,
     x: mergeXAccounts(existing.x || [], incoming.x || []),
-    blogs: mergeUniqueItems(existing.blogs || [], incoming.blogs || []),
+    blogs: preferFullArticles([...(existing.blogs || []), ...(incoming.blogs || [])]),
     podcasts: mergeUniqueItems(existing.podcasts || [], incoming.podcasts || []),
     errors: [...(existing.errors || []), ...(incoming.errors || [])].length
       ? [...(existing.errors || []), ...(incoming.errors || [])]
@@ -367,10 +368,6 @@ function tweetKey(entry) {
   return entry.guid || entry.url || entry.id;
 }
 
-function articleKey(entry) {
-  return entry.url || entry.guid || entry.id;
-}
-
 function quoteContext(entry, maxChars) {
   const links = entry.extra?.links || [];
   const quotes = links.filter((link) => link.type === "quote");
@@ -561,7 +558,7 @@ function buildBlogFeed(groups, hydratedById, config, state, ignoreState) {
       if (!ignoreState && key) state.seenArticles[key] = nowMs();
     }
   }
-  return blogs;
+  return preferFullArticles(blogs);
 }
 
 function buildPodcastFeed(config) {

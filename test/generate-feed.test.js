@@ -144,6 +144,35 @@ function emptyArchive(runKey) {
   };
 }
 
+test("generate keeps the full article when two Folo feeds publish the same URL", () => {
+  const root = makeRoot();
+  try {
+    const summary = blog("summary", "https://magazine.sebastianraschka.com/p/article");
+    const full = blog("full", summary.entries.url);
+    full.feeds.id = "ahead-of-ai";
+    full.entries.content = "Full newsletter content. ".repeat(100);
+    const result = runGenerate(root, { entries: [summary, full], args: ["--ignore-state"] });
+    assert.equal(result.status, 0, result.stderr);
+    const archive = readJSON(join(root, "archives", "2026-06-09.json"));
+    assert.equal(archive.blogs.length, 1);
+    assert.equal(archive.blogs[0].content, full.entries.content.trim());
+  } finally {
+    rmSync(root, { recursive: true, force: true });
+  }
+});
+
+test("generate recognizes seen Anthropic articles under their migrated URL", () => {
+  const root = makeRoot();
+  try {
+    writeJSON(join(root, "state-feed.json"), { seenArticles: { "https://www.anthropic.com/engineering/example": Date.parse("2026-06-08T00:00:00Z") } });
+    const result = runGenerate(root, { entries: [blog("migrated", "https://www.anthropic.com/research/example")] });
+    assert.equal(result.status, 0, result.stderr);
+    assert.equal(readJSON(join(root, "archives", "2026-06-09.json")).blogs.length, 0);
+  } finally {
+    rmSync(root, { recursive: true, force: true });
+  }
+});
+
 test("generate writes a daily archive and prunes index to the latest seven archives", () => {
   const root = makeRoot();
   try {
