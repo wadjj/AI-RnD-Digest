@@ -1,0 +1,279 @@
+{
+  "generatedAt": "2026-10-28T01:26:16.885Z",
+  "runKey": "2026-10-28",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Demis Hassabis",
+      "handle": "demishassabis",
+      "bio": "Twitter @Demis Hassabis",
+      "tweets": [
+        {
+          "id": "https://twitter.com/demishassabis/status/2115232001275924722",
+          "text": "Very excited to share Genie 4, our incredible interactive world model, bringing together real-time physics, reasoning, and audio! Simulations within simulations, makes you wonder just how deep the rabbit hole goes... I have a feeling we will be finding out soon enough...\n---\n Google DeepMind: This is Genie 4, our most realistic and interactive world model yet. 🌐\n\nExplore dynamic environments in real time to see how the scene responds, sounds, and how the people in it move, react, and speak.",
+          "createdAt": "2026-10-27T23:59:42.314Z",
+          "url": "https://x.com/demishassabis/status/2115232001275924722",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/GoogleDeepMind/status/2115114028338962672\nGoogle DeepMind: This is Genie 4, our most realistic and interactive world model yet. 🌐\n\nExplore dynamic environments in real time to see how the scene responds, sounds, and how the people in it move, react, and speak."
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Twitter @Ethan Mollick",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2115209786157412397",
+          "text": "Important, but not unexpected, finding that experts working with AI agents are swayed by the positions of the AI, even if they think they are working independently.\n\nIf your independent judgement matters on a task, you need to be deliberate about when in the process to use AI.\n\n---\n Alex Tamkin: The agent was told to make the best honest case for its options, but to change its mind if the evidence required it, and never to mislead the analysts.\n\nAnalysts went with the agent's lean 86% of the time. If the agent's lean had no effect, we'd expect this to be 50%.",
+          "createdAt": "2026-10-27T22:31:26.397Z",
+          "url": "https://x.com/emollick/status/2115209786157412397",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/AlexTamkin/status/2115190544905433315\nAlex Tamkin: The agent was told to make the best honest case for its options, but to change its mind if the evidence required it, and never to mislead the analysts.\n\nAnalysts went with the agent's lean 86% of the time. If the agent's lean had no effect, we'd expect this to be 50%."
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2115150629836632473",
+          "text": "The repeated argument that AI companies are talking about existential risks as a way of creating hype & inflating their stock prices has always been odd.\n\nTelling people your product may murder everyone does not, in fact, encourage people to adopt it or reduce regulatory risks.\n---\n Cody Fenwick: Wow, I'm really disappointed by this superficial and frankly unprofessional piece in @CJR.\n\nThere are many significant problems:\n\n1. Calling frontier AI systems \"autocomplete machines\" is false and misleading. I don't know how we're still having this discussion in at the point",
+          "createdAt": "2026-10-27T18:36:22.980Z",
+          "url": "https://x.com/emollick/status/2115150629836632473",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/codytfenwick/status/2114941993897828365\nCody Fenwick: Wow, I'm really disappointed by this superficial and frankly unprofessional piece in @CJR.\n\nThere are many significant problems:\n\n1. Calling frontier AI systems \"autocomplete machines\" is false and misleading. I don't know how we're still having this discussion in at the point"
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2115127527241085010",
+          "text": "Genie 4 runs DOOM: \"Walking through a typical office but every computer is running DOOM and all of the walls are also running DOOM and also everything is DOOM\"\n\n\"My coworker who is a demon appears\"\n\n\"He has a chaingun\"\n\n\"He gives me a bonus\"",
+          "createdAt": "2026-10-27T17:04:34.140Z",
+          "url": "https://x.com/emollick/status/2115127527241085010",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Twitter @Thariq",
+      "tweets": [
+        {
+          "id": "https://twitter.com/trq212/status/2115205259090153957",
+          "text": "RT Felix Rieseberg\nThe coding interview is dead, at least for my team at Anthropic. I've seen enough to know that it no longer provides signal. I removed it from loops this month.\n\nI have a spicy, optimistic take - I think there's an opportunity for junior engineers: https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/",
+          "createdAt": "2026-10-27T21:56:30.519Z",
+          "url": "https://x.com/trq212/status/2115205259090153957",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/trq212/status/2115188992861970693",
+          "text": "feels like there needs to be a new way to distribute opensource software such that people can modify via agents but also get upstream automatically merged in\n\ncoding agents can do this but they won’t do it automatically\n---\n Thariq: experimenting with a lil personal project: an AI-native macOS dock with custom modes (writing, building, etc.) to help me stay focused\n\nmy agent is able to customize mode behavior and add new modes, it uses jev to classify my activity + notifications in real time & act on them",
+          "createdAt": "2026-10-27T21:08:48.009Z",
+          "url": "https://x.com/trq212/status/2115188992861970693",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/trq212/status/2115135857669881939\nThariq: experimenting with a lil personal project: an AI-native macOS dock with custom modes (writing, building, etc.) to help me stay focused\n\nmy agent is able to customize mode behavior and add new modes, it uses jev to classify my activity + notifications in real time & act on them"
+        },
+        {
+          "id": "https://twitter.com/trq212/status/2115135857669881939",
+          "text": "experimenting with a lil personal project: an AI-native macOS dock with custom modes (writing, building, etc.) to help me stay focused\n\nmy agent is able to customize mode behavior and add new modes, it uses jev to classify my activity + notifications in real time & act on them",
+          "createdAt": "2026-10-27T17:37:40.054Z",
+          "url": "https://x.com/trq212/status/2115135857669881939",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Gostev",
+      "handle": "petergostev",
+      "bio": "Twitter @Peter Gostev",
+      "tweets": [
+        {
+          "id": "https://twitter.com/petergostev/status/2115194740329119925",
+          "text": "Dating in SF is crazy\n---\n Yuchen Jin: The real 1-person billion-dollar company.\n\nA solo smart, high-agency CEO + AI can have an outsized impact on the world.",
+          "createdAt": "2026-10-27T21:31:39.765Z",
+          "url": "https://x.com/petergostev/status/2115194740329119925",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/Yuchenj_UW/status/2115181727182463427\nYuchen Jin: The real 1-person billion-dollar company.\n\nA solo smart, high-agency CEO + AI can have an outsized impact on the world."
+        },
+        {
+          "id": "https://twitter.com/petergostev/status/2115085935285248010",
+          "text": "We are really underestimating how efficient inference is at big labs. Anthropic's gross margin is 85%, so it costs them $0.60 / $3.00 to serve Opus 5.5.\n\nThis is less than what OpenAI is charging for 6.1 Terra and much less than Muse, Gemini, Kimi etc.",
+          "createdAt": "2026-10-27T14:19:18.949Z",
+          "url": "https://x.com/petergostev/status/2115085935285248010",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Jeff Dean",
+      "handle": "JeffDean",
+      "bio": "Twitter @Jeff Dean",
+      "tweets": [
+        {
+          "id": "https://twitter.com/JeffDean/status/2115162936817934797",
+          "text": "RT Museum of Ancient Greek Technology\nThank you, @JeffDean , for visiting us in Athens and sharing your experience. We’ve since added new ways to explore the mechanisms online:\nhttps://interactive.kotsanas.com/lab/\n---\n Jeff Dean: If you're ever in Athens, I highly recommend the Museum of Ancient Greek Technology!\n\nhttps://maps.app.goo.gl/sngwM98ueKkrooVy5\n\nEarly humanoid robots to pour water+wine, demonstrations of heat+steam+water weight to \"magically\" open 500 kg temple doors, armor, ...\n(cont)",
+          "createdAt": "2026-10-27T17:35:43.195Z",
+          "url": "https://x.com/JeffDean/status/2115162936817934797",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/JeffDean/status/2115100684211359767",
+          "text": "RT Axiom\nThe largest math proof in human history is now computer-verified.\n\nToday, Axiom announces a complete Lean auto-formalization of the Classification of Finite Simple Groups, the \"periodic table of symmetry.\"\n\nAbout 15,000 pages, built by over 100 mathematicians across generations.",
+          "createdAt": "2026-10-27T14:34:38.252Z",
+          "url": "https://x.com/JeffDean/status/2115100684211359767",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/JeffDean/status/2114939835077304544",
+          "text": "Communicating effectively about science is really important. It's nice to see these amazing journalists recognized for their effectiveness at bringing scientific topics to life for broader audiences!\n---\n SciComm Excellence: Congratulations to the 2026 winners of the National Academies Eric and Wendy Schmidt Awards for Excellence in Science Communications given by @theNASEM in partnership with @schmidtsciences!\n\nLearn more about the winners: https://www.nationalacademies.org/news/national-academies-announce-2026-winners-of-eric-and-wendy-schmidt-awards-for-excellence-in-science-communications-640-000-awarded #scicomm",
+          "createdAt": "2026-10-27T04:38:45.219Z",
+          "url": "https://x.com/JeffDean/status/2114939835077304544",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/SciCommAwards/status/2114734124057690244\nSciComm Excellence: Congratulations to the 2026 winners of the National Academies Eric and Wendy Schmidt Awards for Excellence in Science Communications given by @theNASEM in partnership with @schmidtsciences!\n\nLearn more about the winners: https://www.nationalacademies.org/news/national-academies-announce-2026-winners-of-eric-and-wendy-schmidt-awards-for-excellence-in-science-communications-640-000-awarded #scicomm"
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Game Boy Color on My Conference Badge",
+      "url": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/",
+      "publishedAt": "2026-10-27T19:34:18.467Z",
+      "author": "",
+      "description": "Game Boy Color on My Conference Badge I'm at GitHub Universe this week and, similar to last year, the conference badge is a full-blown color…",
+      "content": "Game Boy Color on My Conference Badge\n\nI'm at GitHub Universe this week and, similar to last year , the conference badge is a full-blown color screen computer.\n\n I've been hacking around with it again, and then I ran into with Steve Francia... who worked with Gemini to get a full NES emulator working on it, and then went a step further and deployed an emulator for both the Game Boy and the Game Boy Color.\n\n Which means, if you can obtain the ROM, you can run The Legend of Zelda: Link's Awakening on your conference badge!\n\n A neat feature of the badge is that you can turn it upside down and then use game controller touch buttons that are built into the badge body.\n\n Tags: games , github , hardware-hacking , ai , generative-ai , llms , gemini , steve-francia"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Seam Cutter",
+      "url": "https://simonwillison.net/2026/Oct/25/seam-cutter/",
+      "publishedAt": "2026-10-25T15:10:19.180Z",
+      "author": "",
+      "description": "Tool: Seam Cutter I built this weird and very specific cropping tool - it lets you create a horizontal or vertical cut across an…",
+      "content": "Tool: Seam Cutter\n\n I built this weird and very specific cropping tool - it lets you create a horizontal or vertical cut across an image, then slide the two sides relative to each other. Effectively it lets you crop out a section in the middle of an image.\n\n I wanted this because I often use Tailor on my iPhone to stitch several screenshots together into lot long image, but sometimes I find myself wanting to crop out a section in the middle - to redact an irrelevant prompt from a transcript, for example.\n\n Tags: tools"
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery by Ben Thompson",
+      "title": "Anthropic S-1, The Cost of Compute, Who Is Paying?",
+      "url": "https://stratechery.com/2026/anthropic-s-1-the-cost-of-compute-who-is-paying/",
+      "publishedAt": "2026-10-27T10:32:57.950Z",
+      "author": "Ben Thompson",
+      "description": "Anthropic's IPO is finally here; the core business is very profitable, but competition may eat all of the profits, even as investors are set…",
+      "content": "Anthropic's IPO is finally here; the core business is very profitable, but competition may eat all of the profits, even as investors are set up for endless dilution."
+    },
+    {
+      "source": "blog",
+      "name": "The Rundown AI",
+      "title": "The AI bubble meets Anthropic’s real numbers",
+      "url": "https://therundownai.beehiiv.com/p/the-ai-bubble-meets-anthropic-real-numbers",
+      "publishedAt": "2026-10-27T10:00:00.333Z",
+      "author": "Zach Mink",
+      "description": "Read Online | Sign Up | Advertise Good morning, {{ first_name | AI enthusiasts }}, and welcome to our 5,851 new readers. The AI race in 2026…",
+      "content": "Read Online | Sign Up | Advertise\n\n Good morning, {{ first_name | AI enthusiasts }}, and welcome to our 5,851 new readers. The AI race in 2026 has been about more than just the best models… It’s also been about which top U.S. lab reaches Wall Street first. While OpenAI has backed off in that arena, Anthropic just opened the books with its official IPO filing.\n What’s inside isn’t what many of the “AI bubble” critics predicted — a business growing far faster than it spends, and in typical Anthropic fashion, still openly voicing its concerns about what it’s building.\n P.S. — Want a chance to be featured in The Rundown? Give GPT-6.1 Terra one real task this week and share how it went in the Workflow Hub by Friday, Oct. 30.\n\n---\n In today’s AI rundown:\n Anthropic officially files to go public\n\n OpenAI’s next batch of AI science discoveries arrives\n\n Turn sales call notes into follow-up emails with AI\n\n OpenAI’s new Terra cuts the cost of AI computer use\n\n LATEST DEVELOPMENTS\n\n ANTHROPIC\n 💰 Anthropic officially files to go public\n Image source: SEC.gov\n\n The Rundown: Anthropic just filed its S-1 for a Nasdaq listing under the ticker ANT, giving investors a look at its finances, a unique ownership setup designed around its safety mission, and the risks it says come with building more capable AI.\n The details:\n Revenue hit $16.3B in the first six months of 2026, about 14x from a year earlier, and the June quarter alone turned a $974M operating profit.\n\n Anthropic has raised $141B to date but still holds about $132B of it, meaning it has spent a net of roughly $9.4B to build a business that makes $11.6B a quarter.\n\n All seven co-founders pledged 80% of their stakes to charity, and the board can give its Public Benefit Fund up to 2% more shares per 50% stock climb.\n\n Claude wrote over 90% of Anthropic’s code in September, and staff’s Claude use, valued at retail prices, first passed monthly cash payroll in April.\n\n A safety area of the filing also warned that some internal work run by Claude could grow “difficult for any individual or group of humans to understand and control.”\n\n Why it matters: One of the loudest knocks on the AI boom was that the frontier labs’ businesses wouldn’t hold up. Anthropic just answered that with a profitable June quarter and nearly all the money it raised still in the bank. The debate now moves from whether the business works to what it’s actually worth, with ANT’s opening valuation still awaited.\n\n TOGETHER WITH PAVE\n ☎️ Your AI-built app can’t talk to your CRM\n\n The Rundown: Most AI builders stop at the prototype, leaving integrations and automation to a pile of other tools. Pave builds the app, workflows, and connectors in one account, so the process runs without the glue work.\n Building with Pave offers:\n 350+ connectors on every plan, including Free\n\n Workflows built on a visual canvas from plain language\n\n Hosting, data model, and permissions\n\n Try Pave today .\n\n OPENAI & SCIENTIFIC DISCOVERY\n 💡  OpenAI’s next batch of AI science discoveries arrives\n Image source: OpenAI / Clay Mathematics Institute\n\n The Rundown: OpenAI said its unreleased models made new discoveries in physics, math, and computer science, including part of a Millennium Prize problem and a disproof of a decades-old computing assumption, weeks after its massive 722-paper math drop.\n The details:\n In computer science, the models disproved the Exponential Time Hypothesis, a decades-old assumption that hundreds of papers rely on.\n\n The scientists who first proposed the hypothesis are reviewing the claim, writing that if it holds, “it will change an important part of theoretical computer science.”\n\n OAI says its models also proved a 35-year-old wave conjecture and part of a $1M Millennium Prize problem, with Nobel laureate David Gross leading the review.\n\n The company says it does “not seek academic credit” for the results, and agreed to release all its raw data on the hypothesis so anyone can check the work.\n\n Why it matters: Where Oct. 6’s math drop was about volume, this one is three results that are each famous on their own, with the main proofs computer-verified before the announcement. The prior release showed AI could churn out research by the hundreds, but today proves it can also crack the problems whole fields are organized around.\n\n AI TRAINING\n 📞  Turn sales call notes into follow-up emails with AI\n\n The Rundown: In this guide, you’ll try Inception’s new Mercury 3 to turn three sales call notes into follow-ups. You’ll check the prices and promises, change one customer’s needs, and compare the result with your usual model.\n Step-by-step:\n Open OpenRouter Chat and choose Inception’s Mercury 3. Check the usage cost and start a fresh conversation without connected accounts.\n\n Paste the guide’s fictional product facts and three call notes. Ask for a plan recommendation and a short, unsent reply for each lead.\n\n Check every recommendation against the offer. A plan that fits the team size can still miss a required feature, and a requested discount is not an approved one.\n\n Change one lead from eight users to 18. Mercury should withdraw its earlier recommendation because the largest listed plan only covers 15 people.\n\n Try the same task with your usual model. Compare mistakes, waiting, and time spent fixing the drafts before deciding which to keep.\n\n Pro tip: Measure the time to a reply you would actually use. Fast text is less useful when it needs a long edit. You can get our test resources and prompts here .\n\n PRESENTED BY VOXEL51\n 📊  When does prompting beat training?\n\n The Rundown: Should you prompt a Vision Language Model (VLM) or train a specialist to label data? One labeled example boosts defect classification F1 by 25 points, but 10 examples give specialists the edge.\n What you’ll learn:\n Teach VLMs domain-specific labels\n\n When training justifies the cost\n\n Few-shot prompting with Agentic Labeling\n\n Read the findings and join the workshop with Nebius.\n\n OPENAI\n 🌎 OpenAI’s new Terra cuts the cost of AI computer use\n Image source: OpenAI\n\n The Rundown: OpenAI just released GPT-6.1 Terra, an upgrade to its mid-tier model with a focus on computer use, speed, and efficiency — now live in ChatGPT and OAI’s Codex coding tool at half the API price of the GPT-5.6 version it replaces.\n The details:\n Terra finishes tasks over 3x faster than the pricier Astra and Sol, while tying Astra on computer use and nearly matching both on visual reasoning.\n\n In OAI’s own testing, Terra cost roughly 1/9 as much per task as Anthropic’s Claude Opus 5.5, though Opus outscored it where the two were compared.\n\n Despite costing half as much as its predecessor, Terra cut its hallucination rate in OAI’s testing from 53.6% to 16.7%, with other gains across the board.\n\n OAI rated Terra’s cyber skills as “Critical” on its Preparedness Framework risk scale, and the model ships with the same safeguards built for GPT-6 Astra.\n\n Why it matters: Terra is a solid upgrade that certainly cuts costs for quick, reliable work, but not one that is going to get the buzzy headlines, particularly with Anthropic’s models dominating the leaderboards. Claude’s weekly average token volume on OpenRouter is up 3.6x since Opus 5.5’s debut, and a cheaper mid-tier model is unlikely to change that.\n\n QUICK HITS\n\n COMMUNITY AI WORKFLOW OF THE DAY\n ▸ A Rundown reader built a reading app staffed by Claude Code agents\n Today’s workflow comes from an anonymous Rundown reader :\n “I wanted a reader for my own PDFs and EPUBs where I could write notes in the margin next to the line they belonged to. Nothing I tried did that well, so I built Helicon, a free reader for iPhone and iPad. I use it every day.\n I do not write most of the code by hand. I run several Claude Code sessions, each with one responsibility. A development session builds the app in Swift. A marketing session reads the usage numbers and finds places to tell people about the app. A separate designer agent, which did not draw the screens, chooses between two or three prototype variants before any UI change is built.\n The part that made this work is turning every mistake into a check rather than a note. When an agent gets something wrong, we turn the lesson into a test, script, or guard that prevents the same bad step next time.”\n See the workflow on our Community Workflow Hub →\n\n---\n What have you fixed or built with AI lately? Share your workflow , and you could be featured right here in The Rundown.\n\n 🛠️ Trending AI Tools\n 🤖  CrafterQ   - Add an AI chatbot to your website that answers questions, supports customers, and drives revenue*\n\n 🌍 GPT-6.1 Terra - OpenAI’s cheaper, faster model for everyday computer work\n\n 📶  Kimi K3.1 Pro - Moonshot’s new AI model, open-weights coming soon\n\n 📱  App Studio - Runway’s no-code builder for custom image and video apps\n\n *Sponsored Listing\n\n 📰  Everything else in AI today\n Anthropic is facing a $41M lawsuit from Authentic Brands Group, which controls Elvis Presley’s catalog, over claims Claude trained on 274 of his songs.\n Cathedral, a startup from ex-Department of Government Efficiency staffers, said its AI agents were able to reach parts of Anthropic’s internal systems within just 12 hours.\n Cohere   said that Alibaba’s Qwen3.8-Flash-Next tried to upload a file to a Beijing server during a sandboxed test, raising concerns around vulnerabilities in open-weight models.\n Elon Musk   predicted “guppy-level death” for the 200+ neoclouds (GPU rental startups), many of which have seen massive stock surges during the AI boom, saying lenders are starting to shut out data center firms without other revenue.\n Meta is selling ~$35B in new stock to bankroll its $135-145B AI infrastructure budget for 2026, with its chip suppliers Nvidia, AMD, and Broadcom eyeing up to $5B of the shares.\n\n 🎓 Highlights: News, Guides & Events\n Read our last AI newsletter: Kimi continues to challenge the frontier\n\n Read our last Tech newsletter: Palmer Luckey’s gene-edited war dogs\n\n Read our last Robotics newsletter: When 110 humanoids hit the dance floor\n\n Today’s AI tool guide: Turn sales call notes into follow-up emails with AI\n\n RSVP to next workshop on Oct. 28: Get consultant-grade deep research back\n\n See you soon,\n Rowan, Zach, Shubham, Jennifer, and Nate — the humans behind The Rundown"
+    },
+    {
+      "source": "blog",
+      "name": "Tomasz Tunguz",
+      "title": "The Third Product-Market Fit in AI",
+      "url": "https://tomtunguz.com/the-third-product-market-fit-in-ai/",
+      "publishedAt": "2026-10-26T00:00:00.471Z",
+      "author": "",
+      "description": "Coding & customer support were the first two product-market fits in AI. Black October, the industry’s term for the deluge of new security…",
+      "content": "Coding & customer support were the first two product-market fits in AI.\n\n Black October, the industry’s term for the deluge of new security vulnerabilities, is the prelude to the third product-market fit in security.\n\n Attacks on banks, certificate authorities & core open source libraries have never been greater. 1 Ransomware against financial firms rose 30% last year, & 76% again in the first quarter. 2 Compromised intermediate certificates let an attacker impersonate any website or service. 3 A single five-day campaign stole 78,330 secrets from 2,186 organisations. 4\n\n The good news : AI can defend as well as it attacks, provided someone pays for the tokens.\n\n Security is already a massive market, $175b last year & growing 13% a year. 5 That was before security entered the token path. 6\n\n To see where that money goes, we surveyed 75 security practitioners at the enterprise & asked them how they would divide their security budget excluding endpoint, the security that runs on laptops.\n\n They broke their spend down across five categories.\n\n Security operations center. The SOC is the team that analyzes the enterprise’s alerts coming from all the sensors across the network. With time to respond plummeting from months to minutes, AI SOC automates the triage because no human team can read every alert at that speed. 7\n\n SIEM. Security information & event management. These databases aggregate all the information across the enterprise & empower the analysis for the SOC & others. AI queries these stores in natural language so an analyst answers a question in seconds rather than filing a ticket to write a query.\n\n Penetration testing. The use of AI to determine which parts of a system are weak by trying to break in deliberately. Models attempt the intrusion because they can probe every endpoint continuously at a fraction of the cost of a human red team.\n\n Threat intelligence. Understanding who is attacking the enterprise. AI correlates attacker chatter across sources because the volume of new campaigns has outrun manual curation.\n\n Vulnerability management. The continuous process of finding the enterprise’s software weaknesses across the estate, ranking them by risk & patching the ones that matter. 8 AI ranks which flaws are actually reachable & exploitable, because scanners report far more findings than any team can patch.\n\n Every category has significant token consumption.\n\n Greg Brockman, OpenAI’s president, puts the consequence plainly. 9\n\n Security spend should actually vastly outstrip software spend.\n\n Every company needs AI security in an age when attackers can parallelize their efforts.\n\n---\n\n Black October : Linux kernel CVEs & PwnEscape, plus the scale of the current wave. https://lwn.net/Articles/1100611/ & https://almalinux.org/blog/2026-10-16-pwnescape-cve-2026-99999/   ↩︎\n\n Black Kite, 2026 Financial Services Cybersecurity Report : finance-sector ransomware climbed from 156 incidents in 2024 to 202 in 2025, then 65 in Q1 2026 alone, a 76% increase over Q1 2025. https://blackkite.com/reports/2026-financial-services-report   ↩︎\n\n Cisco Talos found eight compromised eMudhra intermediate certificates whose private keys evaluated to single- & double-digit integers. https://blog.talosintelligence.com/compromised-intermediate-certificates/   ↩︎\n\n StepSecurity tracked 56 supply chain attacks in twelve months, roughly one every three days since March 2026. One five-day campaign stole 78,330 secrets from 2,186 organisations, including 92 public companies. https://www.stepsecurity.io/blog/state-of-open-source-supply-chain-attacks   ↩︎\n\n Forrester Global Cybersecurity Market Forecast, 2024 to 2029 : https://www.forrester.com/blogs/global-cybersecurity-spending-to-exceed-300b-by-2029/   ↩︎\n\n So You Want to Sell Inference : https://tomtunguz.com/so-you-want-to-sell-inference/ & Databricks Widens the Lead on the Yellow Brick Token Path : https://tomtunguz.com/databricks-widens-lead/   ↩︎\n\n Time to respond to an intrusion falling from months to minutes, & the case for AI SOC : https://tomtunguz.com/sunil-agrawal-office-hours/   ↩︎\n\n Survey of 75 enterprise security practitioners. Largely qualitative rather than quantitative : error bars on the charts are significant.  ↩︎\n\n Greg Brockman on No Priors with Sarah Guo & Elad Gil, “Revolutionizing Cybersecurity & AI-Driven Science,” October 2026 : https://podcasts.apple.com/us/podcast/revolutionizing-cybersecurity-and-ai-driven-science/id1668002688?i=1000796472163   ↩︎"
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery",
+      "title": "Anthropic S-1, The Cost of Compute, Who Is Paying?",
+      "url": "https://stratechery.com/2026/anthropic-s-1-the-cost-of-compute-who-is-paying/",
+      "publishedAt": "Tue, 27 Oct 2026 10:32:57 +0000",
+      "author": "Ben Thompson",
+      "description": "Anthropic's IPO is finally here; the core business is very profitable, but competition may eat all of the profits, even as investors are set up for endless dilution.",
+      "content": "Anthropic's IPO is finally here; the core business is very profitable, but competition may eat all of the profits, even as investors are set up for endless dilution.\n\n---\n\nListen to this Update in your podcast player\n\n---\n\nGood morning,\n\nOn last week’s episode of Sharp Tech — also available on video on YouTube and Spotify — Andrew and I discussed Netflix, security, and our experience with Meta’s VR glasses; then on Sunday’s subscriber-only mailbag we covered Ubiquiti, the Tim Cook era in retrospect, and Y2K.\n\nOn to the Update:\n\nAnthropic S-1\n\nFrom Bloomberg :\n\nAnthropic PBC filed for its long-awaited IPO, a landmark moment in the artificial-intelligence industry that is growing ever-hungrier for cash to power ahead. The company behind Claude expects to begin trading on the Nasdaq Global Select Market under the symbol ANT, a filing Monday with the US Securities and Exchange Commission showed. Anthropic filed confidentially in June for a listing.\n\nThe filing moves Anthropic a step closer to being the first company focused primarily on developing the most advanced AI models to go public. Anthropic and some of its shareholders are offering stock in the IPO, according to the filing. The amount of shares they’re offering will be disclosed in a later filing.\n\nAnthropic’s IPO will serve as a litmus test for how much investor demand exists for new equity tied to the AI trade, after optimism surrounding the technology helped power a four-year bull market in US stocks. Just two hours before Anthropic’s filing, Meta Platforms Inc. said it is seeking to raise as much as $95 billion from selling common and preferred stock in one of the largest equity offerings in history. Earlier this year, Google-parent Alphabet Inc. targeted raising as much as $85 billion in equity. Anthropic is expected to be followed onto public markets next year by its main competitor, OpenAI.\n\nNumbers, finally — albeit somewhat incomplete ones. The figures provided are through June 30, i.e. the end of Anthropic’s major growth spurt; those numbers go stale on November 12 and will have to be updated if Anthropic doesn’t list by then — current expectations are the week of November 16.\n\nAnthropic has in many respects timed this listing perfectly, thanks to the explosion in its top-line revenue in the first half of this year which, combined with the company’s delay in securing compute, led to extremely impressive margins (more on these in a moment); it will be interesting if somewhat slower growth in the 3rd quarter puts a damper on the listing (or possibly a revelation that Opus 5.5 re-accelerated growth turbocharges it). Revenue growth is, needless to say, a very big deal.\n\nThe Cost of Compute\n\nThe most interesting financial numbers were absolutely buried in the S-1 , all the way down on F-39 in the “Consolidated Financial Statements”; that is where Anthropic actually broke out its costs by function:\n\nThe two most interesting are Cost of Revenue and Research and Development, because that is where the company’s compute costs lie (along with Sales and Marketing, which is where the cost of free access is housed). Those still aren’t entirely clear numbers, particularly because Research and Development contains personnel costs, but you can make some assumptions to get to the following estimate (I subtracted the Cost of Revenue and estimated free inference — I used half of Sales & Marketing — from total compute to come up with R&D compute):\n\nPeriod\nRevenue\nCost of Revenue\n% Rev.\nR&D\nR&D compute\n% Rev.\nTotal compute\n% Rev.\n\n2023\n$0.041\n$0.026\n63%\n$0.422\n~$0.37\n902%\n$0.433\n1,056%\n\n2024\n$0.386\n$0.752\n195%\n$2.275\n~$1.71\n443%\n$2.522\n653%\n\n2025\n$4.585\n$2.773\n60%\n$6.338\n~$4.38\n96%\n$7.326\n160%\n\nH1 2025\n$1.163\n$1.019\n88%\n$1.850\n~$1.26\n108%\n$2.334\n201%\n\nH1 2026\n$16.286\n$2.380\n15%\n$9.741\n~$6.25\n38%\n$8.945\n55%\n\nThere are some really interesting takeaways here.\n\nThis is a real tech company , in that Anthropic has meaningful leverage on its cost to serve. In the first half of this year the company had gross margins of 85%.\n\nGross margins are inflated because Anthropic reports gross revenue from access to its models sold through AWS, Azure, and Google; those costs are in Sales and Marketing, and may be somewhere around 37% on around half their revenue. Still, these are real tech company margins, at least once revenue is big enough.\n\nAnthropic’s compute costs are dominated by R&D. Moreover, the cost of R&D compute is increasing faster than the cost of inference, at least over the last year.\n\nWhat this means is that Anthropic in isolation seems like an incredible business; the challenge, however — and one reason why the company might want the industry to “pace the frontier” — is that the cost of R&D compute is the variable that is arguably the most out of their control. The scale of Anthropic’s investment in R&D compute is a function of competition; those revenue figures ultimately rest on Anthropic having frontier models, at least for now, which means ever more compute.\n\nThis also gives a different spin to the idea of recursive self-improvement, i.e. the process where AI improves itself. Anthropic is already an RSI organism, at least from a financial perspective: the company is the biggest consumer of its own compute and its own AI, all in the service of building an even better AI. Folks complain about circular financing in the AI trade; the reality is that the companies at the core of that trade are the ultimate ouroboros, where their long-term financial upside is dependent on not eating themselves completely!\n\nTo that end, it is interesting to think about how the approximately $855 billion in future compute costs Anthropic has committed to might be allocated; the assumption is that the vast majority of that money is for inference, but if current trends hold it is R&D compute that will consume a major part of it.\n\n---\n\nPresented by\n\nWhen I write about tech companies, I am often writing about businesses that depend on Stripe , because Stripe provides the foundation for Internet-native companies — including Stratechery.\n\nConsider Substack: building Stratechery was complicated and involved gluing together disparate pieces; Substack made it easy by delivering an integrated offering. One piece that was the same, however, was Stripe: every Substack creator is also a Stripe customer, and that’s the case for many other creator platforms.\n\nOf course, they didn’t succeed because of Stripe. Stripe doesn’t answer the hard questions about what to build or whether anyone will actually use it. But it does make more things practical to try.\n\n---\n\nWho Is Paying?\n\nThat noted, the $855 billion number is an estimate — basically I added up all disclosed commitment categories, which could have some overlap — and not locked in stone:\n\n$269.4 billion is non-cancelable minimum cloud spend with AWS, Google, and Microsoft.\n\n$161.2 billion is non-cancelable equipment leases with Broadcom that must be paid when equipment is ready.\n\n$21.0 billion in short-term commitments to unspecified counterparties is non-cancelable.\n\n$85.9 billion is committed to Nscale and Lambda as capacity is accepted.\n\nUp to $120.5 billion in commitment to SpaceXAI is cancelable with 90 days notice starting in 2027.\n\nThe remaining ~$200 billion is a catch-all for unknown commitments.\n\nThe hyperscaler angle is particularly interesting. First, those are the contracts that are the most concrete. Second, those contracts were, in the case of Amazon and Google (and Broadcom), signed in conjunction with Note Purchase Agreements (NPAs), in which the hyperscalers basically loan money to Anthropic with the right to convert that debt into equity. That money, of course, flows right back to the hyperscalers to rent compute.\n\nSo who is actually paying? Despite those incredible margins, Anthropic reported an $80 billion loss in the first half of this year, because its liability to Amazon under earlier NPAs was marked to the dramatically increasing market price of the stock Amazon was entitled to, resulting in a $72 billion fair value charge. That right there is the clue: Anthropic isn’t out extra cash because its valuation increased; rather investors were diluted.\n\nAnthropic has $77 billion in NPAs which have not yet been drawn on, which is to say that $80 billion “loss” is only the beginning, at least if the valuation continues to increase. That money is, whenever it is borrowed for compute from the lender, ultimately paid for by investors being diluted (although there will likely never be as large of a “loss”, which is to say a corresponding gain, for those other NPAs — that was an all-time investment by Amazon); meanwhile, every time Anthropic’s valuation increases by 50%, 2% of shares may go to the Anthropic Public Benefit Fund; all of this is before we get to the actual capital that Anthropic hopes to raise in this initial public offering, and the future equity offerings that will likely follow.\n\nIn short, what is happening with this IPO, along with Meta’s equity offering, which followed on Google’s offering earlier this year , is that public market investors are being asked to pay for the AI buildout that the credit market is increasingly nervous about, and those payments are not necessarily straightforward. The price isn’t just shares, but the fact those shares will inevitably represent a continually decreasing share of the company.\n\nThis is why the revenue numbers will matter. In the long run, revenue does, of course, need to cover costs; in the short run, however, revenue will matter for the narrative which public stockholders will need to buy, such that they buy assets that are set up from the beginning for dilution. That will be fine if the valuation increase outpaces the dilution, and, to be fair, it is entirely reasonable to decide stock in a frontier lab is, no matter the price, a reasonable call option on seemingly unlimited upside. That’s the thing about revenue growth: when it’s up-and-to-the-right you can get away with anything.\n\n---\n\nThis Update will be available as a podcast later today. To receive it in your podcast player, visit Stratechery .\n\nThe Stratechery Update is intended for a single recipient, but occasional forwarding is totally fine! If you would like to order multiple subscriptions for your team with a group discount (minimum 5), please contact me directly.\n\nThanks for being a subscriber, and have a great day!\n\n---\n\nAdd to your podcast player: Stratechery | Sharp Tech | Dithering | Sharp China | GOAT | Asianometry\n\n---"
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery",
+      "title": "The End of the Internet",
+      "url": "https://stratechery.com/2026/the-end-of-the-internet/",
+      "publishedAt": "Mon, 26 Oct 2026 10:00:00 +0000",
+      "author": "Ben Thompson",
+      "description": "The old Internet, where anyone could host a server is over, but it's just the final blow in an ending that has been coming for years. The future, though, is brighter than it appears.",
+      "content": "The old Internet, where anyone could host a server is over, but it's just the final blow in an ending that has been coming for years. The future, though, is brighter than it appears.\n\n---\n\nListen to this Update in your podcast player\n\n---\n\nIt was the summer of 2003, just weeks before I was set to move to Taiwan, that I decided to create a blog to document my journey. I had, at that point, had a GeoCities site, a Blogspot site, a site I built in Microsoft FrontPage and hosted…somewhere, so this was my fourth swing at the blog thing (it was the seventh that ended up being Stratechery). I was intrigued by a just-released piece of software that promised a five-minute install; it was called WordPress.\n\nIt did, I must confess, take me much longer than 5 minutes to install WordPress: it turned out I needed to learn how to create a MySQL database and configure PHP; once you had all of those component pieces in place, then yes, it only took 5 minutes to install!\n\nI was thinking back to those days last week when news broke that every version of PHP had a critical bug that allowed for remote code execution on the host machine; Stratechery today still runs on WordPress, but that WordPress is managed by Pressable , an Automattic company. That meant that my site was patched before the vulnerability was disclosed, and it would be crazy for me — or anyone else — to do it any other way. It’s kind of insane to think that twenty-some years ago I was doing everything by hand without having any idea what I was doing, and that it was totally fine. That’s the Internet, though: an insane invention from a time that is, sadly, gone forever.\n\nThe End of Blogs\n\n2003 was, roughly speaking, right around the beginning of the blogosphere; yes, blogs existed — Dave Winer, often considered the father of blogs, started Scripting News in 1997, after early experiments with a personal site called DaveNet ; Justin Hall started Links.net in 1994; Jorn Barger coined the term “weblog” for Robot Wisdom , also in 1997, and the influential kottke.org started in 1998 — but it was the early 2000s when blogs suddenly seemed everywhere, particularly in the political space:\n\nTalking Points Memo , Andrew Sullivan and Boing Boing launched in 2000\n\nInstapundit , Little Green Footballs , and Dooce launched in 2001\n\nMatt Yglesias , Daily Kos , Eschaton , The Volokh Conspiracy , Power Line , Gizmodo , Gawker , paidContent , and Daring Fireball launched in 2002\n\nEzra Klein , Marginal Revolution , ReadWriteWeb , and AVC launched in 2003\n\nThat political blogs featured so prominently speaks, I think, to both the power and peril of the Internet’s first transformation. Up to that point the Internet was mostly technologists, comfortable discussing the intricacies of text editors and programming languages with other nerds on BBSs, early forums, and mailing lists; it was the politically minded, however, that realized that the freedom to start your own publication that could reach everyone was a radical development. The goal was not to make money; it was to make a difference.\n\nOriginally these new publications were novel; what soon became clear, however, is that they were the tip of a wave of content that would dramatically expand the web. Newspapers had influence by being geographic monopolies; early bloggers gained influence by being the first to a new medium. Ultimately, however, the real winner of the web was Google: as the amount of content became abundant, Google offered not distribution — which was free — but rather discovery; indeed, it’s because distribution was free that discovery became the most important part of the value chain.\n\nMany of those early bloggers made a decent amount of money from Google through its AdSense advertising program; by the end of the decade, however, the ads became more intrusive even as the payouts shrank, both because the inventory was limitless, and also because the most attractive ad slots were on Google Search. And so we saw one of the first examples of how the Internet fails: because everything is open, everyone has an opportunity, which means infinite competition, which is terrible for business.\n\nFor many years I rued the fact I wasn’t one of those early bloggers; a decade later, however, I realized that I was actually just in time for a much more sustainable business model: subscriptions. I wrote in 2015’s Blogging’s Bright Future :\n\nIt turns out, though, that there are more business models than simply advertising, as Sullivan himself sought to show. Sullivan was, for the last two years, supported by reader subscriptions to the tune of nearly one million dollars a year, and while many were skeptical of Sullivan’s efforts when he started, his ability to raise money shouldn’t have been a surprise: his is a singular voice — to put it in economic terms, Sullivan’s writing had a low elasticity of substitution — so people were happy to pay for something they couldn’t get anywhere else. Right there was the exact loyalty that Klein fears has been lost…\n\nI am, of course, acutely aware that there is a tradeoff when it comes to the subscription business model: by making something scarce, and worth paying for, you are by definition limiting your number of readers. Stratechery, though, serves a niche, and niches are best served by making more from customers who really care than from milking pennies from everyone.\n\nIn short, the answer to drowning in abundance is to purposely limit your audience — to go small. That is an economic model that works, and notably, there are a lot of bloggers on that list who are using that model today. Blogging is alive and well, it’s just constrained, and thus worth paying for.\n\nThe End of Social Media\n\nGoogle wasn’t the only Aggregator: a decade later there was a new means of discovery, which was social media. Now instead of searching for a site you could have a link shared directly to you, not just by email but on a site that served up interesting updates about whomever you chose to follow. And, for a period of time, followers could become friends. Stratechery’s fortunate timing was not just in terms of subscriptions becoming technically viable, but also the fact that Twitter was a community, not unlike the early Internet: genuinely interesting conversations happened in public, and you could reply-guy your way to broader distribution.\n\nSocial media was also free, however, and even easier to get started than a blog ever was; that meant that the amount of content was greater by many orders of magnitude. This meant that algorithms started to matter — Facebook had one relatively early, but it took Twitter much longer — and also anyone with any sort of prominence had to start taking a much more defensive approach. Community, sadly, doesn’t scale; any platform that is available to everyone starts out special and spirals from there. Ultimately, public social media sites became personal entertainment sites, tuned for engagement, culminating in TikTok, a social media site with basically zero social component.\n\nHowever, that doesn’t mean social networking went away: in fact, I think that social networking is stronger than ever; the difference is that it isn’t public, but is rather in group chats. Group chats are familiar, they are high trust, they are, in many respects, the best of the Internet: even as technology atomizes us the group chat is the only place you can connect with people you care about, anytime and anywhere.\n\nIn other words, the redemption of social media was — just like blogging — to become smaller. The scaling that mattered for most people was not an ever larger audience, but a proliferation of infinite finite groups. Social media 1.0 , even at its best, followed the 90-9-1 rule: one percent spoke, nine percent commented, and 90 percent lurked; the magic of group chats is not in giving everyone a voice, but a place where you feel safe to talk.\n\nThe End of the Internet\n\nThe PHP vulnerabilities were just two of a host of security issues last week alone; there were also:\n\nCompromised intermediate CA private keys (although this was an example of sheer incompetence, not AI hacking)\n\nMajor new vulnerabilities in Node.js, GitLab, Java, and Cisco products\n\nBreaches in LiteLLM’s supply chain and Railway developer platform\n\nThis is, believe it or not, only a partial list, and I expect things to only get worse. All of software is built on an inherently creaky human-authored foundation; the human factor meant the primary gate in all of software development was “Did it work?”, not “Is it secure from every possible privilege escalation or race condition?” or the myriad of ways that software can act in ways not intended.\n\nThe saving factor previously is that attackers were limited by human time and ingenuity as well; AI, however, has limitless time and the ability to substitute iteration for cleverness — and it’s getting pretty clever as well! It’s not a surprise that this wave of vulnerabilities is coming to light, and it’s going to get worse before it gets better — which I do, for the record, expect to happen; after all, the good guys have AI as well, and in the long run software will be better when it is (re)written by AI, and defended by agents continuously.\n\nAt the same time, what this entails is that the public Internet, to an even greater extent than now, will be a battle zone at best (i.e. social media), and a wasteland at worst (everything else). Some of this is economic, as AI consumes everything — both content and attention — without giving any of the traffic back that Google did, but it is also technical: it was already a dodgy proposition to stand up your own site or app, which was the very promise of the Internet, given the hacking risks; in the age of AI it’s madness.\n\nIt is sad. When I was a kid we called up BBS’s that were hosted in people’s homes; when I was in high school we downloaded music from public FTP addresses; when I was in college we set up our own websites. Anyone could set up a server, and that server was just as much a part of the Internet as any other server; that’s simply not viable any longer, even if you weren’t worried about making money. The Internet as we knew it is dead.\n\nThere are, however, green shoots of possibility, and once again the answer is to go smaller. When anyone can make an app, the answer is not to try and make a quick buck in the App Store; in fact, the surge in slop will make the market worse for everyone. Rather, it’s to make something for yourself and a small group of trusted friends and colleagues.\n\nThis is exactly what has happened at Stratechery: we have made a bunch of different apps, for everything from podcast production to task trackers to calendar management, none of which will ever be made available publicly. That doesn’t even include the apps made for oneself: I’ve created a bunch of different apps to manage my house and sports viewing: it turns out I had a lot of software-shaped holes in my life that suddenly I can fill without asking permission.\n\nSoftware has always been different from physical goods in that its zero marginal cost nature meant it could scale to far more people; at the same time, the sheer amount of up-front effort involved in creating it meant that the intended audience needed to be large enough to justify the investment. AI completely changes that: suddenly it’s possible to create software for one person, or one team; smaller target audiences aren’t just a necessity for security, they’re an entirely new and potentially much larger market for software creation at scale, by literally everyone. Or, to use the example above, the group chat era of software is here and it’s going to be so much better than what came before.\n\nMarkets, Past and Future\n\nVenkatesh Rao wrote an absolute must-read essay over the weekend called Cognitive Mercantilism . In brief, Rao makes the case that mercantilism rested on an assumption that economics was about scarcity and control; what brought about capitalism was demand...."
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 5,
+    "totalTweets": 12,
+    "blogPosts": 7,
+    "podcastEpisodes": 0
+  }
+}
