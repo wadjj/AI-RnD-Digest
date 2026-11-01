@@ -1,8 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/thsottiaux/status/2111566005684289735": 1792281911283,
-    "https://twitter.com/thsottiaux/status/2111495392559067199": 1792281911283,
-    "https://twitter.com/thsottiaux/status/2111492673890824348": 1792281911283,
     "https://twitter.com/emollick/status/2111925398548193574": 1792368802015,
     "https://twitter.com/emollick/status/2111884340955062274": 1792368802015,
     "https://twitter.com/emollick/status/2111858791939772731": 1792368802015,
@@ -151,7 +148,11 @@
     "https://twitter.com/trq212/status/2116212322838655014": 1793410650305,
     "https://twitter.com/trq212/status/2116217133562790045": 1793410650305,
     "https://twitter.com/_sholtodouglas/status/2116186679359000929": 1793410650305,
-    "https://twitter.com/_sholtodouglas/status/2116185093513548166": 1793410650305
+    "https://twitter.com/_sholtodouglas/status/2116185093513548166": 1793410650305,
+    "https://twitter.com/emollick/status/2116537058433081669": 1793495723920,
+    "https://twitter.com/emollick/status/2116526543346483419": 1793495723920,
+    "https://twitter.com/demishassabis/status/2116651775017275581": 1793495723920,
+    "https://twitter.com/thsottiaux/status/2116405414921384099": 1793495723920
   },
   "seenVideos": {},
   "seenArticles": {
@@ -202,28 +203,29 @@
     "https://simonwillison.net/2026/Oct/25/seam-cutter": 1793150776886,
     "https://therundownai.beehiiv.com/p/the-ai-bubble-meets-anthropic-real-numbers": 1793150776887,
     "https://tomtunguz.com/the-third-product-market-fit-in-ai": 1793150776887,
-    "https://stratechery.com/2026/meta-earnings-muse-and-the-frontier-musebook": 1793325588034,
+    "https://stratechery.com/2026/meta-earnings-muse-and-the-frontier-musebook": 1793410645388,
     "https://simonwillison.net/2026/Oct/28/ted-sanders": 1793238654123,
     "https://simonwillison.net/2026/Oct/28/github-octoverse-2026": 1793238654123,
     "https://simonwillison.net/2026/Oct/28/vibe-game-development": 1793238654123,
     "https://therundownai.beehiiv.com/p/google-ai-worlds-can-now-talk-back": 1793238654123,
     "https://tomtunguz.com/arvind-kc-office-hours": 1793238654123,
-    "https://stratechery.com/2026/an-interview-with-palantir-cto-shyam-sankar-about-the-ai-religious-war": 1793325594827,
+    "https://stratechery.com/2026/an-interview-with-palantir-cto-shyam-sankar-about-the-ai-religious-war": 1793410645388,
     "https://simonwillison.net/2026/Oct/29/api-credits": 1793325594825,
     "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world": 1793325594825,
     "https://simonwillison.net/2026/Oct/29/ben-hylak": 1793325594825,
     "https://therundownai.beehiiv.com/p/google-gemini-4-carbon-tops-the-charts-for-now": 1793325594825,
-    "https://stratechery.com/2026/at-long-last/": 1793410645388,
-    "https://stratechery.com/2026/sharp-tech-on-video-anthropics-s-1-and-what-it-means-for-meta-and-muse-you-can-see-everything-and-brewers/": 1793410645388,
-    "https://stratechery.com/2026/an-interview-with-palantir-cto-shyam-sankar-about-the-ai-religious-war/": 1793410645388,
-    "https://stratechery.com/2026/meta-earnings-muse-and-the-frontier-musebook/": 1793410645388,
-    "https://simonwillison.net/2026/Oct/30/nesformer": 1793410650305,
-    "https://simonwillison.net/2026/Oct/28/terk-terkowitz": 1793410650305,
     "https://stratechery.com/2026/at-long-last": 1793410650305,
     "https://stratechery.com/2026/sharp-tech-on-video-anthropics-s-1-and-what-it-means-for-meta-and-muse-you-can-see-everything-and-brewers": 1793410650305,
+    "https://simonwillison.net/2026/Oct/30/nesformer": 1793410650305,
+    "https://simonwillison.net/2026/Oct/28/terk-terkowitz": 1793410650305,
     "https://therundownai.beehiiv.com/p/inside-the-spy-plot-around-nvidia-ceo": 1793410650306,
-    "https://tomtunguz.com/crossing-the-trillion-dollar-chasm": 1793410650306
+    "https://tomtunguz.com/crossing-the-trillion-dollar-chasm": 1793410650306,
+    "https://stratechery.com/2026/at-long-last/": 1793495721404,
+    "https://stratechery.com/2026/sharp-tech-on-video-anthropics-s-1-and-what-it-means-for-meta-and-muse-you-can-see-everything-and-brewers/": 1793495721404,
+    "https://stratechery.com/2026/an-interview-with-palantir-cto-shyam-sankar-about-the-ai-religious-war/": 1793495721404,
+    "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts": 1793495723920,
+    "https://simonwillison.net/2026/Oct/31/datasette-llm": 1793495723920
   },
-  "lastRunKey": "2026-10-31",
-  "lastRunAt": "2026-10-31T01:37:30.313Z"
+  "lastRunKey": "2026-11-01",
+  "lastRunAt": "2026-11-01T01:15:23.927Z"
 }
