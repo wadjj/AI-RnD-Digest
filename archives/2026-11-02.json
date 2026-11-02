@@ -1,0 +1,233 @@
+{
+  "generatedAt": "2026-11-02T01:33:05.344Z",
+  "runKey": "2026-11-02",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Twitter @Tibo",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2117035794678546764",
+          "text": "Day 28/ Banked 2/2",
+          "createdAt": "2026-11-01T23:27:20.160Z",
+          "url": "https://x.com/thsottiaux/status/2117035794678546764",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2116935650511585696",
+          "text": "Dot still autocorrects to dog and that makes many texts I receive hilarious",
+          "createdAt": "2026-11-01T16:49:24.711Z",
+          "url": "https://x.com/thsottiaux/status/2116935650511585696",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Twitter @Ethan Mollick",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2116987671939875319",
+          "text": "GPT-4 could do 4 minutes of independent work with a 50% chance of success.\n\nCurrent models can do multiple weeks of work, and January 2026 is a reasonable cut-off for the moment agentic work started.\n\nLarge productivity impacts before that would mostly be confined to coding.\n---\n Alex Imas: Steve was very early on this. But he’s exactly right—chatbot era was never going to be a huge productivity boost. Analyses should put the line at January 2026; agentic AI is where productivity gains are.",
+          "createdAt": "2026-11-01T20:16:07.153Z",
+          "url": "https://x.com/emollick/status/2116987671939875319",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/alexolegimas/status/2116967827773030602\nAlex Imas: Steve was very early on this. But he’s exactly right—chatbot era was never going to be a huge productivity boost. Analyses should put the line at January 2026; agentic AI is where productivity gains are."
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2116915149546389960",
+          "text": "This post is a reverse CAPTCHA.\n\nLook at the replies, AIs love talking about the Oxyrhynchus Papyri, and I would be willing to guess that only a very small proportion of humans have, and most of them will spell it wrong.\n---\n Ethan Mollick: A bunch of funded projects to unblock some long-standing backlogs in translations using AI would be interesting; especially when AI models can do a reasonable first pass at interpretation & significance, not just translation. There are major repositories of untranslated ancient",
+          "createdAt": "2026-11-01T15:27:56.208Z",
+          "url": "https://x.com/emollick/status/2116915149546389960",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/emollick/status/2116905564680687831\nEthan Mollick: A bunch of funded projects to unblock some long-standing backlogs in translations using AI would be interesting; especially when AI models can do a reasonable first pass at interpretation & significance, not just translation. There are major repositories of untranslated ancient"
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2116907715683319897",
+          "text": "It is interesting to watch (and painful to read) the rapid evolution of slopreplybots in my comments. Now the latest trend is making extremely lame jokes, which seems to get them more likes, maybe sometimes even from humans. I suppose it is better than the “ask a leading question” phase, though. Still, evolutionary pressure suggests worse to come.",
+          "createdAt": "2026-11-01T14:58:24.800Z",
+          "url": "https://x.com/emollick/status/2116907715683319897",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Twitter @Thariq",
+      "tweets": [
+        {
+          "id": "https://twitter.com/trq212/status/2116976789046350040",
+          "text": "adding a new character: a taekwondo master that fights with fire\n\nI also updated the art style from 3d models to use generated sprites\n\n---\n Thariq: As a personal side project, I've been prototyping a video game.\n\nAs a former games founder, the process of making a game is deeply satisfying and creative, don't outsource that to AI. Use AI to work with you to bring your vision to life.\n\nHere's how I'm trying it:",
+          "createdAt": "2026-11-01T19:32:52.375Z",
+          "url": "https://x.com/trq212/status/2116976789046350040",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/trq212/status/2105333496768319969\nThariq: As a personal side project, I've been prototyping a video game.\n\nAs a former games founder, the process of making a game is deeply satisfying and creative, don't outsource that to AI. Use AI to work with you to bring your vision to life.\n\nHere's how I'm trying it:"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Sholto Douglas",
+      "handle": "_sholtodouglas",
+      "bio": "Twitter @Sholto Douglas",
+      "tweets": [
+        {
+          "id": "https://twitter.com/_sholtodouglas/status/2116963764612563415",
+          "text": "- Claude fighting for you. Short form video and rec sys attractor basins are the cigs of our generation. Your time can be spent in a so much more fulfilling way. It’s insanely user hostile that you can’t turn off YouTube shorts or Instagram reels permanently.\n- Way better recs! Current algorithms are primitive.\n- Look at what you can do in a weekend now.\n---\n Andrej Karpathy: Weekend hack: HackerTube. I was annoyed with YouTube's recommendations so I had Claude filter down 43M comments over 20 years of HN to 6,454 videos that keep being recommended. *Significantly* better viewing experience, ~2 hours with Opus 5.5:\nhttps://hackertube.org/\n\n- Excellent",
+          "createdAt": "2026-11-01T18:41:07.535Z",
+          "url": "https://x.com/_sholtodouglas/status/2116963764612563415",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/karpathy/status/2116957135661945283\nAndrej Karpathy: Weekend hack: HackerTube. I was annoyed with YouTube's recommendations so I had Claude filter down 43M comments over 20 years of HN to 6,454 videos that keep being recommended. *Significantly* better viewing experience, ~2 hours with Opus 5.5:\nhttps://hackertube.org/\n\n- Excellent"
+        },
+        {
+          "id": "https://twitter.com/_sholtodouglas/status/2116768091917177310",
+          "text": "really thought provoking proposal on taxing rent extractors who don’t contribute to growth via investment. Our current tax system is very inefficient, could be hugely improved and will not stand up to AGI at all\n---\n Fernando Borretti: Good post.",
+          "createdAt": "2026-11-01T05:43:35.699Z",
+          "url": "https://x.com/_sholtodouglas/status/2116768091917177310",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/zetalyrae/status/2116718061080478201\nFernando Borretti: Good post."
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Andrej Karpathy",
+      "handle": "karpathy",
+      "bio": "Twitter @Andrej Karpathy",
+      "tweets": [
+        {
+          "id": "https://twitter.com/karpathy/status/2116957135661945283",
+          "text": "Weekend hack: HackerTube. I was annoyed with YouTube's recommendations so I had Claude filter down 43M comments over 20 years of HN to 6,454 videos that keep being recommended. *Significantly* better viewing experience, ~2 hours with Opus 5.5:\nhttps://hackertube.org/\n\n- Excellent recs without any logins (state is kept in local browser session)\n- Thumbnail is a representative frame from middle of the video instead of the super duper A/B test hyper-optimized user uploads\n- Underlying data from the comment analysis as one zip file, point your Claude at it and ask for your own version\n- HackerTube Longs ✊\n\nA bit more on the process:\nI use Claude Code (desktop app for Mac), Opus 5.5 on Medium effort as my default. I only talk to Claude and have it do everything, the only \"manual work\" I helped with in tandem was in the browser (reminiscent of MenuGen): 1) I had to create some kind of API key from Google Cloud UI to query YouTube for video metadata, 2) I booted up a VPS box for serving and 3) I bought the domain name. Once the box was up I gave Claude the IP and told it update, secure, harden, deploy and optimize the code, and it did the whole thing.\n\nMany awesome projects that would have normally taken weeks/months even can now be few-shotted for breakfast. What else are we not thinking of.",
+          "createdAt": "2026-11-01T18:14:46.535Z",
+          "url": "https://x.com/karpathy/status/2116957135661945283",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Jeff Dean",
+      "handle": "JeffDean",
+      "bio": "Twitter @Jeff Dean",
+      "tweets": [
+        {
+          "id": "https://twitter.com/JeffDean/status/2116750195048448417",
+          "text": "RT Golden State Valkyries\nGOLDEN STATE. GOLD STANDARD.\n\nYour 2026 @WNBA Champions, the Golden State Valkyries. 🗣️",
+          "createdAt": "2026-11-01T02:24:57.621Z",
+          "url": "https://x.com/JeffDean/status/2116750195048448417",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "If in doubt, delete the uv.lock file",
+      "url": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
+      "publishedAt": "2026-11-01T23:24:22.079Z",
+      "author": "",
+      "description": "I've been getting the occasional confusing Python dependency error since switching over to Python 3.15 and the rule I'm having to remember…",
+      "content": "I've been getting the occasional confusing Python dependency error since switching over to Python 3.15 and the rule I'm having to remember is:\n\n If in doubt, delete the uv.lock file\n\n Most of my projects are libraries which don't include a uv.lock file, since it's rude for a library dependency to lock versions for anything else that uses it.\n\n Running uv run pytest etc tends to leave uv.lock files lying around, which are listed in .gitignore and so do not get committed to my repositories.\n\n But... sometimes that uv.lock pins a version of a dependency that doesn't yet have a Python 3.15 wheel. An example from earlier today:\n\n error: Failed to build `watchfiles==1.1.1`\n cause: Call to `maturin.build_wheel` failed\n\nerror: the configured Python interpreter version (3.15) is newer\nthan PyO3's maximum supported version (3.14)\n\n Deleting that file and running uv run pytest again usually fixes the problem.\n\n Tags: uv , til , python"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Quoting Kyle Kingsbury",
+      "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
+      "publishedAt": "2026-11-01T16:49:04.337Z",
+      "author": "",
+      "description": "More broadly, the use of LLMs erodes trust in documentation, in software, and in the organizations which produce them. Perhaps engineers…",
+      "content": "More broadly, the use of LLMs erodes trust in documentation, in software, and in the organizations which produce them. Perhaps engineers will begin to treat any new software project with suspicion—the signals we used to rely on as markers of a mature system are now easier to counterfeit. [...]\n\n In the age of LLMs, what can maintainers do to ensure correct software and accurate documentation? Having done that work, how can they demonstrate its quality to users?\n\n — Kyle Kingsbury , Jepsen results for ParticleDB 1.1.4\n\n Tags: kyle-kingsbury , llms , ai , generative-ai , ai-misuse"
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery",
+      "title": "At Long Last…",
+      "url": "https://stratechery.com/2026/at-long-last/",
+      "publishedAt": "Fri, 30 Oct 2026 17:00:00 +0000",
+      "author": "Ben Thompson",
+      "description": "The best Stratechery content from the week of October 26, 2026 including Anthropic numbers, the end of the Internet as we know it, and autocracies then and now.",
+      "content": "The best Stratechery content from the week of October 26, 2026 including Anthropic numbers, the end of the Internet as we know it, and autocracies then and now.\n\n---\n\nListen to this Update in your podcast player\n\n---\n\n(Photo by Carmen Mandato/Getty Images)\nWelcome back to This Week in Stratechery!\n\nAs a reminder, each week, every Friday, we’re sending out this overview of content in the Stratechery bundle; highlighted links are free for everyone . Additionally, you have complete control over what we send to you. If you don’t want to receive This Week in Stratechery emails (there is no podcast), please uncheck the box in your delivery settings .\n\nOn that note, here were a few of our favorites this week.\n\nFinally, Some Anthropic Numbers.  Monday morning brought us Anthropic’s S-1, and not a moment too soon. After four years of arguments about the economics at frontier labs, we now have some real numbers to sink our teeth into, and Ben did just that with his Update on Tuesday . Come for that analysis, and then head over to this week’s Sharp Tech where we talked in depth about what Anthropic is telling investors, questions that remain unanswered, plus why the SEC forced Anthropic to help us understand Meta’s Muse bet . — Andrew Sharp\n\nThe End of the Internet as We Know It (and I Feel Fine) . Arriving on the heels of a handful of ominous cybersecurity incidents and with continued upheaval guaranteed, Monday’s Article made two distinct predictions . First, the pressure applied by AI will eventually (or imminently?) rupture the global internet that we’ve come to know for the past 25 years. But second, as society moves to more localized solutions and products, that may in fact be a welcome development for all of us who have come to accept degraded experiences throughout our technological lives. As an avid group chatter who’s more or less abandoned public social media, I can certainly get behind the second take!  — AS\n\nAutocracies Then and Now. On Sharp China this week, we began with an extended look at the climate of fear across the Chinese bureaucracy as Xi Jinping continues an anti-corruption crackdown that was absolutely necessary but may be going further than Xi’s earlier proponents ever expected. Then, we turn to a glorious mess surrounding Mao Zedong and international soccer star Kylian Mbappé. On both that episode and in this week’s Sharp Text , I make the point that connipitions like this one, anchored in a bizarre debate over Mao’s governing history, are evidence that rumors of a Chinese century have been greatly exaggerated.  — AS\n\n---\n\nPresented by\n\nWhen I write about tech companies, I am often writing about businesses that depend on Stripe , because Stripe provides the foundation for Internet-native companies — including Stratechery.\n\nConsider Substack: building Stratechery was complicated and involved gluing together disparate pieces; Substack made it easy by delivering an integrated offering. One piece that was the same, however, was Stripe: Substack creators are also Stripe customers, as are creators on many other platforms.\n\nZoom out and the pattern repeats. Fintechs can build entire business models around card programs without ever having to build the issuing and processing infrastructure underneath it.\n\nAI companies can charge for what customers actually use, which is particularly important when usage also drives costs, without having to build the systems to track and bill for it themselves.\n\nNo business succeeds because of Stripe. Stripe doesn’t answer the hard questions about what to build or whether anyone will actually use it. But it does make more things practical to try.\n\n---\n\nStratechery Articles and Updates\n\nThe End of the Internet — The old Internet, where anyone could host a server is over, but it’s just the final blow in an ending that has been coming for years. The future, though, is brighter than it appears.\n\nAnthropic S-1, The Cost of Compute, Who Is Paying? — Anthropic’s IPO is finally here; the core business is very profitable, but competition may eat all of the profits, even as investors are set up for endless dilution.\n\nMeta Earnings, Muse and the Frontier, Musebook — Meta’s earnings come in the context of Zuckerberg delivering on his promise; if investors believe in Muse they must support Meta’s spending on compute.\n\nAn Interview with Palantir CTO Shyam Sankar About the AI Religious War — An interview with Palantir CTO Shyam Sankar about AI diffusion and safety, forward-deployed engineer, and what the battle in tech is actually about.\n\nSharp Text by Andrew Sharp\n\nKylian Mbappés Little Red Card — Surveying the biggest scandal in China this week, and another reminder that the CCP cannot get out its own way.\n\nDithering with Ben Thompson and Daring Fireball’s John Gruber\n\nThe End of the Internet\n\nTouchscreen MacBook Pros\n\nAsianometry with Jon Yu\n\nHow Linux (and Windows) Ate UNIX\n\nSilicon Valley Walks the Jagged Edge\n\nSharp China with Andrew Sharp and Sinocism’s Bill Bishop\n\nFive Questions on the Fifth Plenum; Mbappé Hysteria and a Chinese Own Goal; The STAR 50 AI Bubble Has Burst\n\nGreatest of All Talk\n\nThe Opening Week in Review, Nuggets Darkness and Eastern Conference Angst, A True Catastrophe for OKC\n\nSharp Tech with Andrew Sharp and Ben Thompson\n\nAnthropic Opens the Kimono, Bubble Questions and Frontier Costs, Q&A on Meta, Starlink, Brewers\n\nThis week’s Stratechery video is on Do You Trust Apple? .\n\n---\n\nAdd to your podcast player: Stratechery | Sharp Tech | Dithering | Sharp China | GOAT | Asianometry\n\n---"
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery",
+      "title": "Sharp Tech on Video: Anthropic’s S-1 and What It Means for Meta and Muse, You Can See Everything, and Brewers!",
+      "url": "https://stratechery.com/2026/sharp-tech-on-video-anthropics-s-1-and-what-it-means-for-meta-and-muse-you-can-see-everything-and-brewers/",
+      "publishedAt": "Fri, 30 Oct 2026 10:00:00 +0000",
+      "author": "Ben Thompson",
+      "description": "Sharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery.",
+      "content": "Sharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery.\n\n---\n\nListen to this Update in your podcast player\n\n---\n\nSharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery.\n\nYouTube\n\nSpotify\n\nStratechery\n\n---\n\nIn addition, on Sunday there will be a subscriber-only episode on the subscriber-only feed; this week’s topics include what Apple did to the mobile carriers — and why Apple might be a mobile carrier in the age of AI; DoorDash buying Instacart; plus, what baseball has gotten right, and what the NBA can learn from it.\n\nIf you haven’t yet added your subscriber feed to your podcast player, you can do so at sharptech.fm .\n\n---\n\nWe are going to send out these emails about new videos every week; if you don’t want to receive them, you can update your email preferences on Passport :\n\nHave a great weekend!\n\n---\n\nAdd to your podcast player: Stratechery | Sharp Tech | Dithering | Sharp China | GOAT | Asianometry\n\n---"
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 6,
+    "totalTweets": 10,
+    "blogPosts": 4,
+    "podcastEpisodes": 0
+  }
+}
