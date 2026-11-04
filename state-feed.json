@@ -1,15 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/emollick/status/2112656453685367004": 1792543174704,
-    "https://twitter.com/emollick/status/2112606017972515005": 1792543174704,
-    "https://twitter.com/emollick/status/2112590249033687078": 1792543174704,
-    "https://twitter.com/markchen90/status/2112628202594349139": 1792543174704,
-    "https://twitter.com/petergostev/status/2112609283254685941": 1792543174704,
-    "https://twitter.com/petergostev/status/2112589191628324867": 1792543174704,
-    "https://twitter.com/JeffDean/status/2112662164490350864": 1792543174704,
-    "https://twitter.com/thsottiaux/status/2112592264686149749": 1792543174705,
-    "https://twitter.com/thsottiaux/status/2112432076767289678": 1792543174705,
-    "https://twitter.com/_sholtodouglas/status/2112593702065742047": 1792543174705,
     "https://twitter.com/thsottiaux/status/2113029655095836957": 1792629769565,
     "https://twitter.com/thsottiaux/status/2112712984644784534": 1792629769565,
     "https://twitter.com/_sholtodouglas/status/2113021909302690242": 1792629769566,
@@ -149,15 +139,20 @@
     "https://twitter.com/emollick/status/2117372481191239762": 1793676549863,
     "https://twitter.com/emollick/status/2117346417979384162": 1793676549863,
     "https://twitter.com/emollick/status/2117338841749029221": 1793676549863,
-    "https://twitter.com/trq212/status/2117305792923889731": 1793676549863
+    "https://twitter.com/trq212/status/2117305792923889731": 1793676549863,
+    "https://twitter.com/gdb/status/2117755028211642849": 1793758993297,
+    "https://twitter.com/_sholtodouglas/status/2117754196070117754": 1793758993297,
+    "https://twitter.com/thsottiaux/status/2117746467058405665": 1793758993297,
+    "https://twitter.com/thsottiaux/status/2117489367417803042": 1793758993297,
+    "https://twitter.com/emollick/status/2117736864010645567": 1793758993297,
+    "https://twitter.com/emollick/status/2117659011373756509": 1793758993297,
+    "https://twitter.com/emollick/status/2117503772398178763": 1793758993297,
+    "https://twitter.com/bcherny/status/2117693181651542387": 1793758993297,
+    "https://twitter.com/trq212/status/2117670540148347273": 1793758993297,
+    "https://twitter.com/YiTayML/status/2117500355420590424": 1793758993297
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://simonwillison.net/2026/Oct/20/emudhra-certificates": 1792543174705,
-    "https://simonwillison.net/2026/Oct/20/battledrones": 1792543174705,
-    "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming": 1792543174705,
-    "https://lovable.dev/blog/enterprise-features-october-roundup": 1792543174705,
-    "https://stratechery.com/2026/muse-spark-open-meta-apple-thin-and-thick": 1792543174705,
     "https://stratechery.com/2026/presented-by-stripe": 1792629769567,
     "https://simonwillison.net/2026/Oct/21/php-security-release": 1792629769566,
     "https://simonwillison.net/2026/Oct/21/panache": 1792629769567,
@@ -219,8 +214,16 @@
     "https://jack-clark.net/2026/11/02/import-ai-479-spacewar-low-latency-tasks-versus-llms-genie-4": 1793676549864,
     "https://therundownai.beehiiv.com/p/ai-backlash-heads-to-the-polls": 1793676549864,
     "https://stratechery.com/2026/google-earnings-facebook-deja-vu-the-agent-play": 1793676549864,
-    "https://tomtunguz.com/the-four-questions-of-ai": 1793676549864
+    "https://tomtunguz.com/the-four-questions-of-ai": 1793676549864,
+    "https://stratechery.com/2026/apple-earnings-memory-problems-the-hardware-company-regression/": 1793758986936,
+    "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights": 1793758993298,
+    "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location": 1793758993298,
+    "https://simonwillison.net/2026/Nov/3/october-newsletter": 1793758993298,
+    "https://stratechery.com/2026/apple-earnings-memory-problems-the-hardware-company-regression": 1793758993298,
+    "https://therundownai.beehiiv.com/p/mit-shows-ai-improving-ai-no-training-required": 1793758993298,
+    "https://tomtunguz.com/the-financial-engineering-essential-for-ai-in-2027": 1793758993298,
+    "https://openai.com/index/scaling-git-at-openai": 1793758993312
   },
-  "lastRunKey": "2026-11-03",
-  "lastRunAt": "2026-11-03T03:29:09.870Z"
+  "lastRunKey": "2026-11-04",
+  "lastRunAt": "2026-11-04T02:23:13.319Z"
 }
