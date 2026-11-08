@@ -1,13 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/thsottiaux/status/2114074885622501706": 1792887690003,
-    "https://twitter.com/thsottiaux/status/2114030784625647855": 1792887690003,
-    "https://twitter.com/thsottiaux/status/2113838156193894447": 1792887690003,
-    "https://twitter.com/trq212/status/2114082421012619611": 1792887690003,
-    "https://twitter.com/trq212/status/2113844051938054167": 1792887690003,
-    "https://twitter.com/emollick/status/2114001653879672877": 1792887690003,
-    "https://twitter.com/amorriscode/status/2113972174524674247": 1792887690003,
-    "https://twitter.com/amorriscode/status/2113826539771138315": 1792887690003,
     "https://twitter.com/gdb/status/2114483026608755082": 1792974373738,
     "https://twitter.com/emollick/status/2114404221021778347": 1792974373738,
     "https://twitter.com/emollick/status/2114337256865493250": 1792974373738,
@@ -144,13 +136,18 @@
     "https://twitter.com/gdb/status/2118753277718528402": 1794016728990,
     "https://twitter.com/_sholtodouglas/status/2118597187722752120": 1794016728990,
     "https://twitter.com/JeffDean/status/2118554350859813374": 1794016728990,
-    "https://twitter.com/emollick/status/2118551754908356979": 1794016728990
+    "https://twitter.com/emollick/status/2118551754908356979": 1794016728990,
+    "https://twitter.com/gdb/status/2119179547468005432": 1794101306721,
+    "https://twitter.com/emollick/status/2119158887060283552": 1794101306721,
+    "https://twitter.com/emollick/status/2119140502746308674": 1794101306721,
+    "https://twitter.com/emollick/status/2119083280381383072": 1794101306721,
+    "https://twitter.com/karpathy/status/2119114537442189652": 1794101306722,
+    "https://twitter.com/karpathy/status/2119152815444742594": 1794101306722,
+    "https://twitter.com/thsottiaux/status/2118953362725159104": 1794101306722,
+    "https://twitter.com/thsottiaux/status/2118938956301779171": 1794101306722
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://stratechery.com/": 1792887686049,
-    "https://magazine.sebastianraschka.com/p/building-reasoning-models": 1792887690003,
-    "https://simonwillison.net/2026/Oct/24/battledrones": 1792887690003,
     "https://stratechery.com/2026/the-end-of-the-internet": 1793238645893,
     "https://simonwillison.net/2026/Oct/26/gpt-61-terra": 1793064625652,
     "https://simonwillison.net/2026/Oct/26/jason-koebler": 1793064625652,
@@ -208,15 +205,16 @@
     "https://simonwillison.net/2026/Nov/3/llm": 1793932274681,
     "https://stratechery.com/2026/an-interview-with-intuit-ceo-sasan-goodarzi-about-accounting-and-ai": 1793932274682,
     "https://therundownai.beehiiv.com/p/ai-agents-can-now-make-your-phone-calls": 1793932274682,
-    "https://stratechery.com/2026/falling-leaves-and-stocks/": 1794016722971,
-    "https://stratechery.com/2026/sharp-tech-on-video-the-u-s-votes-on-data-centers-implications-for-big-tech-googles-response-to-ai/": 1794016722971,
     "https://stratechery.com/2026/falling-leaves-and-stocks": 1794016728991,
     "https://stratechery.com/2026/sharp-tech-on-video-the-u-s-votes-on-data-centers-implications-for-big-tech-googles-response-to-ai": 1794016728991,
     "https://simonwillison.net/2026/Nov/6/nilay-patel": 1794016728991,
     "https://therundownai.beehiiv.com/p/an-inside-look-at-anthropic-s-ai-speedup": 1794016728991,
     "https://tomtunguz.com/a-90-dollar-key-into-your-companys-secrets": 1794016728991,
-    "https://www.anthropic.com/research/components-of-agent-memory": 1794016728992
+    "https://www.anthropic.com/research/components-of-agent-memory": 1794016728992,
+    "https://stratechery.com/2026/falling-leaves-and-stocks/": 1794101304116,
+    "https://stratechery.com/2026/sharp-tech-on-video-the-u-s-votes-on-data-centers-implications-for-big-tech-googles-response-to-ai/": 1794101304116,
+    "https://simonwillison.net/2026/Nov/7/link-rel-next": 1794101306722
   },
-  "lastRunKey": "2026-11-07",
-  "lastRunAt": "2026-11-07T01:58:48.999Z"
+  "lastRunKey": "2026-11-08",
+  "lastRunAt": "2026-11-08T01:28:26.725Z"
 }

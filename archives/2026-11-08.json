@@ -1,0 +1,183 @@
+{
+  "generatedAt": "2026-11-08T01:28:26.721Z",
+  "runKey": "2026-11-08",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Greg Brockman",
+      "handle": "gdb",
+      "bio": "Twitter @Greg Brockman",
+      "tweets": [
+        {
+          "id": "https://twitter.com/gdb/status/2119179547468005432",
+          "text": "security architecture fundamentals are more important than ever before\n---\n Pat Opet: if you’re working for a company in cybersecurity, you should be evaluating your options to abstract your companies services from the internet\n\nwhat i mean is: why allow an unauthenticated anonymous agent of an attacker to interact with your systems?\n\nconsider your architectural levers now, you’re going to need them\n\nLink: https://x.com/patopet/status/2119119940036800520",
+          "createdAt": "2026-11-07T21:25:51.169Z",
+          "url": "https://x.com/gdb/status/2119179547468005432",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/patopet/status/2119119940036800520\nPat Opet: if you’re working for a company in cybersecurity, you should be evaluating your options to abstract your companies services from the internet\n\nwhat i mean is: why allow an unauthenticated anonymous agent of an attacker to interact with your systems?\n\nconsider your architectural levers now, you’re going to need them\n\n Link: https://x.com/patopet/status/2119119940036800520"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Twitter @Ethan Mollick",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2119158887060283552",
+          "text": "New test of which organizations have low AI capability: you haven’t updated your apps for the iPhone Duo yet.",
+          "createdAt": "2026-11-07T20:03:45.299Z",
+          "url": "https://x.com/emollick/status/2119158887060283552",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2119140502746308674",
+          "text": "I think there is way too much concern expressed about verification of AI output in everyday work due to a risk of factual errors.\n\nIt used to be true, but data on more recent models suggest they beat human experts, including PhD specialists, in finding facts and checking claims.",
+          "createdAt": "2026-11-07T18:50:42.911Z",
+          "url": "https://x.com/emollick/status/2119140502746308674",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2119083280381383072",
+          "text": "This can be a golden age of investigative journalism. Analyzing filings, records and public data to go deep into a company or government or whatever used to be something that took a team of journalists a long time, so was relatively rare. Now LLMs can 10x investigative research.",
+          "createdAt": "2026-11-07T15:03:19.543Z",
+          "url": "https://x.com/emollick/status/2119083280381383072",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Andrej Karpathy",
+      "handle": "karpathy",
+      "bio": "Twitter @Andrej Karpathy",
+      "tweets": [
+        {
+          "id": "https://twitter.com/karpathy/status/2119114537442189652",
+          "text": "Earlier this week Tristan published his top YouTube channels:\nhttps://thume.ca/2026/11/01/youtube-tier-list-2026/\nWhich looked excellent so clearly I had to turn it into TristanTube:\nhttps://karpathy.ai/tristan-tube/\n47K super nerdy videos +TV mode for laid back watching. (One-shotted with Claude Code in 3 minutes)\n---\n Andrej Karpathy: Weekend hack: HackerTube. I was annoyed with YouTube's recommendations so I had Claude filter down 43M comments over 20 years of HN to 6,454 videos that keep being recommended. *Significantly* better viewing experience, ~2 hours with Opus 5.5:\nhttps://hackertube.org/\n\n- Excellent recs without any logins (state is kept in local browser session)\n- Thumbnail is a representative frame from middle of the video instead of the super duper A/B test hyper-optimized user uploads\n- Underlying data from the comment analysis as one zip file, point your Claude at it and ask for your own version\n- HackerTube Longs ✊\n\nA bit more on the process:\nI use Claude Code (desktop app for Mac), Opus 5.5 on Medium effort as my default. I only talk to Claude and have it do everything, the only \"manual work\" I helped with in tandem was in the browser (reminiscent of MenuGen): 1) I had to create some kind of API key from Google Cloud UI to query YouTube for video metadata, 2) I booted up a VPS box for serving and 3) I bought the domain name. Once the box was up I gave Claude the IP and told it update, secure, harden, deploy and optimize the code, and it did the whole thing.\n\nMany awesome projects that would have normally taken weeks/months even can now be few-shotted for breakfast. What else are we not thinking of.\n\nLink: https://x.com/karpathy/status/2116957135661945283",
+          "createdAt": "2026-11-07T17:07:31.976Z",
+          "url": "https://x.com/karpathy/status/2119114537442189652",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/karpathy/status/2116957135661945283\nAndrej Karpathy: Weekend hack: HackerTube. I was annoyed with YouTube's recommendations so I had Claude filter down 43M comments over 20 years of HN to 6,454 videos that keep being recommended. *Significantly* better viewing experience, ~2 hours with Opus 5.5:\nhttps://hackertube.org/\n\n- Excellent recs without any logins (state is kept in local browser session)\n- Thumbnail is a representative frame from middle of the video instead of the super duper A/B test hyper-optimized user uploads\n- Underlying data from the comment analysis as one zip file, point your Claude at it and ask for your own version\n- HackerTube Longs ✊\n\nA bit more on the process:\nI use Claude Code (desktop app for Mac), Opus 5.5 on Medium effort as my default. I only talk to Claude and have it do everything, the only \"manual work\" I helped with in tandem was in the browser (reminiscent of MenuGen): 1) I had to create some kind of API key from Google Cloud UI to query YouTube for video metadata, 2) I booted up a VPS box for serving and 3) I bought the domain name. Once the box was up I gave Claude the IP and told it update, secure, harden, deploy and optimize the code, and it did the whole thing.\n\nMany awesome projects that would have normally taken weeks/months even can now be few-shotted for breakfast. What else are we not thinking of.\n\n Link: https://x.com/karpathy/status/2116957135661945283"
+        },
+        {
+          "id": "https://twitter.com/karpathy/status/2119152815444742594",
+          "text": "RT Justin Lo\nNice DeepSWE score! Does it survive a lowercase filename?\n\nIntroducing MaxxBench: 89 DeepSWE tasks with small changes to the instructions or starting code. Same engineering problem, slightly different requirement.\n\nModels clustered around 74% on DeepSWE end up 23 pp apart.\n\nGood at coding, or good at DeepSWE? 🧵",
+          "createdAt": "2026-11-07T01:36:52.984Z",
+          "url": "https://x.com/karpathy/status/2119152815444742594",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Twitter @Tibo",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2118953362725159104",
+          "text": "Cyber\n---\n Stefan Esser: I guess now that @openai has name dropped @calif_io as an early adopter I can tell you GPT-6 Cyber is out of this world. It is lightyears ahead of everything I used.\n\nLink: https://x.com/i0n1c/status/2118409855119880354",
+          "createdAt": "2026-11-07T06:27:04.678Z",
+          "url": "https://x.com/thsottiaux/status/2118953362725159104",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/i0n1c/status/2118409855119880354\nStefan Esser: I guess now that @openai has name dropped @calif_io as an early adopter I can tell you GPT-6 Cyber is out of this world. It is lightyears ahead of everything I used.\n\n Link: https://x.com/i0n1c/status/2118409855119880354"
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2118938956301779171",
+          "text": "Get me out of the basement\n\nhttps://poteto.com/\n---\n Tibo: It's Friday\n\nLink: https://x.com/thsottiaux/status/2118871902366441879",
+          "createdAt": "2026-11-07T05:29:49.589Z",
+          "url": "https://x.com/thsottiaux/status/2118938956301779171",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/thsottiaux/status/2118871902366441879\nTibo: It's Friday\n\n Link: https://x.com/thsottiaux/status/2118871902366441879"
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
+      "url": "https://simonwillison.net/2026/Nov/7/link-rel-next/",
+      "publishedAt": "2026-11-07T23:57:46.905Z",
+      "author": "",
+      "description": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages I was looking at the Firefox network panel today when I…",
+      "content": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages\n\nI was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an HTTP prefetch to the next page of rows in that table.\n\n This was happening because Datasette pages serve an HTTP link header like this:\n\n link: ; rel=\"next\"\n\n This is bad. A tiny fraction of the visitors to one of those pages will click the \"next\" link, which means their browser is fetching unnecessary data and the Datasette server is having to render an entire page that then gets thrown away.\n\n I dug in and learned that Firefox has an issue that has been open for 24 years about this behavior...\n\n And one of the early comments on that issue links to my blog post from 2002 complaining about this feature. I hadn't just forgotten that I had written about it, I had forgotten the feature entirely!\n\n Tags: firefox , html , mozilla , datasette"
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery",
+      "title": "Falling Leaves (and Stocks)",
+      "url": "https://stratechery.com/2026/falling-leaves-and-stocks/",
+      "publishedAt": "Fri, 06 Nov 2026 18:14:42 +0000",
+      "author": "Ben Thompson",
+      "description": "The best Stratechery content from the week of November 2, 2026, including AI on the ballot, a Google state of the union, and China.",
+      "content": "The best Stratechery content from the week of November 2, 2026, including AI on the ballot, a Google state of the union, and China.\n\n---\n\nListen to this Update in your podcast player\n\n---\n\n(Photo by Jon Cherry/Getty Images)\nWelcome back to This Week in Stratechery!\n\nAs a reminder, each week, every Friday, we’re sending out this overview of content in the Stratechery bundle; highlighted links are free for everyone . Additionally, you have complete control over what we send to you. If you don’t want to receive This Week in Stratechery emails (there is no podcast), please uncheck the box in your delivery settings .\n\nOn that note, here were a few of our favorites this week.\n\nAI on the Ballot. This week’s elections delivered Democrats the largest Congressional majority either party has enjoyed in 36 years, and coupled with a variety of similar results at the state level (particularly in Texas), not to mention plenty of data center opposition among Republicans, the future of the AI buildout is now fraught with more regulatory uncertainty than ever. I wrote about X, 2024 symmetry, and the more political aspects of the election for Sharp Text , while Ben’s Article on Wednesday built on his data center warnings from April and provided 10 takes on the post-midterms landscape for tech companies. — Andrew Sharp\n\nA Google State of the Union. Last week Google reported earnings and saw growth in search revenue slow for the first time in five quarters. Given the appearance of mortality in what might be the greatest business in the history of digital commerce, investors were predictably spooked. However, I think the company deserves time to see if AI Mode ends up like Stories and Reels did for Facebook: if anyone can monetize AI with ads, it’s going to be Google. On Sharp Tech , we also got into why Google’s AI bet is about more than AI Mode, and why I find myself impressed by Google’s fortitude, even if the rest of the Internet is a casualty. — Ben Thompson\n\nAnd What About China? Elections have consequences, as they say, so what might a Democratic Congressional majority mean for the next two years of U.S.-China relations? We tried to answer that question on Sharp China this week , including predicting factional foreign policy fights between the left and center-left, highlighting the profound unknowns concerning President Trump’s posture after this week’s defeat, and offering one safe bet in the new environment: life is about to get a lot more complicated for Jensen Huang in Washington. — AS\n\n---\n\nPresented by\n\nI spend a lot of time trying to figure out what is happening to businesses on the internet. What I often find I’m missing is a view across the economy itself. With more than 1.7% of global GDP running on Stripe, working with them means I can bring some of what they’re seeing to Stratechery. They are, in a sense, a barometer of the economy.\n\nTake the “SaaSpocalypse”. Earlier this year, nearly a trillion dollars in enterprise software value disappeared amid fears of AI eating its lunch. Stock prices only tell us what investors think will happen, and not necessarily what is happening. In this case, Stripe recently built a SaaS Index using payments data from 72,000 non-AI SaaS businesses. Looking at their actual performance, we can see that while SaaS stocks were selling off, revenue growth was actually accelerating.\n\nYear-over-year growth is now over 30%, with some of the fastest growth coming from the youngest SaaS companies. I suspect there are a lot more interesting things hiding in Stripe’s data, and I’m excited about having an excuse to go look for them.\n\n---\n\nStratechery Articles and Updates\n\nGoogle Earnings, Facebook Déjà Vu, The Agent Play — Google’s earnings miss looks a lot like Facebook’s, and that’s a credit to Google. The company is being more aggressive than they get credit for.\n\nApple Earnings, Memory Problems, The Hardware Company Regression — Apple’s earnings suggest that the company’s hardware business is doing better than ever, even in the face of memory challenges. Does the software story help or hurt?\n\nAI on the Ballot — Data Centers were on the ballot, and they lost in a major way; what does it mean if American opposition to building is permanent?\n\nAn Interview With Intuit CEO Sasan Goodarzi About Accounting and AI — An interview with Intuit CEO Sasan Goodarzi about the working for one of tech’s oldest software companies, and how Intuit is leaning into the AI paradigm shift.\n\nSharp Text by Andrew Sharp\n\nX Marks the Rot — Republicans colonized Twitter and then cannibalized their support with two years of memes, corruption and excess.\n\nDithering with Ben Thompson and Daring Fireball’s John Gruber\n\nDoorDash and Google\n\nThe MacBook Pro (with touch)\n\nAsianometry with Jon Yu\n\nThe Rise of GLM and China’s Zhipu AI\n\nSharp China with Andrew Sharp and Sinocism’s Bill Bishop\n\nParsing the Fifth Plenum; US-China After the Midterms; New Scrutiny for Nvidia?; Cybersecurity and Espionage\n\nGreatest of All Talk\n\nThe Rapture and the Wild West, Luka Doncic on Praise Probation, AJ Dybantsa Saves the Wizards\n\nSharp Tech with Andrew Sharp and Ben Thompson\n\nSubscriber Mail: Apple Past and Present, Omarchy, Instacart, and Baseball\n\nAmerica Votes Against Data Centers, Implications for Big Tech and Beyond, Were Google Bears Right All Along?\n\nThis week’s Stratechery video is on The End of the Internet .\n\n---\n\nAdd to your podcast player: Stratechery | Sharp Tech | Dithering | Sharp China | GOAT | Asianometry\n\n---"
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery",
+      "title": "Sharp Tech on Video: The U.S. Votes on Data Centers, Implications for Big Tech, Google’s Response to AI",
+      "url": "https://stratechery.com/2026/sharp-tech-on-video-the-u-s-votes-on-data-centers-implications-for-big-tech-googles-response-to-ai/",
+      "publishedAt": "Fri, 06 Nov 2026 11:00:00 +0000",
+      "author": "Ben Thompson",
+      "description": "Sharp Tech is, for the first time, available on video. You have two ways to consume it: YouTube, and here on Stratechery",
+      "content": "Sharp Tech is, for the first time, available on video. You have two ways to consume it: YouTube, and here on Stratechery\n\n---\n\nListen to this Update in your podcast player\n\n---\n\nSharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery.\n\nYouTube\n\nhttps://www.youtube.com/watch?v=xyWwtLOlsU0\n\nSpotify\n\nStratechery\n\n---\n\nIn addition, on Sunday there will be a subscriber-only episode on the subscriber-only feed; this week’s topics include how Elon Musk’s X changed politics, Microsoft’s compute allocation, AirPods during a marathon, a call to end Europe bashing, Bending Spoons takes, and movie reviews.\n\nIf you haven’t yet added your subscriber feed to your podcast player, you can do so at sharptech.fm .\n\n---\n\nWe are going to send out these emails about new videos every week; if you don’t want to receive them, you can update your email preferences on Passport :\n\nHave a great weekend!\n\n---\n\nAdd to your podcast player: Stratechery | Sharp Tech | Dithering | Sharp China | GOAT | Asianometry\n\n---"
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 4,
+    "totalTweets": 8,
+    "blogPosts": 3,
+    "podcastEpisodes": 0
+  }
+}
