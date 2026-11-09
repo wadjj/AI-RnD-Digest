@@ -1,12 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/gdb/status/2114483026608755082": 1792974373738,
-    "https://twitter.com/emollick/status/2114404221021778347": 1792974373738,
-    "https://twitter.com/emollick/status/2114337256865493250": 1792974373738,
-    "https://twitter.com/petergostev/status/2114319345115431224": 1792974373738,
-    "https://twitter.com/karpathy/status/2114384346815820050": 1792974373738,
-    "https://twitter.com/thsottiaux/status/2114237083652882932": 1792974373738,
-    "https://twitter.com/thsottiaux/status/2114200152701575656": 1792974373738,
     "https://twitter.com/petergostev/status/2114848096513560672": 1793064625651,
     "https://twitter.com/petergostev/status/2114844369169588328": 1793064625651,
     "https://twitter.com/petergostev/status/2114836039609332021": 1793064625651,
@@ -144,7 +137,13 @@
     "https://twitter.com/karpathy/status/2119114537442189652": 1794101306722,
     "https://twitter.com/karpathy/status/2119152815444742594": 1794101306722,
     "https://twitter.com/thsottiaux/status/2118953362725159104": 1794101306722,
-    "https://twitter.com/thsottiaux/status/2118938956301779171": 1794101306722
+    "https://twitter.com/thsottiaux/status/2118938956301779171": 1794101306722,
+    "https://twitter.com/gdb/status/2119561347805687848": 1794188710745,
+    "https://twitter.com/_sholtodouglas/status/2119511931849781605": 1794188710745,
+    "https://twitter.com/emollick/status/2119483529591504896": 1794188710745,
+    "https://twitter.com/demishassabis/status/2119429645732896879": 1794188710745,
+    "https://twitter.com/thsottiaux/status/2119305294291612140": 1794188710745,
+    "https://twitter.com/thsottiaux/status/2119296267545419987": 1794188710745
   },
   "seenVideos": {},
   "seenArticles": {
@@ -205,16 +204,17 @@
     "https://simonwillison.net/2026/Nov/3/llm": 1793932274681,
     "https://stratechery.com/2026/an-interview-with-intuit-ceo-sasan-goodarzi-about-accounting-and-ai": 1793932274682,
     "https://therundownai.beehiiv.com/p/ai-agents-can-now-make-your-phone-calls": 1793932274682,
-    "https://stratechery.com/2026/falling-leaves-and-stocks": 1794016728991,
-    "https://stratechery.com/2026/sharp-tech-on-video-the-u-s-votes-on-data-centers-implications-for-big-tech-googles-response-to-ai": 1794016728991,
+    "https://stratechery.com/2026/falling-leaves-and-stocks": 1794101304116,
+    "https://stratechery.com/2026/sharp-tech-on-video-the-u-s-votes-on-data-centers-implications-for-big-tech-googles-response-to-ai": 1794101304116,
     "https://simonwillison.net/2026/Nov/6/nilay-patel": 1794016728991,
     "https://therundownai.beehiiv.com/p/an-inside-look-at-anthropic-s-ai-speedup": 1794016728991,
     "https://tomtunguz.com/a-90-dollar-key-into-your-companys-secrets": 1794016728991,
     "https://www.anthropic.com/research/components-of-agent-memory": 1794016728992,
-    "https://stratechery.com/2026/falling-leaves-and-stocks/": 1794101304116,
-    "https://stratechery.com/2026/sharp-tech-on-video-the-u-s-votes-on-data-centers-implications-for-big-tech-googles-response-to-ai/": 1794101304116,
-    "https://simonwillison.net/2026/Nov/7/link-rel-next": 1794101306722
+    "https://simonwillison.net/2026/Nov/7/link-rel-next": 1794101306722,
+    "https://stratechery.com/2026/falling-leaves-and-stocks/": 1794188707930,
+    "https://stratechery.com/2026/sharp-tech-on-video-the-u-s-votes-on-data-centers-implications-for-big-tech-googles-response-to-ai/": 1794188707930,
+    "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust": 1794188710745
   },
-  "lastRunKey": "2026-11-08",
-  "lastRunAt": "2026-11-08T01:28:26.725Z"
+  "lastRunKey": "2026-11-09",
+  "lastRunAt": "2026-11-09T01:45:10.752Z"
 }
