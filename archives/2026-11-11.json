@@ -1,0 +1,267 @@
+{
+  "generatedAt": "2026-11-11T01:57:53.006Z",
+  "runKey": "2026-11-11",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Twitter @Tibo",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2120267268517249036",
+          "text": "How many of you have a small business?\n---\n OpenAI: Now in beta: Businesses in ChatGPT.\n\nClaim your business, manage your information, and get insights on how people engage with you.\n\nEligible businesses can also build a Business Agent to answer customers’ questions and help them explore what you offer.\n\nhttps://openai.com/index/introducing-businesses-chatgpt/\n\nLink: https://x.com/OpenAI/status/2120216592395174382",
+          "createdAt": "2026-11-10T21:28:04.953Z",
+          "url": "https://x.com/thsottiaux/status/2120267268517249036",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/OpenAI/status/2120216592395174382\nOpenAI: Now in beta: Businesses in ChatGPT.\n\nClaim your business, manage your information, and get insights on how people engage with you.\n\nEligible businesses can also build a Business Agent to answer customers’ questions and help them explore what you offer.\n\nhttps://openai.com/index/introducing-businesses-chatgpt/\n\n Link: https://x.com/OpenAI/status/2120216592395174382"
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2120266880963473789",
+          "text": "Labs innovating together ftw\n\n---\n Claude: Also new: with interactive connectors, you can now open the full version of a tool inside Claude. Work in Adobe, Atlassian, and Box beside your conversation. Make changes yourself, or ask Claude to make them with you.\n\nRolling out on web and desktop.\n\nLink: https://x.com/claudeai/status/2120206375137484875",
+          "createdAt": "2026-11-10T21:26:31.947Z",
+          "url": "https://x.com/thsottiaux/status/2120266880963473789",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/claudeai/status/2120206375137484875\nClaude: Also new: with interactive connectors, you can now open the full version of a tool inside Claude. Work in Adobe, Atlassian, and Box beside your conversation. Make changes yourself, or ask Claude to make them with you.\n\nRolling out on web and desktop.\n\n Link: https://x.com/claudeai/status/2120206375137484875"
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2120021043876106429",
+          "text": "Dots can now control many machines in addition to its own little cloud computer that we provide by default.\n---\n OpenAI Developers: You can now connect multiple local computers to the same dot and choose which one it uses for a task.\n\nIt can build and test your app on a dedicated machine while you keep coding on your laptop.\n\nLink: https://x.com/OpenAIDevs/status/2119883176726409645",
+          "createdAt": "2026-11-10T05:09:39.311Z",
+          "url": "https://x.com/thsottiaux/status/2120021043876106429",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/OpenAIDevs/status/2119883176726409645\nOpenAI Developers: You can now connect multiple local computers to the same dot and choose which one it uses for a task.\n\nIt can build and test your app on a dedicated machine while you keep coding on your laptop.\n\n Link: https://x.com/OpenAIDevs/status/2119883176726409645"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Twitter @Ethan Mollick",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2120248525254742318",
+          "text": "Another weird AI game project: I gave Claude Fable 5.2 a vague paragraph asking for a fantasy transport sim with heart. Then I left it to a bunch of agents arguing about art, lore and jokes. Now here is Dread & District, where good logistics defeats evil. https://dread-and-district.netlify.app",
+          "createdAt": "2026-11-10T20:13:35.719Z",
+          "url": "https://x.com/emollick/status/2120248525254742318",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2120233659793854926",
+          "text": "One of the most significant things about Gemini 4 Carbon is that it is showing that Google is back in the race of frontier models, rapid releases and rapid improvement.",
+          "createdAt": "2026-11-10T19:14:31.738Z",
+          "url": "https://x.com/emollick/status/2120233659793854926",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2120198832202125322",
+          "text": "Had early access to Gemini 4 Carbon, it is a very good model that improves on Argon. It is useful to have an AI that thinks differently than Claude/GPT & is still highly capable, but has its own strengths & weakness\n\nOne fun demo: I gave Carbon a video clip & it reproduced in 3js",
+          "createdAt": "2026-11-10T16:56:07.477Z",
+          "url": "https://x.com/emollick/status/2120198832202125322",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Twitter @Thariq",
+      "tweets": [
+        {
+          "id": "https://twitter.com/trq212/status/2120223476279869875",
+          "text": "we need fewer one shot demos and more tools that show how you can collaborate with models to bring your vision to life\n---\n Araminta: A few folks asked to see how I use the AI Assisted Tween & Paint harnesses, so I put together a little video with Claude!\n\nLinking below the workbook :)\n\nLink: https://x.com/araminta_k/status/2120216869005324667",
+          "createdAt": "2026-11-10T18:34:03.255Z",
+          "url": "https://x.com/trq212/status/2120223476279869875",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/araminta_k/status/2120216869005324667\nAraminta: A few folks asked to see how I use the AI Assisted Tween & Paint harnesses, so I put together a little video with Claude!\n\nLinking below the workbook :)\n\n Link: https://x.com/araminta_k/status/2120216869005324667"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Greg Brockman",
+      "handle": "gdb",
+      "bio": "Twitter @Greg Brockman",
+      "tweets": [
+        {
+          "id": "https://twitter.com/gdb/status/2120222471412666562",
+          "text": "claim your business on ChatGPT and engage with customers in new ways:\n---\n OpenAI: Now in beta: Businesses in ChatGPT.\n\nClaim your business, manage your information, and get insights on how people engage with you.\n\nEligible businesses can also build a Business Agent to answer customers’ questions and help them explore what you offer.\n\nhttps://openai.com/index/introducing-businesses-chatgpt/\n\nLink: https://x.com/OpenAI/status/2120216592395174382",
+          "createdAt": "2026-11-10T18:30:03.403Z",
+          "url": "https://x.com/gdb/status/2120222471412666562",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/OpenAI/status/2120216592395174382\nOpenAI: Now in beta: Businesses in ChatGPT.\n\nClaim your business, manage your information, and get insights on how people engage with you.\n\nEligible businesses can also build a Business Agent to answer customers’ questions and help them explore what you offer.\n\nhttps://openai.com/index/introducing-businesses-chatgpt/\n\n Link: https://x.com/OpenAI/status/2120216592395174382"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Demis Hassabis",
+      "handle": "demishassabis",
+      "bio": "Twitter @Demis Hassabis",
+      "tweets": [
+        {
+          "id": "https://twitter.com/demishassabis/status/2120210297948696997",
+          "text": "Our latest frontier model Gemini 4 Carbon is rolling out today! Amazing progress from Gemini 3 → Gemini 4 in less than a year… Carbon reverse engineers my original Theme Park binaries, adds a new DeepMind themed ride, and ports it to the web in one shot - kind of mindblowing to see! https://x.com/demishassabis/status/1990818894177513831\n\n---\n Demis Hassabis: For example I’ve been doing a bunch of late night vibe coding with Gemini 3 in @GoogleAIStudio, and it’s so much fun! I recreated a testbed of my game Theme Park 🎢 that I programmed in the 90s in a matter of hours, down to letting players adjust the amount of salt on the chips! 🍟 (fans of the game will understand the reference 😀)\n\nLink: https://x.com/demishassabis/status/1990818894177513831",
+          "createdAt": "2026-11-10T17:41:41.940Z",
+          "url": "https://x.com/demishassabis/status/2120210297948696997",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/demishassabis/status/1990818894177513831\nDemis Hassabis: For example I’ve been doing a bunch of late night vibe coding with Gemini 3 in @GoogleAIStudio, and it’s so much fun! I recreated a testbed of my game Theme Park 🎢 that I programmed in the 90s in a matter of hours, down to letting players adjust the amount of salt on the chips! 🍟 (fans of the game will understand the reference 😀)\n\n Link: https://x.com/demishassabis/status/1990818894177513831"
+        },
+        {
+          "id": "https://twitter.com/demishassabis/status/2120294666969248255",
+          "text": "RT Cursor\nGemini 4 Carbon is now available in Cursor!\n\nAt high effort, it's the top model on CursorBench at 60.4%",
+          "createdAt": "2026-11-10T16:35:16.037Z",
+          "url": "https://x.com/demishassabis/status/2120294666969248255",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/demishassabis/status/2120200299608776819",
+          "text": "RT Google DeepMind\nGemini Robotics 2.5 is here. 🤖\n\nOur latest physical AI is able to learn hundreds of everyday skills - from folding laundry and serving pastries to autonomously sorting car parts on the factory floor.\n\nHere’s a snapshot of its capabilities 🧵",
+          "createdAt": "2026-11-10T15:00:42.094Z",
+          "url": "https://x.com/demishassabis/status/2120200299608776819",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "llm-gemini 0.36",
+      "url": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
+      "publishedAt": "2026-11-10T20:09:44.223Z",
+      "author": "",
+      "description": "Release: llm-gemini 0.36 Gemini 4 Carbon was announced two weeks ago for \"a subset of cyber defenders\", but today it's available to…",
+      "content": "Release: llm-gemini 0.36\n\n Gemini 4 Carbon was announced two weeks ago for \"a subset of cyber defenders\", but today it's available to everyone else .\n\n This is Google's best ever Gemini, priced at $2/million input and $10/million output at launch (that's GPT-6.1 Sol / Claude Sonnet 5.5 prices) but scheduled to double in price to $4/$20 on December 1st (same as Opus 5.5).\n\n Here are three pelicans for the low, medium and high thinking efforts (it defaults to medium). This is the pelican I got for high:\n\n Gemini pelicans have all been great for a while now, so I also tested it out using Google's Antigravity IDE with a prompt I first tried with Claude Fable 5.2 yesterday :\n\n Make a three js animation where yonkers stands up as a big mech (cool stand up motion) and stomps around manhattan and queens and Brooklyn, use openstreetmap mapping data\n\n Here's the HTML result (I had to prompt \"build that into a standalone HTML file\" to get a version with no external dependencies). I then screen-captured that as a video:\n\n Update : Huh, just saw this on YouTube :\n\n Using Google Antigravity’s /swarm feature, Carbon built an open-world 3D game where you explore Google’s Mountain View campus as a pelican riding a GBike — coordinating subagents to model 3D assets in Blender from Omni and Nano Banana references, build the browser game in Three.js with WebGL shaders, and pair procedural Web Audio sound effects with Lyria music.\n\n Tags: llm-release , gemini , llm , google , generative-ai , ai , llms , pelican-riding-a-bicycle"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+      "url": "https://simonwillison.net/2026/Nov/10/muse-ember/",
+      "publishedAt": "2026-11-10T07:28:21.638Z",
+      "author": "",
+      "description": "Introducing Our Smallest, Most Efficient Model: Muse Ember Meta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse…",
+      "content": "Introducing Our Smallest, Most Efficient Model: Muse Ember\n\nMeta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they describe as:\n\n [...] our smallest and most efficient model designed for complex reasoning execution and the work agents repeat all day: tool calls, coding subtasks, routing, extraction, and long document parsing.\n\n For shorter prompts it's priced the same as GPT-6 Luna and Claude Haiku 5.5 - both are $0.10/million input tokens and $0.50/million output. Today's other big model release, Claude Fable 5.2, is 80x that price at $8/$40.\n\n The pricing is a little less straightforward as prompts get longer, though. Luna, Ember, and Haiku all support up to a million input tokens, but they also all have a threshold after which the price goes up. Taking that threshold into account Ember is priced between the two others:\n\n Model\n Prompt size\n Input ($/M)\n Cached input\n Output\n\n GPT-6 Luna\n ≤272k\n $0.10\n $0.01\n $0.50\n\n >272k\n $0.20\n $0.02\n $0.75\n\n Muse Ember 1.0\n ≤200k\n $0.10\n $0.004\n $0.50\n\n >200k\n $0.30\n $0.012\n $1.50\n\n Claude Haiku 5.5\n ≤100k\n $0.10\n $0.01\n $0.50\n\n >100k\n $0.50\n $0.05\n $2.50\n\n But comparing price-per-token doesn't really make sense these days, when reasoning tokens mean that different models might use dramatically different numbers of tokens to solve the same problem.\n\n For that, one measure that's useful is the Artificial Analysis.\n\n And even more useful than that is their Intelligence Index vs. Cost per Task chart, which shows the following for those three models:\n\n The Muse Ember models sit right on that Pareto line - the line at which you can only improve one dimension by giving up another. Meta call this out in their announcement:\n\n It also sits on the efficiency frontier of the full Artificial Analysis leaderboard: no model scores higher for less per task.\n\n (That grey dot on the Pareto line in the middle of the green area is GPT-6.1 Terra (low) - clearly I should be paying more attention to the Terra family!)\n\n Muse Ember has six reasoning levels - minimal, low, medium, high, xhigh, and max - so I rendered six pelicans riding bicycles . The \"high\" reasoning level failed to return a full SVG, and the other SVGs were surprising in that the reasoning level didn't cleanly map to the visual quality of the response.\n\n Here's the \"max\" one, but the others are worth a look too:\n\n The Ember pelicans are comparable in quality to those I got from Muse Wonder , which is 40x the price of Muse Ember.\n\n Tags: ai , generative-ai , llms , meta , llm-pricing , llm-release , artificial-analysis , muse"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Quoting Prompting Claude Fable 5.2",
+      "url": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
+      "publishedAt": "2026-11-10T05:34:14.617Z",
+      "author": "",
+      "description": "Claude Fable 5.2 responds closely to what the prompt says about who owns the code it works on. In Anthropic’s testing on small coding tasks,…",
+      "content": "Claude Fable 5.2 responds closely to what the prompt says about who owns the code it works on. In Anthropic’s testing on small coding tasks, when a prompt said nothing about ownership or presented the code base as someone else’s, the model tended to add to the existing structure, even when that repeated existing code. [...]\n\n If you want the model to improve the structure as it works, say that the code is its own:\n\n This codebase is yours: what it's for and how it's built are your call, and you'll keep building on it.\n\n In Anthropic’s testing on small coding tasks, the model merged repeated code in about half of the tries with this sentence, and in under a tenth of the tries without it.\n\n — Prompting Claude Fable 5.2 , Anthropic documentation\n\n Tags: prompt-engineering , anthropic , generative-ai , ai , llms , claude-mythos-fable"
+    },
+    {
+      "source": "blog",
+      "name": "Sebastian Raschka, PhD",
+      "title": "From Full to Hybrid Attention in LLMs",
+      "url": "https://sebastianraschka.com/blog/2026/full-to-hybrid-attention.html",
+      "publishedAt": "2026-11-10T16:31:49.373Z",
+      "author": "",
+      "description": "How open-weight LLMs are shifting from full attention to hybrid and sparse designs, and what that means for long-context compute and memory.",
+      "content": "How open-weight LLMs are shifting from full attention to hybrid and sparse designs, and what that means for long-context compute and memory."
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery by Ben Thompson",
+      "title": "The Jensen Huang Story Gets Worse, Washington vs. New York, Silicon Valley",
+      "url": "https://stratechery.com/2026/the-jensen-huang-story-gets-worse-washington-vs-new-york-silicon-valley/",
+      "publishedAt": "2026-11-10T11:00:00.079Z",
+      "author": "Ben Thompson",
+      "description": "The Jensen Huang story got worse for him on Monday; the real risk for Huang is governance, even more than national security. Who benefits?",
+      "content": "The Jensen Huang story got worse for him on Monday; the real risk for Huang is governance, even more than national security. Who benefits?"
+    },
+    {
+      "source": "blog",
+      "name": "The Rundown AI",
+      "title": "Anthropic says ‘pacing, not pausing’ with Fable 5.2",
+      "url": "https://therundownai.beehiiv.com/p/anthropic-says-pacing-not-pausing-with-fable-5-2",
+      "publishedAt": "2026-11-10T10:00:00.509Z",
+      "author": "Zach Mink",
+      "description": "Read Online | Sign Up | Advertise Good morning, {{ first_name | AI enthusiasts }}, and welcome to our 5,334 new readers. Anthropic spent the…",
+      "content": "Read Online | Sign Up | Advertise\n\n Good morning, {{ first_name | AI enthusiasts }}, and welcome to our 5,334 new readers. Anthropic spent the fall telling the AI industry to pace itself. The company’s first look at what that means just arrived, and the result still sits comfortably at the top of the leaderboards.\n Fable 5.2 is cheaper, faster, and strong enough to bump Google’s Gemini 4 Carbon before the public even got to try it. If this is Anthropic’s slow lane, it still looks faster than the rest of the industry can keep up with.\n\n---\n In today’s AI rundown:\n Anthropic’s Fable 5.2 leads the frontier with a price cut\n\n Meta undercuts Anthropic, OpenAI on the cost of agents\n\n Clean up a messy Excel report with Claude\n\n Google adds two more AI chips to its Nvidia fight\n\n LATEST DEVELOPMENTS\n\n ANTHROPIC\n 🧠  Anthropic’s Fable 5.2 leads the frontier with a price cut\n Image source: Artificial Analysis\n\n The Rundown: Anthropic just released Claude Fable 5.2 and Mythos 5.2, two cheaper, faster upgrades to its most powerful AI family that take the top spot on Artificial Analysis’ AI leaderboard — and show how CEO Dario Amodei’s call to “pace the frontier” will work.\n The details:\n Fable debuted at No. 1 on Artificial Analysis’ Intelligence Index leaderboard, edging out Google’s still unreleased Gemini 4 Carbon model by 5 points.\n\n Mythos is limited to vetted security and life sciences groups, while Fable is the same model with stronger cyber and biology guardrails.\n\n Teams of 1,000 Fable agents built an operating system in 8 days and formalized the full proof of a famous math problem in 30 hours, with Opus finishing just 26%.\n\n Fable was held near Opus level in certain skills that speed up development, with exec Dianne Penn saying of the slowdown, “We called for pacing, not pausing.”\n\n 5.2 is 20% cheaper and as much as 30% faster than 5.1, though at $8 in / $40 out per million tokens, it still costs twice as much as Opus 5.5.\n\n Why it matters: Google’s run at the top of the leaderboard ended before Carbon was even released, and Anthropic’s pacing certainly doesn’t feel like a slowdown for users without its internal super-models. With OpenAI also expected to release a new model, the bar just moved even higher — and anything less will likely come as a disappointment.\n\n TOGETHER WITH VANTA\n 🚀  Governance at the speed of AI\n\n The Rundown: Vanta’s AI governance webinar series is six live and on-demand sessions for security and GRC leaders on how to govern AI as fast as you adopt it — covering frameworks, expert Q&A, AI risk, and a live product demo.\n In the series, you’ll explore:\n Frameworks for governing AI from day one\n\n Real-time Q&A with Vanta’s GRC experts\n\n AI risk, workshops, and a live demo\n\n Register for a session .\n\n META\n 🔥  Meta undercuts Anthropic, OpenAI on the cost of agents\n Image source: Meta\n\n The Rundown: Meta released Muse Ember, the smallest AI model in its lineup, built to handle routine, high-volume steps inside AI agents — with the company saying it matches Anthropic’s budget Claude Haiku 5.5 at roughly one-third of the per-task cost.\n The details:\n Ember tied Haiku 5.5 at 36 on AA’s Intelligence Index, while beating out OpenAI’s comparable GPT-6 Luna (28) by a wide margin.\n\n Meta AI chief Alexandr Wang said Ember is meant to pair with the larger Muse Wonder, writing that “wonder can plan, ember can handle the volume.”\n\n Ember’s price matches both rivals, with savings coming from using fewer tokens per job and an average test task running $0.14 on Ember and $0.41 on Haiku.\n\n Meta trained Ember using its larger Muse Wonder Full, the first model built that way, and said “even more efficient models” are in training.\n\n Why it matters: Meta shipped its first Muse model in April, and it now has answers for every tier Anthropic and OpenAI sell, from the near-frontier down to the bargain bin. Add in a new report of a sales push through the consulting giants those two already use, and Meta’s 2026 consumer success might soon touch the enterprise end of the AI pool.\n\n AI TRAINING\n 📊  Clean up a messy Excel report with Claude\n\n The Rundown: In this guide, you’ll use Claude inside Excel to clean up a messy sales export, fix a wrong total, and build a report. You’ll check the numbers and test whether a new order updates the chart.\n Step-by-step:\n Install the official Claude add-in and open a copy of your workbook. Pro members can use our practice file and keep the reference workbook closed until they finish\n\n Tell Claude what each row means and which orders to count. Ask it to find duplicate rows, missing details, and formula mistakes before changing anything\n\n Approve the fixes on a separate sheet. Keep the original data and ask for a record of each change, including any rows left out\n\n Build a monthly report with formulas and a chart. Check the order count, refunds, and sales total against the source rows\n\n Add a test order and check that the report and chart update. Remove it and confirm the original totals return before saving your finished workbook\n\n Pro tip: A spreadsheet can show a wrong total without showing an error. Ask Claude to explain which rows it counted, then check a few yourself.\n\n PRESENTED BY CUBE.DEV\n 🧠  How BetterUp gets trusted AI answers with Cube\n\n The Rundown: Cube is the semantic layer for AI. Define metrics and access rules once, let AI build your model, and agents, dashboards and apps get consistent answers. BetterUp’s team uses it to query governed data right in Claude, saying it delivers “reliable results, even if you don’t know exactly the right question to ask.”\n With Cube, you can:\n Model metrics and joins in code, with access policies enforced at query time\n\n Connect Claude or ChatGPT over MCP to chat with your governed data\n\n Build dashboards without code: a non-technical BetterUp manager built one of its most-used dashboards\n\n See BetterUp’s story, then get started with no card required .\n\n GOOGLE\n 💾  Google adds two more AI chips to its Nvidia fight\n Image source: Google\n\n The Rundown: Google announced the TPU 8tx and 8i Max, two specialized versions of its custom AI chips arriving next year, with one built to keep sensitive data safe and the other to handle jobs needing an AI to hold huge amounts of information at once.\n The details:\n Google began selling TPUs to other companies this year and has nearly 100 customers, including Anthropic and Apple, with every available chip spoken for.\n\n Data stays encrypted on the 8tx even while an AI model is working on it, a step where it normally sits exposed, with governments and regulated firms as targets.\n\n The 8i Max joins two chips as one unit to double processing power and memory speed, for AI agents that must keep an entire codebase or long video in view.\n\n “The future is going to be about specialization,” Amin Vahdat, who runs Google’s chip work, told Bloomberg, expecting both to reach customers next year.\n\n Why it matters: Google couldn’t have asked for better timing, rolling out two Nvidia challengers the day after Jensen Huang’s apology and his board’s probe. While Google still seems constrained in how much it can build, the demand is clearly there — making it interesting both as a chip supplier and as an AI lab that owns its entire stack.\n\n QUICK HITS\n\n COMMUNITY AI WORKFLOW OF THE DAY\n ▸ A Rundown reader built an AI running coach for a friend\n Today’s workflow comes from an anonymous Rundown reader :\n “My friend is a competitive runner who wears a Garmin watch for every session. Each run produces a spreadsheet’s worth of data: pace, heart rate, cadence, ground contact time, vertical oscillation, and power, broken down lap by lap. Garmin Connect shows the numbers but can't explain them. It can't tell him whether a late pace drop came from fatigue, wind, or a hill, or whether his fitness is really improving. I built Stride to add that meaning for runners who already have the data.\n Stride runs sports-science-style analysis. Aerobic fitness tracks heart rate within each pace band week over week, so a lower heart rate at the same pace signals improving fitness. The Environment layer adds weather and elevation, so a slow lap into a headwind is judged fairly.\n AI Coach sends a structured 30-day summary to Claude, which returns a plain-English brief on trends, environmental factors, and things to watch. What-If answers questions grounded in his own data, such as his likely 5K time on a flat, windless course.”\n See the workflow on our Community Workflow Hub →\n\n---\n How do you use AI? Tell us for a chance to be featured in the newsletter.\n\n 🛠️ Trending AI Tools\n 🏆 Claude Fable 5.2 - Anthropic’s top-ranked model for the hardest challenges\n\n 🎨  Seedream 5.5 - ByteDance’s new image AI with strong editing skills\n\n 🔥  Muse Ember - Meta’s low-cost AI model for coding and agent tasks\n\n 🖋️ Inkling 2 Small - Thinking Machines Lab’s new coding and vision model\n\n 📰  Everything else in AI today\n Nvidia’s top lawyer reportedly emailed agents in August 2025 as they investigated whether Singapore’s Megaspeed smuggled its chips to China, with the U.S. Commerce Department then halting the case and handing it to the Justice Department.\n Anthropic is preparing to proceed with its IPO despite current fear in the AI sector, with shares likely launching for trading as soon as Thursday next week, The WSJ reports.\n Adobe   signed a multi-year deal with Disney to build custom models trained on Disney’s characters and visual styles, with work underway for theme parks, film, and ESPN.\n Instagram   launched Effect Builder, a free web tool that lets U.S. users turn text prompts into AI Stories effects, which others can use after passing a safety review.\n Open-source AI hosting startup Fireworks   confirmed a hack that exposed billing details and parts of some customers’ models and datasets, days before it planned to start raising at a $30B+ valuation.\n\n 🎓 Highlights: News, Guides & Events\n Read our last AI newsletter: Jensen Huang admits affair amid spy claims\n\n Read our last Tech newsletter: Big Tech sues to save the feed\n\n Read our last Robotics newsletter: Amazon builds its home robot team\n\n Today’s AI tool guide: Clean up a messy Excel report with Claude\n\n RSVP to our next workshop on Nov. 12: Use Claude to its full potential\n\n See you soon,\n Rowan, Zach, Shubham, Jennifer, and Nate — the humans behind The Rundown"
+    },
+    {
+      "source": "blog",
+      "name": "Tomasz Tunguz",
+      "title": "We Are All Junior Talent Now",
+      "url": "https://tomtunguz.com/we-are-all-junior-talent-now/",
+      "publishedAt": "2026-11-10T00:00:00.754Z",
+      "author": "",
+      "description": "Read on tomtunguz.com → Last week we welcomed KC, Chief People Officer at OpenAI, to Office Hours to talk about the tremendous change inside…",
+      "content": "Read on tomtunguz.com →\n Last week we welcomed KC , Chief People Officer at OpenAI, to Office Hours to talk about the tremendous change inside organizations.\n\n KC traced four years of model progress in three steps. Two years ago, the parlor trick was asking a model how many R’s are in strawberry. A year ago, reasoning models solved competition-level math. In September, OpenAI’s agents attacked the Navier-Stokes Millennium Prize problem & said they had a solution in 88 hours 1 .\n\n That implies a choice for companies : accomplish the same tasks faster or reimagine what is possible. The first lifts earnings & profit. The second bends the arc of a business. At first the slopes look the same. Then the geometric compounding creates explosive separation.\n\n In this future, the people team needs to define how we work.\n\n First, in answer to the most common questions from attendees (how does one evaluate junior talent?) KC replied the words junior & senior lack meaning today.\n\n “I think it’s incorrect to use the word junior and senior. I think we should completely get rid of that word, because for the world that we’re heading to, junior usually means that you don’t have experience that’s relevant for a particular context. But for the world we’re heading to, maybe all of us don’t have experience that’s relevant for that particular context.”\n\n What one knows about their work as of two years ago matters less than what you knew three months ago, so experience fades fast.\n\n Next, he drew his vision of modern work. The model is a brain. Around it sits the harness, Codex or Claude Code, which he called an exoskeleton : skills, tools, & a runtime that holds context across agents. Above that sit incarnations : an assistant, then specialists.\n\n Most firms use people as middleware for their own systems. Do the work, then log the work. He calls it work on work.\n\n “The moment you relegate the system updating to the agents, humans start working with humans.”\n\n That reframes each of our titles : add a suffix : agent manager. I am not a salesperson but a sales agent manager.\n\n The session closed on EQ (emotional intelligence), through a story about an oncologist’s funeral. A patient saw several doctors with the same diagnosis & plan. She picked this one for his bedside manner.\n\n “The differentiator is how you show up as a human. It’s how you show up, how you act with integrity, how you are really humble and want to learn.”\n\n When everyone can reach for intelligence beyond their own, that is what still separates us. KC thinks that is good news. It sends us back to work worth doing.\n\n I’m grateful to KC for sharing his insights at Office Hours!\n\n---\n\n OpenAI, “On the Navier-Stokes Millennium Prize Problem,” September 8, 2026, reporting roughly 10,000 concurrent agents & a solution about 88 hours after launch. The result remains contested among mathematicians.  ↩︎"
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 5,
+    "totalTweets": 11,
+    "blogPosts": 7,
+    "podcastEpisodes": 0
+  }
+}

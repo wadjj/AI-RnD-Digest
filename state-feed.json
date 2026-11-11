@@ -1,17 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/demishassabis/status/2115232001275924722": 1793150776886,
-    "https://twitter.com/emollick/status/2115209786157412397": 1793150776886,
-    "https://twitter.com/emollick/status/2115150629836632473": 1793150776886,
-    "https://twitter.com/emollick/status/2115127527241085010": 1793150776886,
-    "https://twitter.com/trq212/status/2115205259090153957": 1793150776886,
-    "https://twitter.com/trq212/status/2115188992861970693": 1793150776886,
-    "https://twitter.com/trq212/status/2115135857669881939": 1793150776886,
-    "https://twitter.com/petergostev/status/2115194740329119925": 1793150776886,
-    "https://twitter.com/petergostev/status/2115085935285248010": 1793150776886,
-    "https://twitter.com/JeffDean/status/2115162936817934797": 1793150776886,
-    "https://twitter.com/JeffDean/status/2115100684211359767": 1793150776886,
-    "https://twitter.com/JeffDean/status/2114939835077304544": 1793150776886,
     "https://twitter.com/emollick/status/2115594672471195779": 1793238654122,
     "https://twitter.com/emollick/status/2115584471089262988": 1793238654122,
     "https://twitter.com/emollick/status/2115419671877062710": 1793238654122,
@@ -140,16 +128,23 @@
     "https://twitter.com/bcherny/status/2119873095129550880": 1794283773295,
     "https://twitter.com/demishassabis/status/2119890726675005913": 1794283773295,
     "https://twitter.com/demishassabis/status/2119830093292068877": 1794283773295,
-    "https://twitter.com/gdb/status/2119834216787747139": 1794283773295
+    "https://twitter.com/gdb/status/2119834216787747139": 1794283773295,
+    "https://twitter.com/thsottiaux/status/2120267268517249036": 1794362273006,
+    "https://twitter.com/thsottiaux/status/2120266880963473789": 1794362273006,
+    "https://twitter.com/thsottiaux/status/2120021043876106429": 1794362273006,
+    "https://twitter.com/emollick/status/2120248525254742318": 1794362273006,
+    "https://twitter.com/emollick/status/2120233659793854926": 1794362273006,
+    "https://twitter.com/emollick/status/2120198832202125322": 1794362273006,
+    "https://twitter.com/trq212/status/2120223476279869875": 1794362273007,
+    "https://twitter.com/gdb/status/2120222471412666562": 1794362273007,
+    "https://twitter.com/demishassabis/status/2120210297948696997": 1794362273007,
+    "https://twitter.com/demishassabis/status/2120294666969248255": 1794362273007,
+    "https://twitter.com/demishassabis/status/2120200299608776819": 1794362273007
   },
   "seenVideos": {},
   "seenArticles": {
     "https://stratechery.com/2026/the-end-of-the-internet": 1793238645893,
     "https://stratechery.com/2026/anthropic-s-1-the-cost-of-compute-who-is-paying": 1793325588034,
-    "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge": 1793150776886,
-    "https://simonwillison.net/2026/Oct/25/seam-cutter": 1793150776886,
-    "https://therundownai.beehiiv.com/p/the-ai-bubble-meets-anthropic-real-numbers": 1793150776887,
-    "https://tomtunguz.com/the-third-product-market-fit-in-ai": 1793150776887,
     "https://stratechery.com/2026/meta-earnings-muse-and-the-frontier-musebook": 1793410645388,
     "https://simonwillison.net/2026/Oct/28/ted-sanders": 1793238654123,
     "https://simonwillison.net/2026/Oct/28/github-octoverse-2026": 1793238654123,
@@ -209,8 +204,15 @@
     "https://jack-clark.net/2026/11/09/import-ai-480-self-sustaining-space-economies-ai-for-science-progress-and-meta-builds-perfect-hands-for-a-superintelligence": 1794283773295,
     "https://stratechery.com/2026/jensen-huangs-affair-the-culper-report-huangs-righteousness": 1794283773295,
     "https://therundownai.beehiiv.com/p/jensen-huang-admits-affair-amid-spy-claims": 1794283773296,
-    "https://tomtunguz.com/when-does-the-us-become-a-net-importer-of-tokens": 1794283773296
+    "https://tomtunguz.com/when-does-the-us-become-a-net-importer-of-tokens": 1794283773296,
+    "https://simonwillison.net/2026/Nov/10/llm-gemini": 1794362273007,
+    "https://simonwillison.net/2026/Nov/10/muse-ember": 1794362273007,
+    "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52": 1794362273007,
+    "https://sebastianraschka.com/blog/2026/full-to-hybrid-attention.html": 1794362273007,
+    "https://stratechery.com/2026/the-jensen-huang-story-gets-worse-washington-vs-new-york-silicon-valley": 1794362273007,
+    "https://therundownai.beehiiv.com/p/anthropic-says-pacing-not-pausing-with-fable-5-2": 1794362273007,
+    "https://tomtunguz.com/we-are-all-junior-talent-now": 1794362273008
   },
-  "lastRunKey": "2026-11-10",
-  "lastRunAt": "2026-11-10T04:09:33.303Z"
+  "lastRunKey": "2026-11-11",
+  "lastRunAt": "2026-11-11T01:57:53.014Z"
 }
