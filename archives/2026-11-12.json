@@ -1,0 +1,245 @@
+{
+  "generatedAt": "2026-11-12T03:05:47.513Z",
+  "runKey": "2026-11-12",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Twitter @Ethan Mollick",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2120641914206892424",
+          "text": "The counterexample to AI diffusion taking a long time is coding, where the complete transformation of a profession is well underway less than a year after real working coding agents. Faster than I would’ve expected given historical technological adoption rates in professions.",
+          "createdAt": "2026-11-11T22:16:46.814Z",
+          "url": "https://x.com/emollick/status/2120641914206892424",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2120616313978520034",
+          "text": "Hey, remember “talk to your documents” RAG-based solutions as the future of AI? Crazy times a year and a half ago.",
+          "createdAt": "2026-11-11T20:35:03.546Z",
+          "url": "https://x.com/emollick/status/2120616313978520034",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2120502534695514279",
+          "text": "Anyhow, in a little over a week we will see the release of The Last Human Game.\n\nThere will never be another AAA game at the scale of GTA 6 with no AI assistance. People will look back at an all-human game with a billion dollar budget and wonder how they did it, like the Pyramids",
+          "createdAt": "2026-11-11T13:02:55.488Z",
+          "url": "https://x.com/emollick/status/2120502534695514279",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Twitter @Thariq",
+      "tweets": [
+        {
+          "id": "https://twitter.com/trq212/status/2120620900785820143",
+          "text": "Swyx gave me the “closing keynote” of AIE code, aka everyone is tired or flying out\n\nso if you’re not one of those please come to mine tomorrow at 5pm\n\nit’s called “the sweet side of the bitter lesson”",
+          "createdAt": "2026-11-11T20:53:16.012Z",
+          "url": "https://x.com/trq212/status/2120620900785820143",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Demis Hassabis",
+      "handle": "demishassabis",
+      "bio": "Twitter @Demis Hassabis",
+      "tweets": [
+        {
+          "id": "https://twitter.com/demishassabis/status/2120669377443905541",
+          "text": "RT Logan Kilpatrick\nIntroducing Gemini Decision 1, our new frontier decision model in the Gemini API.\n\nIt is $0.10 per 1M input tokens with no additional cost. With support for image, audio, video, and PDF natively, 256K context window, & 1K questions.\n\nYou can try it for free in the API!",
+          "createdAt": "2026-11-11T18:16:26.379Z",
+          "url": "https://x.com/demishassabis/status/2120669377443905541",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/demishassabis/status/2120672452460323308",
+          "text": "RT will brown\ni think i like carbon more than fable",
+          "createdAt": "2026-11-11T17:57:22.746Z",
+          "url": "https://x.com/demishassabis/status/2120672452460323308",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/demishassabis/status/2120565316619284734",
+          "text": "Super proud to announce AlphaGenome 2 - our new DNA sequence model! 🧬 It predicts the impact of DNA variants in different specific cell types - unlocking crucial information for understanding complex diseases. Available for academic research via our API: https://www.alphagenomedocs.com/\n---\n Google DeepMind: Your heart, brain, and immune system share the same DNA sequence. So how can a single-letter change affect disease in some cells, while sparing the rest?\n\nAlphaGenome 2 is our new AI model that zooms in on specific cells to help scientists understand what drives disease. 🧵\n\nLink: https://x.com/GoogleDeepMind/status/2120532824465805749",
+          "createdAt": "2026-11-11T17:12:24.926Z",
+          "url": "https://x.com/demishassabis/status/2120565316619284734",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/GoogleDeepMind/status/2120532824465805749\nGoogle DeepMind: Your heart, brain, and immune system share the same DNA sequence. So how can a single-letter change affect disease in some cells, while sparing the rest?\n\nAlphaGenome 2 is our new AI model that zooms in on specific cells to help scientists understand what drives disease. 🧵\n\n Link: https://x.com/GoogleDeepMind/status/2120532824465805749"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Sholto Douglas",
+      "handle": "_sholtodouglas",
+      "bio": "Twitter @Sholto Douglas",
+      "tweets": [
+        {
+          "id": "https://twitter.com/_sholtodouglas/status/2120532228665229573",
+          "text": "RT Daniel Tenreiro (he/him)\nEverything is about compute. Except compute. Compute is about power",
+          "createdAt": "2026-11-11T12:05:14.387Z",
+          "url": "https://x.com/_sholtodouglas/status/2120532228665229573",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/_sholtodouglas/status/2120407335202087312",
+          "text": "RT gian\nngl it always feels incredibly nice when elon appreciates our work\n---\n Elon Musk: @Dimdv99 @tetsuoai Not as good. Opus 5.5 is a masterpiece.\n\nBut Grok 5 should exceed Opus 5.5 and maybe that happens in 2 or 3 months, with continued acceleration thereafter.\n\nLink: https://x.com/elonmusk/status/2120099798078656909",
+          "createdAt": "2026-11-11T05:29:03.266Z",
+          "url": "https://x.com/_sholtodouglas/status/2120407335202087312",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Twitter @Tibo",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2120410006273380750",
+          "text": "It’s been a while without resets. Maybe I should come back out of the basement",
+          "createdAt": "2026-11-11T06:55:15.836Z",
+          "url": "https://x.com/thsottiaux/status/2120410006273380750",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Gemini Decisions API",
+      "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
+      "publishedAt": "2026-11-11T22:03:25.197Z",
+      "author": "",
+      "description": "Gemini Decisions API Google join Jev and OpenAI in the decision model category with \"Gemini Decision 1\". This new model API is almost…",
+      "content": "Gemini Decisions API\n\nGoogle join Jev and OpenAI in the decision model category with \"Gemini Decision 1\". This new model API is almost identical to Jev: it supports the same three types of questions (yes/no, choice, and rubric-scoring) and even reuses Jev's term \"Noul\" for a yes/no question.\n\n It's priced the same as the GPT-6 Luna decision model: 10 cents per million input tokens, and output is free. Jev remains the cheapest of the three, at 4.2 cents per million.\n\n Jev is text (and JSON) only. OpenAI can handle text and images. Gemini Decision 1 is fully multi-model: it covers text, images, audio, video, and PDFs.\n\n I tested it against video by passing these questions to it along with my Yonkers stomping robot video file:\n\n dragon: Does this video have a dragon in it?\nrobot: Does this video have a robot in it?\nfrance: Is this video set in France?\nusa: Is this video set in the USA?\n\n Jev and OpenAI both return 1.0 or 0.0 for yes/no questions, but Gemini insists on being a little less confident than that:\n\n {\n \"dragon\" : {\n \"type\" : \" yes_no \" ,\n \"probability\" : 0.04976021841520312\n },\n \"robot\" : {\n \"type\" : \" yes_no \" ,\n \"probability\" : 0.9234055387792485\n },\n \"france\" : {\n \"type\" : \" yes_no \" ,\n \"probability\" : 0.08329171353166241\n },\n \"usa\" : {\n \"type\" : \" yes_no \" ,\n \"probability\" : 0.9230459995157706\n }\n}\n\n Via Hacker News\n\n Tags: ai , generative-ai , gemini , llm-release , jev , decision-models"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "aws-emulator",
+      "url": "https://simonwillison.net/2026/Nov/11/aws-emulator/",
+      "publishedAt": "2026-11-11T21:18:30.083Z",
+      "author": "",
+      "description": "aws-emulator Finally, an official emulator from AWS to run tests against a local clone of their many different services without having to…",
+      "content": "aws-emulator\n\nFinally, an official emulator from AWS to run tests against a local clone of their many different services without having to provision a paid API key to do so.\n\n It's written in Rust by a huge swarm of agents - 29,684 commits in the first three weeks of the project. Swaminathan (Swami) Sivasubramanian wrote about how it came to be in a guest post on Werner Vogels' blog.\n\n It currently requires Docker to run on macOS or Windows. I'm hoping they fix that in the future - it would be great if you could download a single binary and use that as part of a standard test suite in other languages and on other platforms.\n\n Tags: amazon , amazon-web-services , testing , werner-vogels , ai , rust , docker , generative-ai , llms , agentic-engineering"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Browse tools.simonwillison.net by tag",
+      "url": "https://simonwillison.net/2026/Nov/11/tools-tags/",
+      "publishedAt": "2026-11-11T18:42:50.419Z",
+      "author": "",
+      "description": "Browse tools.simonwillison.net by tag I've been wanting a better way to browse my collection of vibe-coded tools (244 and counting) for a…",
+      "content": "Browse tools.simonwillison.net by tag\n\nI've been wanting a better way to browse my collection of vibe-coded tools (244 and counting) for a while. I had a few Fable 5.2 credits left over before my weekly reset so I set it to work using tree-sitter to analyze the code for JavaScript APIs, libraries, and web API hosts used by each tool.\n\n The homepage now features tag clouds for browsing by each of those categories of tag:\n\n 5, AbortController 6, Blob URLs 38, BroadcastChannel 1, Built-in AI 1, Camera / microphone 9, Canvas 2D 44, Clipboard API 69, Compression Streams 3, createImageBitmap 2, crypto random values 4, DOMParser 8, Drag and drop 30, Dynamic import() 12, ES modules 92\" src=\"https://static.simonwillison.net/static/2026/tools-tag-cloud.webp\">\n\n Tags: javascript , tools , ai , generative-ai , llms , claude , vibe-coding"
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery by Ben Thompson",
+      "title": "Intel Earnings, AMD Earnings, Intel and AMD’s Divergence",
+      "url": "https://stratechery.com/2026/intel-earnings-amd-earnings-intel-and-amds-divergence/",
+      "publishedAt": "2026-11-11T11:00:00.370Z",
+      "author": "Ben Thompson",
+      "description": "Intel and AMD's diverging earnings point to fundamental historical differences, and make me wonder if Intel needs to find a new (old) path.",
+      "content": "Intel and AMD's diverging earnings point to fundamental historical differences, and make me wonder if Intel needs to find a new (old) path."
+    },
+    {
+      "source": "blog",
+      "name": "The Rundown AI",
+      "title": "OpenAI invites brands to set up shop in ChatGPT",
+      "url": "https://therundownai.beehiiv.com/p/openai-invites-brands-to-set-up-shop-in-chatgpt",
+      "publishedAt": "2026-11-11T10:00:00.811Z",
+      "author": "Zach Mink",
+      "description": "Read Online | Sign Up | Advertise Good morning, {{ first_name | AI enthusiasts }}, and welcome to our 5,653 new readers. Google conditioned…",
+      "content": "Read Online | Sign Up | Advertise\n\n Good morning, {{ first_name | AI enthusiasts }}, and welcome to our 5,653 new readers. Google conditioned companies to obsess over their search listings for decades. That same scramble has been playing out on AI platforms, and OpenAI just gave brands an official way in.\n Its new ‘Businesses’ beta gives brands a verified profile, a view of their mentions, and a personalized AI agent for direct buyer questions, opening a new way to meet customers where they’re increasingly searching… inside ChatGPT.\n\n---\n In today’s AI rundown:\n OpenAI invites brands to set up shop in ChatGPT\n\n Anthropic stretches Claude across the office\n\n Put your open Chrome tabs to work with AI\n\n ‘AI 2027’ authors move up their timelines\n\n LATEST DEVELOPMENTS\n\n OPENAI\n 🛒  OpenAI invites brands to set up shop in ChatGPT\n Image source: OpenAI\n\n The Rundown: OpenAI just introduced Businesses in ChatGPT, a beta hub where brands can claim a verified profile, track how often the chatbot mentions them, and set up AI agents for shoppers, which paid ads can now point to.\n The details:\n Profiles are currently free to claim for eligible companies, while agents are live first for U.S. online retailers and digital service firms.\n\n Brands can write their agent’s instructions and add product details, with shoppers opening it from the profile in a labeled chat separate from ChatGPT’s answers.\n\n A dashboard shows how often ChatGPT mentions a brand and drives clicks to its site, plus “discovery topics” that can point to gaps in what the brand shares.\n\n OpenAI first piloted ad-linked agents in September, and brands can now pay to make their agent the landing spot for ads in ChatGPT, with each paid spot labeled.\n\n Why it matters: Brands used to fight for a spot in Google’s results, and in the AI era, that’s shifted to getting name-dropped by the assistants themselves. Companies were mostly guessing what ChatGPT said about them or paying outside specialists to find out. OAI just handed them that visibility directly, plus a one-on-one line to potential customers right inside the chat.\n\n TOGETHER WITH MEMOKET\n 🗓️  Your conversations, now in Apple Calendar\n\n The Rundown: Memoket Gem is an AI wristband that captures conversations with one press and turns them into summaries, action items, and connected memory. Now with Apple Calendar integration: connect in the Memoket iPhone app to automatically sync new recordings as calendar events.\n With Memoket, you can:\n Find recordings by when the conversation happened\n\n Revisit decisions and context across conversations\n\n Bring relevant memories into ChatGPT and Claude\n\n Use the app on your Apple Watch, coming this month\n\n Discover Memoket Gem .\n\n ANTHROPIC\n 🗄️ Anthropic stretches Claude across the office\n Image source: Anthropic\n\n The Rundown: Anthropic just rolled out Claude Sheets and Whiteboards in beta — spreadsheets and shared boards Claude builds alongside a team — while making its Claude Data analytics tool generally available and announcing Claude Meetings, an assistant that sits in on video calls.\n The details:\n Sheets can build a working spreadsheet with formulas via prompt and export it to Excel, while Whiteboards maps a plan onto a shared board for a team to edit.\n\n Claude Data, originally named Dashboards when it entered beta in October, turns company metrics into narrated videos and visual data stories.\n\n Product lead Nicholas Lin said Claude joins nearly every Anthropic meeting after months of testing, with a Google Meet beta coming to Team and Enterprise users.\n\n Upgraded connectors, the links between Claude and other work apps, now also open tools like Adobe and Atlassian fully inside Claude without switching platforms.\n\n Why it matters: Claude continues to eat both legacy office software and the newer apps that followed, with spreadsheets, dashboards, and meeting tools now joining Slides, Design, and Docs. The apps it hasn’t rebuilt now open inside Claude anyway, pulling more use into the AI assistant and away from the tools the workday used to run on.\n\n AI TRAINING\n 🌐  Put your open Chrome tabs to work with AI\n\n The Rundown:  In this guide, you’ll use ChatGPT’s updated Chrome extension to compare open pages, check the facts, and group the tabs you need. Start in Chat to read, then use Work for a browser action you approve.\n Step-by-step:\n Install the official ChatGPT extension from OpenAI and open its side panel. Use a practice Chrome profile with public pages for your first run\n\n Open three pricing pages and tell ChatGPT which tabs to read. Give it your team size, required features, budget, and billing period\n\n Check the comparison against the pages. Confirm the full team cost and leave missing details unverified rather than guessing\n\n Switch to Work where available and ask it to group only those three tabs. Review the list first, then check the actual group in Chrome\n\n Ask for a short recommendation with source links and one question to resolve. Keep trials, purchases, and messages outside the task\n\n Pro tip: Use the same side panel on any article. Select the tab and ask ChatGPT for the main claim, the evidence, and what the author leaves unresolved.\n\n PRESENTED BY GARTNER\n 🎰  Only 1 in 5 AI use cases pays off    \n\n The Rundown: Enterprise AI use cases grew by 400% this year, but not all are delivering ROI. Investment without value only creates bad momentum. These Gartner IT Symposium/Xpo takeaways show what separates mere AI activity from real, measurable results.\n What you’ll learn:\n How to build momentum that compounds value\n\n Ways to prevent key risks\n\n How to make people your AI safety net\n\n Download the insights .\n\n AI RESEARCH\n 📆  ‘AI 2027’ authors move up their timelines\n Image source: AI Futures Project\n\n The Rundown: The AI Futures Project, the forecasting group behind AI 2027, just moved up its forecast for AI that matches the best human AI researchers up to 2027 — citing AI evaluator METR’s recent outside review of Anthropic’s AI speedup as its biggest reason.\n The details:\n The group’s paper published in 2025 depicted AI rapidly improving itself, but most of the authors later pushed their dates for AI that beats top experts into the 2030s.\n\n METR estimated Anthropic now improves about 2x as fast, mostly thanks to AI, a pace the forecasters’ models gave under 4% odds of seeing this early.\n\n Ex-OpenAI researcher Daniel Kokotajlo gave the earliest date, a 50-50 chance by May 2027, while the other five forecasters land between August and November.\n\n Kokotajlo wrote on X that he is “scared, sad, and angry,” and the group says that if its forecast holds, a pause “should be the top priority for the AI industry.”\n\n Why it matters: AI 2027 is considered one of the more prescient forecasts for how the industry has accelerated, and even its own authors said the pace shown in METR’s report caught them off guard. If their updated projections are as accurate as their old ones, the industry has months, not years, to prepare for the implications of superhuman AI research capabilities.\n\n QUICK HITS\n\n COMMUNITY AI WORKFLOW OF THE DAY\n ▸ Polly built a caregiver recordkeeping app with Claude\n Today’s workflow comes from reader Polly Bouker :\n “My son is disabled and receives state funding for caregiving. The program requires daily records of what was done, whether he met his goals, and any behavioral or health issues. A program coordinator reviews these periodically, and an auditor may review them too. I used Claude to write the code for a web app built with Google tools that handles this recordkeeping.\n Each day, caregivers open the app and check off each item on my son’s daily task list, which he completes with their help. The app writes the required daily summary from those check-offs and adds goal tracking. Everything goes into a printable report for the coordinator or an auditor.\n My son has his own view showing how much of his list is checked off and how close he is to his favorite reward. Because he is motivated to see that he has earned the reward, he reminds the caregivers to complete their part.”\n See the workflow on our Community Workflow Hub →\n\n---\n How do you use AI? Tell us for a chance to be featured in the newsletter.\n\n 🛠️ Trending AI Tools\n 🧠  Gemini 4 Carbon - Google’s new top model, now available to Ultra subscribers and via API\n\n 🛍️ Businesses in ChatGPT - OpenAI’s new brand profiles with product listings and chat agents\n\n 🎆  MiniMax H3-Image - New open-weight model that creates and edits 4K images\n\n 🎨  Adobe Firefly - AI studio adding beta tools for design, video, and workflows\n\n 📰  Everything else in AI today\n Triple Whale’s 50 LLM Prompts to Crush BFCM 2026 turns your data into answers with copy-paste prompts for any LLM: 35 to plan, 10 to run live all weekend, 5 to save soft results.*\n Anthropic   opened the investor pitch for its IPO coming next week, also saying in an updated filing that it now considers its AI R&D capability threshold met, based on what it expects from upcoming models.\n Adobe   previewed MCP connector tools that let users’ own AI agents edit Photoshop, Illustrator, and Premiere files coming in early 2027, plus Firefly Graph, a beta builder for repeatable, shareable AI workflows.\n France   unveiled the Paris Call for AI Safety and Security, with signers such as OAI, Anthropic, and Mistral committing to build emergency off switches into their most advanced models.\n OpenAI acquired Odessia, a months-old AI trip-planning startup from Sonder founder Francis Davidson, who is joining OpenAI to work on travel.\n *Sponsored Listing\n\n 🎓 Highlights: News, Guides & Events\n Read our last AI newsletter: Anthropic says pacing, not pausing, with Fable 5.2\n\n Read our last Tech newsletter: Jensen Huang’s week just got a lot worse\n\n Read our last Robotics newsletter: Amazon builds its home robot team\n\n Today’s AI tool guide: Put your open Chrome tabs to work with AI\n\n RSVP to our next workshop on Nov. 12: Use Claude to its full potential\n\n See you soon,\n Rowan, Zach, Shubham, Jennifer, and Nate — the humans behind The Rundown"
+    },
+    {
+      "source": "blog",
+      "name": "Tomasz Tunguz",
+      "title": "Who Captures the Most Margin in AI?",
+      "url": "https://tomtunguz.com/who-captures-the-most-margin-in-ai/",
+      "publishedAt": "2026-11-11T00:00:00.889Z",
+      "author": "",
+      "description": "Read on tomtunguz.com → Who captures the most margin in the AI value chain?1 Public filings now let us trace the dollars from the power plant…",
+      "content": "Read on tomtunguz.com →\n Who captures the most margin in the AI value chain? 1 Public filings now let us trace the dollars from the power plant to the agent.\n\n Five layers make up the chain :\n\n Power plant : produces the electricity. 2\n\n Data center operator : builds the building, connects the power & provides a shell. 3\n\n Neocloud : buys the GPUs & manages them. 4\n\n Inference vendor : runs the software to power AI. 5\n\n AI application : sells software to a customer.\n\n Each layer bills in a different unit : utilities sell kilowatt-hours, neoclouds rent GPU-hours (an hour of a GPU’s time) & applications price completed tasks. Normalizing every step to dollars per watt per year ($/w/yr) puts the whole stack on one scale. 6\n\n Here is the waterfall :\n\n At a 40% application gross margin, the total gross profit pool divides from left to right as :\n\n Power : 3%\n\n Data center : 5%\n\n Neocloud : 28% (before GPU depreciation) 7\n\n Inference : 24%\n\n Application : 40%\n\n Three implications follow from the chain :\n\n 1. Rising compute prices will test who holds pricing power. From Anthropic to CoreWeave, compute prices are climbing. Anthropic’s Form S-1/A discloses short-term burst compute reaching $13 per GPU-hour. 8 On CoreWeave’s Q3 earnings call, CEO Michael Intrator confirmed the shift in contract rates :\n\n “Selling capacity at more than $40m per megawatt annually while pricing for new infrastructure on four & five year contracts is moving to $20m to $25m per megawatt.” 9\n\n At $20m to $25m per megawatt ($20 to $25/w/yr), new multi-year compute contracts price at more than double CoreWeave’s $9/w/yr blended fleet today. If the application can charge the end user more because of its effectiveness, higher compute costs cascade through. Otherwise, neoclouds, inference providers & applications fight over a fixed pool.\n\n 2. Different applications will command varying pricing power as a function of their ROI. An AI that saves 30% does not command the same pricing power as one that saves 70%. Techniques like small models, fine-tuning & routing will help sustain margins. Unlike the SaaS era, different vertical software markets will support varying gross profit pools.\n\n 3. Vertical integration is already consolidating margin. Companies across the stack are absorbing neighboring layers to capture adjacent margin. CoreWeave acquired Weights & Biases ($1.03b), OpenPipe, Marimo & Monolith AI ($185m) to move up into training, evaluation & enterprise workflows. 10 Nebius has spent more than $1b in 2026 acquiring four companies across search, model optimization, cold-start scaling & orchestration to build its Token Factory. 11 Owning multiple layers lets an integrated provider absorb price swings that squeeze standalone vendors.\n\n No layer in AI is static. As market power shifts from one layer to the next, though, understanding these shifts will explain where competition is fiercest & where M&A will concentrate.\n\n---\n\n See Tomasz Tunguz, Startup Best Practices 26 : Choosing Your Startup’s Competitive Strategy , May 26, 2017, & How to Analyze Your Startup Like a VC in 15 Minutes or Less , June 24, 2013, on mapping industry value chains & where margin accrues across layers.  ↩︎\n\n Core Scientific SEC filings report pass-through electricity at 6.6 to 7.1 cents per kWh (West Texas closer to 5 cents). One watt-year is 8.76 kWh ; at an estimated 1.3 PUE, annual power cost is $0.75 to $0.80/w/yr. Because utility gross margins are not broken out per data center, $0.80/w/yr represents utility revenue (cost basis to the stack).  ↩︎\n\n CoreWeave wholesale colocation leases with Core Scientific run $100 to $115 per kW-month on 12-year take-or-pay terms, with effective all-in rent near $165/kw-month ($1.98/w/yr). CBRE (North America Data Center Trends H1 2026, August 27, 2026) puts primary North American wholesale asking rates at $204.69/kw-month for 250 to 500kw deployments ($196.25 in 2025) & $165.31/kw-month for 10mw+ blocks ($1.98/w/yr).  ↩︎\n\n CoreWeave Q3 2026 earnings release, 10 November 2026 : revenue of $3.661b (+168% YoY), GAAP operating income of $207m (6% margin), adjusted operating income of $379m (10% margin), Adjusted EBITDA of $2.26b (62% margin), depreciation & amortization of $1.89b, net interest expense of $846m & GAAP net loss of $709m. Active power rose from 1.5gw at Q2 end to above 1.7gw at Q3 end (contracted power above 4.6gw, backlog $132.5b). Annualized Q3 revenue ($14.64b) across ~1.6gw of period-average active power equals $9.15m per megawatt per year, or $9.15/w/yr.  ↩︎\n\n Modeled on a 552b-parameter mixture-of-experts model (8b active input, 16b active output) on GB300 NVL72 racks (72 GPUs at 150 to 180kw) with 87% to 90% prompt cache hit rates & 65% billing utilization, paying $9/w/yr for compute & billing $15/w/yr ($23.08 per utilized watt).  ↩︎\n\n This estimate carries meaningful error across workloads & utilization rates. Converting kWh, $/kw-month leases, $/GPU-hour compute, per-million-token inference & per-task agent pricing onto a single $/w/yr denominator relies on modeled approximations rather than audited disclosures : quarterly starting active power, facility PUE (1.2 to 1.45), rack power draw (150 to 180kw), billing utilization (65%) & cache hit rates (87% to 90%, where cached reads still consume HBM capacity & bandwidth).  ↩︎\n\n Two accounting boundaries shape the waterfall : GPU hardware & frontier model weights sit inside the capital & operating lines rather than as separate recurring service bars. CoreWeave’s +$7.00/w/yr is pre-depreciation (reflecting only ~$2/w/yr of shell & power ; company-wide Adjusted EBITDA is 62% after ~$1/w/yr of other operating costs). Upfront GPU capex of $35 to $50/w depreciated over six years adds $6 to $8/w/yr in capital charges : where Nvidia’s ~75% hardware gross margin lives : reducing CoreWeave’s post-depreciation gross profit at today’s $9/w/yr blended rate to $0 to $2/w/yr (Q3 D&A alone was $1.89b, 52% of revenue). Likewise, the inference bar models an open-weight model rather than a proprietary frontier lab API.  ↩︎\n\n Anthropic, PBC Form S-1/A, filed 2 November 2026 : Q3 2026 short-term burst compute commitments reached $7 to $13 per GPU-hour across $5.0b of quarterly short-term spend.  ↩︎\n\n Michael Intrator, Chief Executive Officer, CoreWeave Q3 2026 earnings call, 10 November 2026 (units formatted to $40m & $20m to $25m from transcript’s “40 million” & “20 to 25 million”).  ↩︎\n\n CoreWeave Form 10-K for the year ended 31 December 2025 (filed 2 March 2026, Note 4) : CoreWeave closed four software acquisitions in 2025 to move up the stack : Weights & Biases ($1.029b total purchase consideration, closed May 5, 2025), OpenPipe (September 2025), Marimo (October 2025) & Monolith AI ($185m in convertible notes, closed November 5, 2025).  ↩︎\n\n Nebius Group 2026 software transactions : Tavily (announced February 10, 2026 ; $275m initial consideration, up to $400m with earnouts), Eigen AI (announced May 1, 2026 ; ~$643m in cash & stock, closed June 10, 2026), Clarifai core research & engineering team hire plus perpetual inference & orchestration IP license (May 12, 2026), & Inferize (acquired October 1, 2026 ; estimated $100m to $150m per CTech ).  ↩︎"
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 5,
+    "totalTweets": 10,
+    "blogPosts": 6,
+    "podcastEpisodes": 0
+  }
+}
