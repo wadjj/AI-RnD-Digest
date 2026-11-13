@@ -1,19 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/trq212/status/2115937378674372783": 1793325594824,
-    "https://twitter.com/trq212/status/2115859137406054488": 1793325594824,
-    "https://twitter.com/trq212/status/2115641110710419752": 1793325594824,
-    "https://twitter.com/demishassabis/status/2115933173175689570": 1793325594824,
-    "https://twitter.com/demishassabis/status/2115916971065983478": 1793325594824,
-    "https://twitter.com/emollick/status/2115911454994186301": 1793325594825,
-    "https://twitter.com/emollick/status/2115875693120676157": 1793325594825,
-    "https://twitter.com/emollick/status/2115844131985494092": 1793325594825,
-    "https://twitter.com/thsottiaux/status/2115890336107233347": 1793325594825,
-    "https://twitter.com/thsottiaux/status/2115850175868727621": 1793325594825,
-    "https://twitter.com/_sholtodouglas/status/2115951025064694108": 1793325594825,
-    "https://twitter.com/petergostev/status/2115847397922185322": 1793325594825,
-    "https://twitter.com/petergostev/status/2115829238997856708": 1793325594825,
-    "https://twitter.com/petergostev/status/2115817970211426516": 1793325594825,
     "https://twitter.com/emollick/status/2116321075164500438": 1793410650305,
     "https://twitter.com/emollick/status/2116282885112205365": 1793410650305,
     "https://twitter.com/emollick/status/2116241785647231160": 1793410650305,
@@ -133,17 +119,22 @@
     "https://twitter.com/demishassabis/status/2120565316619284734": 1794452747514,
     "https://twitter.com/_sholtodouglas/status/2120532228665229573": 1794452747514,
     "https://twitter.com/_sholtodouglas/status/2120407335202087312": 1794452747514,
-    "https://twitter.com/thsottiaux/status/2120410006273380750": 1794452747514
+    "https://twitter.com/thsottiaux/status/2120410006273380750": 1794452747514,
+    "https://twitter.com/thsottiaux/status/2121036562058400200": 1794537593834,
+    "https://twitter.com/thsottiaux/status/2120999993079451919": 1794537593834,
+    "https://twitter.com/gdb/status/2121004237413142656": 1794537593834,
+    "https://twitter.com/emollick/status/2121001056637431873": 1794537593834,
+    "https://twitter.com/emollick/status/2120971399271473405": 1794537593834,
+    "https://twitter.com/emollick/status/2120947095280795823": 1794537593834,
+    "https://twitter.com/YiTayML/status/2120959440136638937": 1794537593835,
+    "https://twitter.com/demishassabis/status/2120999534729809990": 1794537593835,
+    "https://twitter.com/demishassabis/status/2121017740618273084": 1794537593835,
+    "https://twitter.com/demishassabis/status/2120942605466800374": 1794537593835
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://stratechery.com/2026/anthropic-s-1-the-cost-of-compute-who-is-paying": 1793325588034,
     "https://stratechery.com/2026/meta-earnings-muse-and-the-frontier-musebook": 1793410645388,
     "https://stratechery.com/2026/an-interview-with-palantir-cto-shyam-sankar-about-the-ai-religious-war": 1793495721404,
-    "https://simonwillison.net/2026/Oct/29/api-credits": 1793325594825,
-    "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world": 1793325594825,
-    "https://simonwillison.net/2026/Oct/29/ben-hylak": 1793325594825,
-    "https://therundownai.beehiiv.com/p/google-gemini-4-carbon-tops-the-charts-for-now": 1793325594825,
     "https://stratechery.com/2026/at-long-last": 1793583181092,
     "https://stratechery.com/2026/sharp-tech-on-video-anthropics-s-1-and-what-it-means-for-meta-and-muse-you-can-see-everything-and-brewers": 1793583181092,
     "https://simonwillison.net/2026/Oct/30/nesformer": 1793410650305,
@@ -205,8 +196,16 @@
     "https://simonwillison.net/2026/Nov/11/tools-tags": 1794452747515,
     "https://stratechery.com/2026/intel-earnings-amd-earnings-intel-and-amds-divergence": 1794452747515,
     "https://therundownai.beehiiv.com/p/openai-invites-brands-to-set-up-shop-in-chatgpt": 1794452747515,
-    "https://tomtunguz.com/who-captures-the-most-margin-in-ai": 1794452747516
+    "https://tomtunguz.com/who-captures-the-most-margin-in-ai": 1794452747516,
+    "https://stratechery.com/2026/an-interview-with-roblox-ceo-david-baszucki-about-aggregating-play/": 1794537588815,
+    "https://simonwillison.net/2026/Nov/12/llm-gemini": 1794537593835,
+    "https://simonwillison.net/2026/Nov/11/llm": 1794537593835,
+    "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow": 1794537593835,
+    "https://stratechery.com/2026/an-interview-with-roblox-ceo-david-baszucki-about-aggregating-play": 1794537593836,
+    "https://therundownai.beehiiv.com/p/ai-s-biggest-ceo-may-be-on-his-way-out": 1794537593836,
+    "https://tomtunguz.com/the-impact-of-jensens-resignation": 1794537593836,
+    "https://timkellogg.me/blog/2026/11/11/knowlege-graphs": 1794537593837
   },
-  "lastRunKey": "2026-11-12",
-  "lastRunAt": "2026-11-12T03:05:47.525Z"
+  "lastRunKey": "2026-11-13",
+  "lastRunAt": "2026-11-13T02:39:53.862Z"
 }
