@@ -1,9 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/emollick/status/2116537058433081669": 1793495723920,
-    "https://twitter.com/emollick/status/2116526543346483419": 1793495723920,
-    "https://twitter.com/demishassabis/status/2116651775017275581": 1793495723920,
-    "https://twitter.com/thsottiaux/status/2116405414921384099": 1793495723920,
     "https://twitter.com/thsottiaux/status/2117035794678546764": 1793583185345,
     "https://twitter.com/thsottiaux/status/2116935650511585696": 1793583185345,
     "https://twitter.com/emollick/status/2116987671939875319": 1793583185345,
@@ -129,15 +125,18 @@
     "https://twitter.com/demishassabis/status/2121293451073606071": 1794623326042,
     "https://twitter.com/_sholtodouglas/status/2121334082932232639": 1794623326042,
     "https://twitter.com/_sholtodouglas/status/2121356792601141368": 1794623326042,
-    "https://twitter.com/gdb/status/2121295213025194172": 1794623326042
+    "https://twitter.com/gdb/status/2121295213025194172": 1794623326042,
+    "https://twitter.com/emollick/status/2121751565845360769": 1794707876301,
+    "https://twitter.com/emollick/status/2121715002105360772": 1794707876301,
+    "https://twitter.com/emollick/status/2121685924824461739": 1794707876301,
+    "https://twitter.com/_sholtodouglas/status/2121719522554265662": 1794707876301,
+    "https://twitter.com/YiTayML/status/2121450992210505766": 1794707876301,
+    "https://twitter.com/markchen90/status/2121466924429377599": 1794707876301
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://stratechery.com/2026/an-interview-with-palantir-cto-shyam-sankar-about-the-ai-religious-war": 1793495721404,
     "https://stratechery.com/2026/at-long-last": 1793583181092,
     "https://stratechery.com/2026/sharp-tech-on-video-anthropics-s-1-and-what-it-means-for-meta-and-muse-you-can-see-everything-and-brewers": 1793583181092,
-    "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts": 1793495723920,
-    "https://simonwillison.net/2026/Oct/31/datasette-llm": 1793495723920,
     "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first": 1793583185346,
     "https://simonwillison.net/2026/Nov/1/kyle-kingsbury": 1793583185346,
     "https://simonwillison.net/2026/Nov/2/llm": 1793676549864,
@@ -192,23 +191,25 @@
     "https://stratechery.com/2026/intel-earnings-amd-earnings-intel-and-amds-divergence": 1794452747515,
     "https://therundownai.beehiiv.com/p/openai-invites-brands-to-set-up-shop-in-chatgpt": 1794452747515,
     "https://tomtunguz.com/who-captures-the-most-margin-in-ai": 1794452747516,
-    "https://stratechery.com/2026/an-interview-with-roblox-ceo-david-baszucki-about-aggregating-play": 1794537593836,
+    "https://stratechery.com/2026/an-interview-with-roblox-ceo-david-baszucki-about-aggregating-play": 1794623322431,
     "https://simonwillison.net/2026/Nov/12/llm-gemini": 1794537593835,
     "https://simonwillison.net/2026/Nov/11/llm": 1794537593835,
     "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow": 1794537593835,
     "https://therundownai.beehiiv.com/p/ai-s-biggest-ceo-may-be-on-his-way-out": 1794537593836,
     "https://tomtunguz.com/the-impact-of-jensens-resignation": 1794537593836,
     "https://timkellogg.me/blog/2026/11/11/knowlege-graphs": 1794537593837,
-    "https://stratechery.com/2026/sharp-tech-on-video-nvidia-after-jensen-huang-ominous-news-for-american-ai-d-c-gets-its-revenge/": 1794623322431,
-    "https://stratechery.com/2026/an-interview-with-roblox-ceo-david-baszucki-about-aggregating-play/": 1794623322431,
+    "https://stratechery.com/2026/sharp-tech-on-video-nvidia-after-jensen-huang-ominous-news-for-american-ai-d-c-gets-its-revenge": 1794623326042,
     "https://simonwillison.net/2026/Nov/13/datasette-cluster-map": 1794623326042,
     "https://simonwillison.net/2026/Nov/13/datasette-leaflet": 1794623326042,
     "https://stratechery.com/2026/the-end-of-jensen": 1794623326042,
-    "https://stratechery.com/2026/sharp-tech-on-video-nvidia-after-jensen-huang-ominous-news-for-american-ai-d-c-gets-its-revenge": 1794623326042,
     "https://therundownai.beehiiv.com/p/nvidia-enters-life-without-jensen-huang": 1794623326043,
     "https://www.anthropic.com/research/building-strong-safety-evaluations": 1794623326043,
-    "https://tomtunguz.com/no-shirt-no-shoes-no-service-for-bots": 1794623326043
+    "https://tomtunguz.com/no-shirt-no-shoes-no-service-for-bots": 1794623326043,
+    "https://stratechery.com/2026/sharp-tech-on-video-nvidia-after-jensen-huang-ominous-news-for-american-ai-d-c-gets-its-revenge/": 1794707873748,
+    "https://stratechery.com/2026/an-interview-with-roblox-ceo-david-baszucki-about-aggregating-play/": 1794707873748,
+    "https://simonwillison.net/2026/Nov/14/datasette-llm": 1794707876301,
+    "https://simonwillison.net/2026/Nov/14/datasette-vega": 1794707876301
   },
-  "lastRunKey": "2026-11-14",
-  "lastRunAt": "2026-11-14T02:28:46.048Z"
+  "lastRunKey": "2026-11-15",
+  "lastRunAt": "2026-11-15T01:57:56.305Z"
 }

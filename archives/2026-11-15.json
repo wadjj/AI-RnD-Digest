@@ -1,0 +1,169 @@
+{
+  "generatedAt": "2026-11-15T01:57:56.300Z",
+  "runKey": "2026-11-15",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Twitter @Ethan Mollick",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2121751565845360769",
+          "text": "AI is getting better faster than our measurements are\n\nI threw together SatBench, which measures how quickly major AI benchmarks become saturated (effectively beaten). Of 173 benchmarks cited by the Labs since 2023, 63% are now saturated. Saturation is happening faster each year.",
+          "createdAt": "2026-11-14T23:46:08.974Z",
+          "url": "https://x.com/emollick/status/2121751565845360769",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2121715002105360772",
+          "text": "Well, that looked like science fiction.",
+          "createdAt": "2026-11-14T21:20:50.581Z",
+          "url": "https://x.com/emollick/status/2121715002105360772",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2121685924824461739",
+          "text": "AI slop replies, ranked by annoyingness:\n6) Repeating the post\n5) LLM knows more than the account should about a topic\n4) Lame semi-joke\n3) \"X is the part I would keep/everyone misses...\"\n2) \"As a marketer/builder/dentist, I see this in my own...\"\n1) Questions faking \"curiosity\"",
+          "createdAt": "2026-11-14T19:25:18.528Z",
+          "url": "https://x.com/emollick/status/2121685924824461739",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Sholto Douglas",
+      "handle": "_sholtodouglas",
+      "bio": "Twitter @Sholto Douglas",
+      "tweets": [
+        {
+          "id": "https://twitter.com/_sholtodouglas/status/2121719522554265662",
+          "text": "RT roon\njust like that dirt cheap high orbit was opened to humankind. if we were playing civilization a tech tree node unlock would be flashing in everyone’s HUDs\n---\n SpaceX: Mechazilla catches Starship! Congratulations to the entire SpaceX team on this incredible achievement!\n\nLink: https://x.com/SpaceX/status/2121715216597827756",
+          "createdAt": "2026-11-14T21:32:33.973Z",
+          "url": "https://x.com/_sholtodouglas/status/2121719522554265662",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Yi Tay",
+      "handle": "YiTayML",
+      "bio": "Twitter @Yi Tay",
+      "tweets": [
+        {
+          "id": "https://twitter.com/YiTayML/status/2121450992210505766",
+          "text": "🛳️🛳️🛳️\n---\n Sundar Pichai: What we shipped this week @google\n\nMonday: Two new 8th-gen TPUs\nTuesday: Gemini 4 Carbon\n- AlphaProof Code verified Signal protocol\n- Gemini Robotics 2.5\nWednesday: AlphaGenome 2 for disease research\n- Gemini Decisions API in AI Studio\nThursday: Gemini 4 Hydrogen\n- intelligent eyewear pre-orders\nFriday: U2 new album (ok not us but exciting!)\n\nonwards!\n\nLink: https://x.com/sundarpichai/status/2121338095664808238",
+          "createdAt": "2026-11-14T03:51:45.645Z",
+          "url": "https://x.com/YiTayML/status/2121450992210505766",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/sundarpichai/status/2121338095664808238\nSundar Pichai: What we shipped this week @google\n\nMonday: Two new 8th-gen TPUs\nTuesday: Gemini 4 Carbon\n- AlphaProof Code verified Signal protocol\n- Gemini Robotics 2.5\nWednesday: AlphaGenome 2 for disease research\n- Gemini Decisions API in AI Studio\nThursday: Gemini 4 Hydrogen\n- intelligent eyewear pre-orders\nFriday: U2 new album (ok not us but exciting!)\n\nonwards!\n\n Link: https://x.com/sundarpichai/status/2121338095664808238"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Mark Chen",
+      "handle": "markchen90",
+      "bio": "Twitter @Mark Chen",
+      "tweets": [
+        {
+          "id": "https://twitter.com/markchen90/status/2121466924429377599",
+          "text": "RT Aidan Clark\nProbably our single biggest comms failing (bigger even than the DoW!) has been not clearly expressing how much we differ from Anthropic in this regard.\n---\n Shakeel: I have seen a fair number of OpenAI staff replying to this saying handoff is not the plan. I have not seen Anthropic staff doing the same (but please do flag if I’ve missed it!)\n\nLink: https://x.com/ShakeelHashim/status/2121301215162044819",
+          "createdAt": "2026-11-14T02:21:38.379Z",
+          "url": "https://x.com/markchen90/status/2121466924429377599",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "datasette-llm 0.1a11",
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
+      "publishedAt": "2026-11-14T23:59:28.302Z",
+      "author": "",
+      "description": "Release: datasette-llm 0.1a11 datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with…",
+      "content": "Release: datasette-llm 0.1a11\n\n datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins.\n\n This release adds support for OpenAI-compatible endpoints, so you can configure Datasette to use an LLM hosted anywhere that talks the OpenAI pseudo-standard web protocol.\n\n This means that if you're running local models with LM Studio or Ollama or llama.cpp (which just hit v1.0.0 ) you can run Datasette via uvx like this:\n\n wget https://datasette.io/content.db\n\nuvx --with datasette-agent datasette \\\n --root --secret 1 \\\n -s plugins.datasette-llm.default_model ' {\n \"model\": \"lmstudio-qwen\",\n \"model_name\": \"qwen/qwen3.8-27b\",\n \"api_base\": \"http://localhost:1234/v1\"\n } ' content.db\n\n And you'll get a local server running a Datasette Agent instance powered by your local model!\n\n Tags: uv , datasette-agent , llm , datasette , llms , ai , generative-ai"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "datasette-vega 0.7",
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-vega/",
+      "publishedAt": "2026-11-14T17:09:09.668Z",
+      "author": "",
+      "description": "Release: datasette-vega 0.7 A new release of Datasette's longest untouched plugin, for rendering charts (using Vega-Lite) against…",
+      "content": "Release: datasette-vega 0.7\n\n A new release of Datasette's longest untouched plugin, for rendering charts (using Vega-Lite ) against data in a table or custom query. The last release was in July 2018!\n\n I finally bumped it for compatibility with the latest Datasette alphas, plus some cosmetic tweaks to make it work better with Datasette Lite .\n\n (Datasette Lite just gained the ability to run JavaScript plugins like this! I'll write more about that soon.)\n\n Since it works with Datasette Lite, the live demo in the README now links to this demo on Datasette Lite .\n\n Tags: datasette , visualisation , datasette-lite"
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery",
+      "title": "Sharp Tech on Video: Nvidia After Jensen Huang, Ominous News for American AI, D.C. Gets Its Revenge",
+      "url": "https://stratechery.com/2026/sharp-tech-on-video-nvidia-after-jensen-huang-ominous-news-for-american-ai-d-c-gets-its-revenge/",
+      "publishedAt": "Fri, 13 Nov 2026 03:47:52 +0000",
+      "author": "Ben Thompson",
+      "description": "Sharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery",
+      "content": "Sharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery\n\n---\n\nListen to this Update in your podcast player\n\n---\n\nSharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery.\n\nYouTube\n\nSpotify\n\nStratechery\n\n---\n\nIn addition, on Sunday there will be a subscriber-only episode on the subscriber-only feed; this week’s topics include why Intel is stumbling while AMD is thriving, and why Google and Anthropic might be the Intel and Windows of the AI era, plus the notification that made Ben text a Meta executive.\n\nIf you haven’t yet added your subscriber feed to your podcast player, you can do so at sharptech.fm .\n\n---\n\nWe are going to send out these emails about new videos every week; if you don’t want to receive them, you can update your email preferences on Passport :\n\nHave a great weekend!\n\n---\n\nAdd to your podcast player: Stratechery | Sharp Tech | Dithering | Sharp China | GOAT | Asianometry\n\n---"
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery",
+      "title": "An Interview With Roblox CEO David Baszucki About Aggregating Play",
+      "url": "https://stratechery.com/2026/an-interview-with-roblox-ceo-david-baszucki-about-aggregating-play/",
+      "publishedAt": "Thu, 12 Nov 2026 11:00:00 +0000",
+      "author": "Ben Thompson",
+      "description": "An interview with Roblox CEO David Baszucki about how AI is transforming game creation, and why that opens up huge opportunities to both enable developers and make Roblox both an Aggregator and a platform.",
+      "content": "An interview with Roblox CEO David Baszucki about how AI is transforming game creation, and why that opens up huge opportunities to both enable developers and make Roblox both an Aggregator and a platform.\n\n---\n\nListen to this Update in your podcast player\n\n---\n\nGood morning,\n\nThis week’s Stratechery Interview is with Roblox CEO David Baszucki . I’ve interviewed Baszucki twice, in February 2022 , and November 2023 .\n\nWhat struck me about this interview is just how much AI has changed the landscape for Roblox. This was a company predicated on the concept that anyone can make a game, but now, for the first time, literally anyone can make a game. That means a world of abundance, and in that world, there is an opportunity to be an Aggregator, and Roblox is aggressively pursuing that opportunity.\n\nTo that end, we discuss how AI has changed Baszucki’s view of what is possible, what goes into a game creation harness, making games on your phone, and the power of recommendation. Then we talk about Roblox’s vision of a universal player, where a Roblox game works everywhere, and Roblox Everywhere, where Roblox developers can use the platform beyond the Roblox app. We also touch on advertising — the natural Aggregator business model — and whether Baszucki still thinks he is building the metaverse.\n\nAs a reminder, all Stratechery content, including interviews, is available as a podcast; click the link at the top of this email to add Stratechery to your podcast player.\n\nOn to the Interview:\n\nAn Interview With Roblox CEO David Baszucki About Aggregating Play\n\nThis interview is lightly edited for clarity.\n\nTopics: The AI Impact | A Game Creation Harness | Roblox Build | Roblox Discovery | Universal Player | Roblox Everywhere | Advertising | Metaverses\n\nThe AI Impact\n\nDavid Baszucki, welcome back to Stratechery.\n\nDB: Thank you, Ben, for having me back. It’s great to be here.\n\nSo this is the third time I’ve interviewed you, and I want to sort of put that in an interesting context. First, you started Roblox in 2004, you went public in 2021, you first talked to me in 2022 and again in 2023 , that’s like a nearly 20-year stretch. Now it’s 2026, and here’s my question: Is the world more different for you now, compared to three years before, than it was for the entire first two decades from starting the company to the last time we talked?\n\nDB: The changes in the world we all feel are sure happening a lot more rapidly. When we first published Roblox — I don’t know if people on this podcast remember — software used to be distributed on floppy disks and CDs.\n\nYou know, the funny thing is, you’re the second person I’ve interviewed in the last two or three weeks where we’ve referenced back to fact that the reason we say packaged software is it used to actually be packaged!\n\nDB: It’s been crazy, we had the Internet, when we started the company, we had the vision of a category called immersive co-experience, sci-fi writers have been writing about the holodeck forever, and we went along our way.\n\nI’m still pro-metaverse, we can use the word metaverse, it’s okay.\n\nDB: Okay, good, we use them all. It’s Snow Crash — metaverse, holodeck, they’re all good. We started on this vision of building human co-experience, we saw the mobile age come across us, we saw the crypto age. The AI acceleration wave we’re in is faster and bigger and crazier than anything I’ve ever seen, it’s changing how we think about the product, it’s changing how people are going to create games. What’s really exciting is, when we started the company, we had this slogan called “You Make the Game”.\n\nYep.\n\nDB: We started with that slogan, we learned along the way that the ratio of people who might want to play games to make games has drifted — more people want to just play games than make games, because historically making games has been Roblox Studio and 3D editing and writing script.\n\nWe could be approaching the time where “You Make the Game” really comes true, and where making a game is accessible to everyone. It’s really fun, I’ll tell you a bit about some of the experiments we’ve been having with Roblox Build . But we’re entering an era where making a game could be as big as playing a game.\n\nI’m right there with you. We’re obviously going to touch on all those points, I think it’s probably predictable what we want to talk about. But to go back to 2023, you called AI then, “a super paintbrush and a super 3D modeler, rather than a full replacement” — Is that still how you’re thinking about AI?\n\nDB: It’s what the data is proving out. We just had our earnings call a few weeks ago , we highlighted a lot of acceleration. One, there’s various ways humans can augment with AI on Roblox, they can use MCP , which is like plugging in a model, they can use the Roblox AI assistant to help build.\n\nAnd what do you mean with that MCP server? You mentioned you had 5x growth quarter-over-quarter. That’s where you’re actually using Claude Code or Codex or whatever to work with Roblox?\n\nDB: People are plugging in, we can see all of them — Claude Code, Codex, other models — all being plugged into Roblox Studio to help build things. We’ve seen two games hit the top 20 made by AI, we have other metrics like the number of assets.\n\nWhat do you mean by “made by AI”? Because you also said 80% of games in the top 100 have AI-contributed content.\n\nDB: Touched by AI, vibe-coded directly with AI, and we can see the count of assets accelerating.\n\nGot it.\n\nDB: It’s turned out to be, I believe, somewhat faithful to what I said. This is a human paintbrush accelerator, good ideas are still very important, novel types of gameplay are very important. But people are able to flex their creativity much more quickly. We have members of the Roblox board of directors carrying a mobile phone around, building games like 15 times a day. We have people who are not necessarily engineers or product managers now building within the company, so we’re really at the dawn of a new era.\n\nA Game Creation Harness\n\nYou mentioned the super paintbrush, super 3D modeler, is there a super gameplay developer? Because there’s a large step between, “I have an idea for a game”, versus the actual mechanics of the game. How much can the AI do to help you as far as that goes?\n\nDB: You’re touching on the dream of what is a game creation harness versus a coding harness .\n\nDive into it, this is super interesting. Lay out the difference and the way you’re thinking about that.\n\nDB: So everyone’s getting familiar with coding harnesses — Claude Code, Cursor, Replit, Lovable, Codex, you name it. A game is arguably much more complicated than code. As you mentioned, there’s art, there’s 3D objects, there’s scenes, there’s avatars, there can be gameplay code, there can be missions, and there can be code underneath it. So a harness that is being created to create games really has to run in multiple modalities, needs to listen to you, and if you said, “I would like a multiplayer tortoise-and-the-hare game that 100 people can play, and we’d like to do it on Venus, and I’d like it to run on all devices” — there’s a lot of different things that need to be generated there.\n\nThe avatars, the assets, all of that, as well as the gameplay, which I think is a very human thing — your idea of what type of a game it is is actually very unique. So one of our board members is building a hybrid kind of Wordle-crossword game with his own vision of how this crossword game should work, and that’s very unique to him. I’m optimistic we’re still seeing that notion of a human coupled with an accelerating paintbrush in essentially a very complex harness for building games.\n\nThere’s so many pieces you talked about. The asset creation piece, compared to 2023, much further along, arguably there. You could have even the video component, or the moving worlds, but then you almost have these different pieces. Do you have to build — is there going to be one harness, and one sort of — we’re going to get to your Build app in a little bit — that handles all of that? Or are you still thinking we need to do this piece-by-piece as the model gets good enough for, or we need different models maybe for the different parts of this?\n\nDB: I think just as we see with harnesses that are routing different models, even for coding now, a lot of companies have multiple models running side-by-side and their harness is optimizing. Our harness inside Build and inside Studio Build is running not just multiple models for certain things, but then there’s a second dimension of, “Are we building a scene?”, “Are we building a 3D object?”, “Are we building code?”, “Are we building an NPC?”.\n\nSo yes, we are routing both by kind of specific asset that’s being created, as well as multiple models within each of those, and we’re combining some areas where we have incredible data on Roblox — for example, data that can be used to help create non-player characters, characters that act normally, side-by-side with you. But there’s also really good coding models out there, both open source and frontier, and so we see a harness being able to put all these things together.\n\nWhat’s the mix of those models? Say we have three categories — frontier, off-the-shelf open-source models, and models that you’ve trained specifically. And I guess even there there’s two categories, are you doing foundational models on your own, or just doing some post-training?\n\nDB: We literally have all three of those running in our Build harness. And we’re, in certain cases, optimizing the cost of frontier with the capabilities of open source. We have a Cube model — we’ve announced it — which is trained on 3D assets.\n\nYeah, super interesting. Tell me about the Cube model.\n\nDB: The Cube model is our own 3D asset creation model trained on all of the 3D objects inside Roblox, where the developer has opted in to the training. It’s very fast, it’s very efficient, and it runs on our own hardware. When you go into Build or I go into Build and I say, “Hey, make that tortoise-and-a-hare game”, and if you describe that tortoise as somewhat unique and different, “I want the tortoise to look like this, and have a fur that looks like this, and maybe have this”, that Cube model will and may come into play and generate that tortoise for you.\n\nHow does your cost structure work for this? Is it a usage thing from a developer perspective? You have the MCP server — that’s where they can bring their own, what’s the mix?\n\nDB: You sound like a product manager, because these are exactly the same discussions I had about an hour ago. The ultimate vision is something like Roblox Build is just like the creation of short-form video. Short-form video 10 years ago — all of a sudden we all figured out we can make video and edit it on our phones, amongst multiple products that was like a huge revelation.\n\nWe are so on the same page, I have a whole section on short-form video later in the interview. That’s good foreshadowing.\n\nDB: Yeah. And so along comes short-form video, and we have phones, and all of a sudden we’re making and sharing video. Arguably games are a lot more complicated, they can be immersive 3D environments, multiple people can come there. They have, as I was saying, code and geometry and avatars, but that’s where Build is going — that same notion of, “I’m going to pull out my phone and create something”, some of those models are still expensive.\n\nBut the dream is, we’re already testing — I think Canada went live today. We’re testing in, I think, Serbia and New Zealand, we want it available for everyone and so it creates a wonderful opportunity for us to be super efficient with our models while super powerful. It creates the opportunity for those users who want to just do hundreds of iterations to have them buy tokens as well, if they really want to dig into it, so we’re optimistic this will be free for everyone.\n\nRoblox Build\n\nYou keep mentioning Build, I’m on your website , and this is how you describe Build: “Build is a new way..."
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 4,
+    "totalTweets": 6,
+    "blogPosts": 4,
+    "podcastEpisodes": 0
+  }
+}
