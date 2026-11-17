@@ -1,12 +1,5 @@
 {
   "seenTweets": {
-    "https://twitter.com/gdb/status/2117435285021810921": 1793676549863,
-    "https://twitter.com/thsottiaux/status/2117412956950638872": 1793676549863,
-    "https://twitter.com/thsottiaux/status/2117283124833055196": 1793676549863,
-    "https://twitter.com/emollick/status/2117372481191239762": 1793676549863,
-    "https://twitter.com/emollick/status/2117346417979384162": 1793676549863,
-    "https://twitter.com/emollick/status/2117338841749029221": 1793676549863,
-    "https://twitter.com/trq212/status/2117305792923889731": 1793676549863,
     "https://twitter.com/gdb/status/2117755028211642849": 1793758993297,
     "https://twitter.com/_sholtodouglas/status/2117754196070117754": 1793758993297,
     "https://twitter.com/thsottiaux/status/2117746467058405665": 1793758993297,
@@ -127,16 +120,20 @@
     "https://twitter.com/emollick/status/2122036763468214711": 1794795146300,
     "https://twitter.com/emollick/status/2121822367575945454": 1794795146300,
     "https://twitter.com/thsottiaux/status/2121845965997101118": 1794795146300,
-    "https://twitter.com/JeffDean/status/2121801861833556239": 1794795146300
+    "https://twitter.com/JeffDean/status/2121801861833556239": 1794795146300,
+    "https://twitter.com/emollick/status/2122519737318150181": 1794890003716,
+    "https://twitter.com/emollick/status/2122494694953492810": 1794890003716,
+    "https://twitter.com/emollick/status/2122405206184829341": 1794890003716,
+    "https://twitter.com/_sholtodouglas/status/2122464178879496447": 1794890003716,
+    "https://twitter.com/_sholtodouglas/status/2122426251445235943": 1794890003716,
+    "https://twitter.com/trq212/status/2122438326431154210": 1794890003716,
+    "https://twitter.com/gdb/status/2122381437198586144": 1794890003716,
+    "https://twitter.com/gdb/status/2122371202169905639": 1794890003716,
+    "https://twitter.com/demishassabis/status/2122289306656035036": 1794890003717,
+    "https://twitter.com/thsottiaux/status/2122206990101536852": 1794890003717
   },
   "seenVideos": {},
   "seenArticles": {
-    "https://simonwillison.net/2026/Nov/2/llm": 1793676549864,
-    "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence": 1793676549864,
-    "https://jack-clark.net/2026/11/02/import-ai-479-spacewar-low-latency-tasks-versus-llms-genie-4": 1793676549864,
-    "https://therundownai.beehiiv.com/p/ai-backlash-heads-to-the-polls": 1793676549864,
-    "https://stratechery.com/2026/google-earnings-facebook-deja-vu-the-agent-play": 1793676549864,
-    "https://tomtunguz.com/the-four-questions-of-ai": 1793676549864,
     "https://stratechery.com/2026/apple-earnings-memory-problems-the-hardware-company-regression": 1793932267911,
     "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights": 1793758993298,
     "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location": 1793758993298,
@@ -190,7 +187,7 @@
     "https://therundownai.beehiiv.com/p/ai-s-biggest-ceo-may-be-on-his-way-out": 1794537593836,
     "https://tomtunguz.com/the-impact-of-jensens-resignation": 1794537593836,
     "https://timkellogg.me/blog/2026/11/11/knowlege-graphs": 1794537593837,
-    "https://stratechery.com/2026/sharp-tech-on-video-nvidia-after-jensen-huang-ominous-news-for-american-ai-d-c-gets-its-revenge": 1794707873748,
+    "https://stratechery.com/2026/sharp-tech-on-video-nvidia-after-jensen-huang-ominous-news-for-american-ai-d-c-gets-its-revenge": 1794795142525,
     "https://simonwillison.net/2026/Nov/13/datasette-cluster-map": 1794623326042,
     "https://simonwillison.net/2026/Nov/13/datasette-leaflet": 1794623326042,
     "https://stratechery.com/2026/the-end-of-jensen": 1794623326042,
@@ -199,12 +196,19 @@
     "https://tomtunguz.com/no-shirt-no-shoes-no-service-for-bots": 1794623326043,
     "https://simonwillison.net/2026/Nov/14/datasette-llm": 1794707876301,
     "https://simonwillison.net/2026/Nov/14/datasette-vega": 1794707876301,
-    "https://stratechery.com/2026/sharp-tech-on-video-nvidia-after-jensen-huang-ominous-news-for-american-ai-d-c-gets-its-revenge/": 1794795142525,
     "https://simonwillison.net/2026/Nov/15/datasette-maplibre": 1794795146300,
     "https://simonwillison.net/2026/Nov/15/datasette": 1794795146300,
     "https://simonwillison.net/2026/Nov/15/datasette-2": 1794795146301,
-    "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings": 1794795146302
+    "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings": 1794795146302,
+    "https://stratechery.com/2026/obituaries/": 1794889997292,
+    "https://simonwillison.net/2026/Nov/16/llm": 1794890003717,
+    "https://simonwillison.net/2026/Nov/15/datasette-apps": 1794890003717,
+    "https://simonwillison.net/2026/Nov/15/datasette-agent": 1794890003717,
+    "https://jack-clark.net/2026/11/16/import-ai-481-ai-sub-contractors-a-wet-lab-for-ai-and-subterfuge-during-development": 1794890003717,
+    "https://stratechery.com/2026/obituaries": 1794890003717,
+    "https://therundownai.beehiiv.com/p/jensen-huang-weighs-a-comeback-at-nvidia": 1794890003718,
+    "https://tomtunguz.com/two-pricing-strategies-in-enterprise-ai": 1794890003718
   },
-  "lastRunKey": "2026-11-16",
-  "lastRunAt": "2026-11-16T02:12:26.308Z"
+  "lastRunKey": "2026-11-17",
+  "lastRunAt": "2026-11-17T04:33:23.725Z"
 }
