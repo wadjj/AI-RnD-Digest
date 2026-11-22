@@ -1,0 +1,233 @@
+{
+  "generatedAt": "2026-11-22T02:17:31.970Z",
+  "runKey": "2026-11-22",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2124322968499282388",
+          "text": "Team is already preparing another big update, but how are things since yesterday’s update to the ChatGPT/Codex desktop app? What still requires attention and is not quite there?\n\nAndrew Ambrosino: NEW:\n\n- ChatGPT Space for Plus!\n- new, simpler visual design across the app\n- huge performance improvements everywhere\n- completely rebuilt threads– better perf and design\n- redesigned Space home\n- much faster pages and slides\n- edit pages on mobile\n- more reliable Codex",
+          "createdAt": "2026-11-22T02:03:58.951Z",
+          "url": "https://x.com/thsottiaux/status/2124322968499282388",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/ajambrosino/status/2123840812534452296\nAndrew Ambrosino: NEW:\n\n- ChatGPT Space for Plus!\n- new, simpler visual design across the app\n- huge performance improvements everywhere\n- completely rebuilt threads– better perf and design\n- redesigned Space home\n- much faster pages and slides\n- edit pages on mobile\n- more reliable Codex"
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2124277855131664869",
+          "text": "Going to check out this threads thing",
+          "createdAt": "2026-11-21T23:04:42.396Z",
+          "url": "https://x.com/thsottiaux/status/2124277855131664869",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/thsottiaux/status/2123997735326232775",
+          "text": "We’ve been messing around a bit and inadvertently created an experience that’s a bit too fun internally and now everyone is just having fun instead of working. We might not recover from this.",
+          "createdAt": "2026-11-21T04:31:36.588Z",
+          "url": "https://x.com/thsottiaux/status/2123997735326232775",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "Twitter @Thariq",
+      "tweets": [
+        {
+          "id": "https://twitter.com/trq212/status/2124239682691387634",
+          "text": "when I see some of the greats using models to make huge advances, like @__alpoge__ on the Riemann hypothesis or @jarredsumner on ahead-of-time javascript\n\nI feel like I'm seeing cyborgs. humans and machines working in beautiful tandem, pushing the frontier together.",
+          "createdAt": "2026-11-21T20:33:01.936Z",
+          "url": "https://x.com/trq212/status/2124239682691387634",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Greg Brockman",
+      "handle": "gdb",
+      "bio": "Twitter @Greg Brockman",
+      "tweets": [
+        {
+          "id": "https://twitter.com/gdb/status/2124218429133754499",
+          "text": "I played computer games growing up, and remember wondering how I could learn to make my own games.\n\nNow we’re creating models which are excellent at game dev. Hoping they can lower the barriers to entry and unleash creativity and fun for anyone with an idea!\n---\n DesignArena: BREAKING: GPT-6.2 Astra (high) and Sol (high) by @OpenAI are ranked #1 and #3 respectively on @/DesignArena’s Game Dev arena making all top 3 models on the leaderboard from @OpenAI. Both models have also redefined the Preference vs Price and Preference vs Speed Pareto frontier!\n\nAt an average of 6.8 min and $0.98 per generation, GPT-6.2 Astra (high) is the best model for its price point and speed on both Pareto frontiers. Similarly, GPT-6.2 Sol (high) at an average of 4.6 min and $0.22 per generation is on the Preference vs Price and Speed Pareto frontier. GPT-6.2 Sol (high) also offers similar output quality to GPT-6 Astra (max), the former #1 Game Dev model, while being about 4x cheaper and 40% faster.\n\nCongrats to the @OpenAI team on taking the top 3 spots on the leaderboard!\n\nLink: https://x.com/DesignArena/status/2123861437579677965",
+          "createdAt": "2026-11-21T19:08:34.798Z",
+          "url": "https://x.com/gdb/status/2124218429133754499",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/DesignArena/status/2123861437579677965\nDesignArena: BREAKING: GPT-6.2 Astra (high) and Sol (high) by @OpenAI are ranked #1 and #3 respectively on @/DesignArena’s Game Dev arena making all top 3 models on the leaderboard from @OpenAI. Both models have also redefined the Preference vs Price and Preference vs Speed Pareto frontier!\n\nAt an average of 6.8 min and $0.98 per generation, GPT-6.2 Astra (high) is the best model for its price point and speed on both Pareto frontiers. Similarly, GPT-6.2 Sol (high) at an average of 4.6 min and $0.22 per generation is on the Preference vs Price and Speed Pareto frontier. GPT-6.2 Sol (high) also offers similar output quality to GPT-6 Astra (max), the former #1 Game Dev model, while being about 4x cheaper and 40% faster.\n\nCongrats to the @OpenAI team on taking the top 3 spots on the leaderboard!\n\n Link: https://x.com/DesignArena/status/2123861437579677965"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Twitter @Ethan Mollick",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2124173181065806006",
+          "text": "We really are in a (temporary?) place where a combination of expertise and being able to work with AI allows people to do incredible things. It is no coincidence that people proving Millennium Problems have all been great mathematicians, the models can't (yet) do it on their own\n---\n Kevin A. Bryan: Today in AI as complements: the Harvard valedictorian, Princeton PhD, HSF, who went into AI after working on Riemann for years, solved it. I didn't, you didn't, the other folks at the labs didn't.\n\nHuman judgement about what is worthwhile, what is verified, what is possible...\n\nLink: https://x.com/Afinetheorem/status/2124161494073925980",
+          "createdAt": "2026-11-21T16:08:46.955Z",
+          "url": "https://x.com/emollick/status/2124173181065806006",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/Afinetheorem/status/2124161494073925980\nKevin A. Bryan: Today in AI as complements: the Harvard valedictorian, Princeton PhD, HSF, who went into AI after working on Riemann for years, solved it. I didn't, you didn't, the other folks at the labs didn't.\n\nHuman judgement about what is worthwhile, what is verified, what is possible...\n\n Link: https://x.com/Afinetheorem/status/2124161494073925980"
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2124010579836768572",
+          "text": "It is amazing that human language turned out to be so unreasonably effective at modeling the universe that training a system to predict what comes next in a sentence would get us this far.",
+          "createdAt": "2026-11-21T05:22:39.124Z",
+          "url": "https://x.com/emollick/status/2124010579836768572",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2123975764664066542",
+          "text": "Same thread\n\n---\n Ethan Mollick: This never gets old (& also shows how hard forecasting AI is even for AI)\n\n“Hey Claude Fable & GPT-6 Astra, Without looking anything up, when do you think we will solve the Exponential Time Hypothesis?” (I only show part of the answers for space)\n\nLink: https://x.com/emollick/status/2115066250938192118",
+          "createdAt": "2026-11-21T03:04:18.258Z",
+          "url": "https://x.com/emollick/status/2123975764664066542",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/emollick/status/2115066250938192118\nEthan Mollick: This never gets old (& also shows how hard forecasting AI is even for AI)\n\n“Hey Claude Fable & GPT-6 Astra, Without looking anything up, when do you think we will solve the Exponential Time Hypothesis?” (I only show part of the answers for space)\n\n Link: https://x.com/emollick/status/2115066250938192118"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Jeff Dean",
+      "handle": "JeffDean",
+      "bio": "Twitter @Jeff Dean",
+      "tweets": [
+        {
+          "id": "https://twitter.com/JeffDean/status/2124043983878066407",
+          "text": "I just saw the paper as a result of @martin_casado's tweet (didn't see the paper when it was originally posted in Feb). Indeed, the analysis is great and the figures really make the paper shine! Nice work, Dhruva Karkada, Daniel J. Korchinski, Andres Nava, Matthieu Wyart, and @yasamanbb! I love analyses that reveal even more about the amazing hidden structures in word embeddings.\n\nhttps://arxiv.org/pdf/2602.15029\n\n---\n Yasaman Bahri: Thank you for the high praise 🙏🏻\n\nLink: https://x.com/yasamanbb/status/2123999750630633584",
+          "createdAt": "2026-11-21T07:35:23.890Z",
+          "url": "https://x.com/JeffDean/status/2124043983878066407",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/yasamanbb/status/2123999750630633584\nYasaman Bahri: Thank you for the high praise 🙏🏻\n\n Link: https://x.com/yasamanbb/status/2123999750630633584"
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Muru",
+      "url": "https://simonwillison.net/2026/Nov/21/muru/",
+      "publishedAt": "2026-11-21T23:56:28.368Z",
+      "author": "",
+      "description": "Muru Graham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in…",
+      "content": "Muru\n\nGraham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since.\n\n Muru is his new, AI-assisted Rust server that aims to provide the best possible tools for running ASGI and WSGI Python apps both in development and production.\n\n As he did with wrapture , he's been publishing an extraordinarily detailed account of the project as he works on it - as part of his development process.\n\n Here's everything he's published so far, all in the last three weeks:\n\n 2026-11-04 — Twenty years of mod_wsgi, and what comes next\n\n 2026-11-05 — A first look at Muru\n\n 2026-11-07 — Muru: looking inside the workers\n\n 2026-11-08 — Muru: how it fits together\n\n 2026-11-09 — Muru: import once, fork many\n\n 2026-11-10 — Muru: HTTPS in development\n\n 2026-11-11 — Muru: WSGI and ASGI together\n\n 2026-11-11 — AI as a lifestyle choice\n\n 2026-11-12 — Muru: releases, not restarts\n\n 2026-11-13 — Muru: canaries without a service mesh\n\n 2026-11-14 — Muru: a better tenant in a container\n\n 2026-11-15 — Muru: working with Kubernetes, not around it\n\n 2026-11-16 — Muru: scaling from what the workers report\n\n 2026-11-17 — Muru: scaling to zero\n\n 2026-11-18 — Muru: overlays on a schedule\n\n 2026-11-19 — Muru: noticing and responding\n\n 2026-11-20 — Muru: a toolbar on every page\n\n 2026-11-21 — Muru: tracing in the toolbar\n\n That post about AI as a lifestyle choice is particularly worth a read:\n\n The AI may be doing a lot of the work on the surface, but deciding what isn't good enough yet is still down to me, and twenty years of getting things wrong with mod_wsgi turns out to be useful for that. I am prepared to put in the hard work to keep polishing Muru until it is something I would trust, and something you would too.\n\n Tags: graham-dumpleton , modwsgi , python , wsgi , ai , rust , asgi , generative-ai , llms , ai-assisted-programming"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "llm-gemini 0.38.1",
+      "url": "https://simonwillison.net/2026/Nov/20/llm-gemini/",
+      "publishedAt": "2026-11-20T03:01:57.018Z",
+      "author": "",
+      "description": "Release: llm-gemini 0.38.1 Gemini 4 Carbon only supports low, medium and high reasoning levels - but Gemini 4 Hydrogen and Gemini 4…",
+      "content": "Release: llm-gemini 0.38.1\n\n Gemini 4 Carbon only supports low , medium and high reasoning levels - but Gemini 4 Hydrogen and Gemini 4 Neon both have an extra xhigh level.\n\n I missed that when I added those models to the llm-gemini plugin, which is now fixed in this dot release.\n\n The xhigh setting for Hydrogen makes a significant difference. I updated my Gemini 4 comparison grid - note how Hydrogen at high used 5,311 output tokens and cost 3.99 cents, but the same model at xhigh used 31,477 output tokens, cost 23.61 cents, and produced a pelican that's competitive with Gemini 4 Neon:\n\n Tags: gemini , llm , llm-reasoning , pelican-riding-a-bicycle , ai , llms , google , generative-ai"
+    },
+    {
+      "source": "blog",
+      "name": "Sebastian Raschka, PhD",
+      "title": "The US-China Open-Weight Feedback Loop",
+      "url": "https://sebastianraschka.com/blog/2026/us-china-open-weight-feedback-loop.html",
+      "publishedAt": "2026-11-21T14:06:23.337Z",
+      "author": "",
+      "description": "How US and Chinese open-weight LLMs build on each other, illustrated with a timeline of architecture ideas from 2021 to 2026.",
+      "content": "How US and Chinese open-weight LLMs build on each other, illustrated with a timeline of architecture ideas from 2021 to 2026."
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery",
+      "title": "Down in DC",
+      "url": "https://stratechery.com/2026/down-in-dc/",
+      "publishedAt": "Fri, 20 Nov 2026 19:09:57 +0000",
+      "author": "Ben Thompson",
+      "description": "The best Stratechery content from the week of November 16, 2026, including obituaries and exceptionalism, arguments about agents, and Ben gets a Duo.",
+      "content": "The best Stratechery content from the week of November 16, 2026, including obituaries and exceptionalism, arguments about agents, and Ben gets a Duo.\n\n---\n\nListen to this Update in your podcast player\n\n---\n\nAndrew made the fatal mistake of getting his hopes up for the Wizards; on Sharp Text he wonders how it all went wrong. (Photo by Todd Olszewski/Getty Images)\nWelcome back to This Week in Stratechery!\n\nAs a reminder, each week, every Friday, we’re sending out this overview of content in the Stratechery bundle; highlighted links are free for everyone . Additionally, you have complete control over what we send to you. If you don’t want to receive This Week in Stratechery emails (there is no podcast), please uncheck the box in your delivery settings .\n\nOn that note, here were a few of our favorites this week.\n\nObituaries and Exceptionalism. After several days to mull the shocking departure of Jensen Huang, Ben’s article on Monday delivered an omnibus obituary for a variety of American eras that may now be ending. Tracing the decisions that made Huang great, the strategies that made him a target, the implications of his demise for the rest of the tech ecosystem, and a shift in the U.S. government’s perspective on tech companies — and specifically AI companies — to which Huang never quite adapted, Monday’s piece was both comprehensive and poignant. — Andrew Sharp\n\nArguments About Agents. Recurring Stratechery guest and advertising expert Eric Seufert is often aligned with Ben in his view of the digital advertising landscape, which is why this week’s Stratechery Interview was fun: Ben is a big believer in the potential upside in agentic commerce, while Eric has been (correctly) calling BS on a variety of hyped agentic commerce stories and trends over the past year. Both of them made their case Thursday, and it was sandwiched between thoughts on how Muse plans to monetize, why the market have misread Google’s recent earnings report, and ChatGPT’s progress building an ads business. — AS\n\nBen Gets a Duo. In the middle of a heavy week of Nvidia takes and ominous infrastructure failures, I was delighted to find out that Ben not only purchased an iPhone Duo, but loved it . Come for his review at the end of Tuesday’s Update , and then stay for his discussion with John Gruber on Tuesday’s Dithering . We doubled back (Duo’d back?) to discuss all of it at the end of this week’s Sharp Tech , including some hands-on testing, comparisons to the iPhone Air, and a variety of shots fired at the iPhone Pro. — AS\n\n---\n\nPresented by\n\nAs AI models improve, you might expect the market will consolidate around a handful of providers. But user data tells a different story.\n\nAmong OpenRouter customers spending at least $100 a month, the median number of AI model families in use has doubled over the past year , from three to six.\n\nEven as AI models become more capable, businesses are using more models, not fewer. This makes sense when you consider that intelligence isn’t one-dimensional. A model that’s exceptional at writing code may not be the fastest at answering customer questions, or the most economical at processing millions of documents.\n\nThe question is shifting from “which AI model should we build on?” to “which model should handle each task?” The answer, increasingly, is ‘it depends.’ Which is great for flexibility, less great for simplicity.\n\nOpenRouter, which recently joined Stripe , allows businesses to access and govern hundreds of models with the flexibility to optimize for cost, performance, and reliability as the market evolves.\n\nLearn more at openrouter.ai .\n\n---\n\nStratechery Articles and Updates\n\nObituaries — The demise of Jensen Huang was the end of a great many things, including Nvidia’s long-term prospects, the AI bubble, and the exceptional way in which the U.S. viewed itself in the world.\n\nApple Permissions Update, The New App Paradigm, My iPhone Duo Review — Apple doesn’t ruin the Mac, but they don’t fix the agent problem, raising questions if they can think outside the app paradigm. Then, my iPhone Duo review.\n\nNvidia Earnings; Office Convergence; OS Wars, AI Edition — Nvidia’s earnings were boring, and also a statement as to why Jensen Huang probably isn’t coming back; then, Microsoft and Anthropic ship dueling operating system updates.\n\nAn Interview With Eric Seufert About Agentic Commerce — An interview with Eric Seufert about agentic commerce, including why he thinks ads will be the answer, and why I want retailers who cater to agents.\n\nSharp Text by Andrew Sharp\n\nWizards Groundhog Day — Four more years of winter for basketball fans in Washington.\n\nDithering with Ben Thompson and Daring Fireball’s John Gruber\n\nBen Gets a Duo\n\nGTA and Windows Apps\n\nAsianometry with Jon Yu\n\nThe Rise and Fall of the Soviet Union’s Workhorse Computer\n\nTSMC Making 3D DRAM?\n\nGreatest of All Talk\n\nThe West Reigns Supreme (Again), The Micah Nori Sweepstakes, Trading Dejounte and Ice Earning Omissions\n\nSharp Tech with Andrew Sharp and Ben Thompson\n\nSubscriber Mail: Intel, Anthropic’s IPO, Machiavellian Hyperscalers, and Push Notification Tyranny\n\nJensen’s Not Coming Back, Adventures in Agentic Commerce, Q&A on United, GTA VI, iPhone Duo\n\nThis week’s Sharp Tech is on Jensen’s Not Coming Back, Adventures in Agentic Commerce, Q&A on United, GTA VI, iPhone Duo .\n\n---\n\nAdd to your podcast player: Stratechery | Sharp Tech | Dithering | Sharp China | GOAT | Asianometry\n\n---"
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery",
+      "title": "Sharp Tech on Video: Jensen’s Not Coming Back, AI Shopping, The iPhone Duo",
+      "url": "https://stratechery.com/2026/sharp-tech-on-video-jensens-not-coming-back-ai-shopping-the-iphone-duo/",
+      "publishedAt": "Fri, 20 Nov 2026 11:00:00 +0000",
+      "author": "Ben Thompson",
+      "description": "Sharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery\n\n",
+      "content": "Sharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery\n\n---\n\nListen to this Update in your podcast player\n\n---\n\nSharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery.\n\nYouTube\n\nSpotify\n\nStratechery\n\n---\n\nIn addition, on Sunday there will be a subscriber-only episode on the subscriber-only feed; this week’s topics include why Sharp Tech embraced video (and ads), Andrew’s weekly workflow, whether disruption theory still applies, LLMs as shared sources of truth, the questions surrounding AI in schools, and a follow up on last week’s question about AI notifications that highlights a real marketing challenge for AI companies.\n\nIf you haven’t yet added your subscriber feed to your podcast player, you can do so at sharptech.fm .\n\n---\n\nWe are going to send out these emails about new videos every week; if you don’t want to receive them, you can update your email preferences on Passport :\n\nHave a great weekend!\n\n---\n\nAdd to your podcast player: Stratechery | Sharp Tech | Dithering | Sharp China | GOAT | Asianometry\n\n---"
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery",
+      "title": "An Interview With Eric Seufert About Agentic Commerce",
+      "url": "https://stratechery.com/2026/an-interview-with-eric-seufert-about-agentic-commerce/",
+      "publishedAt": "Thu, 19 Nov 2026 11:00:00 +0000",
+      "author": "Ben Thompson",
+      "description": "An interview with Eric Seufert about agentic commerce, including why he thinks ads will be the answer, and why I want retailers who cater to agents.",
+      "content": "An interview with Eric Seufert about agentic commerce, including why he thinks ads will be the answer, and why I want retailers who cater to agents.\n\n---\n\nListen to this Update in your podcast player\n\n---\n\nGood morning,\n\nThis week’s Stratechery Interview is with longtime Stratechery guest Eric Seufert . Seufert is, in my opinion, the world’s pre-eminent digital advertising analyst, and Stratechery’s most frequent interview subject . Seufert writes full-time at MDM.co , and is well-worth the subscription.\n\nThis was one of my favorite interviews I’ve done with Seufert. We see eye-to-eye when it comes to digital advertising, but have some divergences when it comes to agentic commerce. Seufert is adamant that the retailers will make agents that own the experience; my experience argues that consumers will ultimately go to the retailers who welcome agents with open arms.\n\nTo that end, in this interview we discuss Seufert’s view — already vindicated! — on agentic shopping, why Amazon is an advertising behemoth across the web, the Meta versus Amazon battle, and how he defines agentic commerce — and where my personal experience disagrees. Then we get into the inevitability of ads in agents, our shared Google optimism, and the current state of OpenAI and Netflix’s ad businesses.\n\nAs a reminder, all Stratechery content, including interviews, is available as a podcast; click the link at the top of this email to add Stratechery to your podcast player.\n\nOn to the Interview:\n\nAn Interview With Eric Seufert About Agentic Commerce\n\nThis interview is lightly edited for clarity.\n\nTopics:\n\nAgentic Shopping | The Amazon Identify Layer | Muse | Defining Agentic Commerce | Ad Inevitability | Google | Advertising | ChatGPT and Netflix\n\nAgentic Shopping\n\nEric Seufert, welcome back to Stratechery. As usual, I’m preparing, I’m like, “How has so much happened in six months? We have so much to talk about” — but before we get there, I went to Mobile Dev Memo to prepare for this interview, MDM.co, is this is a rename?\n\nES: Yeah, you call it a rename, a rebrand. You know, like Prince going into the symbol, a shorter domain. That’s right.\n\nShorter domain, also, if you’re talking about advertising, I feel like using an acronym really fits the genre. So there you go.\n\nES: That’s right, apropos.\n\nWe are, I know you’ve been chomping on the bit for this, we are going to talk about agentic shopping. We’ve talked about agentic shopping for a long time. I think you in particular have been very ahead of the curve, you’ve had a very strong opinion on agentic shopping going back a year. We’ve mentioned this article before, Agentic Commerce Is a Mirage . This sort of kicked off this whole series of takes from you. I know we’ve talked about it, but given the context of Muse, of Instinct, all these things that are happening, and the fact that we’re going to spend a long time on the topic, why don’t you start from the top? This is your chance to sort of restate your case, and then we’re going to jump ahead to some of the stuff you’ve written more recently.\n\nES: Yeah, so let me set the stage on the original article, I published that September 2025. And the context of that piece was not Muse, it was not Instant Checkout, those came later, this was Amazon blocking Perplexity.\n\nNow, remember, Perplexity launched probably the OG agent. I’m sure it wasn’t the first, but maybe it was the first that got any sort of attention. And I said, “Of course they did”, why wouldn’t they? Doesn’t that serve their interests? First of all, Amazon has historically had a pretty hostile relationship with third-party browsing agents and it just kind of made sense.\n\nRight, which has always been like an eternal battle for them. Those things that stick in a coupon code or look for a comparison site, all those sorts of things.\n\nES: Yeah. And so I made the case that, of course, they would block Perplexity and of course, they would want to protect their first-party relationship with consumers, because that is the source of a lot of the commercial value that is generated by the company, because a lot of the net income is generated from advertising. So if they got disintermediated by an agent, then no one would see their ads and they would lose that source of high-margin revenue, which would be disastrous for the business.\n\nBy the way, that revenue funds a lot of other parts of the business that are really good for consumers and so if consumers lost access to those parts of the business, then they’d be worse off.\n\nIf it all went away they would have to raise prices, which would decrease volume, which would actually just make everyone unhappy.\n\nES: Yeah, exactly. In the agentic commerce outcome that some people are championing for — but I think also that the tenor of this has changed a lot in the last few months.\n\nYep, so let’s fast forward. You accurately predicted this in this context — to your credit, you had written this before ChatGPT’s commerce initiative came out, you immediately said it was going to fail. Fast forward a year, is Muse and Instinct more of the same? Give me the path from the Perplexity story to where we are today.\n\nES: (laughing) Well, so the series is on part five after a year, so there have been a number of twists and turns in the last 13 months. But what you see is Amazon very stridently digging its heels in and saying, “We will not open our platform to third-party agents, that does not serve our interests”.\n\nThere was one point — in February, Jassy had made this comment at Davos saying, “We might find a way to work with third-party agents, but it would have to make sense for us, and there’d have to be a value exchange”, and he made a similar comment in the Q1 earnings, or maybe the Q4 earnings, shortly thereafter.\n\nBut I wrote another one of the entries from the series in response to those comments and I said, “The way to do that is with ads, the value exchange is with ads”. This was actually around the same time that there were rumors that Amazon was going to invest in OpenAI, and I said, look, maybe they do invest in OpenAI — they hadn’t committed to that yet — but if they do, I bet the reason will not be because they want to orchestrate some sort of agentic commerce exchange where people can search Amazon through ChatGPT, I bet it’s so that they can insert ads into ChatGPT. And that got announced just recently , and that, I think, is really meaningful and really telling.\n\nI think there are two clues as to what form this will ultimately resolve to. One of them is this ads deal that hasn’t really taken shape yet, but we can kind of hypothesize as to what that might look like, it might just be Amazon inserting ads via its DSP into ChatGPT. But that is win-win — that’s win-win-win, actually. The consumer wins, ChatGPT wins, and Amazon wins. Amazon wins because it gets more surface area to broadcast its advertisers’ ads to.\n\nAnd as we’ve talked about, there is no bigger bullish signal for an advertising platform than increased inventory. You actually want the price-per-ad to be going down, because there’s so many more places to put it, that’s how the marketplace dynamics work for these ads, so that is a great outcome for Amazon.\n\nES: It’s a great outcome for Amazon, because they’re inventory-constrained, they’re not data-constrained, they’ve got more data than anybody else — they’re inventory-constrained and they don’t have a social surface. They’ve infamously failed to generate real traction with any sort of social product outside of maybe Twitch, and the advertising product there has not really gained too much steam.\n\nSo everyone wins, ChatGPT wins because they get more demand, so the price is going to go up. Amazon wins because they get to broadcast their advertisers’ ads elsewhere using their data, which means they’ll be very well targeted, because I would assume there’s going to be some sort of account linking — but even if there isn’t, they still get identity, we can talk about that in a second.\n\nAnd the consumer wins. Why? Previously they got no access to Amazon products in their ChatGPT conversations, now they do. Now they can discover Amazon products. And guess what? They get to discover the most relevant product. Why? Because it was priced, and it was bid against, and it was served by Amazon. That’s win, win, win.\n\nThe Amazon Identify Layer\n\nBy the way, a couple questions on this, just in passing — we’re going to continue on this thread. Whatever happened to the Amazon-Meta partnership, where you were going to be able to sign into Amazon on Meta platforms and there would be ads coming straight from Amazon? Did that just peter out completely?\n\nES: I think so, that was always a test, they did the same thing with Snap. That was the genesis of my Walled Compound idea. But the idea persists, I don’t think it went anywhere with Meta, and it didn’t go anywhere.\n\nMaybe it just makes more sense because OpenAI is a nascent ad business, so Amazon can provide them a lot more value, whereas the hurdle rate for Meta to allow someone else to advertise on the platform is extraordinarily high.\n\nES: Yeah, it’s just really high, and also keep in mind, in that partnership Amazon was going to select the ad, so Meta was effectively giving up control over what appeared in the feed. But I think what’s interesting about that idea is that it does persist.\n\nThe thing about Amazon that you have to recognize, especially in the context of agentic commerce, but even more broadly, is that Amazon is the identity layer for the Internet . It is the identity backbone for the entirety of the open Internet. That is the open Internet, it’s Amazon, it’s Amazon’s bid, it’s Amazon identity.\n\nReally? Explain this. Why is it Amazon and not Google or Facebook, which people would assume?\n\nES: Because they are walled gardens. Amazon has deterministic identity on 90% of US households. And so when you see a deal that Amazon does with Roku, with Disney+, with Netflix, with Tubi, with OpenAI, with Pinterest, the reason that those other parties are willing to allow somebody to inject demand into their bid stream, into their ecosystem, is because Amazon has the identity, they know who they are. And so when Amazon can connect that person to their data set from Amazon Prime, they’re going to target ads better than almost anyone else could.\n\nWasn’t this formerly Google’s domain? Are you saying they’re taking over what Google Networks used to be?\n\nES: Google Networks still exist, but they weren’t doing the targeting — they were effectively allowing the ads to be served, the ads would be served against cookies. But what Amazon is doing is different, because Amazon says we don’t need a cookie.\n\nBecause you’re signing into the Amazon account and linking it to that other service?\n\nES: You might be. In some cases, you are. In some cases, you aren’t. Amazon says we don’t need cookies, we don’t need device IDs in order to do that identity, we just have all these other signals that we can place the user against.\n\nFascinating.\n\nMuse\n\nLet’s go back to the question with agents. The angle from Amazon is super clear, especially the serving ads angle — they want to own the user, they want to own the relationship, they collect all the data. The angle for OpenAI makes a ton of sense, they’re building an ad business, and if Amazon can inject basically tons of money into their business by offering way better ads than they ever could, that makes total sense. But then we run into Muse. When I asked about what happened to that partnership, could it be resuscitated in this case? Right now it looks like they’re just in a face-off. What’s your take on what’s happening there?\n\nES: Here’s my take. I think that Meta internally recognizes that Muse will be monetized with ads at some point. I think if they came straight out of the gate and said, “Hey, we’ve got this totally new consumer paradigm, it’s called an agent, it does work on your behalf, and by the way, you’re going to give it a lot of infor..."
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 5,
+    "totalTweets": 9,
+    "blogPosts": 6,
+    "podcastEpisodes": 0
+  }
+}
