@@ -1,0 +1,253 @@
+{
+  "generatedAt": "2026-11-23T02:52:16.289Z",
+  "runKey": "2026-11-23",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Twitter @Tibo",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2124614364535922870",
+          "text": "RT Jimmy Lai\nIf you've upgraded your ChatGPT app in the past few days, you may have noticed that it is noticeably faster!\n\nWe basically challenged ourselves to land as many wins as possible in a week and it ended up being quite fun :)\n\nI figured I'd share some of my favorite changes!\n---\n Akshay Nathan: chatgpt app should feel much smoother. let us know where we can improve, lots more to do!\n\nLink: https://x.com/akshaynathan_/status/2123854751150625144",
+          "createdAt": "2026-11-22T20:39:00.824Z",
+          "url": "https://x.com/thsottiaux/status/2124614364535922870",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Mark Chen",
+      "handle": "markchen90",
+      "bio": "Twitter @Mark Chen",
+      "tweets": [
+        {
+          "id": "https://twitter.com/markchen90/status/2124592748099665943",
+          "text": "AI race dynamics are hard to escape when each lab writes its own safety cases and sets its own guardrails for developing more capable models.\n\nWe want frontier labs to operate under *common* limits, backed by *shared* safety cases. But the problem is we don't have a good, future-proof yardstick for AI progress that stays useful as models improve.\n\nSo we're calling on frontier AI labs to disclose the key metrics they use to track progress, and we propose perplexity as one candidate. We're taking a first step by publishing our own perplexity results over the past five years.\n\nThis is scary for us because we've long treated these numbers as sensitive IP. And we know there's still work (perhaps by 3P evaluators) to measure perplexities over the same datasets. But we hope this encourages a norm of sharing key metrics that we can build common safety cases on.\n---\n Jakub Pachocki: We decided to provide more transparency into pretraining progress at OpenAI for the sake of moving toward shared safety bars. In “Perplexity and Intelligence” I argue for common limits based on perplexity and other measurements, with progress beyond them gated on our ability to understand AI behavior.\n\nhttps://openai.com/index/perplexity-and-intelligence\n\nLink: https://x.com/merettm/status/2124549218995949967",
+          "createdAt": "2026-11-22T19:55:58.860Z",
+          "url": "https://x.com/markchen90/status/2124592748099665943",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/merettm/status/2124549218995949967\nJakub Pachocki: We decided to provide more transparency into pretraining progress at OpenAI for the sake of moving toward shared safety bars. In “Perplexity and Intelligence” I argue for common limits based on perplexity and other measurements, with progress beyond them gated on our ability to understand AI behavior.\n\nhttps://openai.com/index/perplexity-and-intelligence\n\n Link: https://x.com/merettm/status/2124549218995949967"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Greg Brockman",
+      "handle": "gdb",
+      "bio": "Twitter @Greg Brockman",
+      "tweets": [
+        {
+          "id": "https://twitter.com/gdb/status/2124582684840399311",
+          "text": "I helped start OpenAI because I want AGI to be safe and beneficial for people. This post provides transparency that can be the foundation of industry-wide shared safety bars.\n\nPerhaps the most important concept from the post is the following: \"AI will also significantly contribute to progress on alignment and monitoring, I think that progress is unlikely to be fast enough to allow the full potential acceleration in pretraining.\"\n\nTowards ensuring that safety keeps pace with general intelligence of pretrained models (as measured by \"perplexity\"), the post proposes \"common limits, based on perplexity and other measurements, that developers are committed to not crossing until our ability to understand and monitor AI behavior achieves a certain concrete milestone (such as the development of a successor to CoT monitors).\"\n\nThe general idea is to create a first shared limit, on some shared key metric, along with concrete exit criteria that would allow going beyond that. This can lead to a \"common framework for setting successive limits and pacing further development\".\n\nExcited to move forward the conversation on pacing towards shared standards that are rooted in the science!\n---\n Jakub Pachocki: We decided to provide more transparency into pretraining progress at OpenAI for the sake of moving toward shared safety bars. In “Perplexity and Intelligence” I argue for common limits based on perplexity and other measurements, with progress beyond them gated on our ability to understand AI behavior.\n\nhttps://openai.com/index/perplexity-and-intelligence\n\nLink: https://x.com/merettm/status/2124549218995949967",
+          "createdAt": "2026-11-22T19:15:59.460Z",
+          "url": "https://x.com/gdb/status/2124582684840399311",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/merettm/status/2124549218995949967\nJakub Pachocki: We decided to provide more transparency into pretraining progress at OpenAI for the sake of moving toward shared safety bars. In “Perplexity and Intelligence” I argue for common limits based on perplexity and other measurements, with progress beyond them gated on our ability to understand AI behavior.\n\nhttps://openai.com/index/perplexity-and-intelligence\n\n Link: https://x.com/merettm/status/2124549218995949967"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Noam Brown",
+      "handle": "polynoamial",
+      "bio": "Twitter @Noam Brown",
+      "tweets": [
+        {
+          "id": "https://twitter.com/polynoamial/status/2124555186043818245",
+          "text": "AI is a transformative technology that will affect everyone, so everyone deserves to know the trajectory of progress, including for internal models.\n---\n Jakub Pachocki: We decided to provide more transparency into pretraining progress at OpenAI for the sake of moving toward shared safety bars. In “Perplexity and Intelligence” I argue for common limits based on perplexity and other measurements, with progress beyond them gated on our ability to understand AI behavior.\n\nhttps://openai.com/index/perplexity-and-intelligence\n\nLink: https://x.com/merettm/status/2124549218995949967",
+          "createdAt": "2026-11-22T17:26:43.687Z",
+          "url": "https://x.com/polynoamial/status/2124555186043818245",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/merettm/status/2124549218995949967\nJakub Pachocki: We decided to provide more transparency into pretraining progress at OpenAI for the sake of moving toward shared safety bars. In “Perplexity and Intelligence” I argue for common limits based on perplexity and other measurements, with progress beyond them gated on our ability to understand AI behavior.\n\nhttps://openai.com/index/perplexity-and-intelligence\n\n Link: https://x.com/merettm/status/2124549218995949967"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Jakub Pachocki",
+      "handle": "merettm",
+      "bio": "Twitter @Jakub Pachocki",
+      "tweets": [
+        {
+          "id": "https://twitter.com/merettm/status/2124549218995949967",
+          "text": "We decided to provide more transparency into pretraining progress at OpenAI for the sake of moving toward shared safety bars. In “Perplexity and Intelligence” I argue for common limits based on perplexity and other measurements, with progress beyond them gated on our ability to understand AI behavior.\n\nhttps://openai.com/index/perplexity-and-intelligence",
+          "createdAt": "2026-11-22T17:03:00.676Z",
+          "url": "https://x.com/merettm/status/2124549218995949967",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Demis Hassabis",
+      "handle": "demishassabis",
+      "bio": "Twitter @Demis Hassabis",
+      "tweets": [
+        {
+          "id": "https://twitter.com/demishassabis/status/2124587827027378345",
+          "text": "RT Alex\nGoogle now holds the top 3 spots on the Arena text leaderboard 👀\n\n> Gemini 4 Carbon 1,527 > Gemini 4 Argon 1,520 > Gemini 4 Neon 1,513 > Meta's Muse Wonder 1,511 > Claude Opus 5.5 1,506",
+          "createdAt": "2026-11-22T13:33:43.868Z",
+          "url": "https://x.com/demishassabis/status/2124587827027378345",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/demishassabis/status/2124529285449011341",
+          "text": "RT Pranav Reddy\nGemini 4 Neon just took #1 overall on LiveBench 2.0 (87.4) beating both Claude Fable 5.2 (84.9) and GPT-6.2 Astra (84.9) by a full 2.5 points.",
+          "createdAt": "2026-11-22T05:14:31.686Z",
+          "url": "https://x.com/demishassabis/status/2124529285449011341",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/demishassabis/status/2124584231921983959",
+          "text": "RT Alex\nGoogle's Gemini 4 Neon just took #1 on the AI Chess Leaderboard ♟️\n\n> 1924 Elo with 24 wins and 2 losses\n> Claude Fable 5.2 is 9th and GPT-6.2 Astra is 10th",
+          "createdAt": "2026-11-22T04:34:53.325Z",
+          "url": "https://x.com/demishassabis/status/2124584231921983959",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Twitter @Ethan Mollick",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2124348445649768955",
+          "text": "Predictions made last MONTH (post Navier-Stokes) about when the Riemann Hypotheses would be solved:\nMetaculus: May 2035\nLEAP Superforecasters: 10% chance of additional Millennium problem being solved in 2026.\nTerrance Tao: “some combination of humans and AIs in 2050 or something\"",
+          "createdAt": "2026-11-22T03:45:12.286Z",
+          "url": "https://x.com/emollick/status/2124348445649768955",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2124342498625740988",
+          "text": "I worry that we will retreat in the face of AI ability gains, rather than pushing to make sure human work stays centered (as long as AI stays jagged) by rethinking tasks & UX.\n\nWe don't want a world where the top human tasks are to \"greet customers\" & \"keep carts clean and tidy.\"\n---\n Soumitra Shukla: Top 20 tasks with highest bottleneck pressure\n\nLink: https://x.com/soumitrashukla9/status/2124251540638863693",
+          "createdAt": "2026-11-22T03:21:34.587Z",
+          "url": "https://x.com/emollick/status/2124342498625740988",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/soumitrashukla9/status/2124251540638863693\nSoumitra Shukla: Top 20 tasks with highest bottleneck pressure\n\n Link: https://x.com/soumitrashukla9/status/2124251540638863693"
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2124335219499012430",
+          "text": "I've given my suggestions here many times,* but a new addition is Moonbound by Robin Sloan. It is weird future science fantasy, but LLM-like AIs have a central role.\n\n* Watts (worrying!), Banks, Chambers, Vinge, Douglas Adams (oddly correct about AI), Stross, Egan, etc.\n---\n Cate Hall 🔸: what is a good sci-fi book to read (or re-read) at this particular moment? Accelerando would be good if I hadn't just read it.\n\nLink: https://x.com/catehall/status/2124016988347592970",
+          "createdAt": "2026-11-22T02:52:39.630Z",
+          "url": "https://x.com/emollick/status/2124335219499012430",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/catehall/status/2124016988347592970\nCate Hall 🔸: what is a good sci-fi book to read (or re-read) at this particular moment? Accelerando would be good if I hadn't just read it.\n\n Link: https://x.com/catehall/status/2124016988347592970"
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Sebastian Raschka, PhD",
+      "title": "Pre-training is (still) not plateauing",
+      "url": "https://sebastianraschka.com/blog/2026/pretraining-is-still-not-plateauing.html",
+      "publishedAt": "2026-11-22T22:07:01.175Z",
+      "author": "",
+      "description": "OpenAI's measurements show how next-token prediction on held-out code changed from GPT-4 to GPT-4.5 and later base models.",
+      "content": "OpenAI's measurements show how next-token prediction on held-out code changed from GPT-4 to GPT-4.5 and later base models."
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Select Styling Specimens",
+      "url": "https://simonwillison.net/2026/Nov/22/select-styling/",
+      "publishedAt": "2026-11-22T19:45:06.303Z",
+      "author": "",
+      "description": "Tool: Select Styling Specimens I got frustrated at how HTML boxes default to looking different in different browsers, and…",
+      "content": "Tool: Select Styling Specimens\n\n I got frustrated at how HTML boxes default to looking different in different browsers, and are (I think) quite ugly in Chrome:\n\n So I had Claude Fable 5.2 build me this page showing all of the ways they can be styled:\n\n Build an HTML page that shows all of the ways a select box can be styled, I plan to take screenshots in every desktop and mobile browser\n\n After some experimentation I've decided my favorite CSS for select boxes is this:\n\n select {\n appearance : none ;\n color : # 1f2933 ;\n padding : 0.5 em 2.25 em 0.5 em 0.75 em ;\n border : 1 px solid # c4cbd3 ;\n border-radius : 6 px ;\n background : # fff url ( \"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 8'%3E%3Cpath d='M1 1.5l5 5 5-5' fill='none' stroke='%23667085' stroke-width='1.5'/%3E%3C/svg%3E\" ) no-repeat right 0.75 em center / 0.75 em ;\n }\n\n Here's what that looks like in the three browsers:\n\n Tags: tools , css , html"
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery",
+      "title": "Down in DC",
+      "url": "https://stratechery.com/2026/down-in-dc/",
+      "publishedAt": "Fri, 20 Nov 2026 19:09:57 +0000",
+      "author": "Ben Thompson",
+      "description": "The best Stratechery content from the week of November 16, 2026, including obituaries and exceptionalism, arguments about agents, and Ben gets a Duo.",
+      "content": "The best Stratechery content from the week of November 16, 2026, including obituaries and exceptionalism, arguments about agents, and Ben gets a Duo.\n\n---\n\nListen to this Update in your podcast player\n\n---\n\nAndrew made the fatal mistake of getting his hopes up for the Wizards; on Sharp Text he wonders how it all went wrong. (Photo by Todd Olszewski/Getty Images)\nWelcome back to This Week in Stratechery!\n\nAs a reminder, each week, every Friday, we’re sending out this overview of content in the Stratechery bundle; highlighted links are free for everyone . Additionally, you have complete control over what we send to you. If you don’t want to receive This Week in Stratechery emails (there is no podcast), please uncheck the box in your delivery settings .\n\nOn that note, here were a few of our favorites this week.\n\nObituaries and Exceptionalism. After several days to mull the shocking departure of Jensen Huang, Ben’s article on Monday delivered an omnibus obituary for a variety of American eras that may now be ending. Tracing the decisions that made Huang great, the strategies that made him a target, the implications of his demise for the rest of the tech ecosystem, and a shift in the U.S. government’s perspective on tech companies — and specifically AI companies — to which Huang never quite adapted, Monday’s piece was both comprehensive and poignant. — Andrew Sharp\n\nArguments About Agents. Recurring Stratechery guest and advertising expert Eric Seufert is often aligned with Ben in his view of the digital advertising landscape, which is why this week’s Stratechery Interview was fun: Ben is a big believer in the potential upside in agentic commerce, while Eric has been (correctly) calling BS on a variety of hyped agentic commerce stories and trends over the past year. Both of them made their case Thursday, and it was sandwiched between thoughts on how Muse plans to monetize, why the market have misread Google’s recent earnings report, and ChatGPT’s progress building an ads business. — AS\n\nBen Gets a Duo. In the middle of a heavy week of Nvidia takes and ominous infrastructure failures, I was delighted to find out that Ben not only purchased an iPhone Duo, but loved it . Come for his review at the end of Tuesday’s Update , and then stay for his discussion with John Gruber on Tuesday’s Dithering . We doubled back (Duo’d back?) to discuss all of it at the end of this week’s Sharp Tech , including some hands-on testing, comparisons to the iPhone Air, and a variety of shots fired at the iPhone Pro. — AS\n\n---\n\nPresented by\n\nAs AI models improve, you might expect the market will consolidate around a handful of providers. But user data tells a different story.\n\nAmong OpenRouter customers spending at least $100 a month, the median number of AI model families in use has doubled over the past year , from three to six.\n\nEven as AI models become more capable, businesses are using more models, not fewer. This makes sense when you consider that intelligence isn’t one-dimensional. A model that’s exceptional at writing code may not be the fastest at answering customer questions, or the most economical at processing millions of documents.\n\nThe question is shifting from “which AI model should we build on?” to “which model should handle each task?” The answer, increasingly, is ‘it depends.’ Which is great for flexibility, less great for simplicity.\n\nOpenRouter, which recently joined Stripe , allows businesses to access and govern hundreds of models with the flexibility to optimize for cost, performance, and reliability as the market evolves.\n\nLearn more at openrouter.ai .\n\n---\n\nStratechery Articles and Updates\n\nObituaries — The demise of Jensen Huang was the end of a great many things, including Nvidia’s long-term prospects, the AI bubble, and the exceptional way in which the U.S. viewed itself in the world.\n\nApple Permissions Update, The New App Paradigm, My iPhone Duo Review — Apple doesn’t ruin the Mac, but they don’t fix the agent problem, raising questions if they can think outside the app paradigm. Then, my iPhone Duo review.\n\nNvidia Earnings; Office Convergence; OS Wars, AI Edition — Nvidia’s earnings were boring, and also a statement as to why Jensen Huang probably isn’t coming back; then, Microsoft and Anthropic ship dueling operating system updates.\n\nAn Interview With Eric Seufert About Agentic Commerce — An interview with Eric Seufert about agentic commerce, including why he thinks ads will be the answer, and why I want retailers who cater to agents.\n\nSharp Text by Andrew Sharp\n\nWizards Groundhog Day — Four more years of winter for basketball fans in Washington.\n\nDithering with Ben Thompson and Daring Fireball’s John Gruber\n\nBen Gets a Duo\n\nGTA and Windows Apps\n\nAsianometry with Jon Yu\n\nThe Rise and Fall of the Soviet Union’s Workhorse Computer\n\nTSMC Making 3D DRAM?\n\nGreatest of All Talk\n\nThe West Reigns Supreme (Again), The Micah Nori Sweepstakes, Trading Dejounte and Ice Earning Omissions\n\nSharp Tech with Andrew Sharp and Ben Thompson\n\nSubscriber Mail: Intel, Anthropic’s IPO, Machiavellian Hyperscalers, and Push Notification Tyranny\n\nJensen’s Not Coming Back, Adventures in Agentic Commerce, Q&A on United, GTA VI, iPhone Duo\n\nThis week’s Sharp Tech is on Jensen’s Not Coming Back, Adventures in Agentic Commerce, Q&A on United, GTA VI, iPhone Duo .\n\n---\n\nAdd to your podcast player: Stratechery | Sharp Tech | Dithering | Sharp China | GOAT | Asianometry\n\n---"
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery",
+      "title": "Sharp Tech on Video: Jensen’s Not Coming Back, AI Shopping, The iPhone Duo",
+      "url": "https://stratechery.com/2026/sharp-tech-on-video-jensens-not-coming-back-ai-shopping-the-iphone-duo/",
+      "publishedAt": "Fri, 20 Nov 2026 11:00:00 +0000",
+      "author": "Ben Thompson",
+      "description": "Sharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery\n\n",
+      "content": "Sharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery\n\n---\n\nListen to this Update in your podcast player\n\n---\n\nSharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery.\n\nYouTube\n\nSpotify\n\nStratechery\n\n---\n\nIn addition, on Sunday there will be a subscriber-only episode on the subscriber-only feed; this week’s topics include why Sharp Tech embraced video (and ads), Andrew’s weekly workflow, whether disruption theory still applies, LLMs as shared sources of truth, the questions surrounding AI in schools, and a follow up on last week’s question about AI notifications that highlights a real marketing challenge for AI companies.\n\nIf you haven’t yet added your subscriber feed to your podcast player, you can do so at sharptech.fm .\n\n---\n\nWe are going to send out these emails about new videos every week; if you don’t want to receive them, you can update your email preferences on Passport :\n\nHave a great weekend!\n\n---\n\nAdd to your podcast player: Stratechery | Sharp Tech | Dithering | Sharp China | GOAT | Asianometry\n\n---"
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 7,
+    "totalTweets": 11,
+    "blogPosts": 4,
+    "podcastEpisodes": 0
+  }
+}
