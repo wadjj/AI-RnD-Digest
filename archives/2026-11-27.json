@@ -1,0 +1,191 @@
+{
+  "generatedAt": "2026-11-27T04:17:28.064Z",
+  "runKey": "2026-11-27",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Greg Brockman",
+      "handle": "gdb",
+      "bio": "President & Co-Founder @OpenAI",
+      "tweets": [
+        {
+          "id": "https://twitter.com/gdb/status/2126017271114195036",
+          "text": "GPT-6.2 for interactive lessons for history class:\n---\n VraserX e/acc: I built an entire interactive WWI lesson for my 10th graders with GPT-6.2 Astra.\n\nThey can walk through a 3D trench on their phones, examine objects in a dugout, and use historical sources to piece together what life was like on the Western Front.\n\nhttps://westfront-1916.vraserx.chatgpt.site/\n\nLink: https://x.com/VraserX/status/2125881278037938439",
+          "createdAt": "2026-11-26T18:16:31.083Z",
+          "url": "https://x.com/gdb/status/2126017271114195036",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/VraserX/status/2125881278037938439\nVraserX e/acc: I built an entire interactive WWI lesson for my 10th graders with GPT-6.2 Astra.\n\nThey can walk through a 3D trench on their phones, examine objects in a dugout, and use historical sources to piece together what life was like on the Western Front.\n\nhttps://westfront-1916.vraserx.chatgpt.site/\n\n Link: https://x.com/VraserX/status/2125881278037938439"
+        },
+        {
+          "id": "https://twitter.com/gdb/status/2125831567981297892",
+          "text": "towards more deeply understanding the universe\n---\n roon: ven chandrasekaran’s proposal for a quantum theory of vacuum gravity in 4d\n\nhttps://arxiv.org/abs/2611.34924\n\nLink: https://x.com/tszzl/status/2125809711509336342",
+          "createdAt": "2026-11-26T05:58:36.517Z",
+          "url": "https://x.com/gdb/status/2125831567981297892",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/tszzl/status/2125809711509336342\nroon: ven chandrasekaran’s proposal for a quantum theory of vacuum gravity in 4d\n\nhttps://arxiv.org/abs/2611.34924\n\n Link: https://x.com/tszzl/status/2125809711509336342"
+        },
+        {
+          "id": "https://twitter.com/gdb/status/2125824585027272727",
+          "text": "Private Inference — confidential computing, with strict controls over prompts and responses while they're being processed by a model, is now in testing:\n---\n Sam Altman: We’re now testing Private Inference, our latest offering as part of OpenAI Private Intelligence, with a small group of customers.\n\nStronger privacy protections will make frontier AI useful for a lot more work, and business privacy is important for a healthy ecosystem. Reach out to @shekar4x if interested!\n\n(Also, ZDR with Private Safety Processing enables automated safety reviews without giving OpenAI personnel access to the underlying content.)\n\nLink: https://x.com/sama/status/2125638790593274259",
+          "createdAt": "2026-11-26T05:30:51.493Z",
+          "url": "https://x.com/gdb/status/2125824585027272727",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/sama/status/2125638790593274259\nSam Altman: We’re now testing Private Inference, our latest offering as part of OpenAI Private Intelligence, with a small group of customers.\n\nStronger privacy protections will make frontier AI useful for a lot more work, and business privacy is important for a healthy ecosystem. Reach out to @shekar4x if interested!\n\n(Also, ZDR with Private Safety Processing enables automated safety reviews without giving OpenAI personnel access to the underlying content.)\n\n Link: https://x.com/sama/status/2125638790593274259"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Tibo",
+      "handle": "thsottiaux",
+      "bio": "Codex & ChatGPT @OpenAI",
+      "tweets": [
+        {
+          "id": "https://twitter.com/thsottiaux/status/2125853628250599730",
+          "text": "Banked reset is online",
+          "createdAt": "2026-11-26T07:26:16.343Z",
+          "url": "https://x.com/thsottiaux/status/2125853628250599730",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Professor @Wharton studying AI. New book, Co-Existence, is out now: https://t.co/hsDYf1xU9K My Substack: https://t.co/UIBhxu4bgq",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2125831416491692310",
+          "text": "Microsoft is such an interesting case. One part on the frontier of AI, to the point where the CEO of AI is warning of the threshold we are crossing, while much of the rest of the organization is the torchbearer for the “AI is a just a normal technology like any other” camp.\n---\n Mustafa Suleyman: We are crossing a threshold. Safety and alignment work is the only thing that matters.\n\nLink: https://x.com/mustafasuleyman/status/2125446171909136630",
+          "createdAt": "2026-11-26T05:58:00.352Z",
+          "url": "https://x.com/emollick/status/2125831416491692310",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/mustafasuleyman/status/2125446171909136630\nMustafa Suleyman: We are crossing a threshold. Safety and alignment work is the only thing that matters.\n\n Link: https://x.com/mustafasuleyman/status/2125446171909136630"
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2125812805534183923",
+          "text": "Model names and numbers have never been less useful in determining ability levels. In part this is because the names are more confusing (neon or carbon) and partly because the numbering is not indicative of model families or progress anymore (eg Astra 6.2 vs. 6, Opus 5.5 vs. 5)",
+          "createdAt": "2026-11-26T04:44:03.469Z",
+          "url": "https://x.com/emollick/status/2125812805534183923",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Yi Tay",
+      "handle": "YiTayML",
+      "bio": "research scientist @googledeepmind ✨♊",
+      "tweets": [
+        {
+          "id": "https://twitter.com/YiTayML/status/2125814365412786299",
+          "text": "Wow this is great advice.\n---\n Vox: Left speechless from this advice from Gemini 4 Neon\n\nLink: https://x.com/Voxyz_ai/status/2125591320341229890",
+          "createdAt": "2026-11-26T04:50:15.080Z",
+          "url": "https://x.com/YiTayML/status/2125814365412786299",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/Voxyz_ai/status/2125591320341229890\nVox: Left speechless from this advice from Gemini 4 Neon\n\n Link: https://x.com/Voxyz_ai/status/2125591320341229890"
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "Quoting Jack Despain Zhou",
+      "url": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
+      "publishedAt": "2026-11-26T15:09:31.357Z",
+      "author": "",
+      "description": "Among the many already existing effects of AI has been a great de-individualization. I open a YouTube video, and I hear Claude. I sit in a…",
+      "content": "Among the many already existing effects of AI has been a great de-individualization. I open a YouTube video, and I hear Claude. I sit in a conference presentation, and I hear Claude. I open my email inbox, and I find pitches and articles from ostensibly serious people with ostensibly serious credentials attached to ostensibly serious institutions who want to publish things attached to their reputations and mine, and I see Claude .\n\n — Jack Despain Zhou , Spitting in the Face of Glaude\n\n Tags: ai-misuse , claude , generative-ai , ai , llms"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
+      "url": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/",
+      "publishedAt": "2026-11-26T06:08:25.951Z",
+      "author": "",
+      "description": "sqlite3_rsync: Database Remote-Copy Tool For SQLite This additional SQLite tool has been around for a while now - it was added as…",
+      "content": "sqlite3_rsync: Database Remote-Copy Tool For SQLite\n\nThis additional SQLite tool has been around for a while now - it was added as \"experimental\" in SQLite 3.47.0 in October 2024 and enhanced in SQLite 3.50.0 in May 2025 . It was only today that I understood one of its most attractive characteristics.\n\n Normally, if you want to grab a snapshot copy of a SQLite database, you need to use either the backup API or VACUUM INTO . In both cases you need enough disk space to create a duplicate copy of your database, so if you're on a small instance and you already use more than half of the available disk you are plain out of luck.\n\n sqlite3_rsync can copy a snapshot of your database over an SSH connection to another machine, without first needing to create a full local copy!\n\n It's also good for synchronizing an existing copy of a database without re-transmitting the entire thing over the network. It works in a similar way to regular rsync:\n\n The core idea behind the protocol is that the replica sends cryptographic hashes for pages or groups of pages over to the origin side. The origin sends back page content that differs, or requests finer-grain hashes if a multi-page hash does not match. If the origin and replica start out being vastly different, the total network bandwidth can exceed the size of the entire database, due to the overhead of exchanging hashes, but the excess bandwidth is not great - a few percent at most.\n\n Update : Hah! Turns out I wrote about this application of sqlite_rsync back in October 2024 when the tool was first released.\n\n Tags: backups , sqlite"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "url": "https://simonwillison.net/2026/Nov/26/hn-50651685/",
+      "publishedAt": "2026-11-26T05:08:46.590Z",
+      "author": "",
+      "description": "My comment on The New York Times warns photographers not to update Photoshop over AI features — Hacker News. I had a NYT photographer take my…",
+      "content": "My comment on The New York Times warns photographers not to update Photoshop over AI features — Hacker News.\n I had a NYT photographer take my picture at my home earlier this year (for a story about Moltbook, oddly enough). At one point I asked if they could fix things up if I had a stain on my shirt and they said absolutely not - they present photographs as they were taken, with cropping and balancing applied but no edits beyond that.\n\n He did spend a bunch of time trying to find the best possible natural lighting for the shots he wanted.\n\n The photo at the top of https://www.nytimes.com/2026/02/02/technology/moltbook-ai-so... is my laptop, taken in my garden, after hunting around for the best spot that didn't have too much glare on the screen. You can see how dirty my screen is, too!\n\n Photography for a newspaper is photo journalism, and they take it seriously.\n\n (Thankfully I did not have a visible stain on my shirt.)\n\n Tags: photography , new-york-times , hacker-news , journalism"
+    },
+    {
+      "source": "blog",
+      "name": "The Rundown AI",
+      "title": "Your AI cheat sheet for Thanksgiving dinner",
+      "url": "https://therundownai.beehiiv.com/p/your-ai-cheat-sheet-for-thanksgiving-dinner",
+      "publishedAt": "2026-11-26T11:00:00.547Z",
+      "author": "Zach Mink",
+      "description": "Read Online | Sign Up | Advertise Good morning, {{ first_name | AI enthusiasts }}, and welcome to our 4,638 new readers. Thanksgiving is here…",
+      "content": "Read Online | Sign Up | Advertise\n\n Good morning, {{ first_name | AI enthusiasts }}, and welcome to our 4,638 new readers. Thanksgiving is here, and for many of us, that means plenty of catching up around the dinner table. If the conversation goes anything like the news cycle, AI may be a main course.\n\nLast year, that might’ve meant explaining ChatGPT to a relative. This year, the questions are about the Chinese spy saga, everything being hacked, data centers, and more. Choose your seat wisely!\n\n---\n In today’s AI rundown:\n Your AI cheat sheet for Thanksgiving dinner\n\n What five cents builds now with AI\n\n Check Black Friday prices with Gemini Tasks\n\n Anthropic CEO claps back at Axios ‘free will’ report\n\n LATEST DEVELOPMENTS\n\n AI & THE HOLIDAYS\n 🦃  Your AI cheat sheet for Thanksgiving dinner\n Image source: Images 2.6 / The Rundown\n\n The Rundown: AI is probably going to come up in discussion around the table during the holidays, and this month provided plenty of material. Here’s your cheat sheet for some of the questions most likely to get dished out, with explanations to help you feel like the AI expert in the room.\n Q: What’s going on with Nvidia and Jensen Huang? Was he really having an affair with a spy?\n A: Jensen was out, and now he’s back, with some lobbying from the President playing a role. Nvidia’s stock saw $1T in value added on his return, and lawmakers are furious — and ready to hold his feet to the fire in hearings starting on Dec. 3.\n As for his affair with Alice Huang, her spy ties are looking less clear by the day. Despite early reporting, U.S. officials reportedly have no proof she was told to pry secrets from Jensen, though she was in touch with Chinese intelligence. The bigger issue is chips: investigators suspect her old firm Megaspeed helped Nvidia hardware slip into China, and the U.S. blacklisted it Monday.\n Q: Why does it feel like everything’s getting hacked or breaking lately? Is AI to blame?\n A: Sort of — but it’s also the solution. AI is now extremely adept at finding bugs that sat unnoticed in everyday software for a decade or more. The code behind much of the web, including critical software and infrastructure, is not as safe as we once thought, and defenders are racing (with their own AI) to find and patch the holes.\n Unfortunately, expect more chaos, as more AI-exposed vulnerabilities seem inevitable at this point.\n Q: Did AI really solve some famous math problem?\n A: Yes, many of them. Anthropic, OpenAI, Google, and others are all letting AI loose on the math world, solving open problems in the field left and right and igniting a firestorm between mathematicians and the AI labs.\n The biggest: Anthropic’s Levent Alpöge claimed last week that he and Claude solved the Riemann Hypothesis, a $1M Millennium Prize problem considered the most famous open problem in mathematics. Also historic was OpenAI's Navier-Stokes solution in September and its release of 700+ AI-written math papers in October.\n\n TOGETHER WITH STRIPE\n 🔎  23,000 startups, three clear shifts\n\n The Rundown: 2025 startups on Stripe Atlas' median six-month revenue rose 39% versus 2024.\n Here’s how:\n Faster customers: 20% took payments within 30 days\n\n Selling globally from day one: Top 10% reached 15 countries within six months\n\n AI agent focus: 42% of new C corps build AI products, especially agents\n\n Get the report .\n\n NATE’S NOTEBOOK\n 🪙  What five cents builds now with AI\n\n The Rundown: Each week, Rundown AI educator Nate Grahek breaks down what he's seeing while teaching real teams to use AI.\n Nate: Live sports is the one place we all still sit through loud, annoying ads. My wife yells, “God, turn it down,” and I’m digging for the remote. One Saturday, it hit me: I could take a picture every second of what’s on my TV. If my Mac could look at each one and answer one question — game or ad — the TV could mute itself.\n My brain said no way. I ran a software company for photographers, and we hosted terabytes of their images. A freeze frame every second of a three-hour game? I figured $10 or $20 a game, fine for a funny proof of concept.\n It took under 30 minutes to build. It was 95% accurate on the first try. The cost? 5 cents a game.\n Then the snowball started. Once it could mute the ads, I thought about what I do during them: grab my phone and scroll for funny posts to send my buddies. So those went up on the TV. Then I swapped my feed for agents reading the top channels across every network, putting the best 20 posts on screen for the whole family to laugh at. I even swapped the TV announcers for the radio broadcast.\n Advertisers are not ready for this.\n My experience is my biggest asset, and it’s also my biggest blind spot: I keep assuming complexity and costs that aren’t there. Before you scope version one of anything, ask AI, “What am I assuming is too hard or too expensive to try?”\n Developers, I get it: you don’t have the freedom to experiment at work. So pick a silly, almost disposable project and spend $200 blowing through a Fable limit this weekend just to see what happens.\n\n AI TRAINING\n 🏷️ Check Black Friday prices with Gemini Tasks\n\n The Rundown: In this guide, you’ll use Tasks in Gemini to check the price of one thing you want to buy this Black Friday week. Gemini compares six stores in one table, looks into whether the discount is real, and checks again every day until a date you choose.\n Step-by-step:\n Go to Gemini on the web or app, sign in with your personal Google Account, and select Task. If you can choose a model, pick Hydrogen, the one free accounts use\n\n Paste the guide's price prompt with your own product and stores, and keep limits: “Use web search only, not this computer or my browser,” no sign-in or purchase\n\n Open the lowest link, then the lowest one where the store itself is the seller. Check the model, that it's new, who sells it, the price with shipping, and the return window\n\n In the same chat, ask: “Is [price] a real discount? Tell me the list price, the lowest price you can find evidence for before this month, and where each number comes from. Use web search only”\n\n If you can wait, ask Gemini to check the same stores every day until December 1 and to tell you only if the price drops below yours\n\n Pro tip: Put your limits in the first message: the exact model, which stores, who must be the seller, and what Gemini must not touch. Then open the store's page before you pay.\n\n PRESENTED BY PIGMENT\n 🎮 How Supercell turned finance into a game\n\n The Rundown: Supercell's finance team turned revenue and EBITDA into something colleagues line up to explore. On Dec 10, Pigment reveals how, with AI agents that build models and run analysis for finance, supply chain, sales, and beyond.\n This live session covers:\n Behind the scenes of Supercell's finance team\n\n How AI agents build models and run analysis from a prompt\n\n A new Pigment launch, revealed for the first time\n\n Save your seat for Dec. 10 .\n\n DARIO AMODEI\n ✍️ Anthropic CEO claps back at Axios ‘free will’ report\n Image source: Dario Amodei on X\n\n The Rundown: Anthropic CEO Dario Amodei responded to an Axios report tying him and his staff to the idea of letting superintelligent AI make some of humanity's decisions, calling it “absurd” and accusing rivals of “vibes-based” positioning on human control.\n The details:\n Axios said some Anthropic staffers back letting superintelligent AI make certain decisions, also pointing to an old slide pitching a “utopia ruled by god in a box.”\n\n Meta's Alexandr Wang publicly rejected a “handover” to AI, and Sam Altman said this month that he wants people “to have the agency over the future.”\n\n Amodei answered on X that turning governance over to AI is a “terrible idea,” comparing it to trading democracy for the speed autocrats promise.\n\n He also said rivals touting “human control and agency” sell similar tools, while only Anthropic has taken a stand on issues like autonomous weapons use.\n\n Why it matters: Anthropic has long paired its safety-first reputation with treating Claude as more than a tool, so it's no shock that some staff are open to AI taking over certain decisions, whatever Amodei says. Insiders could be sounding an alarm over that view, but they've also handed rivals a headline-grabbing talking point against the AI leader.\n\n QUICK HITS\n\n COMMUNITY AI WORKFLOW OF THE DAY\n ▸ Ben built an accessibility gatekeeper for Claude Code\n Today’s workflow comes from reader Ben McOsker :\n “I built a workflow that turns my brand's colors and fonts into website building blocks that people using screen readers, keyboards, larger text, or high contrast can use with ease. AI does the building, and an automated checker decides whether the work ships.\n Before anything is built, Claude writes a short brief. Claude Code builds from the brief, the way a contractor builds from blueprints. Automated checks run every time Claude finishes something, before I look at it. If anything fails, the work is blocked. Claude gets a report showing exactly what failed and why. It fixes the problem and submits again. Only work that passes every check gets in. There's no override button, not even for me.\n The result is a free, open-source tool. Give it your brand's colors and fonts, and it produces 18 ready-to-use building blocks, each accessibility-checked and shown in a live showroom with instructions.”\n See the workflow on our Community Workflow Hub →\n\n---\n How do you use AI? Tell us for a chance to be featured in the newsletter.\n\n 🛠️ Trending AI Tools\n 🖥️ Install as App - Claude beta that installs artifacts as Mac and PC apps\n\n 🧪  Gemini 4 Neon - Google's powerful new mid-tier model\n\n 🚢  Claude Ship - Anthropic's agents that review code and approve routine fixes\n\n 🤑  ChatGPT for Sales - Seller toolkit to plug ChatGPT into Salesforce, HubSpot\n\n 📰  Everything else in AI today\n OpenAI   published research showing its GPT-6 class models can invent new proteins with just reasoning and code, matching or beating biology-specific AI models.\n Thariq Shihipar , formerly one of the most visible members of the Claude Code team, announced he is joining OpenAI, a month after departing Anthropic.\n 16-year-old student researcher Cinna Davis   said she solved 100+ open math conjectures using GPT-6.2 Astra, with the proofs posted to GitHub but not yet verified.\n OpenAI   released nine more AI-written math papers to GitHub, including a claimed proof that settles how fast computers can ever multiply big grids of numbers, with Google also posting six new math papers from Cogentic, its Gemini 4-powered research agent.\n Meta is negotiating with Amazon to lift the September ban on its Muse agent, with Amazon worried the assistant will route shoppers around its $68.6B ad business.\n\n 🎓 Highlights: News, Guides & Events\n Read our last AI newsletter: Three xAI founders want AI to predict the future\n\n Read our last Tech newsletter: Cybersecurity gets a $44B merger\n\n Read our last Robotics newsletter: Nvidia’s robot king returns\n\n Today’s AI tool guide: Check Black Friday prices with Gemini Tasks\n\n RSVP to Nov. 30 workshop with Nate: Catch up on a year of AI in 90 minutes\n\n See you soon,\n Rowan, Zach, Shubham, Jennifer, and Nate — the humans behind The Rundown"
+    },
+    {
+      "source": "blog",
+      "name": "Stratechery",
+      "title": "The Individual Exception",
+      "url": "https://stratechery.com/2026/the-individual-exception/",
+      "publishedAt": "Tue, 24 Nov 2026 11:00:00 +0000",
+      "author": "Ben Thompson",
+      "description": "Jensen Huang has been granted an exception from managerial oversight; in the age of AI, he won't be the last.",
+      "content": "Jensen Huang has been granted an exception from managerial oversight; in the age of AI, he won't be the last.\n\n---\n\nListen to this Update in your podcast player\n\n---\n\nSince Thursday:\n\nI have created a Sharp Studio service application that manages all of the Sharp Tech studio cameras, lights, mixer, and various other devices. That service can be accessed by a Windows app on the studio PC, an iPhone app, a web app, or an Elgato Stream Deck; every device in the room needed to record an episode is fully remote controlled.\n\nI have created multiple single-use iOS apps for cataloguing and measuring items and designed and 3D-printed a measurement rig. I have also designed and purchased the items for several dedicated hardware devices, including a device for direct interaction with an agent, and dedicated display devices for the studio.\n\nI have created a full-fledged iOS app (designed for the Duo, but it works on regular iPhones) for accessing the various computers I manage; it works across screen sharing, terminals, and KVM switches. It works on Mac, Linux, and Windows. I honestly think it’s the best screen sharing client ever made. I already use it daily.\n\nAlong the way I created a small harness for my agent such that it not only choreographs subagents, but also farms out work to various computers I own, depending on the load: a Mac for iOS development, a gaming PC for GPU-related work, and a Linux server for everything else. That work is tracked on a custom status board that runs on every TV in my house, as an iOS app, and as a Telegram bot.\n\nAll of this would have taken teams of people weeks of work, if not months, just a few years ago; I, however, have AI. It only takes an individual.\n\nThe Deflationary Employee\n\nThe largest company of the 1950s, as measured by market capitalization, was AT&T; in 1959 it had revenue of $7.54 billion and a market cap of $17.1 billion. It had 729,000 employees. In inflation-adjusted terms that’s revenue of $87.5 billion and a market cap of $198.4 billion; we don’t apply inflation to employees.\n\nOr, maybe we do, but in the other direction: what has been striking about the most valuable companies in the world is how their employee numbers have deflated , even as their revenue and market cap have exploded. All dollar numbers in this table are inflation-adjusted to today:\n\nDecade\nCompany\nYear\nReal revenue\nEmployees\nReal market cap\n\n1950s\nAT&T\n1959\n$87.5B\n729,000\n$198.4B\n\n1960s\nAT&T\n1969\n$147.8B\n~1,000,000\n$245.6B\n\n1970s\nIBM\n1979\n$106.3B\n337,119\n$174.8B\n\n1980s\nIBM\n1989\n$170.6B\n383,220\n$148.5B\n\n1990s\nGeneral Electric\n1999\n$226.6B\n340,000\n$1.03T\n\n2000s\nExxonMobil\n2008\n$749.5B\n104,700\n$637.6B\n\n2010s\nApple\n2018\n$355.9B\n132,000\n$1.00T\n\n2020s\nApple\n2026\n$478.8B\n167,000\n$5.07T\n\nThe deflation is even more extreme if you consider two of the seminal AI companies, Nvidia and Anthropic:\n\nDecade\nCompany\nYear\nReal revenue\nEmployees\nReal market cap\n\n2020s\nNvidia\n2026\n$361.8B\n42,000\n$3.99T\n\n2020s\nAnthropic\n2026\n$35.3B\n5,300\n$1.17T\n\nThis translates into a stunning rise in revenue/employee and market cap/employee — note that this graph is a logarithmic scale:\n\nAnd yet, even this chart, which pegs the market cap/employee of Nvidia at $95 million, doesn’t come close to what the market decided one particular Nvidia employee is worth:\n\nAs ChatGPT, which helped me make these charts, helpfully noted:\n\nNvidia gained nearly $1 trillion in market capitalization following Jensen Huang’s reinstatement as CEO. That gain alone exceeds the entire inflation-adjusted market capitalization of ExxonMobil in 2008 ($638 billion).\n\nIt only takes an individual.\n\nThe Huang Odyssey\n\nTo describe the two-week odyssey of Nvidia’s then-and-now-CEO Jensen Huang as surreal is an understatement; what you can’t argue, however, is that it was unprecedented: it was only three Thanksgivings ago that Sam Altman was deposed and reinstated as OpenAI CEO over the very same weekend (two Max Verstappen Las Vegas Grand Prix wins, I might note).\n\nThat said, I didn’t think that this episode would end the same way, and said as much on Sharp Tech : whereas Altman was taken out by a somewhat ham-fisted internal coup and restored through pressure from the private company’s investors and employees, Huang appeared to be targeted by a much more systemic campaign by powerful actors leveraging the media and barely disguised insinuations of malfeasance to leave the Nvidia board with no choice but to act. And, to be sure, Huang gave his enemies plenty of ammunition; I’ve invoked the phrase “Show me the man and I’ll show you the crime” over the past few weeks, but it’s worth acknowledging that Huang basically asked his critics, “Which one?”, at least as far as his sexual proclivities were concerned.\n\nAt the same time, it sure seemed like no one cared about Huang’s affairs, including those with subordinates; the real crime appeared to be Huang’s resolute advocacy for selling chips to China, his refusal to do any more than the bare minimum to abide by export control rules, and, his most ardent critics allege, turning a blind eye towards actual smuggling.\n\nI’m not here, today at least, to litigate these accusations; I covered much of it in last week’s Article Obituaries (alternate title for today: Resurrections ). And, more broadly, this isn’t an Article focused on normative analysis; Huang’s Chinese interactions are going to be investigated by a Democratic Congress empowered by the anti-AI wave at the ballot box, and his personal moral failings would, for nearly any other executive, leave no question about the inevitability of their early retirement.\n\nRather, I am struck by the extent to which Huang is, quite obviously, not any other executive, and how his reinstatement is the apotheosis of how tech is transforming business, just as AI is the apotheosis of information technology. It only takes an individual.\n\nThe End of Managerialism\n\nIn 1941, James Burnham, a former Trotskyist, wrote The Managerial Revolution , where he argued that the increasing complexity of industrial society, what with its massive returns to scale, technological complexity, and enmeshment with government, would increasingly divide owners of the means of production from the managerial class that actually controlled society. In this view Soviet communism, German fascism, and American New Dealism were all heads of the same hydra, different ideologies justifying the same inevitable structural transformation of society from individualism and entrepreneurship to corporatism and bureaucracy.\n\nOver the ensuing 85 years, it’s hard to argue that Burnham didn’t have a point, and for the last 10 days, it appeared as if the managerial state — the blob, to use Washington D.C.’s terms, or the deep state, to use its opponents’ — had slain arguably the single greatest challenge to Burnham’s thesis. Huang was explicit about the fact that Nvidia was designed as a vehicle for a singular individual — Huang — to enact his vision for the future of computing. This is a long excerpt, but I think an important one, from the Stratechery Interview with Tae Kim about his book The Nvidia Way :\n\nSo if this analogy is correct, the Apple one, does this make you more optimistic or less optimistic about Nvidia in a post-Jensen world, whenever that arrives? Another analogy that Jensen’s talked about, “It’s we, not I”, and that’s a very Apple-like thing too, famously not saying who did what. But the net result is that just meant Steve Jobs got credited for everything and there’s a bit now, “Well, Jensen Huang gets credited for everything”, but then you’re almost making the case, “Well actually, that’s probably deserved”. Then again, Apple, at least financially, has done very well in this post-Steve Jobs era, and yet when you are listing companies that Nvidia employees go to when they feel like they don’t fit in, you said Apple, and maybe they would’ve felt differently fifteen years ago. What’s your view going forward?\n\nTK: Financially, I agree with you, but if you take a step back, what has Apple created in terms of innovation? They’re just so far behind in everything and they’re running on this platform that Steve Jobs laid the foundation and created, there isn’t really anything new. The Apple Car kind of fell apart, they’re nowhere in AI. So, yes, the Apple iPhone is this amazing platform that Tim Cook’s been able to shepherd and make hundreds of billions of dollars, etc., but in terms of actual technology innovations, I think it’s hard-pressed to say that Apple has really innovated.\n\nBut in a similar vein with Nvidia, if say Jensen disappears tomorrow and decides to retire, which is not going to happen because he loves Nvidia, but say that he does, I don’t know, Jensen is so ingrained. Part of why Nvidia is so able to do what it does is that he is so ingrained and has his finger on the pulse of everything that happens in the company…\n\nHe’s fashioned Nvidia. Nvidia, it’s like an exoskeleton for him.\n\nTK: That exact analogy, he says he built Nvidia, where he’s like the race car driver of a Formula One car. He literally says that, like, “I built Nvidia in a way where I could drive it, and manage it, and steer it perfectly”. So, without Jensen there, do I see another CEO that’s reading 100 top-five emails a day, that is looking at all the AI discussion email lists inside a company, trading AI papers with his top engineers? I don’t know. I’ve met all the top Nvidia people, they’re all impressive, but they’re not on the Jensen level.\n\nIt goes back to the functional organization bit. You get a bunch of people who are absolute best in their field and so you, as the person in the center that is involved in everything, has awareness of everything, gets to direct the best possible resource at every sort of opportunity. But that, by definition, means there isn’t space in the organization for other generalists, right?\n\nThis was a thing at Apple, again just to go back to that analogy. And again, this was fifteen years ago, when Steve Jobs was still there so probably a bit of a different world. But there was a very sort of stern, “This is not the place for generalists”, like, “You come here to be a specialist, if you get a job here, you should expect you’ll never have a different job because we want you to be the best at what you do, we’re not interested in multiple experiences across business units and things along those lines”. But that works when it’s all flowing up to one node that is the ultimate generalist that has the view and understanding of everything and it’s incredibly effective. But yeah, it’s not good for succession planning, it makes it pretty tough.\n\nAnd yet, despite Nvidia’s reliance on Huang, the board and the powers that be decided he had to go, in direct opposition to the preferences of Nvidia’s nominal owners, i.e. shareholders. And, like I said, I thought they had succeeded; tech may have made it increasingly possible for a dwindling number of employees to deliver outsized revenue and valuations, but ultimately any individual would be deemed expendable, particularly in the face of a coordinated media campaign and the opposition of the national security apparatus.\n\nBut I was wrong. And, ultimately, even if you think what happened this weekend was wrong — including President Trump calling into an Nvidia board meeting to press for Huang’s reinstatement — this moment does strike me as both unique in terms of the clear exception that Huang has obviously been deemed to be (and not without merit), and also a harbinger of the future. It only takes an individual.\n\nThe Bimodal Distribution\n\nThe world is, make no mistake, growing more complex. The tools we have to master that complexity, however, are not just improving, they actually thrive on complexity. When I’m trying to teach someone how to use AI, one of my first pieces of advice is to talk more (and yes, talking is better than typing); you can’t overwhelm the AI with information, it’s dealing in information at an unimaginable scale...."
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 4,
+    "totalTweets": 7,
+    "blogPosts": 5,
+    "podcastEpisodes": 0
+  }
+}
