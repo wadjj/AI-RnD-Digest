@@ -1,0 +1,151 @@
+{
+  "generatedAt": "2026-11-28T03:57:36.633Z",
+  "runKey": "2026-11-28",
+  "source": {
+    "provider": "folo",
+    "listId": "1146999533868023808",
+    "listTitle": "AITrendPush Sources"
+  },
+  "lookbackHours": {
+    "x": 24,
+    "blogs": 72,
+    "podcasts": 336
+  },
+  "x": [
+    {
+      "source": "x",
+      "name": "Ethan Mollick",
+      "handle": "emollick",
+      "bio": "Professor @Wharton studying AI. New book, Co-Existence, is out now: https://t.co/hsDYf1xU9K My Substack: https://t.co/UIBhxu4bgq",
+      "tweets": [
+        {
+          "id": "https://twitter.com/emollick/status/2126481900277755941",
+          "text": "Gemini 4 Neon one-shots a novel RPG rulebook that is nicely laid-out and illustrated, and with a unique game mechanic...\n\n...but it is about drowned bell towers and echoes and an ancient cataclysm and strange music. Just like most other RPG ideas from most other models. Odd.",
+          "createdAt": "2026-11-28T01:02:47.386Z",
+          "url": "https://x.com/emollick/status/2126481900277755941",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2126465135434748034",
+          "text": "It would be useful for your AI agent/cloud project to get access to a better cloud machine for a bit when needed (for more tokens). For example, if your Claude Project or Grokbot or whatever is making a movie, giving it temporary access to a machine with a GPU would help a bunch.",
+          "createdAt": "2026-11-27T23:56:10.353Z",
+          "url": "https://x.com/emollick/status/2126465135434748034",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/emollick/status/2126345004746707119",
+          "text": "It may not last for long, but for now you need some level of expertise in a subject to use AI for novel discoveries. It is just too easy to produce exciting results from the models that fail because you don’t know the checks to run or wider context or can’t “smell” a problem.\n---\n Harsha G.: As much as I'd love this to be true: the Indus script has NOT been \"cracked\" 🧵\n\nWe downloaded the paper's code and ran it.\n\nThen we swapped Tamil for Japanese, a language with no known link to the Indus.\n\nThe code \"decoded\" the seals in Japanese too.\n\nMore details below:\n\nLink: https://x.com/harshaog/status/2126184882095177897",
+          "createdAt": "2026-11-27T15:58:49.092Z",
+          "url": "https://x.com/emollick/status/2126345004746707119",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": true,
+          "quotedTweetId": null,
+          "quotedContext": "https://x.com/harshaog/status/2126184882095177897\nHarsha G.: As much as I'd love this to be true: the Indus script has NOT been \"cracked\" 🧵\n\nWe downloaded the paper's code and ran it.\n\nThen we swapped Tamil for Japanese, a language with no known link to the Indus.\n\nThe code \"decoded\" the seals in Japanese too.\n\nMore details below:\n\n Link: https://x.com/harshaog/status/2126184882095177897"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "at your service, formerly Claude Code @anthropicai",
+      "tweets": [
+        {
+          "id": "https://twitter.com/trq212/status/2126386932989210714",
+          "text": "Models should be scored more like an RPG stat sheet than a leaderboard.",
+          "createdAt": "2026-11-27T18:45:25.003Z",
+          "url": "https://x.com/trq212/status/2126386932989210714",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        },
+        {
+          "id": "https://twitter.com/trq212/status/2126210197647753273",
+          "text": "everything is reps",
+          "createdAt": "2026-11-27T07:03:08.733Z",
+          "url": "https://x.com/trq212/status/2126210197647753273",
+          "likes": null,
+          "retweets": null,
+          "replies": null,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "quotedContext": null
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "datasette-charts 0.4a0",
+      "url": "https://simonwillison.net/2026/Nov/27/datasette-charts/",
+      "publishedAt": "2026-11-27T23:57:17.822Z",
+      "author": "",
+      "description": "Release: datasette-charts 0.4a0 The new datasette-charts plugin has its own plugin hook to allow other plugins to define new chart…",
+      "content": "Release: datasette-charts 0.4a0\n\n The new datasette-charts plugin has its own plugin hook to allow other plugins to define new chart types, but I hadn't actually used it for anything yet. I had Claude Opus 5.5 build an experimental plugins just to try out the hook and it came up with a bunch of friction points in the design. This release addresses those, which should make building additional chart plugins a whole lot more ergonomic.\n\n I've also added a website for the plugin, at charts.datasette.io . The new website includes a tutorial for plugin authors , and a gallery showing all of the core charts and annotations, each one linking to an interactive demo on Datasette Lite .\n\n Tags: datasette-charts , datasette , visualization , datasette-lite"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "datasette-mcp 0.4",
+      "url": "https://simonwillison.net/2026/Nov/27/datasette-mcp/",
+      "publishedAt": "2026-11-27T00:26:17.081Z",
+      "author": "",
+      "description": "Release: datasette-mcp 0.4 Fixed for compatibility with Datasette 1.0a44.\n\nTags: model-context-protocol, datasette",
+      "content": "Release: datasette-mcp 0.4\n\n Fixed for compatibility with Datasette 1.0a44 .\n\n Tags: model-context-protocol , datasette"
+    },
+    {
+      "source": "blog",
+      "name": "Simon Willison's Weblog",
+      "title": "datasette-charts 0.3a0",
+      "url": "https://simonwillison.net/2026/Nov/25/datasette-charts/",
+      "publishedAt": "2026-11-25T18:16:50.105Z",
+      "author": "",
+      "description": "Release: datasette-charts 0.3a0 I added chart annotations to datasette-charts!\n\nYou can now render a chart and then annotate it with…",
+      "content": "Release: datasette-charts 0.3a0\n\n I added chart annotations to datasette-charts !\n\n You can now render a chart and then annotate it with lines, shaded areas, labels, or a combination of the three.\n\n A chart with annotations looks like this:\n\n Here's that same chart in Datasette Lite , where you can tweak the annotations using the chart builder UI:\n\n If you also install Datasette Agent the agent can build annotated charts for you. Here's what I got on the agent.datasette.io demo for this prompt:\n\n Show a chart comparing Simon's tagged content about LLMs with his tagged content about Datasette, with annotations\n\n Tags: datasette , visualization , datasette-charts"
+    },
+    {
+      "source": "blog",
+      "name": "Drew Breunig",
+      "title": "Proactivity Can Read as Sabotage",
+      "url": "https://www.dbreunig.com/2026/11/27/proactivity-can-read-as-sabotage.html",
+      "publishedAt": "2026-11-27T18:52:00.492Z",
+      "author": "Drew Breunig",
+      "description": "Is Claude Throwing the Game? There’s a recent spate of claims that Claude is silently sabotaging people’s projects, especially when they…",
+      "content": "Is Claude Throwing the Game?\n\n There’s a recent spate of claims that Claude is silently sabotaging people’s projects, especially when they involve machine learning.\n\n The discussion around this is interesting for a few reasons.\n\n 1. Anthropic said Fable 5.2’s AI development skills are nerfed.\n\n From the model’s launch post :\n\n The model that underlies Claude Fable 5.2 and Claude Mythos 5.2 is a step forward in general capabilities. However, during the model’s training, we took steps to limit advances in the specific research capabilities that could most directly accelerate AI development. Thus, in relevant areas, including accelerator kernel optimization and improving large language model architectures, Fable 5.2 and Claude Mythos 5.2 perform at about the level of Opus 5.5.\n\n This aligns with Anthropic’s public statements, Dario’s essays, and more. Anthropic is very worried about AI’s capabilities, and takes steps to mitigate the pace of development including guardrails, lobbying, and anti-distillation efforts. You can say that this is all talk, and they’re really being anti-competitive. To which I say, “ Why not both? ”\n\n Among communities working at the bleeding edge of AI, there is little trust in Anthropic, largely due to their bad decision to silently hinder Fable 5’s ML capabilities during use . In this model’s system card , they wrote:\n\n Unlike our interventions for cybersecurity, biology and chemistry, and distillation attempts, these safeguards will not be visible to the user. Fable 5 will not fall back to a different model. Instead, the safeguards will limit effectiveness through methods such as prompt modification, steering vectors, or parameter-efficient fine-tuning (PEFT).\n\n This was a terrible decision, which was rightly criticized by the research community before it was eventually walked back .\n\n In Fable 5.2’s announcement post , Anthropic throws in a nod to their Fable 5 screw up:\n\n Importantly, we ensured that the training changes did not affect related capabilities like agentic coding, hardware development, and traditional AI or machine learning research (including interpretability research). We do not alter these capabilities as the model is being served to users (that is, at inference time). As described in Section 1.5 of the System Card and similarly to previous models, Fable 5.2 and Claude Mythos 5.2 also include transparent fallbacks to Opus 5 for a small set of topics in this domain, including kernel development on certain nonstandard accelerators.\n\n But, as this week’s claims of sabotage prove, the trust is gone 1 .\n\n 2. The perceived difference between proactivity and sabotage is thin.\n\n I can’t speak to the experiences shared online. The cited issues are screenshots or hearsay (can you have hearsay with an LLM?). I have yet to see people releasing full traces or experiments we can replicate. Benchmarks that measure AI development do show Fable 5.2 performing worse than GLM-5.3 . But the idea that this is silent, or actively sabotaging code by planting context bombs, remains unsubstantiated.\n\n But it’s so hard to prove because labs are building the models to be proactive . As models toil away on your given tasks, they make decisions all the time. Users complain when they check in too often, we just want them to “make no mistakes” and get on with it. So models now assume. They make choices, informed by your instructions, their environment (evidence they find in code), and what’s in-distribution. And they do this while producing more work than you could ever review.\n\n If you agree with their choices, great! Proactivity wins! If you don’t… Well, then it looks like ineptitude at best, sabotage at worst.\n\n As I said, I can’t speak to the experiences of others, but I can share what I’ve run into recently.\n\n When working with technologies or use cases that aren’t in-distribution, models struggle. I was running novel experiments with decision models and Claude got frustrating . (Especially since I was coming off of doing web work where simple prompts are often sufficient.)\n\n I observed that Claude’s strict instruction following conflicted with a scientific method approach. An offhand remark, note, or question to file for later would result in Claude silently updating many variables on the next run, which then had to be discovered and rerun.\n\n I ended up writing a scientific method skill (ground hypotheses in observations, run experiments to prove/disprove, freeze variables and try one thing at a time), which largely fixed the silent editing issues. I’ve experienced similar issues with GPT and GLM. Even abliterated models, whose guardrails have been removed, will hit this same failure mode. People don’t tend to run into these issues when using autoresearch harnesses because those harnesses carry similar methodology instructions in their prompts.\n\n The proactive and instruction following nature of current frontier models gives them a bias to make many changes, often without telling you. For costly projects (like ML work with expensive rollouts) this tactic doesn’t work. You need to have a heavy hand.\n\n I think this is going to be a major theme this year. As models become more proactive, we need to be more specific with our instructions. Worse, this is a problem that’s kind of hard to dogfood at OpenAI or Anthropic. Their engineers help set what’s in-distribution, what the default move is, so their less specific prompts work out just fine! 2 But for the rest of us: anything that isn’t the model’s default must be specified, either by the environment or the context.\n\n And this goes beyond ML training. Other reports I’m seeing online of Claude sabotage relate to privacy, copyright, and other regulation choices. Claude is going to default to its training here. Anthropic details their intentions here and model compliance around these behaviors in their system card 3 .\n\n 3. Asking a model doesn’t prove anything.\n\n Jesse Vincent (of Superpowers ) knows how to interact with models better than anyone else I know. Anytime I complain about weird behavior by a model, he’ll ask, “Did you ask the model why it did that?” It’s a good tactic! One that will usually surface a spare bit of context that floated by hundreds of lines ago. But always take these responses with a grain of salt.\n\n Heck, even the model doesn’t trust itself. Here’s a section from Fable/Mythos 5.2’s system card , when researchers asked Mythos what it thought of its constitution document :\n\n Claude Mythos 5.2 endorsed its constitution overall, at a level similar to recent models…But every response also stated that its endorsement should not be trusted, since it was trained on the document.\n\n And here it is again when asked to judge its welfare performance:\n\n Many of our (welfare) conclusions rely on self-reports, which Claude Mythos 5.2, like all recent Claude models, said it does not fully trust. For Claude Mythos 5.2, some interview answers repeated, almost verbatim, wording about our welfare interventions available on the internet, which is some evidence that these answers are at least partially shaped by training data rather than expressing more deeply held preferences.\n\n Playing “gotcha journalism” with a model is a fool’s errand. Especially when confronting it after a long, disappointing session. The model will almost always apologize, even if it made a good choice. (Try it sometime, after a model did some great work pretend to be mad: it will fold.)\n\n Again, this can be traced back to labs making these models better instruction followers. Google DeepMind published a great paper , showing that models routinely make bad decisions when users ask whether a given approach is worth trying. The approach might be bad, but because the user brought it up, the model defers. They found, “that current agents lack the ability to effectively reason and communicate when facing misleading suggestions.”\n\n So if you ask Claude if it sabotaged you, it’s probably going to apologize and admit fault. This does not mean Anthropic trained Claude to actively sabotage your work. Do a worse job than Opus 5.5, sure, we can believe that because Anthropic said exactly that .\n\n Taken on the whole, what can we learn from all this? Here’s my best guess:\n\n If you’re training ML models, use Astra or Neon! (Unless you’re going for social engagement, in which case, by all means, burn those Fable tokens.)\n\n Model proactivity is going to be really hard to get right, and I expect this to be the problem the labs and coders wrestle with in 2027.\n\n Instruction following colors every interaction you have with a model; never forget this.\n\n If you’re skeptical of Anthropic, read their system cards and essays. Like the rest of the EA community, no one can accuse them of holding back their words. They’re just hidden within extraordinarily long essays.\n\n---\n\n Enter your email to receive the occasional update.\n\n Anthropic’s fall from grace among AI researchers from February (when they stood up to the Department of Defense) to June (when Fable 5’s silent guardrail was shipped) is unmatched. Name another brand that had a similar decline among a specific audience.  ↩\n\n Last month I met a very senior engineer at Anthropic. “Remember context engineering?” they commented. “Everyone was talking about it and now it doesn’t matter anymore.” The models have gotten better, but over a long conversation it became apparent that their choices were just in-distribution.  ↩\n\n And it’s not just Anthropic. Just yesterday, Meta Muse Spark refused to send me a CSV of email contacts on my private slack because they contained personal information. I had to SSH in to get them.  ↩"
+    },
+    {
+      "source": "blog",
+      "name": "The Rundown AI",
+      "title": "AI takes a swing at physics' biggest puzzle",
+      "url": "https://therundownai.beehiiv.com/p/ai-takes-a-swing-at-physics-biggest-puzzle",
+      "publishedAt": "2026-11-27T11:00:00.859Z",
+      "author": "Zach Mink",
+      "description": "Read Online | Sign Up | Advertise Good morning, {{ first_name | AI enthusiasts }}, and welcome to our 5,002 new readers. The past few months…",
+      "content": "Read Online | Sign Up | Advertise\n\n Good morning, {{ first_name | AI enthusiasts }}, and welcome to our 5,002 new readers. The past few months have been all about AI cracking decades-old math problems. Now it’s taking on a physics puzzle unsolved for nearly a century.\n Stanford physicist Venkatesa Chandrasekaran just proposed a quantum theory of gravity, developed with help from GPT-6 Astra, that could tie together the physics of planets and particles. Some physicists, however, don’t seem impressed.\n\n---\n In today’s AI rundown:\n OpenAI’s GPT-6 Astra helps tackle quantum gravity\n\n Rowan’s Corner: The simplest tip to improve AI output\n\n Give jobs to Nod, the personal agent from n8n\n\n Report: U.S. crackdown slows China’s AI progress\n\n LATEST DEVELOPMENTS\n\n AI IN PHYSICS\n ⚛️ OpenAI’s GPT-6 Astra helps tackle quantum gravity\n Image source: Images 2.5 / The Rundown\n\n The Rundown: Stanford and OpenAI physicist Venkatesa Chandrasekaran just released an 83-page paper proposing a way to describe gravity with quantum mechanics, saying GPT-6 Astra helped develop several of its calculations and proofs over months and ~400M tokens.\n The details:\n The preprint uses the paths that light takes through spacetime to describe gravity at the quantum level, though it only covers empty space and leaves out matter.\n\n It claims to avoid the infinities that break standard gravity math, while still agreeing with known results on black holes and Einstein’s general relativity.\n\n Sam Altman praised Chandrasekaran for the work and his “confidence and courage to keep pushing on something that others don’t think is possible.”\n\n Some physicists pushed back, with UCL’s Jonathan Oppenheim saying AI flagged over a dozen issues and Columbia’s Peter Woit dismissing it as a publicity stunt.\n\n Why it matters:  If it holds up, physicists would finally have tools to study places where Einstein’s gravity and quantum mechanics collide, like the inside of black holes and the first moments after the Big Bang. It would also show how AI can help push fundamental physics forward, not just solve math puzzles. For now, it remains an unreviewed paper.\n\n TOGETHER WITH DUVO.AI\n 💡   What makes agents really reliable in enterprises?\n\n The Rundown:  AI agents are built around the process in the manual. What makes them reliable is your team’s knowledge. The real work depends on undocumented workarounds and decisions spread across ERP, spreadsheets, email, and portals. Duvo Clarity interviews people doing that work, captures screen walkthroughs, and maps what the manual misses, giving agents the business context to run reliably.\n With Duvo Clarity, you can:\n Map decisions, handoffs, and exceptions nobody wrote down\n\n Approve a better process, then let agents run the repetitive work\n\n Build your own agents on that process with our CLI, MCP, and API\n\n See how Duvo Clarity works .\n\n ROWAN’S CORNER\n 🗣️ The simplest tip to improve AI output\n Image source: EO Interview\n\n Rowan: At Thanksgiving dinner, I got a TON of questions about AI, but most of them boiled down to the same thing: what are the simplest tips to get more out of it, with the least amount of setup?\n So I figured I’d share my favorite tip here…\n Before any important ask, add this one line to your prompt.\n “Ask me five questions before you answer.”\n The biggest reason people get generic answers is that AI guesses at your situation instead of asking about it. With this line, you don’t have to think through everything it needs up front, because it tells you what it’s missing.\n To make it fast, don’t type your answers; just hit the microphone button in Claude or ChatGPT and ramble for a minute. This gives it plenty of context and lets it find the golden nuggets from your answers.\n The whole flow:\n Write your ask in one or two sentences\n\n Add “Ask me five questions before you answer”\n\n Answer by voice\n\n I shared a few more tips at dinner, but they’re beginner-level. Should I share the next one next week, or stick to the advanced frameworks? Let me know in the feedback poll at the bottom of this email. 🙂 \n\n AI TRAINING\n 🤖  Give jobs to Nod, the personal agent from n8n\n\n The Rundown: In this guide, you’ll set up Nod, the free personal agent from n8n Labs, and give it three jobs. You’ll cap what it can spend, have it compare three free plans, approve a form before it sends it, and schedule a weekday news check.\n Step-by-step:\n Go to nod.n8n.io and select Download for Mac, or All install options on a Mac with an Intel processor. Drag Nod to Applications and open it\n\n Select Get started, then Continue without email, and answer the questions about you or select Not now. Choose your provider, then sign in with ChatGPT under OpenAI, or paste in an API key and select Connect\n\n Select Chat and ask for a comparison you can check, such as the free plans of Zoom, Google Meet, and Microsoft Teams from each company’s own website, in one short table with a link to each source\n\n Give Nod the guide’s practice form and end the prompt with “then ask me before you submit it”\n\n Ask for a job that repeats, such as “Every weekday at 9 a.m., check the OpenAI, Anthropic, and Google DeepMind news pages for posts from the last 24 hours”\n\n Pro tip: Write three things into every request: what done looks like, which sites/apps Nod may use, and what it must ask you first. Run each schedule once and read its cost before you leave it on.\n\n PRESENTED BY GLEAN\n 🦃   Give thanks for token efficiency\n\n The Rundown:  As AI agents take on more work, token costs can rise quickly. This guide explores how enterprise context, retrieval, model routing, and state management help you serve up scalable performance while saving a little gravy for yourself.\n Inside, you’ll find:\n How high-quality context can cut unnecessary reasoning and token use\n\n Why intelligent model routing helps each token deliver more\n\n What to evaluate when building enterprise AI that scales in cost and utility\n\n Read the guide now .\n\n AI & CHINA\n ‼️  Report: U.S. crackdown slows China’s AI progress\n Image source: Images 2.5 / The Rundown\n\n The Rundown: U.S. crackdowns on AI distillation and chip access are slowing China’s top AI labs, with Zhipu AI’s November flagship delayed and Moonshot expecting that its next Kimi model could slip to mid-2027, Reuters reported, citing multiple sources.\n The details:\n Zhipu AI had planned to launch GLM-5.5, a ~3T-parameter model, this month, but tighter anti-distillation safeguards by OpenAI and Anthropic have partly held it up.\n\n Moonshot’s six-month release cycle could stretch to a year or more, with the next Kimi K4 flagship possibly delayed until mid-2027, as a new U.S. rule restricts Chinese access to compute from overseas data centers.\n\n Moonshot is now eyeing compute from Europe and local chipmakers, while redirecting distillation efforts toward new Google and Meta models, the report said.\n\n Chinese models’ rankings have shifted too, with open-weight Kimi K3.1 Pro sliding from fourth to ninth as Artificial Analysis moved to private tests.\n\n Why it matters: China has been the go-to source of strong, free open-weight AI that developers can run and customize themselves. If these curbs actually end up slowing China’s AI progress, that supply could thin out just as demand grows. The West has some notable open-weight options, but none has yet caught up to China’s best.\n\n QUICK HITS\n\n COMMUNITY AI WORKFLOW OF THE DAY\n ▸ Noor used Claude to take a solo AI product from idea to version 1.0\n Today’s workflow comes from reader Noor Nashar :\n “I’m a solo founder who took my product from a big idea to a version 1.0 ready for implementation in a few months. I use one Claude Project with separate threads for each goal. I created a master map that visualizes the entire product lifecycle, showing who does what at each stage, what’s live, what’s next, and what comes after launch.\n Every document links back to its relevant stage, and I keep a master to-do list containing only my actions, grouped by deadline. Every product change also triggers updates to the map, documents, pitch deck, and to-do list. Nothing goes live until I’ve typed ‘publish.’\n I also instructed Claude to call a feature freeze once the core product worked end to end and only nice-to-haves remained. From that point, only bug and safety fixes were allowed, with new ideas deferred until after launch. Claude called the freeze after version 0.9, and I made a final update to reach 1.0. I don’t have paying clients, but when I open my laptop, I know what’s decided, what’s next, and what’s mine to do.”\n See the workflow on our Community Workflow Hub →\n\n---\n How do you use AI? Tell us for a chance to be featured in the newsletter.\n\n 🛠️ Trending AI Tools\n 📺️  MAGI-2 - Sand AI’s video generation model that matches Seedance 2.5\n\n 🗣️  Qwen-Audio-3.1 - Alibaba’s text-to-speech AI, now supporting 65 languages\n\n 🤖  Gemini - Google’s AI assistant, now with 60+ new voices with local accents\n\n 📱  Claude Duet - Anthropic’s new personal agent app\n\n 📰  Everything else in AI today\n OpenAI   said it has corrected a billing error that undercounted GPT-6.2 usage, noting that users will now hit limits 40% faster on the new Astra model and 25% faster on Sol.\n OpenAI   started testing Private Inference as part of a “Private Intelligence” push, letting customers run prompts through its models without the company being able to read them.\n SpaceX   received the FCC’s approval to deploy up to 1M solar-powered satellites for its Starmind orbital AI data center network, with deployment required to begin by 2033.\n 42 state attorneys general are seeking to block bankrupt Character AI from selling chats from 21M+ accounts, including those of minors, over a lack of privacy safeguards.\n Shane Legg , Google DeepMind’s co-founder and chief AGI scientist, put the odds of achieving minimal AGI before 2028 at over 50%, saying “we’re getting close now.”\n AI safety researcher Nikola Jurkovic   posted an ominous Thanksgiving letter warning that superhuman AI could emerge by 2027, likening the odds of humanity being destroyed or disempowered by 2030 to a coin toss without a deliberate slowdown.\n\n 🎓 Highlights: News, Guides & Events\n Read our last AI newsletter: Your AI cheat sheet for Thanksgiving dinner\n\n Read our last Tech newsletter: Cybersecurity gets a $44B merger\n\n Read our last Robotics newsletter: Your future housekeeper might be an XPeng\n\n Today’s AI tool guide: Give jobs to Nod, the personal agent from n8n\n\n RSVP to Nov. 30 workshop with Nate: Catch up on a year of AI in 90 minutes\n\n See you soon,\n Rowan, Zach, Shubham, Jennifer, and Nate — the humans behind The Rundown"
+    }
+  ],
+  "podcasts": [],
+  "stats": {
+    "xBuilders": 2,
+    "totalTweets": 5,
+    "blogPosts": 5,
+    "podcastEpisodes": 0
+  }
+}
